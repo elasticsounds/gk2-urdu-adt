@@ -379,3 +379,21 @@ html[data-cl="en"] .sent-top .ur{line-height:1.35!important}
 html[data-cl="en"] .wd .ur{line-height:1.3!important}
 html[data-cl="en"] h1.ur,html[data-cl="en"] h2.ur{line-height:1.25!important}
 html[data-cl="en"] details.orig .orig-b .ur{white-space:normal}
+
+/* ---------- picture descriptions + enlarge ---------- */
+.imgbtn{all:unset;display:inline-block;position:relative;cursor:zoom-in;border-radius:16px;max-width:100%;line-height:0}
+.imgbtn:focus-visible{outline:4px solid var(--focus,#2563eb);outline-offset:3px}
+.imgbtn img{max-width:100%;height:auto}
+.imgbtn .zoom{position:absolute;inset-inline-end:.5rem;bottom:.6rem;width:2.4rem;height:2.4rem;border-radius:50%;background:var(--brand);color:var(--brand-ink);display:grid;place-items:center;box-shadow:0 2px 8px rgba(0,0,0,.3);border:2px solid #fff}
+.imgbtn .zoom .i{width:1.3rem;height:1.3rem}
+.q-imgw{text-align:center}
+.imgdesc{display:none;text-align:start;margin:.4rem auto 0;max-width:46rem;background:var(--surface);border:2px dashed var(--line);border-radius:14px;padding-block:.35rem;padding-inline-end:.7rem}
+html.img-desc .imgdesc{display:block}
+.imgdesc p.ur{font-size:1.02rem;color:var(--ink2)}
+dialog.modal.wide{width:min(980px,calc(100vw - 1rem))}
+.imgview{text-align:center}
+.imgview>img{max-width:100%;max-height:62dvh;width:auto;height:auto;border-radius:12px;background:#fff;border:2px solid var(--line)}
+.imgview .blk{text-align:start;margin-top:.5rem}
+.imgview .blk.cap p.ur{font-weight:700}
+.imgview .desc-h{text-align:start;font-weight:700;font-size:.85rem;color:var(--ink2);margin-top:.8rem}
+@media print{.imgdesc{display:none!important}}

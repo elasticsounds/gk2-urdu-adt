@@ -26,7 +26,7 @@
       forMotor: 'حرکت میں مدد', forCognitive: 'سمجھنے میں مدد', forTeacher: 'استاد کے لیے', noAudio: 'اس حصے کی آواز دستیاب نہیں', loading: 'صفحہ کھل رہا ہے…',
       notReady: 'یہ صفحہ ابھی تیار نہیں۔ اصل صفحہ دیکھیں۔', picked: 'منتخب', matched: 'جوڑ بن گیا', pickPair: 'پہلے ایک خانہ چنیں، پھر اس کا جوڑ چنیں۔', stars: 'ستارے',
       origPageAlt: 'کتاب کا اصل صفحہ', adaptedFrom: 'کتاب کے صفحہ سے ماخوذ', putIn: 'کس میں رکھیں؟', extraAct: 'یہ اضافی مشق ہے۔ یہ کتاب میں چھپی ہوئی نہیں، مگر اسی صفحے کے سبق پر مبنی ہے۔',
-      sUr: 'اردو متن دکھائیں', sBook: 'کتاب کی زبان'
+      sUr: 'اردو متن دکھائیں', sBook: 'کتاب کی زبان', sImg: 'تصویروں کی تفصیل دکھائیں اور پڑھ کر سنائیں', picture: 'تصویر', enlarge: 'تصویر بڑی کریں اور اس کی تفصیل سنیں', picDesc: 'تصویر کی تفصیل'
     },
     en: {
       skip: 'Skip to main content', book: 'General Knowledge', klass: 'Class 2', menu: 'Contents', listen: 'Listen', pause: 'Pause', hint: 'Helpful hint',
@@ -44,7 +44,7 @@
       forMotor: 'Moving', forCognitive: 'Understanding', forTeacher: 'For the teacher', noAudio: 'Audio is not available for this part', loading: 'Opening page…',
       notReady: 'This page is not ready yet. See the original page.', picked: 'selected', matched: 'Matched', pickPair: 'Pick one box, then pick its partner.', stars: 'stars',
       origPageAlt: 'Original book page', adaptedFrom: 'Adapted from book page', putIn: 'Where does it go?', extraAct: 'Extra practice: not printed in the book, but based on this page of the lesson.',
-      sUr: 'Show Urdu text', sBook: 'Book language'
+      sUr: 'Show Urdu text', sBook: 'Book language', sImg: 'Show picture descriptions and read them aloud', picture: 'Picture', enlarge: 'Enlarge picture and hear its description', picDesc: 'Picture description'
     }
   };
   const CS = STR[CL], OS = STR[OL];
@@ -55,7 +55,7 @@
     print: '<path d="M7 8V3h10v5M7 17H4v-7a2 2 0 012-2h12a2 2 0 012 2v7h-3M7 14h10v7H7z"/>', gear: '<circle cx="12" cy="12" r="3"/><path d="M19 12a7 7 0 00-.1-1.300l2-1.500-2-3.400-2.300 1a7 7 0 00-2.200-1.300L14 3h-4l-.4 2.500a7 7 0 00-2.200 1.300l-2.300-1-2 3.400 2 1.500A7 7 0 005 12c0 .4 0 .9.1 1.300l-2 1.500 2 3.400 2.300-1a7 7 0 002.200 1.300L10 21h4l.4-2.500a7 7 0 002.200-1.300l2.300 1 2-3.400-2-1.500c.1-.4.1-.900.1-1.300z"/>',
     book: '<path d="M4 5a2 2 0 012-2h13v16H6a2 2 0 00-2 2zM4 21V5M8 7h7M8 11h7"/>', smile: '<circle cx="12" cy="12" r="9"/><path d="M8 14a4.500 4.500 0 008 0M9 9.500v.01M15 9.500v.01" stroke-width="2.4"/>',
     file: '<path d="M6 3h8l4 4v14H6zM14 3v4h4M9 12h6M9 16h6"/>', x: '<path d="M6 6l12 12M18 6L6 18"/>', next: '<path d="M9 5l7 7-7 7"/>', prev: '<path d="M15 5l-7 7 7 7"/>',
-    up: '<path d="M6 15l6-6 6 6"/>', down: '<path d="M6 9l6 6 6-6"/>', ext: '<path d="M14 4h6v6M20 4l-9 9M18 14v6H4V6h6"/>'
+    up: '<path d="M6 15l6-6 6 6"/>', down: '<path d="M6 9l6 6 6-6"/>', ext: '<path d="M14 4h6v6M20 4l-9 9M18 14v6H4V6h6"/>', zoom: '<circle cx="11" cy="11" r="6.5"/><path d="M16 16l5 5M11 8v6M8 11h6"/>'
   };
   const ic = (n) => `<svg class="i" viewBox="0 0 24 24" aria-hidden="true">${ICON[n]}</svg>`;
 
@@ -65,14 +65,14 @@
     get(k, d) { try { const v = localStorage.getItem(KEY + ':' + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
     set(k, v) { try { localStorage.setItem(KEY + ':' + k, JSON.stringify(v)); } catch (e) { } }
   };
-  const SET = Object.assign({ fs: 1, font: 'nastaliq', theme: 'light', spacing: 'normal', rate: 1, level: 'moderate', hl: true, fb: true, en: false, motion: false, ui: CL }, store.get('settings', {}));
+  const SET = Object.assign({ fs: 1, font: 'nastaliq', theme: 'light', spacing: 'normal', rate: 1, level: 'moderate', hl: true, fb: true, en: false, motion: false, imgs: true, ui: CL }, store.get('settings', {}));
   let DONE = store.get('done', {});
   const t = (k) => (STR[SET.ui] || CS)[k] || CS[k] || k;
   function applySettings() {
     const r = document.documentElement;
     r.style.setProperty('--fs', SET.fs);
     r.dataset.font = SET.font; r.dataset.theme = SET.theme; r.dataset.spacing = SET.spacing; r.dataset.ui = SET.ui; r.dataset.cl = CL;
-    r.classList.toggle('show-en', !!SET.en); r.classList.toggle('reduce-motion', !!SET.motion);
+    r.classList.toggle('show-en', !!SET.en); r.classList.toggle('reduce-motion', !!SET.motion); r.classList.toggle('img-desc', !!SET.imgs);
     r.lang = SET.ui === 'en' ? 'en' : 'ur'; r.dir = SET.ui === 'en' ? 'ltr' : 'rtl';
     store.set('settings', SET);
   }
@@ -275,9 +275,26 @@
     return { total, got };
   }
   function refreshStars() { const s = $('#stars'); if (s) { const c = starCount(); s.lastChild.textContent = `${c.got}/${c.total}`; } }
+  function zoomBtn(img, b) {
+    const label = t('enlarge') + (b && b.alt && b.alt.ur ? ': ' + b.alt.ur : '');
+    return h('button', { class: 'imgbtn', type: 'button', 'aria-haspopup': 'dialog', 'aria-label': label, title: t('enlarge'), onclick: () => openImage(img.getAttribute('src'), b) }, img, h('span', { class: 'zoom no-print', 'aria-hidden': 'true', html: ic('zoom') }));
+  }
   function figure(b, cls) {
-    return h('figure', { class: cls || '' }, h('img', { src: b.src, alt: (b.alt && b.alt.ur) || '', width: b.w * 2, height: b.h * 2, loading: 'lazy' }),
+    const img = h('img', { src: b.src, alt: '', width: b.w * 2, height: b.h * 2, loading: 'lazy' });
+    return h('figure', { class: cls || '' }, zoomBtn(img, b),
+      b.alt && b.alt.ur ? h('div', { class: 'blk imgdesc' }, b.alt.a ? spkBtn(null) : null, U(b.alt, 'p'), EN(b.alt)) : null,
       b.cap ? h('figcaption', null, h('div', { class: 'blk', style: 'display:inline-block' }, b.cap.a ? spkBtn(null) : null, U(b.cap, 'span'), EN(b.cap))) : null);
+  }
+  function openImage(src, b) {
+    Audio_.stop(); b = b || {};
+    const d = $('#dlg-img'); wireDialog(d); d.innerHTML = ''; d.append(dlgHead(d, 'img-h', 'picture', 'zoom'));
+    const body = h('div', { class: 'dlg-b imgview', dir: LTR ? 'ltr' : 'rtl' });
+    body.append(h('img', { src, alt: '' }));
+    let desc = null;
+    if (b.cap && b.cap.ur) body.append(h('div', { class: 'blk cap' }, b.cap.a ? spkBtn(null) : null, U(b.cap, 'p'), EN(b.cap)));
+    if (b.alt && b.alt.ur) { desc = U(b.alt, 'p'); body.append(h('div', { class: 'desc-h' }, t('picDesc')), h('div', { class: 'blk' }, b.alt.a ? spkBtn(null) : null, desc, EN(b.alt))); }
+    d.append(body); fixSpk(body); d.showModal();
+    if (desc && desc.dataset.a) Audio_.playOne(desc);
   }
   function fixSpk(root) { $$('.blk', root).forEach((bk) => { const b = bk.querySelector(':scope>.spk'); const tEl = bk.querySelector(':scope>[data-a]'); if (b && tEl) b.onclick = (e) => { e.stopPropagation(); Audio_.playOne(tEl); }; }); }
 
@@ -414,7 +431,7 @@
           const tail = document.createElement('span'); fillWords(tail, parts[1] || ''); $$('.w', tail).forEach((w) => { w.dataset.s = +w.dataset.s + parts[0].length + 3; }); qText.append(...tail.childNodes);
         } else qText = U(q.q, 'p');
         qEl.append(h('div', { class: 'q-text' }, task.questions.length > 1 ? h('span', { class: 'q-num', 'aria-hidden': 'true' }, qi + 1) : null, h('div', { class: 'blk blkq' }, q.q.a ? spkBtn(qText) : null, qText, EN(q.q))));
-        if (q.imgSrc) qEl.append(h('img', { class: 'q-img', src: q.imgSrc, alt: '' }));
+        if (q.imgSrc) qEl.append(h('div', { class: 'q-imgw' }, zoomBtn(h('img', { class: 'q-img', src: q.imgSrc, alt: '' }), null)));
         const opts = kind === 'tf' ? [{ ur: CS.tTrue, en: OS.tTrue, a: (UIA.tTrue || {}).a, _v: true, _m: '✓' }, { ur: CS.tFalse, en: OS.tFalse, a: (UIA.tFalse || {}).a, _v: false, _m: '✗' }] : q.options;
         const ans = kind === 'tf' ? (q.answer ? 0 : 1) : q.answer;
         const grid = h('div', { class: 'opts', role: 'group' }); const fbSlot = h('div');
@@ -568,7 +585,7 @@
       seg('rate', 'sSpeed', [[0.8, 'slow'], [1, 'normal'], [1.2, 'fast']]),
       seg('level', 'sLevel', [['easy', 'easy'], ['moderate', 'moderate'], ['hard', 'hard']]),
       seg('ui', 'sUi', [['ur', '', 'اردو'], ['en', '', 'English']]),
-      h('fieldset', null, h('legend', null, lbl('settings')), sw('hl', 'sHl'), sw('fb', 'sFb'), sw('en', LTR ? 'sUr' : 'sEn'), sw('motion', 'sMotion')),
+      h('fieldset', null, h('legend', null, lbl('settings')), sw('hl', 'sHl'), sw('fb', 'sFb'), sw('imgs', 'sImg'), sw('en', LTR ? 'sUr' : 'sEn'), sw('motion', 'sMotion')),
       h('fieldset', null, h('legend', null, lbl('sKeys')), h('p', { class: 'about', html: '<kbd>←</kbd> <kbd>→</kbd> pages · <kbd>P</kbd> listen / pause · <kbd>H</kbd> hint · <kbd>E</kbd> easy read · <kbd>O</kbd> original · <kbd>L</kbd> lesson · <kbd>M</kbd> contents · <kbd>Esc</kbd> stop' })),
       h('fieldset', null, h('legend', null, lbl('about')), h('p', { class: 'about', html: 'Accessible Digital Textbook adapted from <b>واقفیتِ عامہ (General Knowledge), Class 2</b>, Punjab Curriculum and Textbook Board, Lahore (Single National Curriculum 2020). Original wording is kept; activities, hints and Easy Read pages are adaptations and every page links back to its original.<br>Pictographic symbols: © Government of Aragón, author Sergio Palao, <a href="https://arasaac.org" target="_blank" rel="noopener">ARASAAC</a>, licence CC BY-NC-SA.<br>' + (LTR ? 'This English edition is a translation made for this adaptation, not the Board’s own English-medium book; the original Urdu is available under “Show Urdu text” and on every Original page.<br>Voice: Microsoft neural English (India) voice “Neerja”, pre-recorded.' : 'Voice: Microsoft neural Urdu (Pakistan) voice “Uzma”, pre-recorded.') }))));
     if (!d.open) d.showModal();
