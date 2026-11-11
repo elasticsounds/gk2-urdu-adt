@@ -26,7 +26,7 @@
       forMotor: 'حرکت میں مدد', forCognitive: 'سمجھنے میں مدد', forTeacher: 'استاد کے لیے', noAudio: 'اس حصے کی آواز دستیاب نہیں', loading: 'صفحہ کھل رہا ہے…',
       notReady: 'یہ صفحہ ابھی تیار نہیں۔ اصل صفحہ دیکھیں۔', picked: 'منتخب', matched: 'جوڑ بن گیا', pickPair: 'پہلے ایک خانہ چنیں، پھر اس کا جوڑ چنیں۔', stars: 'ستارے',
       origPageAlt: 'کتاب کا اصل صفحہ', adaptedFrom: 'کتاب کے صفحہ سے ماخوذ', putIn: 'کس میں رکھیں؟', extraAct: 'یہ اضافی مشق ہے۔ یہ کتاب میں چھپی ہوئی نہیں، مگر اسی صفحے کے سبق پر مبنی ہے۔',
-      sUr: 'اردو متن دکھائیں', sBook: 'کتاب کی زبان', sImg: 'تصویروں کی تفصیل دکھائیں اور پڑھ کر سنائیں', picture: 'تصویر', enlarge: 'تصویر بڑی کریں اور اس کی تفصیل سنیں', picDesc: 'تصویر کی تفصیل'
+      sUr: 'اردو متن دکھائیں', sBook: 'کتاب کی زبان', sImg: 'تصویروں کی تفصیل دکھائیں اور پڑھ کر سنائیں', picture: 'تصویر', enlarge: 'تصویر بڑی کریں اور اس کی تفصیل سنیں', picDesc: 'تصویر کی تفصیل', stopListen: 'سننا بند کریں', listenTip: 'سننے کا موڈ آن ہے۔ کسی بھی جملے کو دبائیں تو وہاں سے پڑھا جائے گا۔'
     },
     en: {
       skip: 'Skip to main content', book: 'General Knowledge', klass: 'Class 2', menu: 'Contents', listen: 'Listen', pause: 'Pause', hint: 'Helpful hint',
@@ -44,7 +44,7 @@
       forMotor: 'Moving', forCognitive: 'Understanding', forTeacher: 'For the teacher', noAudio: 'Audio is not available for this part', loading: 'Opening page…',
       notReady: 'This page is not ready yet. See the original page.', picked: 'selected', matched: 'Matched', pickPair: 'Pick one box, then pick its partner.', stars: 'stars',
       origPageAlt: 'Original book page', adaptedFrom: 'Adapted from book page', putIn: 'Where does it go?', extraAct: 'Extra practice: not printed in the book, but based on this page of the lesson.',
-      sUr: 'Show Urdu text', sBook: 'Book language', sImg: 'Show picture descriptions and read them aloud', picture: 'Picture', enlarge: 'Enlarge picture and hear its description', picDesc: 'Picture description'
+      sUr: 'Show Urdu text', sBook: 'Book language', sImg: 'Show picture descriptions and read them aloud', picture: 'Picture', enlarge: 'Enlarge picture and hear its description', picDesc: 'Picture description', stopListen: 'Stop listening', listenTip: 'Listening is on. Tap any sentence to read from there.'
     }
   };
   const CS = STR[CL], OS = STR[OL];
@@ -108,9 +108,8 @@
   }
   const EN = (o) => (o && o.en ? h('span', { class: 'en', lang: OL, dir: LTR ? 'rtl' : 'ltr' }, o.en) : null);
   const lbl = (k) => h('span', { class: 'lbl' }, t(k));
-  function spkBtn(target, cls) {
-    return h('button', { class: 'spk ' + (cls || ''), type: 'button', 'aria-label': t('listenThis'), title: t('listenThis'), html: ic('vol'), onclick: (e) => { e.stopPropagation(); Audio_.playOne(target); } });
-  }
+  /* per-sentence speaker buttons were removed: the Listen button drives reading, and a tap on a sentence jumps to it */
+  function spkBtn() { return null; }
   /* A block of Urdu text with its own speaker button + optional English */
   function blk(o, tag, cls) {
     const el = U(o, tag || 'p');
@@ -123,6 +122,7 @@
   function shuffleDiff(a) { if (a.length < 2) return a.slice(); for (let k = 0; k < 8; k++) { const s = shuffle(a); if (s.some((x, i) => x !== a[i])) return s; } return a.slice().reverse(); }
 
   /* ---------- audio engine ---------- */
+  let LISTEN = false;
   const Audio_ = (function () {
     const au = new Audio(); au.preload = 'auto';
     let queue = [], qi = -1, cur = null, spans = [], marks = null, raf = 0, hlEl = null, mode = 'idle', onEnd = null, warned = false;
@@ -155,37 +155,58 @@
       setTimeout(next, 150);
     }
     function next() {
+      const last = cur, wasOne = mode === 'one';
       stopCur();
       if (mode === 'queue' && qi + 1 < queue.length) { qi++; start(queue[qi]); return; }
-      const cb = onEnd; mode = 'idle'; queue = []; qi = -1; onEnd = null; ui(); if (cb) cb();
+      const cb = onEnd; mode = 'idle'; queue = []; qi = -1; onEnd = null; ui();
+      if (cb) cb();
+      else if (wasOne && LISTEN && last && last.isConnected && last.closest('#main')) {
+        const all = readableEls(true); const i = all.findIndex((x) => last.compareDocumentPosition(x) & 4);
+        if (i >= 0) api.playQueue(all.slice(i), true);
+      }
     }
     au.addEventListener('ended', next);
     au.addEventListener('error', () => { if (cur) fail(); });
     function ui() {
       const b = $('#btn-listen'); if (!b) return;
-      const playing = mode !== 'idle' && !au.paused;
-      b.innerHTML = ic(playing ? 'pause' : 'play') + `<span class="lbl">${t(playing ? 'pause' : 'listen')}</span>`;
-      b.setAttribute('aria-pressed', playing ? 'true' : 'false');
+      b.innerHTML = ic(LISTEN ? 'pause' : 'play') + `<span class="lbl">${t(LISTEN ? 'stopListen' : 'listen')}</span>`;
+      b.setAttribute('aria-pressed', LISTEN ? 'true' : 'false'); b.setAttribute('aria-label', t(LISTEN ? 'stopListen' : 'listen'));
     }
     au.addEventListener('play', ui); au.addEventListener('pause', ui);
-    return {
-      playOne(el, cb) { if (!el || !el.dataset.a) { if (cb) cb(); return; } if (cur === el && !au.paused) { this.stop(); return; } au.pause(); mode = 'one'; queue = []; onEnd = cb || null; start(el); ui(); },
-      playQueue(els) { els = els.filter((e) => e.dataset.a); if (!els.length) { toast(t('noAudio')); return; } au.pause(); mode = 'queue'; queue = els; qi = 0; onEnd = null; start(els[0]); ui(); },
-      toggle(getEls) {
-        if (mode !== 'idle' && !au.paused) { au.pause(); cancelAnimationFrame(raf); return; }
-        if (mode !== 'idle' && au.paused && cur) { au.play(); raf = requestAnimationFrame(tick); return; }
-        this.playQueue(getEls());
+    const api = {
+      playOne(el, cb) { if (!el || !el.dataset.a) { if (cb) cb(); return; } if (cur === el && !au.paused) { api.stop(); return; } au.pause(); mode = 'one'; queue = []; onEnd = cb || null; start(el); ui(); },
+      playQueue(els, silent) { els = els.filter((e) => e.dataset.a); if (!els.length) { if (!silent) toast(t('noAudio')); return; } au.pause(); mode = 'queue'; queue = els; qi = 0; onEnd = null; start(els[0]); ui(); },
+      jump(el) {
+        if (cur === el) { if (au.paused) { au.play(); raf = requestAnimationFrame(tick); } else { au.pause(); cancelAnimationFrame(raf); } return; }
+        const all = readableEls(true); const i = all.indexOf(el);
+        if (i < 0) { api.playOne(el); return; }
+        au.pause(); mode = 'queue'; queue = all; qi = i; onEnd = null; start(el); ui();
       },
       stop() { au.pause(); stopCur(); mode = 'idle'; queue = []; qi = -1; onEnd = null; ui(); },
       setRate() { au.playbackRate = SET.rate; }, ui
     };
+    return api;
   })();
-  function readableEls() {
+  function readableEls(all) {
     const root = $('#main'); const topH = $('#top').offsetHeight;
-    const all = $$('[data-a]', root).filter((el) => el.offsetParent !== null && !el.closest('.fb,.wd,.orig-b,.model-b,.done-banner,.bin .got'));
-    const i = all.findIndex((el) => el.getBoundingClientRect().bottom > topH + 4);
-    return i > 0 ? all.slice(i) : all;
+    const els = $$('[data-a]', root).filter((el) => el.offsetParent !== null && !el.closest('.fb,.wd,.orig-b,.model-b,.done-banner,.bin .got'));
+    if (all) return els;
+    const i = els.findIndex((el) => el.getBoundingClientRect().bottom > topH + 4);
+    return i > 0 ? els.slice(i) : els;
   }
+  function setListen(on) {
+    LISTEN = !!on && VIEW !== 'orig'; document.documentElement.classList.toggle('listening', LISTEN);
+    if (LISTEN) { Audio_.playQueue(readableEls(), true); toast(t('listenTip')); } else Audio_.stop();
+    Audio_.ui();
+  }
+  /* tap a sentence: in listening mode jump there; inside a dialog always read it */
+  document.addEventListener('click', (e) => {
+    const tg = e.target; if (!tg.closest) return;
+    if (tg.closest('button,a,input,textarea,select,summary,label,[role="button"]')) return;
+    const el = tg.closest('[data-a]'); if (!el) return;
+    if (el.closest('dialog')) { Audio_.playOne(el); return; }
+    if (LISTEN && el.closest('#main')) Audio_.jump(el);
+  });
 
   /* ---------- routing / loading ---------- */
   const CACHE = {}; let PAGE = null, CUR = 1, VIEW = 'adapt';
@@ -215,6 +236,7 @@
     renderTop(); renderMain(); renderBottom();
     const m = meta(CUR); document.title = `${m.title.ur} — ${CS.book} (${t('page')} ${CUR})`;
     if (changed) { window.scrollTo(0, 0); $('#main').focus({ preventScroll: true }); say(`${t('page')} ${CUR}: ${m.title.ur}`); }
+    if (LISTEN && VIEW !== 'orig') setTimeout(() => { if (LISTEN) Audio_.playQueue(readableEls(changed), true); }, 450);
     if (CUR < IDX.total) loadPage(CUR + 1);
   }
 
@@ -229,7 +251,7 @@
       h('div', { class: 'book' }, h('b', { lang: CL, dir: LTR ? 'ltr' : 'rtl' }, m.title.ur), h('small', null, `${t('book')} · ${chap} · ${t('page')} ${CUR}/${IDX.total}`)),
       h('div', { class: 'tabs', role: 'tablist', 'aria-label': 'View' }, tab('adapt', 'vAdapt', 'book', !PAGE), tab('easy', 'vEasy', 'smile', !(PAGE && PAGE.easy)), tab('orig', 'vOrig', 'file')),
       h('div', { class: 'tools' },
-        h('button', { class: 'btn primary tool', type: 'button', id: 'btn-listen', 'aria-pressed': 'false', onclick: () => Audio_.toggle(readableEls) }),
+        h('button', { class: 'btn primary tool', type: 'button', id: 'btn-listen', 'aria-pressed': 'false', onclick: () => setListen(!LISTEN) }),
         h('button', { class: 'btn sun tool', type: 'button', id: 'btn-hint', 'aria-haspopup': 'dialog', disabled: !(PAGE && PAGE.hint && PAGE.hint.length), html: ic('bulb') + `<span class="lbl">${t('hint')}</span>`, onclick: openHint }),
         (PAGE && PAGE.print) || VIEW === 'orig' ? h('button', { class: 'btn tool', type: 'button', id: 'btn-print', html: ic('print') + `<span class="lbl">${t('print')}</span>`, onclick: () => { Audio_.stop(); window.print(); } }) : null,
         h('button', { class: 'btn tool', type: 'button', id: 'btn-set', 'aria-haspopup': 'dialog', 'aria-label': t('settings'), title: t('settings'), html: ic('gear'), onclick: openSettings })
@@ -413,7 +435,7 @@
     const img = o.symSrc || o.imgSrc; const txt = U(o, 'span'); const col = ctx.big || !!o.imgSrc;
     const b = h('button', { type: 'button', class: 'opt ' + (col && img ? 'col ' : '') + (extraCls || '') },
       img ? h('img', { src: img, alt: '', class: o.symSrc ? 'sym' : 'pic', loading: 'lazy' }) : null, h('span', { class: 'optx' }, txt, EN(o)), h('span', { class: 'mark', 'aria-hidden': 'true' }));
-    if (o.a) b.append(h('span', { class: 'spk minispk no-print', role: 'button', tabindex: '0', 'aria-label': t('listenThis'), html: ic('vol'), onclick: (e) => { e.stopPropagation(); Audio_.playOne(txt); }, onkeydown: (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); e.stopPropagation(); Audio_.playOne(txt); } } }));
+    if (false) b.append(h('span', { class: 'spk minispk no-print', role: 'button', tabindex: '0', 'aria-label': t('listenThis'), html: ic('vol'), onclick: (e) => { e.stopPropagation(); Audio_.playOne(txt); }, onkeydown: (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); e.stopPropagation(); Audio_.playOne(txt); } } }));
     return b;
   }
   function setMark(b, ok) { b.classList.add(ok ? 'right' : 'wrong'); b.querySelector('.mark').textContent = ok ? '✓' : '✗'; b.setAttribute('aria-label', b.textContent.trim() + (ok ? ' — ' + CS.tTrue : ' — ' + CS.tFalse)); }
@@ -599,7 +621,7 @@
     const rtl = document.documentElement.dir === 'rtl'; const k = e.key;
     if (k === 'ArrowLeft') { const n = CUR + (rtl ? 1 : -1); if (n >= 1 && n <= IDX.total) go(n); e.preventDefault(); }
     else if (k === 'ArrowRight') { const n = CUR + (rtl ? -1 : 1); if (n >= 1 && n <= IDX.total) go(n); e.preventDefault(); }
-    else if (k === 'p' || k === 'P') { if (VIEW !== 'orig') Audio_.toggle(readableEls); }
+    else if (k === 'p' || k === 'P') { if (VIEW !== 'orig') setListen(!LISTEN); }
     else if (k === 'h' || k === 'H') openHint();
     else if (k === 'e' || k === 'E') { if (PAGE && PAGE.easy) go(CUR, 'easy'); }
     else if (k === 'o' || k === 'O') go(CUR, 'orig');

@@ -397,3 +397,11 @@ dialog.modal.wide{width:min(980px,calc(100vw - 1rem))}
 .imgview .blk.cap p.ur{font-weight:700}
 .imgview .desc-h{text-align:start;font-weight:700;font-size:.85rem;color:var(--ink2);margin-top:.8rem}
 @media print{.imgdesc{display:none!important}}
+
+/* ---------- listening mode (no per-sentence speaker buttons) ---------- */
+.blk{padding-inline-start:0}
+.spk,.minispk{display:none!important}
+html.listening main [data-a]{cursor:pointer}
+html.listening main .blk:hover,html.listening main .sent-top:hover{background:color-mix(in srgb,var(--hl) 12%,transparent);border-radius:8px}
+dialog [data-a]{cursor:pointer}
+html.listening #btn-listen{background:var(--hl);color:var(--hl-ink);border-color:var(--hl-ink)}
