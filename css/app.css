@@ -405,3 +405,9 @@ html.listening main [data-a]{cursor:pointer}
 html.listening main .blk:hover,html.listening main .sent-top:hover{background:color-mix(in srgb,var(--hl) 12%,transparent);border-radius:8px}
 dialog [data-a]{cursor:pointer}
 html.listening #btn-listen{background:var(--hl);color:var(--hl-ink);border-color:var(--hl-ink)}
+
+/* ---------- print / download dialog ---------- */
+.exp section{margin:0 0 1.1rem}
+.exp h3{margin:0 0 .3rem;font-size:1.05rem}
+.exp .orig-note{margin:.2rem 0 0}
+.exp a.btn{text-decoration:none}

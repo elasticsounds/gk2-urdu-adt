@@ -12,7 +12,7 @@
   const STR = {
     ur: {
       skip: 'مرکزی مواد پر جائیں', book: 'واقفیتِ عامہ', klass: 'جماعت دوم', menu: 'فہرست', listen: 'سنیں', pause: 'روکیں', hint: 'مددگار اشارہ',
-      print: 'پرنٹ کریں', settings: 'ترتیبات', vAdapt: 'سبق', vEasy: 'آسان', vOrig: 'اصل صفحہ', prev: 'پچھلا', next: 'اگلا', page: 'صفحہ', of: 'از',
+      print: 'پرنٹ کریں', exp: 'پرنٹ / ڈاؤن لوڈ', expPrint: 'یہ صفحہ پرنٹ کریں', expNoPrint: 'اس صفحے پر پرنٹ کرنے کی ورک شیٹ نہیں ہے۔', expBrl: 'بریل فائل (BRF)', expBrlNoteUr: 'بریل پرنٹر (ایمبوسر) یا بریل ڈسپلے کے لیے۔ اردو بریل، بغیر اختصار، 40 خانے فی سطر، 25 سطریں فی صفحہ۔', expBrlNoteEn: 'بریل پرنٹر (ایمبوسر) یا بریل ڈسپلے کے لیے۔ انگریزی بریل (UEB)، بغیر اختصار، 40 خانے فی سطر، 25 سطریں فی صفحہ۔', expTxt: 'صرف متن والا صفحہ (HTML)', expTxtNote: 'ایک سادہ فائل جس میں صرف متن ہے۔ تصویروں کی جگہ ان کی تفصیل ہے۔ اسکرین ریڈر کے ساتھ آف لائن پڑھی جا سکتی ہے۔', thisPage: 'یہ صفحہ', wholeBook: 'پوری کتاب', settings: 'ترتیبات', vAdapt: 'سبق', vEasy: 'آسان', vOrig: 'اصل صفحہ', prev: 'پچھلا', next: 'اگلا', page: 'صفحہ', of: 'از',
       chapter: 'باب', front: 'ابتدائی صفحات', back: 'آخری صفحہ', fact: 'کیا آپ جانتے ہیں؟', teacher: 'برائے اساتذہ', activity: 'سرگرمی',
       easy: 'آسان', moderate: 'درمیانی', hard: 'مشکل', level: 'سطح', origAct: 'کتاب میں اصل سرگرمی', seeOrig: 'اصل صفحہ دیکھیں', tryAgain: 'دوبارہ کریں',
       check: 'جواب چیک کریں', showAns: 'جواب دیکھیں', model: 'نمونہ جواب', hideModel: 'جواب چھپائیں', done: 'میں نے کر لیا', up: 'اوپر', down: 'نیچے',
@@ -30,7 +30,7 @@
     },
     en: {
       skip: 'Skip to main content', book: 'General Knowledge', klass: 'Class 2', menu: 'Contents', listen: 'Listen', pause: 'Pause', hint: 'Helpful hint',
-      print: 'Print page', settings: 'Settings', vAdapt: 'Lesson', vEasy: 'Easy Read', vOrig: 'Original page', prev: 'Previous', next: 'Next', page: 'Page', of: 'of',
+      print: 'Print page', exp: 'Print / download', expPrint: 'Print this page', expNoPrint: 'This page has no worksheet to print.', expBrl: 'Braille file (BRF)', expBrlNoteEn: 'For a braille embosser or braille display. Uncontracted Unified English Braille, 40 cells per line, 25 lines per page.', expBrlNoteUr: 'For a braille embosser or braille display. Uncontracted Urdu braille, 40 cells per line, 25 lines per page.', expTxt: 'Text-only page (HTML)', expTxtNote: 'One plain file with text only. Pictures are replaced by their descriptions. Works offline with a screen reader.', thisPage: 'This page', wholeBook: 'Whole book', settings: 'Settings', vAdapt: 'Lesson', vEasy: 'Easy Read', vOrig: 'Original page', prev: 'Previous', next: 'Next', page: 'Page', of: 'of',
       chapter: 'Chapter', front: 'Front pages', back: 'Back cover', fact: 'Do you know?', teacher: 'For teachers', activity: 'Activity',
       easy: 'Easy', moderate: 'Medium', hard: 'Hard', level: 'Level', origAct: 'Original activity in the book', seeOrig: 'See original page', tryAgain: 'Try again',
       check: 'Check answer', showAns: 'Show answer', model: 'Sample answer', hideModel: 'Hide answer', done: 'I did it', up: 'Move up', down: 'Move down',
@@ -253,7 +253,7 @@
       h('div', { class: 'tools' },
         h('button', { class: 'btn primary tool', type: 'button', id: 'btn-listen', 'aria-pressed': 'false', onclick: () => setListen(!LISTEN) }),
         h('button', { class: 'btn sun tool', type: 'button', id: 'btn-hint', 'aria-haspopup': 'dialog', disabled: !(PAGE && PAGE.hint && PAGE.hint.length), html: ic('bulb') + `<span class="lbl">${t('hint')}</span>`, onclick: openHint }),
-        (PAGE && PAGE.print) || VIEW === 'orig' ? h('button', { class: 'btn tool', type: 'button', id: 'btn-print', html: ic('print') + `<span class="lbl">${t('print')}</span>`, onclick: () => { Audio_.stop(); window.print(); } }) : null,
+        h('button', { class: 'btn tool', type: 'button', id: 'btn-print', 'aria-haspopup': 'dialog', html: ic('print') + `<span class="lbl">${t('exp')}</span>`, onclick: openExport }),
         h('button', { class: 'btn tool', type: 'button', id: 'btn-set', 'aria-haspopup': 'dialog', 'aria-label': t('settings'), title: t('settings'), html: ic('gear'), onclick: openSettings })
       )));
     Audio_.ui();
@@ -592,6 +592,21 @@
       body.append(h('div', { class: 'hint' }, h('div', { class: 'who' }, h('span', { class: 'ic', 'aria-hidden': 'true' }, w[1]), h('span', { class: SET.ui === 'en' ? '' : 'ur' }, t(w[0]))), h('div', { class: 'txt' }, tx, EN(x)), x.a ? spkBtn(tx) : null));
     });
     body.prepend(h('div', { class: 'row', style: 'margin:0 0 .7rem' }, h('button', { class: 'btn primary', type: 'button', html: ic('play') + `<span class="lbl">${t('listen')}</span>`, onclick: () => Audio_.playQueue(els) })));
+    d.append(body); d.showModal();
+  }
+  function openExport() {
+    Audio_.stop();
+    const d = $('#dlg-exp'); wireDialog(d); d.innerHTML = ''; d.append(dlgHead(d, 'exp-h', 'exp', 'print'));
+    const body = h('div', { class: 'dlg-b exp', dir: SET.ui === 'en' ? 'ltr' : 'rtl' });
+    const cls = SET.ui === 'en' ? '' : 'ui-ur';
+    const base = `exports/${CL}/`, pg = 'p' + String(CUR).padStart(3, '0');
+    const link = (file, name, key) => h('a', { class: 'btn', href: base + file, download: name }, h('span', { class: 'lbl ' + cls }, t(key)));
+    const sec = (key, note, ...kids) => h('section', null, h('h3', { class: cls }, t(key)), note ? h('p', { class: 'orig-note ' + cls }, t(note)) : null, h('div', { class: 'row' }, kids));
+    const canPrint = (PAGE && PAGE.print) || VIEW === 'orig';
+    body.append(
+      sec('print', canPrint ? null : 'expNoPrint', h('button', { class: 'btn primary', type: 'button', disabled: !canPrint, html: ic('print') + `<span class="lbl ${cls}">${t('expPrint')}</span>`, onclick: () => { d.close(); setTimeout(() => window.print(), 50); } })),
+      sec('expBrl', LTR ? 'expBrlNoteEn' : 'expBrlNoteUr', link(pg + '.brf', `gk2-${CL}-page-${CUR}.brf`, 'thisPage'), link('book.brf', `gk2-${CL}-book.brf`, 'wholeBook')),
+      sec('expTxt', 'expTxtNote', link(pg + '.html', `gk2-${CL}-page-${CUR}.html`, 'thisPage'), link('book.html', `gk2-${CL}-book.html`, 'wholeBook')));
     d.append(body); d.showModal();
   }
   function openSettings() {
