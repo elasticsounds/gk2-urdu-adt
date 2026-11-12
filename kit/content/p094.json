@@ -1,0 +1,603 @@
+{
+ "n": 94,
+ "printed": "90",
+ "chapter": 16,
+ "kind": "content",
+ "title": {
+  "ur": "شیر کا انصاف",
+  "en": "The lion's justice"
+ },
+ "blocks": [
+  {
+   "t": "p",
+   "ur": "اب لومڑی نے ہاتھی کو اپنا قصّہ سنانے کو کہا، ہاتھی نے شیر کی طرف دیکھا اور کہا: ”بادشاہ سلامت! یہ بندر جھوٹ بول رہا ہے۔ میں کئی دنوں سے اس کے علاقے کی طرف نہیں گیا۔ میں تو ساتھ والے جنگل کی سیر کرنے گیا ہوا تھا۔“",
+   "en": "Now the fox asked the elephant to tell his story. The elephant looked towards the lion and said: \"Your Majesty! This monkey is lying. I have not gone towards his area for many days. I had gone to visit the neighbouring jungle.\""
+  },
+  {
+   "t": "p",
+   "ur": "ہاتھی کو یقین تھا کہ شیر اس کا دوست ہے لہٰذا وہ اس کے حق میں فیصلہ سُنائے گا۔ شیر نے دوسرے جانوروں سے پوچھا کہ کیا کسی نے ہاتھی کو بندر کے علاقے میں دیکھا تھا؟",
+   "en": "The elephant was sure that, since the lion was his friend, he would decide in his favour. The lion asked the other animals whether anyone had seen the elephant in the monkey's area."
+  },
+  {
+   "t": "p",
+   "ur": "بھالو اور کبوتر آگے بڑھے اور کہنے لگے: ”جی ہاں! بندر سچ بول رہا ہے۔ ہم نے ہاتھی کو اُسے تنگ کرتے ہوئے دیکھا تھا۔“ شیر نے ہاتھی کی طرف دیکھا اور کہا: ”تم نے نہ صرف بندر کو تنگ کیا بلکہ جھوٹ بھی بولا۔ تمھاری سزا یہ ہے کہ ایک مہینے تک بندر کی خدمت کرو اور اس کے لیے پھل جمع کرو۔“",
+   "en": "The bear and the pigeon came forward and said: \"Yes! The monkey is telling the truth. We saw the elephant troubling him.\" The lion looked at the elephant and said: \"You not only troubled the monkey but also told a lie. Your punishment is to serve the monkey for one month and collect fruit for him.\""
+  },
+  {
+   "t": "p",
+   "ur": "سب جانور شیر کے انصاف پر خوش ہو گئے۔ ہاتھی اپنے رویّے پر شرمندہ ہوا اور اپنی غلطی مان لی۔ ہاتھی نے پھر ایک ماہ تک بندر کی خدمت کی۔",
+   "en": "All the animals were pleased with the lion's justice. The elephant was ashamed of his behaviour and admitted his mistake. The elephant then served the monkey for one month."
+  },
+  {
+   "t": "p",
+   "ur": "اس کہانی سے ہمیں یہ سبق ملتا ہے کہ ہمیشہ انصاف اور غیر جانب داری کا مظاہرہ کرنا چاہیے۔",
+   "en": "This story teaches us that we should always show justice and impartiality."
+  },
+  {
+   "t": "activity",
+   "id": "p094-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "اخلاقی پہلو پر مشتمل کوئی کہانی جماعت میں سنائیں اور سبق کے نتیجے پر تبادلۂ خیال کریں۔",
+    "en": "Tell the class a story with a moral, and discuss the lesson it teaches."
+   },
+   "prompt": {
+    "ur": "کلاس میں ایک ایسی کہانی سنائیں جس سے کوئی اچھا سبق ملتا ہو۔ پھر سب مل کر بات کریں کہ کہانی سے کیا سیکھا۔",
+    "en": "Tell the class a story that teaches a good lesson. Then talk together about what you learned from it."
+   },
+   "task": {
+    "kind": "open",
+    "mode": "talk",
+    "steps": [
+     {
+      "ur": "ایک کہانی چُنیں جو آپ نے گھر یا سکول میں سنی ہو۔",
+      "en": "Choose a story you have heard at home or school."
+     },
+     {
+      "ur": "کہانی سنائیں، تصویروں سے دکھائیں یا اداکاری کریں۔",
+      "en": "Tell the story, show it with pictures or act it out."
+     },
+     {
+      "ur": "بتائیں: اس کہانی کا سبق کیا ہے؟",
+      "en": "Say: what is the lesson of this story?"
+     },
+     {
+      "ur": "دوستوں سے پوچھیں کہ اُنھوں نے کیا سیکھا۔",
+      "en": "Ask your friends what they learned."
+     }
+    ],
+    "model": {
+     "ur": "ایک پیاسا کوّا تھا۔ گھڑے میں پانی کم تھا۔ اُس نے ایک ایک کنکر ڈالا تو پانی اوپر آ گیا اور اُس نے پانی پی لیا۔ سبق: محنت اور عقل سے مشکل حل ہو جاتی ہے۔",
+     "en": "There was a thirsty crow. There was little water in the pitcher. He dropped in pebbles one by one, the water rose and he drank. Lesson: hard work and good thinking solve problems."
+    },
+    "checklist": [
+     {
+      "ur": "میں نے کہانی سنائی یا دکھائی۔",
+      "en": "I told or showed a story."
+     },
+     {
+      "ur": "میں نے کہانی کا سبق بتایا۔",
+      "en": "I said the lesson of the story."
+     },
+     {
+      "ur": "میں نے دوسروں کی کہانی غور سے سنی۔",
+      "en": "I listened carefully to others' stories."
+     }
+    ]
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p094-a2",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "اس کہانی سے ہمیں یہ سبق ملتا ہے کہ ہمیشہ انصاف اور غیر جانب داری کا مظاہرہ کرنا چاہیے۔",
+    "en": "This story teaches us that we should always show justice and impartiality."
+   },
+   "prompt": {
+    "ur": "شیر کے فیصلے کی کہانی یاد کریں اور کھیل کھیلیں۔",
+    "en": "Remember the story of the lion's decision and play the game."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "سچ کون بول رہا تھا؟",
+        "en": "Who was telling the truth?"
+       },
+       "options": [
+        {
+         "ur": "بندر",
+         "en": "Monkey",
+         "sym": "monkey"
+        },
+        {
+         "ur": "ہاتھی",
+         "en": "Elephant",
+         "sym": "elephant"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "بندر سچ بول رہا تھا۔ ہاتھی نے جھوٹ بولا۔",
+        "en": "The monkey was telling the truth. The elephant lied."
+       }
+      },
+      {
+       "q": {
+        "ur": "شیر کے انصاف پر سب جانور کیسے ہوئے؟",
+        "en": "How did all the animals feel about the lion's justice?"
+       },
+       "options": [
+        {
+         "ur": "ناراض",
+         "en": "Angry",
+         "sym": "angry"
+        },
+        {
+         "ur": "خوش",
+         "en": "Happy",
+         "sym": "happy"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "سب جانور شیر کے انصاف پر خوش ہو گئے۔",
+        "en": "All the animals were pleased with the lion's justice."
+       }
+      },
+      {
+       "q": {
+        "ur": "ہاتھی کو بندر کے لیے کیا جمع کرنا تھا؟",
+        "en": "What did the elephant have to collect for the monkey?"
+       },
+       "options": [
+        {
+         "ur": "پھل",
+         "en": "Fruit",
+         "sym": "fruit"
+        },
+        {
+         "ur": "پتھر",
+         "en": "Stones",
+         "sym": "stone"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "ہاتھی کی سزا تھی کہ بندر کے لیے پھل جمع کرے۔",
+        "en": "The elephant's punishment was to collect fruit for the monkey."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "order",
+     "items": [
+      {
+       "ur": "بندر نے شیر سے ہاتھی کی شکایت کی۔",
+       "en": "The monkey complained to the lion about the elephant."
+      },
+      {
+       "ur": "ہاتھی نے کہا کہ بندر جھوٹ بول رہا ہے۔",
+       "en": "The elephant said the monkey was lying."
+      },
+      {
+       "ur": "شیر نے دوسرے جانوروں سے پوچھا۔",
+       "en": "The lion asked the other animals."
+      },
+      {
+       "ur": "بھالو اور کبوتر نے بتایا کہ بندر سچ بول رہا ہے۔",
+       "en": "The bear and the pigeon said the monkey was telling the truth."
+      },
+      {
+       "ur": "ہاتھی نے ایک ماہ تک بندر کی خدمت کی۔",
+       "en": "The elephant served the monkey for one month."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "ہاتھی کو کیوں یقین تھا کہ فیصلہ اُس کے حق میں ہوگا؟",
+        "en": "Why was the elephant sure the decision would be in his favour?"
+       },
+       "options": [
+        {
+         "ur": "کیونکہ وہ سچ بول رہا تھا",
+         "en": "Because he was telling the truth"
+        },
+        {
+         "ur": "کیونکہ شیر اُس کا دوست تھا",
+         "en": "Because the lion was his friend"
+        },
+        {
+         "ur": "کیونکہ وہ سب سے بڑا جانور تھا",
+         "en": "Because he was the biggest animal"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "ہاتھی کو یقین تھا کہ شیر اُس کا دوست ہے اس لیے اُس کا ساتھ دے گا۔ لیکن شیر نے دوستی نہیں، سچ دیکھا۔ یہی غیر جانب داری ہے۔",
+        "en": "The elephant was sure the lion, being his friend, would side with him. But the lion looked at the truth, not at friendship. That is impartiality."
+       }
+      },
+      {
+       "q": {
+        "ur": "شیر نے فیصلہ سنانے سے پہلے کیا کیا؟",
+        "en": "What did the lion do before giving his decision?"
+       },
+       "options": [
+        {
+         "ur": "دونوں کی بات سنی اور گواہوں سے پوچھا",
+         "en": "Listened to both and asked the witnesses"
+        },
+        {
+         "ur": "صرف اپنے دوست کی بات سنی",
+         "en": "Listened only to his friend"
+        },
+        {
+         "ur": "بغیر سنے فیصلہ کر دیا",
+         "en": "Decided without listening"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "شیر نے بندر اور ہاتھی دونوں کی بات سنی، پھر دوسرے جانوروں سے پوچھا۔ اچھا فیصلہ ایسے ہی ہوتا ہے۔",
+        "en": "The lion listened to both the monkey and the elephant, then asked the other animals. That is how a good decision is made."
+       }
+      },
+      {
+       "q": {
+        "ur": "ہاتھی کو کتنے عرصے تک بندر کی خدمت کرنی تھی؟",
+        "en": "For how long did the elephant have to serve the monkey?"
+       },
+       "options": [
+        {
+         "ur": "ایک دن",
+         "en": "One day"
+        },
+        {
+         "ur": "ایک ہفتہ",
+         "en": "One week"
+        },
+        {
+         "ur": "ایک مہینہ",
+         "en": "One month"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "شیر نے کہا: ”ایک مہینے تک بندر کی خدمت کرو اور اس کے لیے پھل جمع کرو۔“",
+        "en": "The lion said: \"Serve the monkey for one month and collect fruit for him.\""
+       }
+      },
+      {
+       "q": {
+        "ur": "سزا سن کر ہاتھی نے کون سا اچھا کام کیا؟",
+        "en": "What good thing did the elephant do after hearing the punishment?"
+       },
+       "options": [
+        {
+         "ur": "جنگل چھوڑ کر چلا گیا",
+         "en": "He left the jungle"
+        },
+        {
+         "ur": "شیر سے ناراض ہو گیا",
+         "en": "He got angry with the lion"
+        },
+        {
+         "ur": "شرمندہ ہوا اور اپنی غلطی مان لی",
+         "en": "He felt ashamed and admitted his mistake"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "ہاتھی اپنے رویّے پر شرمندہ ہوا، غلطی مان لی اور ایک ماہ تک بندر کی خدمت کی۔ غلطی ماننا اچھی بات ہے۔",
+        "en": "The elephant was ashamed of his behaviour, admitted his mistake and served the monkey for a month. Admitting a mistake is a good thing."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "دھیان دیں: شیر ہاتھی کا دوست تھا، پھر بھی اُس نے سچ کا ساتھ دیا۔ یہی غیر جانب داری ہے۔",
+   "en": "Notice: the lion was the elephant's friend, yet he still sided with the truth. That is impartiality."
+  },
+  {
+   "for": "vision",
+   "ur": "اس صفحے پر تصویر نہیں ہے، صرف کہانی ہے۔ کہانی سنیں اور ہر جانور کا نام آنے پر اُس کا کھلونا یا کارڈ اُٹھائیں: ہاتھی، شیر، بھالو، کبوتر، بندر۔",
+   "en": "This page has no picture, only the story. Listen to it and pick up each animal's toy or card when its name comes: elephant, lion, bear, pigeon, monkey."
+  },
+  {
+   "for": "cognitive",
+   "ur": "کہانی کو تین حصّوں میں یاد رکھیں: ہاتھی نے جھوٹ بولا ← بھالو اور کبوتر نے سچ بتایا ← شیر نے انصاف کیا۔",
+   "en": "Remember the story in three parts: the elephant lied, then the bear and the pigeon told the truth, then the lion was fair."
+  },
+  {
+   "for": "teacher",
+   "ur": "کہانی کی اداکاری کروائیں: شیر، لومڑی، بندر، ہاتھی، بھالو اور کبوتر کے کردار بانٹیں؛ جو بچے بول نہ سکیں اُنھیں ماسک پہن کر اشاروں والا کردار دیں۔ کہانی سنانے کی سرگرمی میں بچہ گھر سے سنی ہوئی کہانی اپنی مادری زبان میں، تصویروں سے یا ساتھی کے ساتھ مل کر بھی سنا سکتا ہے۔",
+   "en": "Have the class act out the story: share out the roles of lion, fox, monkey, elephant, bear and pigeon; give children who cannot speak a masked, gesture-based role. In the storytelling activity a child may tell a story from home in their mother tongue, with pictures, or together with a buddy."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "شیر نے انصاف کیا",
+   "en": "The lion was fair"
+  },
+  "image": null,
+  "sentences": [
+   {
+    "en": "The elephant tells a lie.",
+    "words_en": [
+     {
+      "en": "The elephant",
+      "sym": "elephant"
+     },
+     {
+      "en": "tells",
+      "sym": "to speak"
+     },
+     {
+      "en": "a lie.",
+      "sym": "lie"
+     }
+    ],
+    "words": [
+     {
+      "ur": "ہاتھی",
+      "sym": "elephant"
+     },
+     {
+      "ur": "جھوٹ",
+      "sym": "lie"
+     },
+     {
+      "ur": "بولتا",
+      "sym": "to speak"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "The bear and the pigeon tell the truth.",
+    "words_en": [
+     {
+      "en": "The bear",
+      "sym": "bear"
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "the pigeon",
+      "sym": "pigeon"
+     },
+     {
+      "en": "tell",
+      "sym": "to tell"
+     },
+     {
+      "en": "the truth.",
+      "sym": "truth"
+     }
+    ],
+    "words": [
+     {
+      "ur": "بھالو",
+      "sym": "bear"
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "کبوتر",
+      "sym": "pigeon"
+     },
+     {
+      "ur": "سچ",
+      "sym": "truth"
+     },
+     {
+      "ur": "بتاتے",
+      "sym": "to tell"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "The lion is fair.",
+    "words_en": [
+     {
+      "en": "The lion",
+      "sym": "lion"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "fair.",
+      "sym": "justice"
+     }
+    ],
+    "words": [
+     {
+      "ur": "شیر",
+      "sym": "lion"
+     },
+     {
+      "ur": "انصاف",
+      "sym": "justice"
+     },
+     {
+      "ur": "کرتا",
+      "sym": null
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "The elephant admits his mistake.",
+    "words_en": [
+     {
+      "en": "The elephant",
+      "sym": "elephant"
+     },
+     {
+      "en": "admits",
+      "sym": "yes"
+     },
+     {
+      "en": "his mistake.",
+      "sym": "mistake"
+     }
+    ],
+    "words": [
+     {
+      "ur": "ہاتھی",
+      "sym": "elephant"
+     },
+     {
+      "ur": "غلطی",
+      "sym": "mistake"
+     },
+     {
+      "ur": "مان",
+      "sym": "yes"
+     },
+     {
+      "ur": "لیتا",
+      "sym": null
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "All the animals are happy.",
+    "words_en": [
+     {
+      "en": "All",
+      "sym": "everybody"
+     },
+     {
+      "en": "the animals",
+      "sym": "animals"
+     },
+     {
+      "en": "are",
+      "sym": null
+     },
+     {
+      "en": "happy.",
+      "sym": "happy"
+     }
+    ],
+    "words": [
+     {
+      "ur": "سب",
+      "sym": "everybody"
+     },
+     {
+      "ur": "جانور",
+      "sym": "animals"
+     },
+     {
+      "ur": "خوش",
+      "sym": "happy"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب پر انگلی رکھیں۔",
+    "en": "Touch the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "جھوٹ کس نے بولا؟",
+       "en": "Who told a lie?"
+      },
+      "options": [
+       {
+        "ur": "ہاتھی",
+        "en": "Elephant",
+        "sym": "elephant"
+       },
+       {
+        "ur": "بندر",
+        "en": "Monkey",
+        "sym": "monkey"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "ہاتھی نے جھوٹ بولا۔ بندر سچ بول رہا تھا۔",
+       "en": "The elephant lied. The monkey was telling the truth."
+      }
+     },
+     {
+      "q": {
+       "ur": "انصاف کس نے کیا؟",
+       "en": "Who was fair?"
+      },
+      "options": [
+       {
+        "ur": "کبوتر",
+        "en": "Pigeon",
+        "sym": "pigeon"
+       },
+       {
+        "ur": "شیر",
+        "en": "Lion",
+        "sym": "lion"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "شیر نے انصاف کیا۔",
+       "en": "The lion was fair."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

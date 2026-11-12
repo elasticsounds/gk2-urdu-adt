@@ -1,0 +1,510 @@
+{
+ "n": 21,
+ "printed": "17",
+ "chapter": 3,
+ "kind": "opener",
+ "title": {
+  "ur": "حقوق و فرائض",
+  "en": "Rights and duties"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "باب 03: حقوق و فرائض",
+   "en": "Chapter 3: Rights and duties"
+  },
+  {
+   "t": "h",
+   "ur": "حاصلاتِ تعلّم",
+   "en": "Learning outcomes"
+  },
+  {
+   "t": "p",
+   "ur": "اس باب کے اختتام پر آپ اس قابل ہو جائیں گے کہ:",
+   "en": "By the end of this chapter you will be able to:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "حکومت کی تعریف بیان کر سکیں۔",
+     "en": "Say what government means."
+    },
+    {
+     "ur": "حکومت جو سہولیات شہریوں کو فراہم کرتی ہے اُن کی نشان دہی کر سکیں۔",
+     "en": "Identify the facilities that the government provides for citizens."
+    },
+    {
+     "ur": "شہریوں کے کوئی سے تین حقوق کی فہرست بنا سکیں (خوراک، مفت تعلیم، تحفّظ، صحت اور برابری)۔",
+     "en": "List any three rights of citizens (food, free education, protection, health and equality)."
+    },
+    {
+     "ur": "یہ شعور پیدا کر سکیں کہ ہر شہری کو اپنے مذہب کے مطابق آزادی سے زندگی گزارنے کا حق حاصل ہے۔",
+     "en": "Understand that every citizen has the right to live freely according to their own religion."
+    },
+    {
+     "ur": "دستیاب حقوق کے حوالے سے اپنی ذمّہ داریوں کی شناخت کر سکیں۔",
+     "en": "Identify your own responsibilities that go with the rights you have."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "ur": "حکومت ملک کا نظام چلاتی ہے۔ یہ اپنے شہریوں کی بہتری کے لیے صحت، صاف پانی، بجلی، گیس، تفریح کے لیے کھیل کے میدان اور معیاری تعلیم کی سہولیات مہیا کرتی ہے۔",
+   "en": "The government runs the system of the country. For the good of its citizens, it provides facilities for health, clean water, electricity, gas, playgrounds for fun and play, and good-quality education."
+  },
+  {
+   "t": "activity",
+   "id": "p021-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "(یہ مشق کتاب میں نہیں ہے۔ یہ اس صفحے کے سبق کو دہرانے کے لیے بنائی گئی ہے۔)",
+    "en": "This practice is not in the book. It has been added to revise the lesson on this page."
+   },
+   "prompt": {
+    "ur": "اوپر کا پیراگراف پڑھیں یا سنیں۔ پھر جواب دیں: حکومت ہمارے لیے کیا کرتی ہے؟",
+    "en": "Read or listen to the paragraph above. Then answer: what does the government do for us?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "ملک کا نظام کون چلاتا ہے؟",
+        "en": "Who runs the system of the country?"
+       },
+       "options": [
+        {
+         "ur": "حکومت",
+         "en": "The government",
+         "sym": "government"
+        },
+        {
+         "ur": "درزی",
+         "en": "The tailor",
+         "sym": "tailor"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "حکومت ملک کا نظام چلاتی ہے۔",
+        "en": "The government runs the system of the country."
+       }
+      },
+      {
+       "q": {
+        "ur": "حکومت ہمیں پینے کے لیے کیا دیتی ہے؟",
+        "en": "What does the government give us to drink?"
+       },
+       "options": [
+        {
+         "ur": "گندا پانی",
+         "en": "Dirty water",
+         "sym": "dirty"
+        },
+        {
+         "ur": "صاف پانی",
+         "en": "Clean water",
+         "sym": "water"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "حکومت شہریوں کو صاف پانی مہیا کرتی ہے۔",
+        "en": "The government provides clean water to citizens."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "fill",
+     "questions": [
+      {
+       "q": {
+        "ur": "حکومت ملک کا ___ چلاتی ہے۔",
+        "en": "The government runs the ___ of the country."
+       },
+       "options": [
+        {
+         "ur": "کارخانہ",
+         "en": "factory"
+        },
+        {
+         "ur": "نظام",
+         "en": "system"
+        },
+        {
+         "ur": "کھیت",
+         "en": "field"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "حکومت ملک کا نظام چلاتی ہے۔",
+        "en": "The government runs the system of the country."
+       }
+      },
+      {
+       "q": {
+        "ur": "حکومت تفریح کے لیے ___ مہیا کرتی ہے۔",
+        "en": "For fun and play, the government provides ___."
+       },
+       "options": [
+        {
+         "ur": "کھیل کے میدان",
+         "en": "playgrounds"
+        },
+        {
+         "ur": "کھلونے",
+         "en": "toys"
+        },
+        {
+         "ur": "مٹھائی",
+         "en": "sweets"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "حکومت تفریح کے لیے کھیل کے میدان مہیا کرتی ہے۔",
+        "en": "The government provides playgrounds for fun and play."
+       }
+      },
+      {
+       "q": {
+        "ur": "حکومت یہ سہولیات اپنے ___ کی بہتری کے لیے دیتی ہے۔",
+        "en": "The government gives these facilities for the good of its ___."
+       },
+       "options": [
+        {
+         "ur": "دشمنوں",
+         "en": "enemies"
+        },
+        {
+         "ur": "جانوروں",
+         "en": "animals"
+        },
+        {
+         "ur": "شہریوں",
+         "en": "citizens"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "حکومت اپنے شہریوں کی بہتری کے لیے سہولیات مہیا کرتی ہے۔",
+        "en": "The government provides facilities for the good of its citizens."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "حکومت مہیا کرتی ہے",
+       "en": "The government provides"
+      },
+      {
+       "ur": "حکومت مہیا نہیں کرتی",
+       "en": "The government does not provide"
+      }
+     ],
+     "items": [
+      {
+       "ur": "صحت کی سہولیات",
+       "en": "Health facilities",
+       "group": 0
+      },
+      {
+       "ur": "صاف پانی",
+       "en": "Clean water",
+       "group": 0
+      },
+      {
+       "ur": "بجلی اور گیس",
+       "en": "Electricity and gas",
+       "group": 0
+      },
+      {
+       "ur": "کھیل کے میدان",
+       "en": "Playgrounds",
+       "group": 0
+      },
+      {
+       "ur": "معیاری تعلیم",
+       "en": "Good-quality education",
+       "group": 0
+      },
+      {
+       "ur": "آپ کے کھلونے",
+       "en": "Your toys",
+       "group": 1
+      },
+      {
+       "ur": "آپ کا ہوم ورک",
+       "en": "Your homework",
+       "group": 1
+      },
+      {
+       "ur": "آپ کی سالگرہ کا کیک",
+       "en": "Your birthday cake",
+       "group": 1
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "\"حکومت\" کو ایسے سمجھیں: جیسے گھر کو امّی ابّو چلاتے ہیں اور سکول کو ہیڈ ٹیچر، ویسے ہی پورے ملک کو حکومت چلاتی ہے۔",
+   "en": "Think of \"government\" like this: just as Mum and Dad run the home and the head teacher runs the school, the government runs the whole country."
+  },
+  {
+   "for": "vision",
+   "ur": "پیراگراف سنتے ہوئے حکومت کی دی ہوئی سہولیات انگلیوں پر گنیں: صحت، صاف پانی، بجلی، گیس، کھیل کے میدان، تعلیم — کل چھے۔",
+   "en": "As you listen to the paragraph, count the facilities the government gives on your fingers: health, clean water, electricity, gas, playgrounds, education. That makes six in all."
+  },
+  {
+   "for": "cognitive",
+   "ur": "اپنے آس پاس دیکھیں: نل کا پانی، بلب کی روشنی، آپ کا سکول۔ یہ سب سہولیات ہیں۔ ہر ایک کو چھو کر یا اشارہ کر کے نام لیں۔",
+   "en": "Look around you: water from the tap, light from the bulb, your school. These are all facilities. Touch or point to each one and say its name."
+  },
+  {
+   "for": "teacher",
+   "ur": "\"حق\" اور \"فرض\" کے لیے سادہ مثال دیں: سکول آنا میرا حق ہے، کلاس صاف رکھنا میرا فرض ہے۔ دونوں الفاظ کے لیے ایک ایک اشارہ طے کر لیں اور پورے باب میں وہی استعمال کریں۔",
+   "en": "Give a simple example of a \"right\" and a \"duty\": coming to school is my right; keeping the classroom clean is my duty. Agree on one gesture for each of the two words and use the same gestures throughout the chapter."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "حکومت",
+   "en": "The government"
+  },
+  "image": null,
+  "sentences": [
+   {
+    "en": "The government runs the country.",
+    "words": [
+     {
+      "ur": "حکومت",
+      "sym": "government"
+     },
+     {
+      "ur": "ملک",
+      "sym": "country"
+     },
+     {
+      "ur": "چلاتی ہے۔",
+      "sym": "to lead"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "government",
+      "sym": "government"
+     },
+     {
+      "en": "runs",
+      "sym": "to lead"
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "country.",
+      "sym": "country"
+     }
+    ]
+   },
+   {
+    "en": "The government gives us clean water.",
+    "words": [
+     {
+      "ur": "حکومت",
+      "sym": "government"
+     },
+     {
+      "ur": "ہمیں",
+      "sym": "us"
+     },
+     {
+      "ur": "صاف",
+      "sym": "clean"
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "دیتی ہے۔",
+      "sym": "to give"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "government",
+      "sym": "government"
+     },
+     {
+      "en": "gives",
+      "sym": "to give"
+     },
+     {
+      "en": "us",
+      "sym": "us"
+     },
+     {
+      "en": "clean",
+      "sym": "clean"
+     },
+     {
+      "en": "water.",
+      "sym": "water"
+     }
+    ]
+   },
+   {
+    "en": "The government builds schools.",
+    "words": [
+     {
+      "ur": "حکومت",
+      "sym": "government"
+     },
+     {
+      "ur": "سکول",
+      "sym": "school"
+     },
+     {
+      "ur": "بناتی ہے۔",
+      "sym": "to build"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "government",
+      "sym": "government"
+     },
+     {
+      "en": "builds",
+      "sym": "to build"
+     },
+     {
+      "en": "schools.",
+      "sym": "school"
+     }
+    ]
+   },
+   {
+    "en": "The government builds hospitals.",
+    "words": [
+     {
+      "ur": "حکومت",
+      "sym": "government"
+     },
+     {
+      "ur": "ہسپتال",
+      "sym": "hospital"
+     },
+     {
+      "ur": "بناتی ہے۔",
+      "sym": "to build"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "government",
+      "sym": "government"
+     },
+     {
+      "en": "builds",
+      "sym": "to build"
+     },
+     {
+      "en": "hospitals.",
+      "sym": "hospital"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "ملک کون چلاتا ہے؟",
+       "en": "Who runs the country?"
+      },
+      "options": [
+       {
+        "ur": "کسان",
+        "en": "The farmer",
+        "sym": "farmer"
+       },
+       {
+        "ur": "حکومت",
+        "en": "The government",
+        "sym": "government"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "حکومت ملک چلاتی ہے۔",
+       "en": "The government runs the country."
+      }
+     },
+     {
+      "q": {
+       "ur": "حکومت ہمیں کیا دیتی ہے؟",
+       "en": "What does the government give us?"
+      },
+      "options": [
+       {
+        "ur": "صاف پانی",
+        "en": "Clean water",
+        "sym": "water"
+       },
+       {
+        "ur": "کھلونے",
+        "en": "Toys",
+        "sym": "toys"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "حکومت ہمیں صاف پانی دیتی ہے۔",
+       "en": "The government gives us clean water."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

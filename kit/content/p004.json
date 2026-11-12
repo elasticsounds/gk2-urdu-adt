@@ -1,0 +1,279 @@
+{
+ "n": 4,
+ "printed": "",
+ "chapter": 0,
+ "kind": "toc",
+ "title": {
+  "ur": "فہرست عنوانات",
+  "en": "Table of contents"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "فہرست عنوانات",
+   "en": "Table of contents"
+  },
+  {
+   "t": "table",
+   "head": [
+    {
+     "ur": "نمبر شمار",
+     "en": "Number"
+    },
+    {
+     "ur": "باب کا عنوان",
+     "en": "Chapter title"
+    },
+    {
+     "ur": "صفحہ نمبر",
+     "en": "Page number"
+    }
+   ],
+   "rows": [
+    [
+     {
+      "ur": "1",
+      "en": "1"
+     },
+     {
+      "ur": "ہمارا وطن پاکستان",
+      "en": "Our homeland Pakistan"
+     },
+     {
+      "ur": "01",
+      "en": "01"
+     }
+    ],
+    [
+     {
+      "ur": "2",
+      "en": "2"
+     },
+     {
+      "ur": "دیہات اور شہر",
+      "en": "Villages and cities"
+     },
+     {
+      "ur": "11",
+      "en": "11"
+     }
+    ],
+    [
+     {
+      "ur": "3",
+      "en": "3"
+     },
+     {
+      "ur": "حقوق و فرائض",
+      "en": "Rights and duties"
+     },
+     {
+      "ur": "17",
+      "en": "17"
+     }
+    ],
+    [
+     {
+      "ur": "4",
+      "en": "4"
+     },
+     {
+      "ur": "مذہبی تہوار",
+      "en": "Religious festivals"
+     },
+     {
+      "ur": "21",
+      "en": "21"
+     }
+    ],
+    [
+     {
+      "ur": "5",
+      "en": "5"
+     },
+     {
+      "ur": "قدرتی ماحول اور وسائل",
+      "en": "Natural environment and resources"
+     },
+     {
+      "ur": "26",
+      "en": "26"
+     }
+    ],
+    [
+     {
+      "ur": "6",
+      "en": "6"
+     },
+     {
+      "ur": "پانی",
+      "en": "Water"
+     },
+     {
+      "ur": "33",
+      "en": "33"
+     }
+    ],
+    [
+     {
+      "ur": "7",
+      "en": "7"
+     },
+     {
+      "ur": "پودے",
+      "en": "Plants"
+     },
+     {
+      "ur": "41",
+      "en": "41"
+     }
+    ],
+    [
+     {
+      "ur": "8",
+      "en": "8"
+     },
+     {
+      "ur": "جانور",
+      "en": "Animals"
+     },
+     {
+      "ur": "49",
+      "en": "49"
+     }
+    ],
+    [
+     {
+      "ur": "9",
+      "en": "9"
+     },
+     {
+      "ur": "زراعت اور مویشی",
+      "en": "Agriculture and livestock"
+     },
+     {
+      "ur": "55",
+      "en": "55"
+     }
+    ],
+    [
+     {
+      "ur": "10",
+      "en": "10"
+     },
+     {
+      "ur": "زمینی وسائل کی حفاظت",
+      "en": "Protecting the Earth's resources"
+     },
+     {
+      "ur": "62",
+      "en": "62"
+     }
+    ],
+    [
+     {
+      "ur": "11",
+      "en": "11"
+     },
+     {
+      "ur": "حرارت اور روشنی",
+      "en": "Heat and light"
+     },
+     {
+      "ur": "67",
+      "en": "67"
+     }
+    ],
+    [
+     {
+      "ur": "12",
+      "en": "12"
+     },
+     {
+      "ur": "دوسروں کی مدد کرنا",
+      "en": "Helping others"
+     },
+     {
+      "ur": "72",
+      "en": "72"
+     }
+    ],
+    [
+     {
+      "ur": "13",
+      "en": "13"
+     },
+     {
+      "ur": "پیشے",
+      "en": "Professions"
+     },
+     {
+      "ur": "76",
+      "en": "76"
+     }
+    ],
+    [
+     {
+      "ur": "14",
+      "en": "14"
+     },
+     {
+      "ur": "دوسروں کا احترام",
+      "en": "Respecting others"
+     },
+     {
+      "ur": "80",
+      "en": "80"
+     }
+    ],
+    [
+     {
+      "ur": "15",
+      "en": "15"
+     },
+     {
+      "ur": "عفو و درگزر",
+      "en": "Forgiveness and forbearance"
+     },
+     {
+      "ur": "84",
+      "en": "84"
+     }
+    ],
+    [
+     {
+      "ur": "16",
+      "en": "16"
+     },
+     {
+      "ur": "غیر جانب داری",
+      "en": "Impartiality: being fair"
+     },
+     {
+      "ur": "88",
+      "en": "88"
+     }
+    ]
+   ]
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "اس فہرست میں کتاب کے 16 باب ہیں۔ جو باب پڑھنا ہو اس کا نام ڈھونڈیں، پھر اس کے سامنے لکھا صفحہ نمبر دیکھیں۔",
+   "en": "This list has the book's 16 chapters. Find the name of the chapter you want, then look at the page number next to it."
+  },
+  {
+   "for": "vision",
+   "ur": "فہرست کو اوپر سے نیچے ایک ایک سطر سنیں: پہلے نمبر، پھر باب کا نام، پھر صفحہ نمبر۔",
+   "en": "Listen to the list row by row from the top: first the number, then the chapter name, then the page number."
+  },
+  {
+   "for": "teacher",
+   "ur": "بچوں سے کھیل کھیلیں: ’’پانی والا باب کس صفحے پر ہے؟‘‘ بچے بول کر، انگلی رکھ کر یا نمبر کارڈ اٹھا کر جواب دے سکتے ہیں۔",
+   "en": "Play a game: 'On which page is the chapter about water?' Children can answer by speaking, pointing, or holding up a number card."
+  }
+ ],
+ "easy": null,
+ "print": false
+}

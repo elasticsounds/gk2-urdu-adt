@@ -1,0 +1,670 @@
+{
+ "n": 73,
+ "printed": "69",
+ "chapter": 11,
+ "kind": "content",
+ "title": {
+  "ur": "حرارت اور روشنی کا استعمال",
+  "en": "Uses of heat and light"
+ },
+ "blocks": [
+  {
+   "t": "p",
+   "ur": "ہم اپنے آپ کو گرم رکھنے کے لیے حرارت کا استعمال کرتے ہیں اور گھر کو روشن کرنے کے لیے روشنی کا استعمال کرتے ہیں۔",
+   "en": "We use heat to keep ourselves warm, and we use light to light up our homes."
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.52,
+      0.211,
+      0.857,
+      0.422
+     ],
+     "alt": {
+      "ur": "باورچی خانے میں ایک خاتون چولہے کی آگ پر رکھی دیگچی میں کھانا پکا رہی ہیں اور ایک آدمی سبزی کا تھیلا لیے پاس کھڑا ہے۔",
+      "en": "In a kitchen a woman is cooking food in a pot on the flame of a stove, and a man stands nearby holding a bag of vegetables."
+     }
+    },
+    {
+     "crop": [
+      0.174,
+      0.211,
+      0.51,
+      0.422
+     ],
+     "alt": {
+      "ur": "ایک لڑکا ہاتھ میں جلتی ہوئی ٹارچ لیے چل رہا ہے اور ٹارچ کی روشنی میں راستہ دیکھ رہا ہے۔",
+      "en": "A boy is walking with a lit torch in his hand, looking at the way in its light."
+     }
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "ur": "ہمیں کھانا پکانے کے لیے آگ (حرارت) کی ضرورت ہوتی ہے۔ چیزیں دیکھنے کے لیے روشنی کی ضرورت پڑتی ہے۔",
+   "en": "We need fire (heat) to cook food. We need light to see things."
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.176,
+    0.49,
+    0.846,
+    0.666
+   ],
+   "alt": {
+    "ur": "نیلے آسمان پر تیز چمکتا سورج اور نیچے کھیت میں سورج مکھی کے بہت سے پیلے پھول۔",
+    "en": "A bright sun in a blue sky, and below it a field with many yellow sunflowers."
+   },
+   "cap": {
+    "ur": "سورج کی روشنی فصلوں کی نشوونما کے لیے ضروری ہے۔",
+    "en": "Sunlight is necessary for the growth of crops."
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p073-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "ہمیں کھانا پکانے کے لیے آگ (حرارت) کی ضرورت ہوتی ہے۔ چیزیں دیکھنے کے لیے روشنی کی ضرورت پڑتی ہے۔",
+    "en": "We need fire (heat) to cook food. We need light to see things."
+   },
+   "prompt": {
+    "ur": "کس کام میں حرارت چاہیے اور کس کام میں روشنی؟",
+    "en": "Which job needs heat and which job needs light?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "کھانا پکانے کے لیے کیا چاہیے؟",
+        "en": "What is needed to cook food?"
+       },
+       "options": [
+        {
+         "ur": "حرارت (آگ)",
+         "en": "Heat (fire)",
+         "sym": "fire"
+        },
+        {
+         "ur": "برف",
+         "en": "Ice",
+         "sym": "ice"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "کھانا پکانے کے لیے آگ یعنی حرارت کی ضرورت ہوتی ہے۔",
+        "en": "To cook food we need fire, that is, heat."
+       },
+       "img": [
+        0.52,
+        0.211,
+        0.857,
+        0.422
+       ]
+      },
+      {
+       "q": {
+        "ur": "لڑکا اندھیرے میں راستہ کس کی مدد سے دیکھ رہا ہے؟",
+        "en": "What helps the boy see the way in the dark?"
+       },
+       "options": [
+        {
+         "ur": "چھتری",
+         "en": "An umbrella",
+         "sym": "umbrella"
+        },
+        {
+         "ur": "ٹارچ کی روشنی",
+         "en": "The light of a torch",
+         "sym": "flashlight"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "چیزیں دیکھنے کے لیے روشنی کی ضرورت پڑتی ہے۔ ٹارچ روشنی دیتی ہے۔",
+        "en": "We need light to see things. A torch gives light."
+       },
+       "img": [
+        0.174,
+        0.211,
+        0.51,
+        0.422
+       ]
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "حرارت کا استعمال",
+       "en": "Use of heat",
+       "sym": "hot"
+      },
+      {
+       "ur": "روشنی کا استعمال",
+       "en": "Use of light",
+       "sym": "light"
+      }
+     ],
+     "items": [
+      {
+       "ur": "کھانا پکانا",
+       "en": "Cooking food",
+       "img": [
+        0.52,
+        0.211,
+        0.857,
+        0.422
+       ],
+       "group": 0
+      },
+      {
+       "ur": "اندھیرے میں چیزیں دیکھنا",
+       "en": "Seeing things in the dark",
+       "img": [
+        0.174,
+        0.211,
+        0.51,
+        0.422
+       ],
+       "group": 1
+      },
+      {
+       "ur": "اپنے آپ کو گرم رکھنا",
+       "en": "Keeping ourselves warm",
+       "group": 0
+      },
+      {
+       "ur": "گھر کو روشن کرنا",
+       "en": "Lighting up the house",
+       "group": 1
+      },
+      {
+       "ur": "کپڑے استری کرنا",
+       "en": "Ironing clothes",
+       "group": 0
+      },
+      {
+       "ur": "رات کو کتاب پڑھنا",
+       "en": "Reading a book at night",
+       "group": 1
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "اگر ایک پودے کو کئی دن اندھیری الماری میں رکھ دیں تو کیا ہوگا؟",
+        "en": "What will happen if a plant is kept in a dark cupboard for many days?"
+       },
+       "options": [
+        {
+         "ur": "وہ زیادہ تیزی سے بڑھے گا",
+         "en": "It will grow faster"
+        },
+        {
+         "ur": "وہ مرجھانے لگے گا",
+         "en": "It will start to wilt"
+        },
+        {
+         "ur": "اس پر پھل لگ جائیں گے",
+         "en": "It will bear fruit"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "سورج کی روشنی پودوں اور فصلوں کی نشوونما کے لیے ضروری ہے۔ روشنی کے بغیر پودا مرجھا جاتا ہے۔",
+        "en": "Sunlight is necessary for the growth of plants and crops. Without light a plant wilts."
+       }
+      },
+      {
+       "q": {
+        "ur": "گیلے کپڑے دھوپ میں کیوں پھیلائے جاتے ہیں؟",
+        "en": "Why are wet clothes spread out in the sunshine?"
+       },
+       "options": [
+        {
+         "ur": "تاکہ ان کا رنگ بدل جائے",
+         "en": "So that their colour changes"
+        },
+        {
+         "ur": "تاکہ وہ اور گیلے ہو جائیں",
+         "en": "So that they get wetter"
+        },
+        {
+         "ur": "تاکہ سورج کی حرارت سے جلدی سوکھ جائیں",
+         "en": "So that they dry quickly in the sun's heat"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "سورج کی حرارت کپڑوں کا پانی سکھا دیتی ہے۔ یہ بھی حرارت کا ایک استعمال ہے۔",
+        "en": "The sun's heat dries the water in the clothes. This too is a use of heat."
+       }
+      },
+      {
+       "q": {
+        "ur": "سردیوں کی رات میں ہیٹر جلانے سے ہمیں کیا ملتا ہے؟",
+        "en": "What do we get from a heater on a winter night?"
+       },
+       "options": [
+        {
+         "ur": "حرارت، جو ہمیں گرم رکھتی ہے",
+         "en": "Heat, which keeps us warm"
+        },
+        {
+         "ur": "بارش",
+         "en": "Rain"
+        },
+        {
+         "ur": "ٹھنڈی ہوا",
+         "en": "Cold air"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "ہم اپنے آپ کو گرم رکھنے کے لیے حرارت کا استعمال کرتے ہیں۔",
+        "en": "We use heat to keep ourselves warm."
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p073-a2",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "بچوں کو دو گروپوں میں تقسیم کریں۔ ہر گروپ اپنے سکول کا دورہ کرے۔ ایک گروپ حرارت اور روشنی کے قدرتی ذرائع جب کہ دوسرا گروپ مصنوعی ذرائع کی فہرست بنائے اور کلاس روم میں پیش کرے۔",
+    "en": "Divide the children into two groups. Each group should tour its school. One group should list the natural sources of heat and light while the other group lists the artificial sources, and present them in the classroom."
+   },
+   "prompt": {
+    "ur": "اپنے سکول میں حرارت اور روشنی کے ذرائع ڈھونڈیں: کون سے قدرتی ہیں اور کون سے انسان نے بنائے ہیں؟",
+    "en": "Find the sources of heat and light in your school: which are natural and which are made by people?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "قدرتی ذریعہ",
+       "en": "Natural source",
+       "sym": "nature"
+      },
+      {
+       "ur": "انسان کا بنایا ہوا",
+       "en": "Made by people",
+       "sym": "factory"
+      }
+     ],
+     "items": [
+      {
+       "ur": "سورج",
+       "en": "Sun",
+       "sym": "sun",
+       "group": 0
+      },
+      {
+       "ur": "بلب",
+       "en": "Bulb",
+       "sym": "light bulb",
+       "group": 1
+      },
+      {
+       "ur": "چاند",
+       "en": "Moon",
+       "sym": "moon",
+       "group": 0
+      },
+      {
+       "ur": "ٹارچ",
+       "en": "Torch",
+       "sym": "flashlight",
+       "group": 1
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "do",
+     "steps": [
+      {
+       "ur": "جماعت کے دو گروپ بنائیں: ”قدرتی ذرائع“ اور ”مصنوعی ذرائع“۔",
+       "en": "Make two groups in the class: 'natural sources' and 'artificial sources'."
+      },
+      {
+       "ur": "استاد کے ساتھ سکول کا دورہ کریں: کمرے، برآمدہ، صحن، باورچی خانہ۔",
+       "en": "Tour the school with your teacher: rooms, veranda, courtyard, kitchen."
+      },
+      {
+       "ur": "جہاں سے روشنی یا حرارت ملتی ہو وہ چیز اپنی فہرست میں لکھیں یا اس کی تصویر بنائیں۔",
+       "en": "When you find something that gives light or heat, write it in your list or draw it."
+      },
+      {
+       "ur": "کلاس روم میں واپس آ کر اپنی فہرست سب کو سنائیں۔",
+       "en": "Come back to the classroom and present your list to everyone."
+      }
+     ],
+     "model": {
+      "ur": "قدرتی ذرائع: سورج (دھوپ)۔ رات کو چاند اور ستارے۔ مصنوعی ذرائع (انسان کے بنائے ہوئے): بلب، ٹیوب لائٹ، ٹارچ، موم بتّی، ہیٹر، گیس کا چولہا۔",
+      "en": "Natural sources: the sun (sunshine); at night the moon and stars. Artificial (man-made) sources: bulb, tube light, torch, candle, heater, gas stove."
+     },
+     "checklist": [
+      {
+       "ur": "ہمارے گروپ نے کم از کم تین ذرائع ڈھونڈے۔",
+       "en": "Our group found at least three sources."
+      },
+      {
+       "ur": "ہم نے ہر چیز صحیح فہرست میں لکھی۔",
+       "en": "We put each thing in the correct list."
+      },
+      {
+       "ur": "ہم نے اپنی فہرست جماعت کو سنائی۔",
+       "en": "We presented our list to the class."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "اپنے گھر میں روشنی اور حرارت کے ذرائع ڈھونڈیں۔",
+       "en": "Find the sources of light and heat in your home."
+      },
+      {
+       "ur": "دو فہرستیں بنائیں: ”قدرتی“ اور ”مصنوعی“۔",
+       "en": "Make two lists: 'natural' and 'artificial'."
+      },
+      {
+       "ur": "ہر چیز کے آگے لکھیں کہ وہ روشنی دیتی ہے، حرارت دیتی ہے یا دونوں۔",
+       "en": "Next to each thing write whether it gives light, heat or both."
+      },
+      {
+       "ur": "گن کر بتائیں: کون سی فہرست لمبی ہے؟ کیوں؟",
+       "en": "Count and say: which list is longer? Why?"
+      }
+     ],
+     "model": {
+      "ur": "قدرتی: سورج (روشنی اور حرارت دونوں)، چاند (روشنی)، ستارے (روشنی)۔ مصنوعی: بلب (روشنی)، موم بتّی (روشنی اور حرارت)، گیس کا چولہا (حرارت)، ہیٹر (حرارت)، ٹارچ (روشنی)۔ مصنوعی فہرست لمبی ہے کیوں کہ انسان نے اپنی ضرورت کے لیے بہت سی چیزیں بنائی ہیں۔",
+      "en": "Natural: sun (both light and heat), moon (light), stars (light). Artificial: bulb (light), candle (light and heat), gas stove (heat), heater (heat), torch (light). The artificial list is longer because people have made many things for their needs."
+     }
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "دو سوال یاد رکھیں: ”کیا یہ گرم کرتا ہے؟“ تو یہ حرارت ہے۔ ”کیا اس سے نظر آتا ہے؟“ تو یہ روشنی ہے۔",
+   "en": "Remember two questions: 'Does it make things warm?' — then it is heat. 'Does it help us see?' — then it is light."
+  },
+  {
+   "for": "vision",
+   "ur": "سکول کے دورے میں روشنی ڈھونڈنے کی جگہ حرارت ڈھونڈیں: دھوپ والی دیوار، کھڑکی کی گرم سِل اور سائے والی ٹھنڈی جگہ کو ہاتھ سے محسوس کریں (بلب یا چولہے کو ہاتھ نہ لگائیں)۔",
+   "en": "On the school tour look for heat instead of light: feel with your hand the sunny wall, the warm window sill and a cool shady spot (do not touch a bulb or stove)."
+  },
+  {
+   "for": "motor",
+   "ur": "دورے میں ہر گروپ ایسا راستہ چنے جس پر وہیل چیئر یا واکر والا ساتھی بھی ساتھ چل سکے۔ فہرست لکھنے کی جگہ بول کر بتائیں یا تصویروں پر انگلی رکھیں۔",
+   "en": "On the tour each group should choose a route that a classmate using a wheelchair or walker can also follow. Instead of writing the list, say it or point to pictures."
+  },
+  {
+   "for": "teacher",
+   "ur": "”قدرتی“ کو ”اللہ کا بنایا ہوا / خود بخود موجود“ اور ”مصنوعی“ کو ”انسان کا بنایا ہوا“ کہہ کر سمجھائیں۔ ہر گروپ میں لکھنے والا، ڈھونڈنے والا اور پیش کرنے والا الگ الگ بچہ ہو تاکہ ہر بچہ اپنی صلاحیت کے مطابق حصّہ لے۔ بچوں کو بجلی کے سوئچ اور چولہے سے دور رکھیں۔",
+   "en": "Explain 'natural' as 'made by Allah or already there' and 'artificial' as 'made by people'. In each group let different children be the writer, the finder and the presenter so everyone takes part according to their ability. Keep children away from electric switches and stoves."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "حرارت اور روشنی کے کام",
+   "en": "What heat and light do"
+  },
+  "image": {
+   "crop": [
+    0.52,
+    0.211,
+    0.857,
+    0.422
+   ],
+   "alt": {
+    "ur": "ایک خاتون چولہے پر کھانا پکا رہی ہیں۔",
+    "en": "A woman is cooking food on a stove."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Food cooks with heat.",
+    "words": [
+     {
+      "ur": "کھانا",
+      "sym": "food"
+     },
+     {
+      "ur": "حرارت",
+      "sym": "heat"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "پکتا ہے۔",
+      "sym": "to cook"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Food",
+      "sym": "food"
+     },
+     {
+      "en": "cooks",
+      "sym": "to cook"
+     },
+     {
+      "en": "with",
+      "sym": null
+     },
+     {
+      "en": "heat.",
+      "sym": "heat"
+     }
+    ]
+   },
+   {
+    "en": "Heat keeps us warm.",
+    "words": [
+     {
+      "ur": "حرارت",
+      "sym": "heat"
+     },
+     {
+      "ur": "ہمیں",
+      "sym": "we"
+     },
+     {
+      "ur": "گرم",
+      "sym": "hot"
+     },
+     {
+      "ur": "رکھتی ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Heat",
+      "sym": "heat"
+     },
+     {
+      "en": "keeps",
+      "sym": null
+     },
+     {
+      "en": "us",
+      "sym": "we"
+     },
+     {
+      "en": "warm.",
+      "sym": "hot"
+     }
+    ]
+   },
+   {
+    "en": "We see with light.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "روشنی",
+      "sym": "light"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "دیکھتے ہیں۔",
+      "sym": "to see"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "see",
+      "sym": "to see"
+     },
+     {
+      "en": "with",
+      "sym": null
+     },
+     {
+      "en": "light.",
+      "sym": "light"
+     }
+    ]
+   },
+   {
+    "en": "Plants need sunshine.",
+    "words": [
+     {
+      "ur": "پودوں",
+      "sym": "plant"
+     },
+     {
+      "ur": "کو",
+      "sym": null
+     },
+     {
+      "ur": "دھوپ",
+      "sym": "sun"
+     },
+     {
+      "ur": "چاہیے۔",
+      "sym": "to need"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Plants",
+      "sym": "plant"
+     },
+     {
+      "en": "need",
+      "sym": "to need"
+     },
+     {
+      "en": "sunshine.",
+      "sym": "sun"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح تصویر چنیں۔",
+    "en": "Choose the right picture."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "کھانا پکانے کے لیے کیا چاہیے؟",
+       "en": "What do we need to cook food?"
+      },
+      "options": [
+       {
+        "ur": "برف",
+        "en": "Ice",
+        "sym": "ice"
+       },
+       {
+        "ur": "آگ",
+        "en": "Fire",
+        "sym": "fire"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "کھانا آگ کی حرارت سے پکتا ہے۔",
+       "en": "Food is cooked by the heat of fire."
+      }
+     },
+     {
+      "q": {
+       "ur": "اندھیرے میں دیکھنے کے لیے کیا چاہیے؟",
+       "en": "What do we need to see in the dark?"
+      },
+      "options": [
+       {
+        "ur": "روشنی",
+        "en": "Light",
+        "img": [
+         0.174,
+         0.211,
+         0.51,
+         0.422
+        ]
+       },
+       {
+        "ur": "کمبل",
+        "en": "A blanket",
+        "sym": "blanket"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "دیکھنے کے لیے روشنی چاہیے۔",
+       "en": "We need light to see."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

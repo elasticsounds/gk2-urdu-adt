@@ -1,0 +1,650 @@
+{
+ "n": 22,
+ "printed": "18",
+ "chapter": 3,
+ "kind": "content",
+ "title": {
+  "ur": "شہریوں کے حقوق",
+  "en": "The rights of citizens"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "شہریوں کے حقوق",
+   "en": "The rights of citizens"
+  },
+  {
+   "t": "p",
+   "ur": "حکومت کا فرض ہے کہ وہ اپنے شہریوں کو اُن کی بنیادی سہولیات فراہم کرے۔",
+   "en": "It is the duty of the government to provide its citizens with their basic facilities."
+  },
+  {
+   "t": "p",
+   "ur": "ایک ذمّہ دار شہری کا فرض ہے کہ وہ تمام اداروں کا احترام کرے۔",
+   "en": "It is the duty of a responsible citizen to respect all institutions."
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.512,
+      0.268,
+      0.849,
+      0.416
+     ],
+     "alt": {
+      "ur": "ہسپتال کی سفید عمارت جس پر لال نشان اور HOSPITAL لکھا ہے؛ باہر درخت اور ایک ایمبولینس کھڑی ہے۔",
+      "en": "A white hospital building with a red sign and the word HOSPITAL on it; there are trees outside and an ambulance is parked there."
+     },
+     "cap": {
+      "ur": "علاج کے لیے ہسپتال",
+      "en": "Hospitals for treatment"
+     }
+    },
+    {
+     "crop": [
+      0.156,
+      0.268,
+      0.492,
+      0.419
+     ],
+     "alt": {
+      "ur": "سکول کی نارنجی عمارت؛ بستے پہنے چار بچے سکول کے سامنے سڑک پار کر رہے ہیں۔",
+      "en": "An orange school building; four children with school bags are crossing the road in front of it."
+     },
+     "cap": {
+      "ur": "تعلیم کے لیے سکول",
+      "en": "Schools for education"
+     }
+    },
+    {
+     "crop": [
+      0.502,
+      0.463,
+      0.845,
+      0.62
+     ],
+     "alt": {
+      "ur": "پولیس سٹیشن کی اینٹوں کی عمارت؛ دروازے کے دونوں طرف وردی پہنے دو پولیس والے کھڑے ہیں۔",
+      "en": "A brick police station building; two police officers in uniform stand on either side of the door."
+     },
+     "cap": {
+      "ur": "جرائم کی روک تھام کے لیے پولیس سٹیشن",
+      "en": "Police stations to prevent crime"
+     }
+    },
+    {
+     "crop": [
+      0.151,
+      0.463,
+      0.485,
+      0.616
+     ],
+     "alt": {
+      "ur": "عدالت کا کمرہ: جج اونچی میز کے پیچھے بیٹھا ہے، ایک وکیل کھڑا بات کر رہا ہے اور لوگ کرسیوں پر بیٹھے سن رہے ہیں۔",
+      "en": "A courtroom: the judge sits behind a high desk, a lawyer stands speaking, and people sit on chairs listening."
+     },
+     "cap": {
+      "ur": "انصاف کے لیے عدالتیں",
+      "en": "Courts for justice"
+     }
+    },
+    {
+     "crop": [
+      0.16,
+      0.688,
+      0.54,
+      0.849
+     ],
+     "alt": {
+      "ur": "ایک صاف، چوڑی سڑک جس کے دونوں طرف ہرے درخت اور پھول ہیں اور اس پر چند گاڑیاں چل رہی ہیں۔",
+      "en": "A clean, wide road with green trees and flowers on both sides and a few vehicles on it."
+     },
+     "cap": {
+      "ur": "آمد و رفت کے لیے سڑکیں",
+      "en": "Roads for travel"
+     }
+    }
+   ]
+  },
+  {
+   "t": "fact",
+   "ur": "ملک چلانے کے لیے لوگوں کو انتخابات کے ذریعے منتخب کیا جاتا ہے۔ منتخب شدہ لوگ مل کر \"حکومت\" بناتے ہیں۔",
+   "en": "People are chosen through elections to run the country. The people who are elected together form the \"government\"."
+  },
+  {
+   "t": "activity",
+   "id": "p022-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "(یہ مشق کتاب میں نہیں ہے۔ یہ اس صفحے کے سبق کو دہرانے کے لیے بنائی گئی ہے۔)",
+    "en": "This practice is not in the book. It has been added to revise the lesson on this page."
+   },
+   "prompt": {
+    "ur": "حکومت نے ہر ضرورت کے لیے ایک ادارہ بنایا ہے۔ ضرورت کو صحیح ادارے سے ملائیں۔",
+    "en": "The government has made an institution for each need. Match the need with the right institution."
+   },
+   "levels": {
+    "easy": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "علاج",
+        "en": "Treatment",
+        "sym": "sick"
+       },
+       "b": {
+        "ur": "ہسپتال",
+        "en": "Hospital",
+        "img": [
+         0.512,
+         0.268,
+         0.849,
+         0.416
+        ]
+       }
+      },
+      {
+       "a": {
+        "ur": "تعلیم",
+        "en": "Education",
+        "sym": "to study"
+       },
+       "b": {
+        "ur": "سکول",
+        "en": "School",
+        "img": [
+         0.156,
+         0.268,
+         0.492,
+         0.419
+        ]
+       }
+      },
+      {
+       "a": {
+        "ur": "آمد و رفت",
+        "en": "Travel",
+        "sym": "car"
+       },
+       "b": {
+        "ur": "سڑک",
+        "en": "Road",
+        "img": [
+         0.16,
+         0.688,
+         0.54,
+         0.849
+        ]
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "علاج کے لیے",
+        "en": "For treatment"
+       },
+       "b": {
+        "ur": "ہسپتال",
+        "en": "Hospital",
+        "img": [
+         0.512,
+         0.268,
+         0.849,
+         0.416
+        ]
+       }
+      },
+      {
+       "a": {
+        "ur": "تعلیم کے لیے",
+        "en": "For education"
+       },
+       "b": {
+        "ur": "سکول",
+        "en": "School",
+        "img": [
+         0.156,
+         0.268,
+         0.492,
+         0.419
+        ]
+       }
+      },
+      {
+       "a": {
+        "ur": "جرائم کی روک تھام کے لیے",
+        "en": "To prevent crime"
+       },
+       "b": {
+        "ur": "پولیس سٹیشن",
+        "en": "Police station",
+        "img": [
+         0.502,
+         0.463,
+         0.845,
+         0.62
+        ]
+       }
+      },
+      {
+       "a": {
+        "ur": "انصاف کے لیے",
+        "en": "For justice"
+       },
+       "b": {
+        "ur": "عدالتیں",
+        "en": "Courts",
+        "img": [
+         0.151,
+         0.463,
+         0.485,
+         0.616
+        ]
+       }
+      },
+      {
+       "a": {
+        "ur": "آمد و رفت کے لیے",
+        "en": "For travel"
+       },
+       "b": {
+        "ur": "سڑکیں",
+        "en": "Roads",
+        "img": [
+         0.16,
+         0.688,
+         0.54,
+         0.849
+        ]
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "دو لوگوں میں زمین کا جھگڑا ہے۔ فیصلہ اور انصاف کہاں ملے گا؟",
+        "en": "Two people are quarrelling over land. Where will they get a decision and justice?"
+       },
+       "options": [
+        {
+         "ur": "ہسپتال میں",
+         "en": "In a hospital"
+        },
+        {
+         "ur": "عدالت میں",
+         "en": "In a court"
+        },
+        {
+         "ur": "سکول میں",
+         "en": "In a school"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "انصاف کے لیے عدالتیں ہوتی ہیں۔",
+        "en": "Courts are for justice."
+       }
+      },
+      {
+       "q": {
+        "ur": "حکومت کیسے بنتی ہے؟",
+        "en": "How is the government formed?"
+       },
+       "options": [
+        {
+         "ur": "انتخابات میں منتخب ہونے والے لوگ مل کر بناتے ہیں",
+         "en": "The people chosen in elections form it together"
+        },
+        {
+         "ur": "سب سے امیر آدمی بناتا ہے",
+         "en": "The richest man forms it"
+        },
+        {
+         "ur": "پولیس بناتی ہے",
+         "en": "The police form it"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "لوگ انتخابات (ووٹ) کے ذریعے اپنے نمائندے چنتے ہیں؛ منتخب شدہ لوگ مل کر حکومت بناتے ہیں۔",
+        "en": "People choose their representatives by voting in elections; the people who are elected together form the government."
+       }
+      },
+      {
+       "q": {
+        "ur": "ایک ذمّہ دار شہری کا فرض کیا ہے؟",
+        "en": "What is the duty of a responsible citizen?"
+       },
+       "options": [
+        {
+         "ur": "سڑک پر کوڑا پھینکنا",
+         "en": "To throw rubbish on the road"
+        },
+        {
+         "ur": "سکول کی دیواروں پر لکھنا",
+         "en": "To write on school walls"
+        },
+        {
+         "ur": "تمام اداروں کا احترام کرنا",
+         "en": "To respect all institutions"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "کتاب کہتی ہے: ایک ذمّہ دار شہری کا فرض ہے کہ وہ تمام اداروں کا احترام کرے۔",
+        "en": "The book says that it is the duty of a responsible citizen to respect all institutions."
+       }
+      },
+      {
+       "q": {
+        "ur": "شہریوں کو بنیادی سہولیات فراہم کرنا کس کا فرض ہے؟",
+        "en": "Whose duty is it to provide basic facilities to citizens?"
+       },
+       "options": [
+        {
+         "ur": "بچوں کا",
+         "en": "Children's"
+        },
+        {
+         "ur": "حکومت کا",
+         "en": "The government's"
+        },
+        {
+         "ur": "دکان دار کا",
+         "en": "The shopkeeper's"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "حکومت کا فرض ہے کہ وہ اپنے شہریوں کو بنیادی سہولیات فراہم کرے۔",
+        "en": "It is the government's duty to provide basic facilities to its citizens."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "ہر تصویر کے نیچے دو باتیں لکھی ہیں: ضرورت اور جگہ۔ جیسے \"علاج کے لیے — ہسپتال\"۔ ہر تصویر کے لیے پوچھیں: \"یہ جگہ کس کام کے لیے ہے؟\"",
+   "en": "Under each picture two things are written: the need and the place, like \"Hospitals for treatment\". For each picture ask: \"What is this place for?\""
+  },
+  {
+   "for": "vision",
+   "ur": "تصویروں کی تفصیل سنیں، پھر پانچوں اداروں کو انگلیوں پر گنیں: ہسپتال، سکول، پولیس سٹیشن، عدالت، سڑک۔ ہر ایک کی ایک آواز سوچیں (ایمبولینس کا سائرن، سکول کی گھنٹی، پولیس کی سیٹی)۔",
+   "en": "Listen to the descriptions of the pictures, then count the five institutions on your fingers: hospital, school, police station, court, road. Think of a sound for each one (an ambulance siren, a school bell, a police whistle)."
+  },
+  {
+   "for": "hearing",
+   "ur": "\"انتخابات\" اور \"انصاف\" جیسے مشکل الفاظ بورڈ پر لکھیں اور اشارے سے سمجھائیں: ووٹ ڈالنے کا اشارہ، ترازو کا اشارہ۔",
+   "en": "Write hard words like \"elections\" and \"justice\" on the board and explain them with gestures: the gesture for casting a vote, and the gesture for a pair of scales."
+  },
+  {
+   "for": "teacher",
+   "ur": "اگر ممکن ہو تو بچوں کو محلّے کے کسی ادارے (ڈسپنسری، ڈاک خانہ) کی سیر کروائیں یا اس کی تصویریں دکھائیں۔ ہر بچے سے پوچھیں کہ وہ ان میں سے کس جگہ گیا ہے؛ جواب اشارے یا تصویر چن کر بھی دیا جا سکتا ہے۔",
+   "en": "If possible, take the children to visit an institution in the neighbourhood (a dispensary or a post office), or show them pictures of it. Ask each child which of these places they have been to; they may also answer with a gesture or by choosing a picture."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "حکومت کی سہولیات",
+   "en": "Facilities from the government"
+  },
+  "image": {
+   "crop": [
+    0.512,
+    0.268,
+    0.849,
+    0.416
+   ],
+   "alt": {
+    "ur": "ہسپتال کی عمارت۔",
+    "en": "A hospital building."
+   }
+  },
+  "sentences": [
+   {
+    "en": "We get treatment in a hospital.",
+    "words": [
+     {
+      "ur": "ہسپتال",
+      "sym": "hospital"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "علاج",
+      "sym": "medicine"
+     },
+     {
+      "ur": "ہوتا ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "get treatment",
+      "sym": "medicine"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "a",
+      "sym": null
+     },
+     {
+      "en": "hospital.",
+      "sym": "hospital"
+     }
+    ]
+   },
+   {
+    "en": "We study in school.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "سکول",
+      "sym": "school"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "پڑھتے ہیں۔",
+      "sym": "to study"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "study",
+      "sym": "to study"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "school.",
+      "sym": "school"
+     }
+    ]
+   },
+   {
+    "en": "The police protect us.",
+    "words": [
+     {
+      "ur": "پولیس",
+      "sym": "police"
+     },
+     {
+      "ur": "ہماری",
+      "sym": "our"
+     },
+     {
+      "ur": "حفاظت",
+      "sym": "to protect"
+     },
+     {
+      "ur": "کرتی ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "police",
+      "sym": "police"
+     },
+     {
+      "en": "protect",
+      "sym": "to protect"
+     },
+     {
+      "en": "us.",
+      "sym": "our"
+     }
+    ]
+   },
+   {
+    "en": "Cars drive on the road.",
+    "words": [
+     {
+      "ur": "سڑک",
+      "sym": "road"
+     },
+     {
+      "ur": "پر",
+      "sym": null
+     },
+     {
+      "ur": "گاڑیاں",
+      "sym": "car"
+     },
+     {
+      "ur": "چلتی ہیں۔",
+      "sym": "to drive"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Cars",
+      "sym": "car"
+     },
+     {
+      "en": "drive",
+      "sym": "to drive"
+     },
+     {
+      "en": "on",
+      "sym": null
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "road.",
+      "sym": "road"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "تصویر کو اس کے کام سے ملائیں۔",
+    "en": "Match the picture with what it is for."
+   },
+   "task": {
+    "kind": "match",
+    "pairs": [
+     {
+      "a": {
+       "ur": "ہسپتال",
+       "en": "Hospital",
+       "img": [
+        0.512,
+        0.268,
+        0.849,
+        0.416
+       ]
+      },
+      "b": {
+       "ur": "علاج",
+       "en": "Treatment",
+       "sym": "sick"
+      }
+     },
+     {
+      "a": {
+       "ur": "سکول",
+       "en": "School",
+       "img": [
+        0.156,
+        0.268,
+        0.492,
+        0.419
+       ]
+      },
+      "b": {
+       "ur": "پڑھائی",
+       "en": "Studying",
+       "sym": "to study"
+      }
+     },
+     {
+      "a": {
+       "ur": "سڑک",
+       "en": "Road",
+       "img": [
+        0.16,
+        0.688,
+        0.54,
+        0.849
+       ]
+      },
+      "b": {
+       "ur": "گاڑی",
+       "en": "Car",
+       "sym": "car"
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

@@ -1,0 +1,350 @@
+{
+ "n": 6,
+ "printed": "2",
+ "chapter": 1,
+ "kind": "content",
+ "title": {
+  "ur": "ہمارا وطن پاکستان",
+  "en": "Our homeland Pakistan"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "ہمارا وطن پاکستان",
+   "en": "Our homeland Pakistan"
+  },
+  {
+   "t": "p",
+   "ur": "ہمارا وطن پاکستان ہے۔ یہ برِاعظم (Continent) ایشیا میں واقع ہے۔ پاکستان 14 اگست 1947ء کو وجود میں آیا۔ اس کا دارالحکومت اسلام آباد ہے۔",
+   "en": "Our homeland is Pakistan. It is in the continent of Asia. Pakistan came into being on 14 August 1947. Its capital is Islamabad."
+  },
+  {
+   "t": "p",
+   "ur": "سندھ، بلوچستان، خیبر پختون خوا اور پنجاب پاکستان کے چار صوبے ہیں۔ اس کے علاوہ گلگت بلتستان اور آزاد جموں و کشمیر بھی پاکستان کے زیرِ انتظام علاقے ہیں۔ آزاد جموں و کشمیر کا دارالحکومت مظفر آباد ہے جب کہ گلگت بلتستان کے دارالحکومت کا نام گلگت ہے۔",
+   "en": "Sindh, Balochistan, Khyber Pakhtunkhwa and Punjab are the four provinces of Pakistan. As well as these, Gilgit-Baltistan and Azad Jammu and Kashmir are areas administered by Pakistan. The capital of Azad Jammu and Kashmir is Muzaffarabad, while the capital of Gilgit-Baltistan is Gilgit."
+  },
+  {
+   "t": "p",
+   "ur": "رقبے کے لحاظ سے سب سے بڑا صوبہ بلوچستان ہے جب کہ آبادی کے لحاظ سے بڑا صوبہ پنجاب ہے۔",
+   "en": "By area, the biggest province is Balochistan, while by population the big province is Punjab."
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.17,
+    0.36,
+    0.81,
+    0.905
+   ],
+   "alt": {
+    "ur": "پاکستان کا رنگین نقشہ (انتظامی تقسیم)۔ بائیں طرف سب سے بڑا صوبہ بلوچستان ہے، نیچے دائیں سندھ، بیچ میں پنجاب، اوپر خیبر پختون خوا اور سب سے اوپر گلگت بلتستان اور آزاد جموں و کشمیر ہیں۔ پڑوسی ملک ایران، افغانستان، چین اور ہندوستان ہیں اور نیچے بحیرۂ عرب ہے۔ نقشے کے حصوں پر نام لکھے ہیں: عنوان، پیمانہ، سمتیں، حدود اور علامتی فہرست۔",
+    "en": "A coloured map of Pakistan showing its provinces and areas. On the left is the biggest province, Balochistan. Sindh is at the bottom right, Punjab is in the middle, Khyber Pakhtunkhwa is above, and Gilgit-Baltistan and Azad Jammu and Kashmir are at the very top. The neighbouring countries are Iran, Afghanistan, China and India, and the Arabian Sea is at the bottom. Labels name the parts of a map: title, scale, directions, boundaries and key."
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "چار صوبوں کے نام یاد رکھنے کے لیے چار انگلیاں گنیں: پنجاب، سندھ، خیبر پختون خوا، بلوچستان۔ پھر نقشے میں ہر صوبے کا رنگ ڈھونڈیں۔",
+   "en": "To remember the four provinces, count on four fingers: Punjab, Sindh, Khyber Pakhtunkhwa, Balochistan. Then find each province's colour on the map."
+  },
+  {
+   "for": "vision",
+   "ur": "نقشے کی وضاحت سنیں۔ کسی بڑے سے کہیں کہ گتے پر دھاگے یا گوند سے پاکستان کا اُبھرا ہوا نقشہ بنا دے تاکہ آپ انگلیوں سے صوبوں کی شکل محسوس کر سکیں۔",
+   "en": "Listen to the map description. Ask an adult to make a raised map of Pakistan on card with string or glue so you can feel the shapes of the provinces with your fingers."
+  },
+  {
+   "for": "cognitive",
+   "ur": "ایک وقت میں صرف ایک بات سیکھیں۔ پہلے: ’’ہمارا ملک پاکستان ہے۔‘‘ پھر: ’’دارالحکومت اسلام آباد ہے۔‘‘ پھر صوبوں کے نام۔",
+   "en": "Learn only one thing at a time. First: 'Our country is Pakistan.' Then: 'The capital is Islamabad.' Then the names of the provinces."
+  },
+  {
+   "for": "teacher",
+   "ur": "نقشے پر بچوں کو اپنا صوبہ اور شہر ڈھونڈنے دیں۔ بچے انگلی رکھ کر، نام بول کر یا اشارے سے بتا سکتے ہیں۔ ’’14 اگست‘‘ کو یومِ آزادی کی یادوں (جھنڈیاں، ترانہ) سے جوڑیں۔",
+   "en": "Let children find their own province and city on the map. They can point, say the name or sign. Link '14 August' with their memories of Independence Day (flags, the anthem)."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "پاکستان کا نقشہ",
+   "en": "The map of Pakistan"
+  },
+  "image": {
+   "crop": [
+    0.178,
+    0.397,
+    0.806,
+    0.903
+   ],
+   "alt": {
+    "ur": "پاکستان کا رنگین نقشہ جس میں چاروں صوبے الگ الگ رنگ میں ہیں۔",
+    "en": "A coloured map of Pakistan with the four provinces in different colours."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Pakistan is our homeland.",
+    "words": [
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "ہمارا",
+      "sym": "our"
+     },
+     {
+      "ur": "وطن",
+      "sym": "country"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Pakistan",
+      "sym": "Pakistan"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "our",
+      "sym": "our"
+     },
+     {
+      "en": "homeland.",
+      "sym": "country"
+     }
+    ]
+   },
+   {
+    "en": "This is the map of Pakistan.",
+    "words": [
+     {
+      "ur": "یہ",
+      "sym": "this"
+     },
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "نقشہ",
+      "sym": "map"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "This",
+      "sym": "this"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "the map",
+      "sym": "map"
+     },
+     {
+      "en": "of",
+      "sym": null
+     },
+     {
+      "en": "Pakistan.",
+      "sym": "Pakistan"
+     }
+    ]
+   },
+   {
+    "en": "Pakistan has four provinces.",
+    "words": [
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "کے",
+      "sym": null
+     },
+     {
+      "ur": "چار",
+      "sym": "four"
+     },
+     {
+      "ur": "صوبے",
+      "sym": "region"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Pakistan",
+      "sym": "Pakistan"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "four",
+      "sym": "four"
+     },
+     {
+      "en": "provinces.",
+      "sym": "region"
+     }
+    ]
+   },
+   {
+    "en": "Islamabad is the capital.",
+    "words": [
+     {
+      "ur": "اسلام آباد",
+      "sym": "city"
+     },
+     {
+      "ur": "دارالحکومت",
+      "sym": "capital city"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Islamabad",
+      "sym": "city"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "the capital.",
+      "sym": "capital city"
+     }
+    ]
+   },
+   {
+    "en": "Pakistan was made on 14 August.",
+    "words": [
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "14 اگست",
+      "sym": "calendar"
+     },
+     {
+      "ur": "کو",
+      "sym": null
+     },
+     {
+      "ur": "بنا۔",
+      "sym": "to make"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Pakistan",
+      "sym": "Pakistan"
+     },
+     {
+      "en": "was made",
+      "sym": "to make"
+     },
+     {
+      "en": "on",
+      "sym": null
+     },
+     {
+      "en": "14 August.",
+      "sym": "calendar"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "یہ کس ملک کا نقشہ ہے؟",
+       "en": "Which country's map is this?"
+      },
+      "options": [
+       {
+        "ur": "پاکستان",
+        "en": "Pakistan",
+        "sym": "Pakistan"
+       },
+       {
+        "ur": "چین",
+        "en": "China",
+        "sym": "China"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "شاباش! یہ ہمارے وطن پاکستان کا نقشہ ہے۔",
+       "en": "Well done! This is the map of our homeland, Pakistan."
+      },
+      "img": [
+       0.178,
+       0.397,
+       0.806,
+       0.903
+      ]
+     },
+     {
+      "q": {
+       "ur": "پاکستان کے کتنے صوبے ہیں؟",
+       "en": "How many provinces does Pakistan have?"
+      },
+      "options": [
+       {
+        "ur": "دو",
+        "en": "Two",
+        "sym": "two"
+       },
+       {
+        "ur": "چار",
+        "en": "Four",
+        "sym": "four"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "پاکستان کے چار صوبے ہیں: پنجاب، سندھ، خیبر پختون خوا اور بلوچستان۔",
+       "en": "Pakistan has four provinces: Punjab, Sindh, Khyber Pakhtunkhwa and Balochistan."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": false
+}

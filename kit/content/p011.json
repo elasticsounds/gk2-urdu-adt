@@ -1,0 +1,427 @@
+{
+ "n": 11,
+ "printed": "7",
+ "chapter": 1,
+ "kind": "content",
+ "title": {
+  "ur": "صوبہ بلوچستان اور آزاد جموں و کشمیر",
+  "en": "Balochistan province and Azad Jammu and Kashmir"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "صوبہ بلوچستان",
+   "en": "Balochistan province"
+  },
+  {
+   "t": "p",
+   "ur": "رقبے کے لحاظ سے یہ پاکستان کا سب سے بڑا صوبہ ہے۔ بلوچستان میں بلوچی، پشتو اور براہوی زبانیں بولی جاتی ہیں۔ مردوں کا لباس شلوار قمیص اور پگڑی ہیں جب کہ عورتیں کڑھائی والا کُرتا اور شلوار پہنتی ہیں۔ بلوچستان کا خاص کھانا سجّی اور کھڈی کباب ہیں۔",
+   "en": "By area, this is the biggest province of Pakistan. The Balochi, Pashto and Brahui languages are spoken in Balochistan. Men's dress is shalwar qameez and a turban, while women wear an embroidered kurta and shalwar. The special foods of Balochistan are sajji and khaddi kabab."
+  },
+  {
+   "t": "p",
+   "ur": "کوئٹہ بلوچستان کا دارالحکومت ہے۔ یہاں کا خشک میوہ بہت مشہور ہے۔",
+   "en": "Quetta is the capital of Balochistan. The dry fruit from here is very famous."
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.1,
+    0.18,
+    0.435,
+    0.375
+   ],
+   "alt": {
+    "ur": "زیارت میں قائداعظم کی رہائش گاہ: لکڑی کی دو منزلہ سبز عمارت جس کے سامنے سیڑھیاں ہیں اور اردگرد زمین پر برف پڑی ہے۔",
+    "en": "The residence of the Quaid-e-Azam in Ziarat: a green, two-storey wooden building with steps in front and snow on the ground around it."
+   },
+   "cap": {
+    "ur": "زیارت میں قائداعظم محمد علی جناح رحمۃ اللہ علیہ کی رہائش گاہ (تفریحی مقام)",
+    "en": "The residence of Quaid-e-Azam Muhammad Ali Jinnah (may Allah have mercy on him) in Ziarat, a holiday spot"
+   }
+  },
+  {
+   "t": "fact",
+   "ur": "\"بلوچی چاپ\" اور \"اتن\" بلوچستان کا مشہور رقص ہے۔",
+   "en": "\"Balochi Chaap\" and \"Attan\" are the famous dances of Balochistan."
+  },
+  {
+   "t": "h",
+   "ur": "آزاد جموں و کشمیر",
+   "en": "Azad Jammu and Kashmir"
+  },
+  {
+   "t": "p",
+   "ur": "آزاد جموں و کشمیر پاکستان کے زیرِ انتظام علاقہ ہے۔ مظفر آباد آزاد جموں و کشمیر کا دارالحکومت ہے۔ یہاں پہاڑی، ہندکو، گوجری اور کشمیری زبانیں بولی جاتی ہیں۔",
+   "en": "Azad Jammu and Kashmir is an area administered by Pakistan. Muzaffarabad is the capital of Azad Jammu and Kashmir. The Pahari, Hindko, Gojri and Kashmiri languages are spoken here."
+  },
+  {
+   "t": "p",
+   "ur": "کشمیر کے لوگوں کی پسندیدہ خوراک چاول، کشمیری کُلچہ اور کشمیری چائے ہے۔ یہاں کے مرد اور خواتین دونوں پیرہن پہنتے ہیں۔",
+   "en": "The favourite foods of the people of Kashmir are rice, Kashmiri kulcha and Kashmiri tea. Both men and women here wear the pheran."
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.1,
+    0.545,
+    0.487,
+    0.762
+   ],
+   "alt": {
+    "ur": "اوپر سے لی گئی مظفر آباد شہر کی تصویر: سڑکیں، ایک پُل، سفید عمارتیں اور چاروں طرف سرسبز پہاڑ۔",
+    "en": "A picture of the city of Muzaffarabad taken from above: roads, a bridge, white buildings and green mountains all around."
+   },
+   "cap": {
+    "ur": "مظفر آباد، آزاد جموں و کشمیر",
+    "en": "Muzaffarabad, Azad Jammu and Kashmir"
+   }
+  },
+  {
+   "t": "fact",
+   "ur": "آزاد جموں و کشمیر کی اپنی حکومت ہے اور یہ پاکستان کے زیرِ انتظام علاقہ ہے۔",
+   "en": "Azad Jammu and Kashmir has its own government, and it is an area administered by Pakistan."
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "اس صفحے پر دو جگہیں ہیں۔ پہلے بلوچستان پڑھیں (دارالحکومت کوئٹہ، کھانا سجّی)، تھوڑا رکیں، پھر آزاد جموں و کشمیر پڑھیں (دارالحکومت مظفر آباد، کشمیری چائے)۔",
+   "en": "There are two places on this page. First read about Balochistan (its capital is Quetta and its food is sajji). Pause for a little while. Then read about Azad Jammu and Kashmir (its capital is Muzaffarabad and it has Kashmiri tea)."
+  },
+  {
+   "for": "cognitive",
+   "ur": "’’سب سے بڑا صوبہ‘‘ یاد رکھنے کے لیے پچھلے نقشے میں سب سے بڑا رنگین حصہ ڈھونڈیں — وہ بلوچستان ہے۔ ایک وقت میں صرف ایک جگہ کے بارے میں سیکھیں۔",
+   "en": "To remember 'the biggest province', find the biggest coloured part on the map you saw earlier. That is Balochistan. Learn about only one place at a time."
+  },
+  {
+   "for": "vision",
+   "ur": "تصویروں کی وضاحت سنیں۔ خشک میوہ (بادام، کشمش، اخروٹ) ہاتھ میں لے کر چھوئیں، سونگھیں اور چکھیں — یہ بلوچستان کی مشہور چیز ہے۔",
+   "en": "Listen to the picture descriptions. Hold some dry fruit (almonds, raisins, walnuts) in your hand, then touch, smell and taste it. Balochistan is famous for it."
+  },
+  {
+   "for": "teacher",
+   "ur": "بچوں کو بتائیں کہ قائداعظم نے اپنی زندگی کے آخری دن زیارت میں گزارے۔ ہر جگہ کے لیے ایک چیز میز پر رکھیں (خشک میوہ = بلوچستان، چائے کی پیالی = کشمیر) تاکہ بچے چیز دیکھ کر یا چھو کر جگہ کا نام بتا سکیں۔",
+   "en": "Tell the children that the Quaid-e-Azam spent the last days of his life in Ziarat. Put one object on the table for each place (dry fruit for Balochistan, a cup of tea for Kashmir) so the children can name the place by looking at the object or touching it."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "بلوچستان اور آزاد کشمیر",
+   "en": "Balochistan and Azad Kashmir"
+  },
+  "image": {
+   "crop": [
+    0.1,
+    0.18,
+    0.435,
+    0.375
+   ],
+   "alt": {
+    "ur": "زیارت میں قائداعظم کی سبز رنگ کی رہائش گاہ۔",
+    "en": "The green residence of the Quaid-e-Azam in Ziarat."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Balochistan is the biggest province.",
+    "words": [
+     {
+      "ur": "بلوچستان",
+      "sym": "map"
+     },
+     {
+      "ur": "سب سے بڑا",
+      "sym": "big"
+     },
+     {
+      "ur": "صوبہ",
+      "sym": "region"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Balochistan",
+      "sym": "map"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "the biggest",
+      "sym": "big"
+     },
+     {
+      "en": "province.",
+      "sym": "region"
+     }
+    ]
+   },
+   {
+    "en": "Quetta is the big city of Balochistan.",
+    "words": [
+     {
+      "ur": "کوئٹہ",
+      "sym": "city"
+     },
+     {
+      "ur": "بلوچستان",
+      "sym": "map"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "بڑا",
+      "sym": "big"
+     },
+     {
+      "ur": "شہر",
+      "sym": "city"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Quetta",
+      "sym": "city"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "the big",
+      "sym": "big"
+     },
+     {
+      "en": "city",
+      "sym": "city"
+     },
+     {
+      "en": "of",
+      "sym": null
+     },
+     {
+      "en": "Balochistan.",
+      "sym": "map"
+     }
+    ]
+   },
+   {
+    "en": "The dry fruit here is famous.",
+    "words": [
+     {
+      "ur": "یہاں",
+      "sym": "here"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "خشک میوہ",
+      "sym": "nuts"
+     },
+     {
+      "ur": "مشہور",
+      "sym": "famous"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The dry fruit",
+      "sym": "nuts"
+     },
+     {
+      "en": "here",
+      "sym": "here"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "famous.",
+      "sym": "famous"
+     }
+    ]
+   },
+   {
+    "en": "Muzaffarabad is a city of Azad Kashmir.",
+    "words": [
+     {
+      "ur": "مظفر آباد",
+      "img": [
+       0.1,
+       0.545,
+       0.487,
+       0.762
+      ]
+     },
+     {
+      "ur": "آزاد کشمیر",
+      "sym": "map"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "شہر",
+      "sym": "city"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Muzaffarabad",
+      "img": [
+       0.1,
+       0.545,
+       0.487,
+       0.762
+      ]
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "a city",
+      "sym": "city"
+     },
+     {
+      "en": "of",
+      "sym": null
+     },
+     {
+      "en": "Azad Kashmir.",
+      "sym": "map"
+     }
+    ]
+   },
+   {
+    "en": "People of Kashmir drink Kashmiri tea.",
+    "words": [
+     {
+      "ur": "کشمیر",
+      "sym": "mountain"
+     },
+     {
+      "ur": "کے",
+      "sym": null
+     },
+     {
+      "ur": "لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "کشمیری چائے",
+      "sym": "tea"
+     },
+     {
+      "ur": "پیتے ہیں۔",
+      "sym": "to drink"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "People",
+      "sym": "people"
+     },
+     {
+      "en": "of",
+      "sym": null
+     },
+     {
+      "en": "Kashmir",
+      "sym": "mountain"
+     },
+     {
+      "en": "drink",
+      "sym": "to drink"
+     },
+     {
+      "en": "Kashmiri tea.",
+      "sym": "tea"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "پاکستان کا سب سے بڑا صوبہ کون سا ہے؟",
+       "en": "Which is the biggest province of Pakistan?"
+      },
+      "options": [
+       {
+        "ur": "بلوچستان",
+        "en": "Balochistan",
+        "sym": "big"
+       },
+       {
+        "ur": "سندھ",
+        "en": "Sindh",
+        "sym": "small"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "رقبے کے لحاظ سے بلوچستان پاکستان کا سب سے بڑا صوبہ ہے۔",
+       "en": "By area, Balochistan is the biggest province of Pakistan."
+      }
+     },
+     {
+      "q": {
+       "ur": "بلوچستان کی کون سی چیز بہت مشہور ہے؟",
+       "en": "Which thing from Balochistan is very famous?"
+      },
+      "options": [
+       {
+        "ur": "مچھلی",
+        "en": "Fish",
+        "sym": "fish"
+       },
+       {
+        "ur": "خشک میوہ",
+        "en": "Dry fruit",
+        "sym": "nuts"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "بلوچستان کا خشک میوہ بہت مشہور ہے۔",
+       "en": "The dry fruit of Balochistan is very famous."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": false
+}

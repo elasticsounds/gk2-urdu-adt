@@ -1,0 +1,510 @@
+{
+ "n": 78,
+ "printed": "74",
+ "chapter": 12,
+ "kind": "content",
+ "title": {
+  "ur": "باہمی انحصار",
+  "en": "Depending on one another"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "باہمی انحصار",
+   "en": "Depending on one another"
+  },
+  {
+   "t": "p",
+   "ur": "روزمرہ زندگی میں انسان ایک دوسرے پر انحصار کرتے ہیں۔ ہمیں اپنے گھر کی بجلی ٹھیک کروانے کے لیے الیکٹریشن کی خدمات لینا پڑتی ہیں۔ اسی طرح پانی کا نلکا لگوانے کے لیے پلمبر اور گھر کی تعمیر میں مزدوروں اور کاریگروں کی ضرورت پڑتی ہے۔",
+   "en": "In daily life people depend on one another. To get the electricity in our home repaired, we need the services of an electrician. In the same way, we need a plumber to fit a water tap, and labourers and craftsmen to build a house."
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.182,
+      0.148,
+      0.553,
+      0.379
+     ],
+     "alt": {
+      "ur": "دو آدمی پانی کی موٹر کے پاس بیٹھ کر پائپ جوڑ رہے ہیں۔ یہ پلمبر کا کام ہے۔",
+      "en": "Two men sit beside a water pump joining a pipe. This is a plumber's work."
+     }
+    },
+    {
+     "crop": [
+      0.542,
+      0.385,
+      0.857,
+      0.584
+     ],
+     "alt": {
+      "ur": "مزدور اور کاریگر بانسوں کے مچان پر کھڑے ہو کر اینٹوں کی دیوار بنا رہے ہیں۔",
+      "en": "Labourers and masons stand on bamboo scaffolding building a brick wall."
+     }
+    },
+    {
+     "crop": [
+      0.182,
+      0.385,
+      0.538,
+      0.584
+     ],
+     "alt": {
+      "ur": "ٹوپی پہنے ایک کاریگر اوزار سے بجلی کی ایک مشین کی تاریں ٹھیک کر رہا ہے اور دو لوگ اسے دیکھ رہے ہیں۔",
+      "en": "A workman in a cap repairs the wires of an electrical machine with a tool while two people watch."
+     }
+    }
+   ]
+  },
+  {
+   "t": "h",
+   "ur": "مشق",
+   "en": "Exercise"
+  },
+  {
+   "t": "activity",
+   "id": "p078-a1",
+   "label": {
+    "ur": "سوال نمبر 1",
+    "en": "Question 1"
+   },
+   "orig": {
+    "ur": "کالم \"الف\" کو کالم \"ب\" سے ملائیں۔ کالم \"الف\": طبیعت خراب ہونے پر، دوسروں کی مدد کرنا، مل جل کر رہنے سے، گھر بنانے کے لیے۔ کالم \"ب\": اپنائیت بڑھتی ہے۔ مزدور کی مدد لینا پڑتی ہے۔ ڈاکٹر کی مدد لیتے ہیں۔ اچھی عادت ہے۔",
+    "en": "Match column A with column B. Column A: When we feel unwell,; Helping others; By living together,; To build a house, Column B: we grow closer.; we need a labourer's help.; we get help from a doctor.; is a good habit."
+   },
+   "prompt": {
+    "ur": "ہر جملے کا پہلا حصہ اس کے صحیح دوسرے حصے سے ملائیں۔",
+    "en": "Match the first part of each sentence with its correct second part."
+   },
+   "levels": {
+    "easy": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "بجلی خراب ہے",
+        "en": "The electricity is not working",
+        "sym": "light bulb"
+       },
+       "b": {
+        "ur": "الیکٹریشن",
+        "en": "Electrician",
+        "sym": "electrician"
+       }
+      },
+      {
+       "a": {
+        "ur": "نلکا لگوانا ہے",
+        "en": "A tap has to be fitted",
+        "sym": "tap"
+       },
+       "b": {
+        "ur": "پلمبر",
+        "en": "Plumber",
+        "sym": "plumber"
+       }
+      },
+      {
+       "a": {
+        "ur": "طبیعت خراب ہے",
+        "en": "I feel unwell",
+        "sym": "sick"
+       },
+       "b": {
+        "ur": "ڈاکٹر",
+        "en": "Doctor",
+        "sym": "doctor"
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "طبیعت خراب ہونے پر",
+        "en": "When we feel unwell,"
+       },
+       "b": {
+        "ur": "ڈاکٹر کی مدد لیتے ہیں۔",
+        "en": "we get help from a doctor."
+       }
+      },
+      {
+       "a": {
+        "ur": "دوسروں کی مدد کرنا",
+        "en": "Helping others"
+       },
+       "b": {
+        "ur": "اچھی عادت ہے۔",
+        "en": "is a good habit."
+       }
+      },
+      {
+       "a": {
+        "ur": "مل جل کر رہنے سے",
+        "en": "By living together,"
+       },
+       "b": {
+        "ur": "اپنائیت بڑھتی ہے۔",
+        "en": "we grow closer."
+       }
+      },
+      {
+       "a": {
+        "ur": "گھر بنانے کے لیے",
+        "en": "To build a house,"
+       },
+       "b": {
+        "ur": "مزدور کی مدد لینا پڑتی ہے۔",
+        "en": "we need a labourer's help."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "گھر کی بجلی ٹھیک کروانے کے لیے ہم کس کی خدمات لیتے ہیں؟",
+        "en": "Whose services do we use to get the electricity at home repaired?"
+       },
+       "options": [
+        {
+         "ur": "پلمبر",
+         "en": "Plumber"
+        },
+        {
+         "ur": "مزدور",
+         "en": "Labourer"
+        },
+        {
+         "ur": "الیکٹریشن",
+         "en": "Electrician"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "بجلی کا کام الیکٹریشن کرتا ہے۔",
+        "en": "An electrician does electrical work."
+       }
+      },
+      {
+       "q": {
+        "ur": "پانی کا نلکا کون لگاتا ہے؟",
+        "en": "Who fits a water tap?"
+       },
+       "options": [
+        {
+         "ur": "پلمبر",
+         "en": "Plumber"
+        },
+        {
+         "ur": "ڈاکٹر",
+         "en": "Doctor"
+        },
+        {
+         "ur": "الیکٹریشن",
+         "en": "Electrician"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "پانی کے نلکے اور پائپ کا کام پلمبر کرتا ہے۔",
+        "en": "A plumber works on water taps and pipes."
+       }
+      },
+      {
+       "q": {
+        "ur": "“ایک دوسرے پر انحصار کرنا” کا کیا مطلب ہے؟",
+        "en": "What does “depending on one another” mean?"
+       },
+       "options": [
+        {
+         "ur": "سب کام اکیلے کرنا",
+         "en": "Doing all the work alone"
+        },
+        {
+         "ur": "ہمیں ایک دوسرے کی ضرورت پڑتی ہے",
+         "en": "We need one another"
+        },
+        {
+         "ur": "کسی سے بات نہ کرنا",
+         "en": "Not talking to anyone"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "کوئی بھی انسان سارے کام اکیلا نہیں کر سکتا۔ ہمیں ایک دوسرے کی ضرورت پڑتی ہے۔",
+        "en": "No one can do every job alone. We need one another."
+       }
+      },
+      {
+       "q": {
+        "ur": "مزدور اور کاریگر ہمارا گھر بناتے ہیں۔ ہم ان کے لیے کیا کرتے ہیں؟",
+        "en": "Labourers and craftsmen build our house. What do we do for them?"
+       },
+       "options": [
+        {
+         "ur": "انھیں ان کے کام کی مزدوری دیتے ہیں اور ان کی عزت کرتے ہیں",
+         "en": "We pay them for their work and respect them"
+        },
+        {
+         "ur": "کچھ نہیں",
+         "en": "Nothing"
+        },
+        {
+         "ur": "ان سے ناراض ہوتے ہیں",
+         "en": "We get angry with them"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "وہ ہمارا کام کرتے ہیں اور ہم انھیں مزدوری دیتے ہیں۔ یوں دونوں ایک دوسرے پر انحصار کرتے ہیں۔",
+        "en": "They do our work and we pay them. In this way both depend on each other."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "ہر تصویر کے لیے پوچھیں: یہ کون ہے اور ہمارے لیے کیا کام کرتا ہے؟ ملانے والے سوال میں پہلے وہ جوڑا ملائیں جو آپ کو پکا آتا ہے۔",
+   "en": "For each photo ask: who is this and what work do they do for us? In the matching question, first match the pair you are sure about."
+  },
+  {
+   "for": "vision",
+   "ur": "تصویروں کی تفصیل سنیں: پلمبر پائپ جوڑ رہا ہے، مزدور اینٹوں کی دیوار بنا رہے ہیں، کاریگر بجلی کی مشین ٹھیک کر رہا ہے۔ گھر میں نلکے اور بجلی کے بٹن کو چھو کر دیکھیں۔",
+   "en": "Listen to the photo descriptions: a plumber joins a pipe, labourers build a brick wall, a workman repairs an electrical machine. At home, feel a tap and a light switch with your hands."
+  },
+  {
+   "for": "cognitive",
+   "ur": "ایک وقت میں صرف ایک جوڑا ملائیں۔ یاد رکھیں: بیمار — ڈاکٹر، گھر — مزدور۔",
+   "en": "Match only one pair at a time. Remember: sick — doctor, house — labourer."
+  },
+  {
+   "for": "teacher",
+   "ur": "“کون مدد کرتا ہے؟” کا کھیل کھیلیں: آپ مسئلہ بتائیں (نلکا ٹپک رہا ہے) اور بچے مدد کرنے والے کا نام بولیں، تصویری کارڈ اٹھائیں یا اس کام کی اداکاری کریں۔",
+   "en": "Play “Who helps?”: you name a problem (the tap is dripping) and children say the helper's name, hold up a picture card or mime the job."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "ہمیں ایک دوسرے کی ضرورت ہے",
+   "en": "We need one another"
+  },
+  "image": {
+   "crop": [
+    0.542,
+    0.385,
+    0.857,
+    0.584
+   ],
+   "alt": {
+    "ur": "مزدور اینٹوں سے گھر کی دیوار بنا رہے ہیں۔",
+    "en": "Labourers are building the wall of a house with bricks."
+   }
+  },
+  "sentences": [
+   {
+    "en": "We need one another.",
+    "words": [
+     {
+      "ur": "ہمیں",
+      "sym": "we"
+     },
+     {
+      "ur": "ایک دوسرے کی",
+      "sym": "together"
+     },
+     {
+      "ur": "ضرورت",
+      "sym": "to need"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "need",
+      "sym": "to need"
+     },
+     {
+      "en": "one another.",
+      "sym": "together"
+     }
+    ]
+   },
+   {
+    "en": "The labourer builds the house.",
+    "words": [
+     {
+      "ur": "مزدور",
+      "sym": "builder"
+     },
+     {
+      "ur": "گھر",
+      "sym": "house"
+     },
+     {
+      "ur": "بناتا ہے۔",
+      "sym": "to build"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The labourer",
+      "sym": "builder"
+     },
+     {
+      "en": "builds",
+      "sym": "to build"
+     },
+     {
+      "en": "the house.",
+      "sym": "house"
+     }
+    ]
+   },
+   {
+    "en": "The plumber fits the tap.",
+    "words": [
+     {
+      "ur": "پلمبر",
+      "sym": "plumber"
+     },
+     {
+      "ur": "نلکا",
+      "sym": "tap"
+     },
+     {
+      "ur": "لگاتا ہے۔",
+      "sym": "to repair"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The plumber",
+      "sym": "plumber"
+     },
+     {
+      "en": "fits",
+      "sym": "to repair"
+     },
+     {
+      "en": "the tap.",
+      "sym": "tap"
+     }
+    ]
+   },
+   {
+    "en": "The electrician repairs the electricity.",
+    "words": [
+     {
+      "ur": "الیکٹریشن",
+      "sym": "electrician"
+     },
+     {
+      "ur": "بجلی",
+      "sym": "electricity"
+     },
+     {
+      "ur": "ٹھیک کرتا ہے۔",
+      "sym": "to repair"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The electrician",
+      "sym": "electrician"
+     },
+     {
+      "en": "repairs",
+      "sym": "to repair"
+     },
+     {
+      "en": "the electricity.",
+      "sym": "electricity"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "گھر کون بناتا ہے؟",
+       "en": "Who builds a house?"
+      },
+      "options": [
+       {
+        "ur": "ڈاکٹر",
+        "en": "Doctor",
+        "sym": "doctor"
+       },
+       {
+        "ur": "مزدور",
+        "en": "Labourer",
+        "img": [
+         0.542,
+         0.385,
+         0.857,
+         0.584
+        ]
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "مزدور اور کاریگر گھر بناتے ہیں۔",
+       "en": "Labourers and craftsmen build houses."
+      }
+     },
+     {
+      "q": {
+       "ur": "بیمار ہوں تو کس کے پاس جاتے ہیں؟",
+       "en": "Who do we go to when we are ill?"
+      },
+      "options": [
+       {
+        "ur": "ڈاکٹر",
+        "en": "Doctor",
+        "sym": "doctor"
+       },
+       {
+        "ur": "پلمبر",
+        "en": "Plumber",
+        "sym": "plumber"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "طبیعت خراب ہونے پر ہم ڈاکٹر کی مدد لیتے ہیں۔",
+       "en": "When we feel unwell, we get help from a doctor."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

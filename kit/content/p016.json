@@ -1,0 +1,575 @@
+{
+ "n": 16,
+ "printed": "12",
+ "chapter": 2,
+ "kind": "content",
+ "title": {
+  "ur": "دیہاتی اور شہری زندگی میں فرق",
+  "en": "The difference between village life and city life"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "دیہاتی اور شہری زندگی میں فرق",
+   "en": "The difference between village life and city life"
+  },
+  {
+   "t": "h",
+   "ur": "شہری زندگی",
+   "en": "City life"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.518,
+      0.226,
+      0.882,
+      0.443
+     ],
+     "alt": {
+      "ur": "شہر کی ایک بہت اونچی، کئی منزلہ عمارت جو شام کے وقت روشنیوں سے چمک رہی ہے۔",
+      "en": "A very tall city building with many floors, shining with lights in the evening."
+     },
+     "cap": {
+      "ur": "اونچی عمارتیں",
+      "en": "Tall buildings"
+     }
+    },
+    {
+     "crop": [
+      0.521,
+      0.54,
+      0.884,
+      0.737
+     ],
+     "alt": {
+      "ur": "ایک دفتر جس میں بہت سے لوگ میزوں پر کمپیوٹر کے سامنے بیٹھے کام کر رہے ہیں۔",
+      "en": "An office where many people sit at desks working on computers."
+     },
+     "cap": {
+      "ur": "دفتر",
+      "en": "Office"
+     }
+    }
+   ]
+  },
+  {
+   "t": "h",
+   "ur": "دیہاتی زندگی",
+   "en": "Village life"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.139,
+      0.226,
+      0.497,
+      0.443
+     ],
+     "alt": {
+      "ur": "گاؤں میں مٹی سے بنے چھوٹے کچّے گھر، صحن میں ایک چارپائی اور پیچھے کھجور کے درخت۔",
+      "en": "Small mud houses in a village, with a rope bed in the yard and date palm trees behind."
+     },
+     "cap": {
+      "ur": "کچّے گھر",
+      "en": "Mud houses"
+     }
+    },
+    {
+     "crop": [
+      0.138,
+      0.54,
+      0.5,
+      0.737
+     ],
+     "alt": {
+      "ur": "ایک کسان ٹریکٹر سے کھیت میں ہل چلا رہا ہے؛ آس پاس ہرے درخت اور سفید پرندے ہیں۔",
+      "en": "A farmer is ploughing a field with a tractor; there are green trees and white birds nearby."
+     },
+     "cap": {
+      "ur": "کھیتی باڑی",
+      "en": "Farming"
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p016-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "بچے گروپ میں گاؤں اور شہر کی تصاویر سے دونوں کی اہم خصوصیات کا موازنہ کریں۔",
+    "en": "In groups, children compare the main features of a village and a city using the pictures."
+   },
+   "prompt": {
+    "ur": "تصویریں دیکھیں۔ گاؤں اور شہر میں کیا فرق ہے؟",
+    "en": "Look at the pictures. What is different between the village and the city?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "دیہات",
+       "en": "Village"
+      },
+      {
+       "ur": "شہر",
+       "en": "City"
+      }
+     ],
+     "items": [
+      {
+       "ur": "کچّے گھر",
+       "en": "Mud houses",
+       "group": 0,
+       "img": [
+        0.139,
+        0.226,
+        0.497,
+        0.443
+       ]
+      },
+      {
+       "ur": "اونچی عمارتیں",
+       "en": "Tall buildings",
+       "group": 1,
+       "img": [
+        0.518,
+        0.226,
+        0.882,
+        0.443
+       ]
+      },
+      {
+       "ur": "کھیتی باڑی",
+       "en": "Farming",
+       "group": 0,
+       "img": [
+        0.138,
+        0.54,
+        0.5,
+        0.737
+       ]
+      },
+      {
+       "ur": "دفتر",
+       "en": "Office",
+       "group": 1,
+       "img": [
+        0.521,
+        0.54,
+        0.884,
+        0.737
+       ]
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "دو یا تین دوستوں کے ساتھ بیٹھیں۔",
+       "en": "Sit with two or three friends."
+      },
+      {
+       "ur": "گھروں کی دو تصویریں دیکھیں: کچّے گھر اور اونچی عمارتیں۔ بتائیں کیا فرق ہے۔",
+       "en": "Look at the two pictures of homes: mud houses and tall buildings. Say what is different."
+      },
+      {
+       "ur": "کام کی دو تصویریں دیکھیں: کھیتی باڑی اور دفتر۔ بتائیں کیا فرق ہے۔",
+       "en": "Look at the two pictures of work: farming and an office. Say what is different."
+      },
+      {
+       "ur": "اپنے گروپ کی ایک بات پوری کلاس کو بتائیں۔",
+       "en": "Tell the whole class one thing your group found."
+      }
+     ],
+     "model": {
+      "ur": "دیہات میں گھر چھوٹے اور کچّے ہوتے ہیں، شہر میں عمارتیں اونچی اور پکّی ہوتی ہیں۔ دیہات میں لوگ کھیتی باڑی کرتے ہیں، شہر میں بہت سے لوگ دفتر میں کام کرتے ہیں۔",
+      "en": "In villages, houses are small and made of mud; in cities, buildings are tall and solid. In villages people farm; in cities many people work in offices."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے گھروں کا فرق بتایا۔",
+       "en": "I said how the homes are different."
+      },
+      {
+       "ur": "میں نے کام کا فرق بتایا۔",
+       "en": "I said how the work is different."
+      },
+      {
+       "ur": "میں نے دوستوں کی بات سنی۔",
+       "en": "I listened to my friends."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "دیہات کے لوگ زیادہ تر کون سا کام کرتے ہیں؟",
+        "en": "What work do most village people do?"
+       },
+       "options": [
+        {
+         "ur": "دفتر میں کام",
+         "en": "Office work"
+        },
+        {
+         "ur": "کھیتی باڑی",
+         "en": "Farming"
+        },
+        {
+         "ur": "کارخانے میں کام",
+         "en": "Factory work"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "تصویر میں دیہاتی زندگی کے نیچے \"کھیتی باڑی\" لکھا ہے۔ دیہات میں کھیت ہوتے ہیں۔",
+        "en": "In the picture, the caption under village life says \"Farming\". Villages have fields."
+       }
+      },
+      {
+       "q": {
+        "ur": "شہر میں عمارتیں اونچی کیوں بنائی جاتی ہیں؟",
+        "en": "Why are buildings built tall in cities?"
+       },
+       "options": [
+        {
+         "ur": "کیونکہ وہاں بہت لوگ رہتے اور کام کرتے ہیں اور جگہ کم ہوتی ہے",
+         "en": "Because many people live and work there and there is little space"
+        },
+        {
+         "ur": "کیونکہ وہاں کھیت بہت ہیں",
+         "en": "Because there are many fields there"
+        },
+        {
+         "ur": "کیونکہ وہاں مٹی نہیں ملتی",
+         "en": "Because there is no mud there"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "شہر میں بہت زیادہ لوگ ہوتے ہیں، اس لیے تھوڑی جگہ پر اونچی عمارتیں بنتی ہیں۔",
+        "en": "Cities have a great many people, so tall buildings are built on a small piece of land."
+       }
+      },
+      {
+       "q": {
+        "ur": "کچّا گھر کس چیز سے بنتا ہے؟",
+        "en": "What are the small village houses in the picture made of?"
+       },
+       "options": [
+        {
+         "ur": "شیشے سے",
+         "en": "Glass"
+        },
+        {
+         "ur": "لوہے سے",
+         "en": "Iron"
+        },
+        {
+         "ur": "مٹی سے",
+         "en": "Mud"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "کچّے گھر مٹی سے بنتے ہیں، جیسے تصویر میں نظر آ رہے ہیں۔",
+        "en": "These village houses are made of mud, as you can see in the picture."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "تصویریں جوڑوں میں دیکھیں: اوپر والی دونوں تصویریں \"رہنے کی جگہ\" ہیں، نیچے والی دونوں \"کام کی جگہ\" ہیں۔ دائیں طرف شہر ہے، بائیں طرف دیہات۔",
+   "en": "Look at the pictures in pairs: the top two pictures are places to live, and the bottom two are places to work. The city is on the right and the village is on the left."
+  },
+  {
+   "for": "vision",
+   "ur": "تصویروں کی تفصیل سنیں۔ پھر مٹی کا ایک ٹکڑا اور ایک پکّی اینٹ چھو کر دیکھیں، اور ٹریکٹر اور کمپیوٹر کے کی بورڈ کی آوازیں سن کر پہچانیں۔",
+   "en": "Listen to the descriptions of the pictures. Then touch a lump of clay and a baked brick, and listen to the sounds of a tractor and a computer keyboard and say which is which."
+  },
+  {
+   "for": "teacher",
+   "ur": "گروپ میں ہر بچے کو ایک کام دیں: ایک تصویر پر انگلی رکھے، ایک فرق بتائے، ایک اشارے سے (اونچا / چھوٹا) دکھائے۔ جو بچہ بول نہ سکے وہ تصویر کے کارڈ \"دیہات\" یا \"شہر\" کے ڈبے میں رکھے۔",
+   "en": "Give each child in the group a job: one puts a finger on a picture, one says a difference, one shows it with a gesture (tall or small). A child who cannot speak can put picture cards into a \"village\" box or a \"city\" box."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "دیہات اور شہر میں فرق",
+   "en": "Villages and cities are different"
+  },
+  "image": {
+   "crop": [
+    0.139,
+    0.226,
+    0.497,
+    0.443
+   ],
+   "alt": {
+    "ur": "گاؤں کے کچّے گھر۔",
+    "en": "Mud houses in a village."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Villages have mud houses.",
+    "words": [
+     {
+      "ur": "دیہات",
+      "sym": "village"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "کچّے",
+      "sym": "mud"
+     },
+     {
+      "ur": "گھر",
+      "sym": "house"
+     },
+     {
+      "ur": "ہوتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Villages",
+      "sym": "village"
+     },
+     {
+      "en": "have",
+      "sym": null
+     },
+     {
+      "en": "mud",
+      "sym": "mud"
+     },
+     {
+      "en": "houses.",
+      "sym": "house"
+     }
+    ]
+   },
+   {
+    "en": "The farmer works in the field.",
+    "words": [
+     {
+      "ur": "کسان",
+      "sym": "farmer"
+     },
+     {
+      "ur": "کھیت",
+      "sym": "field"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "کام کرتا ہے۔",
+      "sym": "to work"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "farmer",
+      "sym": "farmer"
+     },
+     {
+      "en": "works",
+      "sym": "to work"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "field.",
+      "sym": "field"
+     }
+    ]
+   },
+   {
+    "en": "Cities have tall buildings.",
+    "words": [
+     {
+      "ur": "شہر",
+      "sym": "city"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "اونچی",
+      "sym": "tall"
+     },
+     {
+      "ur": "عمارتیں",
+      "sym": "building"
+     },
+     {
+      "ur": "ہوتی ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Cities",
+      "sym": "city"
+     },
+     {
+      "en": "have",
+      "sym": null
+     },
+     {
+      "en": "tall",
+      "sym": "tall"
+     },
+     {
+      "en": "buildings.",
+      "sym": "building"
+     }
+    ]
+   },
+   {
+    "en": "People work in offices.",
+    "words": [
+     {
+      "ur": "لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "دفتر",
+      "sym": "office"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "کام کرتے ہیں۔",
+      "sym": "to work"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "People",
+      "sym": "people"
+     },
+     {
+      "en": "work",
+      "sym": "to work"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "offices.",
+      "sym": "office"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "ہر تصویر کو صحیح جگہ رکھیں: دیہات یا شہر؟",
+    "en": "Put each picture in the right place: village or city?"
+   },
+   "task": {
+    "kind": "sort",
+    "groups": [
+     {
+      "ur": "دیہات",
+      "en": "Village",
+      "sym": "village"
+     },
+     {
+      "ur": "شہر",
+      "en": "City",
+      "sym": "city"
+     }
+    ],
+    "items": [
+     {
+      "ur": "کچّے گھر",
+      "en": "Mud houses",
+      "group": 0,
+      "img": [
+       0.139,
+       0.226,
+       0.497,
+       0.443
+      ]
+     },
+     {
+      "ur": "اونچی عمارتیں",
+      "en": "Tall buildings",
+      "group": 1,
+      "img": [
+       0.518,
+       0.226,
+       0.882,
+       0.443
+      ]
+     },
+     {
+      "ur": "کھیتی باڑی",
+      "en": "Farming",
+      "group": 0,
+      "img": [
+       0.138,
+       0.54,
+       0.5,
+       0.737
+      ]
+     },
+     {
+      "ur": "دفتر",
+      "en": "Office",
+      "group": 1,
+      "img": [
+       0.521,
+       0.54,
+       0.884,
+       0.737
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

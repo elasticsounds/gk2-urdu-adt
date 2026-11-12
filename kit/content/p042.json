@@ -1,0 +1,95 @@
+{
+  "n": 42,
+  "printed": "38",
+  "chapter": 6,
+  "kind": "content",
+  "title": {"ur": "پانی ہمارے گھروں تک کیسے پہنچتا ہے؟", "en": "How does water reach our homes?"},
+  "blocks": [
+    {"t": "h", "ur": "پانی ہمارے گھروں تک کیسے پہنچتا ہے؟", "en": "How does water reach our homes?"},
+    {"t": "p", "ur": "گھروں میں استعمال ہونے والا پانی دو ذرائع سے حاصل ہوتا ہے۔", "en": "The water used in homes comes from two sources."},
+    {"t": "p", "ur": "زیرِ زمین: (کنویں، ٹیوب ویل وغیرہ)", "en": "Under the ground: wells, tube wells and so on."},
+    {"t": "p", "ur": "سطحِ زمین: (چشمہ، آبشار، ندی، دریاؤں، جھیل وغیرہ)", "en": "On the surface of the ground: springs, waterfalls, streams, rivers, lakes and so on."},
+    {"t": "p", "ur": "سطحِ زمین کا پانی فلٹریشن پلانٹ (Filtration Plant) سے صاف ہو کر پائپ لائن کے ذریعے ہمارے گھروں تک پہنچتا ہے۔", "en": "Surface water is cleaned at a filtration plant and then reaches our homes through a pipeline."},
+    {"t": "img", "crop": [0.145, 0.602, 0.880, 0.735],
+     "alt": {"ur": "خاکہ: بائیں طرف پانی کی بڑی نیلی ٹینکی ہے۔ اس سے پائپ تین فلٹر ٹینکوں اور پھر دو چھوٹے نیلے فلٹروں تک جاتا ہے۔ وہاں سے صاف پانی پائپ لائن کے ذریعے دائیں طرف گھر تک پہنچتا ہے۔", "en": "In this diagram there is a big blue water tank on the left. A pipe runs from it to three filter tanks and then to two small blue filters. From there the clean water travels through a pipeline to a house on the right."}},
+    {"t": "fact", "ur": "پانی کو چھاننا (Filtering) اور اُبالنا (Boiling) پانی کو صاف کرنے کے طریقے ہیں۔ بچو! کیا آپ نے اپنے اردگرد کوئی فلٹریشن پلانٹ دیکھا ہے؟ اس فلٹریشن پلانٹ کے ذریعے ہم زیادہ مقدار میں پانی صاف کرتے ہیں۔", "en": "Filtering and boiling water are ways of cleaning water. Children! Have you seen a filtration plant anywhere near you? With such a filtration plant we clean a large amount of water."},
+    {"t": "activity",
+     "id": "p042-a1",
+     "label": {"ur": "آزمائیں", "en": "Try it"},
+     "orig": {"ur": "پانی ہمارے گھروں تک کیسے پہنچتا ہے؟", "en": "How does water reach our homes?"},
+     "prompt": {"ur": "پانی کا سفر سمجھیں: پانی کہاں سے آتا ہے اور گھر تک کیسے پہنچتا ہے؟", "en": "Follow the journey of water: where does it come from, and how does it reach our homes?"},
+     "levels": {
+       "easy": {"kind": "order", "items": [
+         {"ur": "پانی کی ٹینکی", "en": "Water tank", "img": [0.145, 0.602, 0.305, 0.735]},
+         {"ur": "فلٹر پانی صاف کرتے ہیں", "en": "Filters clean the water", "img": [0.335, 0.612, 0.60, 0.725]},
+         {"ur": "صاف پانی گھر پہنچتا ہے", "en": "Clean water reaches the house", "img": [0.655, 0.612, 0.880, 0.725]}
+       ]},
+       "moderate": {"kind": "sort",
+         "groups": [{"ur": "زیرِ زمین پانی", "en": "Underground water"}, {"ur": "سطحِ زمین کا پانی", "en": "Surface water"}],
+         "items": [
+           {"ur": "کنواں", "en": "Well", "group": 0},
+           {"ur": "دریا", "en": "River", "group": 1},
+           {"ur": "ٹیوب ویل", "en": "Tube well", "group": 0},
+           {"ur": "جھیل", "en": "Lake", "group": 1},
+           {"ur": "آبشار", "en": "Waterfall", "group": 1},
+           {"ur": "چشمہ", "en": "Spring", "group": 1},
+           {"ur": "ندی", "en": "Stream", "group": 1}
+         ]},
+       "hard": {"kind": "mcq", "questions": [
+         {"q": {"ur": "گھروں میں استعمال ہونے والا پانی کتنے ذرائع سے حاصل ہوتا ہے؟", "en": "How many sources does the water used in homes come from?"},
+          "options": [{"ur": "ایک", "en": "One"}, {"ur": "دو", "en": "Two"}, {"ur": "پانچ", "en": "Five"}],
+          "answer": 1,
+          "fb": {"ur": "دو ذرائع سے: زیرِ زمین اور سطحِ زمین۔", "en": "From two sources: under the ground and on the surface of the ground."}},
+         {"q": {"ur": "سطحِ زمین کا پانی کہاں صاف ہوتا ہے؟", "en": "Where is surface water cleaned?"},
+          "options": [{"ur": "فلٹریشن پلانٹ میں", "en": "In a filtration plant"}, {"ur": "کھیت میں", "en": "In a field"}, {"ur": "سمندر میں", "en": "In the sea"}],
+          "answer": 0,
+          "fb": {"ur": "سطحِ زمین کا پانی فلٹریشن پلانٹ سے صاف ہوتا ہے۔", "en": "Surface water is cleaned at a filtration plant."}},
+         {"q": {"ur": "صاف پانی فلٹریشن پلانٹ سے ہمارے گھروں تک کس کے ذریعے پہنچتا ہے؟", "en": "How does clean water get from the filtration plant to our homes?"},
+          "options": [{"ur": "بالٹی کے ذریعے", "en": "By bucket"}, {"ur": "بارش کے ذریعے", "en": "By rain"}, {"ur": "پائپ لائن کے ذریعے", "en": "By pipeline"}],
+          "answer": 2,
+          "fb": {"ur": "صاف پانی پائپ لائن کے ذریعے ہمارے گھروں تک پہنچتا ہے۔", "en": "Clean water reaches our homes through a pipeline."}},
+         {"q": {"ur": "پانی صاف کرنے کے دو طریقے کون سے ہیں؟", "en": "What are the two ways of cleaning water?"},
+          "options": [{"ur": "چھاننا اور اُبالنا", "en": "Filtering and boiling"}, {"ur": "ہلانا اور ٹھنڈا کرنا", "en": "Stirring and cooling"}, {"ur": "ڈھانپنا اور رکھنا", "en": "Covering and storing"}],
+          "answer": 0,
+          "fb": {"ur": "پانی کو چھاننا (Filtering) اور اُبالنا (Boiling) پانی کو صاف کرنے کے طریقے ہیں۔", "en": "Filtering and boiling water are ways of cleaning water."}},
+         {"q": {"ur": "فلٹریشن پلانٹ کا کیا فائدہ ہے؟", "en": "How does a filtration plant help us?"},
+          "options": [{"ur": "یہ پانی کو گرم کرتا ہے", "en": "It heats the water"}, {"ur": "اس سے ہم زیادہ مقدار میں پانی صاف کرتے ہیں", "en": "With it we clean a large amount of water"}, {"ur": "یہ بارش لاتا ہے", "en": "It brings rain"}],
+          "answer": 1,
+          "fb": {"ur": "فلٹریشن پلانٹ کے ذریعے ہم زیادہ مقدار میں پانی صاف کرتے ہیں۔", "en": "With a filtration plant we clean a large amount of water."}}
+       ]}
+     }}
+  ],
+  "hint": [
+    {"for": "all", "ur": "خاکے کو بائیں سے دائیں انگلی رکھ کر دیکھیں: ٹینکی ← فلٹر ← پائپ ← گھر۔ پھر سوچیں: آپ کے گھر کا پانی کہاں سے آتا ہے؟ نلکے سے، موٹر سے یا پائپ لائن سے؟", "en": "Follow the diagram with your finger from left to right: tank, then filters, then pipe, then house. Then think: where does the water in your home come from? From a hand pump, a motor or a pipeline?"},
+    {"for": "vision", "ur": "میز پر دھاگے یا پائپ کا ٹکڑا رکھ کر راستہ بنائیں: ایک سرے پر پیالہ (ٹینکی)، بیچ میں چھلنی (فلٹر) اور دوسرے سرے پر ڈبّا (گھر)۔ انگلی سے راستہ چھو کر پانی کا سفر بتائیں۔", "en": "Make the route on a table with string or a piece of pipe: a bowl for the tank at one end, a sieve for the filter in the middle and a box for the house at the other end. Trace the route with a finger and describe the journey of water."},
+    {"for": "cognitive", "ur": "دو بچوں کی باتیں الگ الگ پڑھیں۔ پہلے لڑکے کی بات: پانی کہاں سے آتا ہے۔ پھر لڑکی کی بات: پانی کیسے صاف ہو کر گھر آتا ہے۔", "en": "Read what the two children say, one at a time. First the boy: where water comes from. Then the girl: how water is cleaned and reaches our homes."},
+    {"for": "teacher", "ur": "ململ کے کپڑے یا چھلنی سے گدلا پانی چھان کر دکھائیں تاکہ ’چھاننا‘ سمجھ آئے؛ اُبالنے کا کام صرف بڑے کریں۔ اگر قریب فلٹریشن پلانٹ ہو تو بچوں کو دکھائیں یا اس کی تصویر لائیں۔ ’زیرِ زمین‘ اور ’سطحِ زمین‘ کے لیے ہاتھ نیچے اور ہاتھ برابر کا اشارہ استعمال کریں۔", "en": "Filter muddy water through muslin or a sieve to show what 'filtering' means; only adults should do the boiling. If there is a filtration plant nearby, show it to the children or bring a photo. Use hand-down and hand-flat gestures for 'underground' and 'surface'."}
+  ],
+  "easy": {
+    "title": {"ur": "پانی گھر کیسے آتا ہے؟", "en": "How does water come to our home?"},
+    "image": {"crop": [0.145, 0.602, 0.880, 0.735], "alt": {"ur": "پانی کی ٹینکی، فلٹر، پائپ اور گھر کا خاکہ۔", "en": "This diagram shows a water tank, filters, a pipe and a house."}},
+    "sentences": [
+      {"en": "Water is in the tank.",
+       "words_en": [{"en": "Water", "sym": "water"}, {"en": "is in", "sym": null}, {"en": "the tank.", "img": [0.145, 0.602, 0.305, 0.735]}],
+       "words": [{"ur": "پانی", "sym": "water"}, {"ur": "ٹینکی", "img": [0.145, 0.602, 0.305, 0.735]}, {"ur": "میں", "sym": null}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "The filter cleans the water.",
+       "words_en": [{"en": "The filter", "img": [0.335, 0.612, 0.6, 0.725]}, {"en": "cleans", "sym": "clean"}, {"en": "the water.", "sym": "water"}],
+       "words": [{"ur": "فلٹر", "img": [0.335, 0.612, 0.60, 0.725]}, {"ur": "پانی", "sym": "water"}, {"ur": "صاف", "sym": "clean"}, {"ur": "کرتا ہے۔", "sym": null}]},
+      {"en": "Water comes through the pipe.",
+       "words_en": [{"en": "Water", "sym": "water"}, {"en": "comes", "sym": "to come"}, {"en": "through", "sym": null}, {"en": "the pipe.", "sym": "pipe"}],
+       "words": [{"ur": "پانی", "sym": "water"}, {"ur": "پائپ", "sym": "pipe"}, {"ur": "سے", "sym": null}, {"ur": "آتا ہے۔", "sym": "to come"}]},
+      {"en": "Clean water reaches the house.",
+       "words_en": [{"en": "Clean", "sym": "clean"}, {"en": "water", "sym": "water"}, {"en": "reaches", "sym": "to arrive"}, {"en": "the house.", "sym": "house"}],
+       "words": [{"ur": "صاف", "sym": "clean"}, {"ur": "پانی", "sym": "water"}, {"ur": "گھر", "sym": "house"}, {"ur": "پہنچتا ہے۔", "sym": "to arrive"}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "پانی کا سفر ترتیب سے لگائیں۔", "en": "Put the journey of water in order."},
+      "task": {"kind": "order", "items": [
+        {"ur": "ٹینکی", "en": "Tank", "img": [0.145, 0.602, 0.305, 0.735]},
+        {"ur": "فلٹر", "en": "Filter", "img": [0.335, 0.612, 0.60, 0.725]},
+        {"ur": "گھر", "en": "House", "img": [0.655, 0.612, 0.880, 0.725]}
+      ]}
+    }
+  },
+  "print": true
+}

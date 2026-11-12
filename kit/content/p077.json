@@ -1,0 +1,678 @@
+{
+ "n": 77,
+ "printed": "73",
+ "chapter": 12,
+ "kind": "content",
+ "title": {
+  "ur": "ایک دوسرے کی مدد اور چیزوں کا اشتراک",
+  "en": "Helping one another and sharing things"
+ },
+ "blocks": [
+  {
+   "t": "p",
+   "ur": "علی اور احمد دوست ہیں۔ علی ایک دن تفریح کے دوران کھیلتے ہوئے گر گیا اور اس کے گھٹنے پر چوٹ لگ گئی۔ احمد نے علی کو اٹھایا اور استاد کے پاس لے گیا۔ احمد نے استاد کے ساتھ مل کر اس کی پٹی کروا دی۔ علی نے احمد کا شکریہ ادا کیا۔",
+   "en": "Ali and Ahmad are friends. One day, while playing during break, Ali fell down and hurt his knee. Ahmad lifted Ali up and took him to the teacher. Together with the teacher, Ahmad got his knee bandaged. Ali thanked Ahmad."
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.159,
+    0.115,
+    0.414,
+    0.271
+   ],
+   "alt": {
+    "ur": "کھیل کے میدان میں علی گھاس پر گرا ہوا ہے، اس کے گھٹنے پر چوٹ لگی ہے اور وہ رو رہا ہے۔ احمد اسے سہارا دے کر اٹھا رہا ہے۔",
+    "en": "In the playground Ali has fallen on the grass with a hurt knee and is crying. Ahmad is holding him and helping him up."
+   }
+  },
+  {
+   "t": "h",
+   "ur": "روزمرّہ زندگی میں ایک دوسرے کی مدد کرنا",
+   "en": "Helping one another in daily life"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.5,
+      0.3,
+      0.85,
+      0.484
+     ],
+     "alt": {
+      "ur": "ایک لڑکی اپنے ابو سے سودے کے تھیلے لے رہی ہے، ایک لڑکا چھت پر چھپر ٹھیک کر رہا ہے اور امی اسے لکڑیاں پکڑا رہی ہیں۔",
+      "en": "A girl takes shopping bags from her father, a boy is fixing the thatch on the roof and his mother is handing him sticks."
+     },
+     "cap": {
+      "ur": "گھر میں والدین کی مدد کرنا",
+      "en": "Helping parents at home"
+     }
+    },
+    {
+     "crop": [
+      0.159,
+      0.3,
+      0.492,
+      0.484
+     ],
+     "alt": {
+      "ur": "ایک لڑکی لاٹھی والی بوڑھی خاتون کا بازو پکڑ کر انھیں زیبرا کراسنگ سے سڑک پار کروا رہی ہے۔",
+      "en": "A girl holds the arm of an old woman with a walking stick and helps her cross the road at a zebra crossing."
+     },
+     "cap": {
+      "ur": "بزرگوں کی مدد کرنا",
+      "en": "Helping elders"
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p077-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "ایسی صورت حال بیان کریں جب آپ نے دوسروں کی مدد کی ہو یا دوسروں نے آپ کی مدد کی ہو۔",
+    "en": "Describe a situation when you helped others or others helped you."
+   },
+   "prompt": {
+    "ur": "یاد کریں: آپ نے کب کسی کی مدد کی؟ یا کسی نے کب آپ کی مدد کی؟",
+    "en": "Think back: when did you help someone? Or when did someone help you?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "یہ مدد ہے",
+       "en": "This is helping",
+       "sym": "to help"
+      },
+      {
+       "ur": "یہ مدد نہیں",
+       "en": "This is not helping",
+       "sym": "no"
+      }
+     ],
+     "items": [
+      {
+       "ur": "گرے ہوئے دوست کو اٹھانا",
+       "en": "Lifting up a friend who fell",
+       "group": 0,
+       "img": [
+        0.159,
+        0.115,
+        0.414,
+        0.271
+       ]
+      },
+      {
+       "ur": "بزرگ کو سڑک پار کروانا",
+       "en": "Helping an elder cross the road",
+       "group": 0,
+       "img": [
+        0.159,
+        0.3,
+        0.492,
+        0.484
+       ]
+      },
+      {
+       "ur": "گرے ہوئے دوست پر ہنسنا",
+       "en": "Laughing at a friend who fell",
+       "group": 1,
+       "sym": "to laugh"
+      },
+      {
+       "ur": "امی ابو کا سامان اٹھانا",
+       "en": "Carrying things for mum and dad",
+       "group": 0,
+       "img": [
+        0.5,
+        0.3,
+        0.85,
+        0.484
+       ]
+      },
+      {
+       "ur": "کسی کو دھکا دینا",
+       "en": "Pushing someone",
+       "group": 1,
+       "sym": "to push"
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "ایک دن یاد کریں جب آپ نے کسی کی مدد کی، یا کسی نے آپ کی مدد کی۔",
+       "en": "Remember a day when you helped someone, or someone helped you."
+      },
+      {
+       "ur": "بتائیں: کون تھا؟ کیا ہوا تھا؟",
+       "en": "Say: who was it? What happened?"
+      },
+      {
+       "ur": "بتائیں: مدد کیسے کی گئی؟",
+       "en": "Say: how was the help given?"
+      },
+      {
+       "ur": "بتائیں: مدد کے بعد دونوں کو کیسا لگا؟",
+       "en": "Say: how did you both feel after the help?"
+      }
+     ],
+     "model": {
+      "ur": "ایک دن میری دوست اپنا کھانا گھر بھول آئی۔ میں نے اپنا کھانا اس کے ساتھ مل کر کھایا۔ وہ خوش ہوئی اور مجھے بھی اچھا لگا۔",
+      "en": "One day my friend forgot her lunch at home. I shared my lunch with her. She was happy and I felt good too."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے بتایا کہ کس کو مدد چاہیے تھی۔",
+       "en": "I said who needed help."
+      },
+      {
+       "ur": "میں نے بتایا کہ مدد کیسے کی گئی۔",
+       "en": "I said how the help was given."
+      },
+      {
+       "ur": "میں نے بتایا کہ مجھے کیسا لگا۔",
+       "en": "I said how I felt."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "دو واقعات لکھیں: ایک جب آپ نے کسی کی مدد کی، اور ایک جب کسی نے آپ کی مدد کی۔",
+       "en": "Write about two times: one when you helped someone, and one when someone helped you."
+      },
+      {
+       "ur": "ہر واقعے کے لیے دو جملے لکھیں۔",
+       "en": "Write two sentences about each time."
+      },
+      {
+       "ur": "آخر میں لکھیں: علی نے احمد کا شکریہ کیوں ادا کیا؟ ہم مدد کرنے والے کو کیا کہتے ہیں؟",
+       "en": "At the end write: why did Ali thank Ahmad? What do we say to someone who helps us?"
+      }
+     ],
+     "model": {
+      "ur": "میں نے اپنی دادی کی عینک ڈھونڈ کر دی۔ دادی نے مجھے دعا دی۔ ایک دن میری پنسل گم ہو گئی تو میرے دوست نے مجھے اپنی پنسل دی۔ میں نے اس کا شکریہ ادا کیا۔ علی نے شکریہ اس لیے ادا کیا کہ احمد نے مشکل وقت میں اس کی مدد کی۔",
+      "en": "I found my grandmother's glasses for her. My grandmother said a prayer for me. One day I lost my pencil and my friend gave me his. I thanked him. Ali said thank you because Ahmad helped him at a difficult time."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دونوں واقعات لکھے۔",
+       "en": "I wrote about both times."
+      },
+      {
+       "ur": "میں نے “شکریہ” کے بارے میں لکھا۔",
+       "en": "I wrote about saying thank you."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "h",
+   "ur": "چیزوں کا اشتراک",
+   "en": "Sharing things"
+  },
+  {
+   "t": "p",
+   "ur": "چیزوں کے اشتراک (Sharing) سے دوستی بڑھتی ہے۔ ہمیں اپنے کھلونے، کتابیں اور پنسل وغیرہ اپنے دوستوں اور بہن بھائیوں کے ساتھ مل کر استعمال کرنی چاہییں۔",
+   "en": "Sharing things makes friendship grow. We should share our toys, books, pencils and so on with our friends and our brothers and sisters."
+  },
+  {
+   "t": "p",
+   "ur": "گھروں میں ہمیں اپنے بہن بھائیوں وغیرہ کے ساتھ اپنا کمرا، کھلونے، ٹیلی وژن اور فرنیچر وغیرہ سب مل جل کر استعمال کرنا چاہیے۔",
+   "en": "At home we should use our room, toys, television, furniture and so on together with our brothers and sisters and others."
+  },
+  {
+   "t": "activity",
+   "id": "p077-a2",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "کوئی سی تین چیزیں بتائیں جو آپ اپنے دوستوں یا خاندان کے ساتھ مل کر استعمال (Share) کرتے ہیں۔",
+    "en": "Name any three things that you share with your friends or family."
+   },
+   "prompt": {
+    "ur": "آپ کون سی چیزیں دوسروں کے ساتھ مل کر استعمال کرتے ہیں؟",
+    "en": "Which things do you share with others?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "آپ کے پاس دو پنسلیں ہیں۔ دوست کے پاس کوئی نہیں۔ آپ کیا کریں گے؟",
+        "en": "You have two pencils. Your friend has none. What will you do?"
+       },
+       "options": [
+        {
+         "ur": "ایک پنسل دوست کو دوں گا/گی",
+         "en": "I will give one pencil to my friend",
+         "sym": "to give"
+        },
+        {
+         "ur": "دونوں چھپا لوں گا/گی",
+         "en": "I will hide both pencils",
+         "sym": "to hide"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "مل کر استعمال کرنے سے دوستی بڑھتی ہے۔",
+        "en": "Sharing makes friendship grow."
+       }
+      },
+      {
+       "q": {
+        "ur": "گھر میں سب مل کر کیا دیکھتے ہیں؟",
+        "en": "What does everyone at home watch together?"
+       },
+       "options": [
+        {
+         "ur": "جوتا",
+         "en": "Shoe",
+         "sym": "shoe"
+        },
+        {
+         "ur": "ٹیلی وژن",
+         "en": "Television",
+         "sym": "television"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "ٹیلی وژن گھر کے سب لوگ مل جل کر دیکھتے ہیں۔",
+        "en": "Everyone at home watches television together."
+       }
+      },
+      {
+       "q": {
+        "ur": "بہن بھائی مل کر کس سے کھیلتے ہیں؟",
+        "en": "What do brothers and sisters play with together?"
+       },
+       "options": [
+        {
+         "ur": "کھلونے",
+         "en": "Toys",
+         "sym": "toys"
+        },
+        {
+         "ur": "دوا",
+         "en": "Medicine",
+         "sym": "medicine"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "ہم اپنے کھلونے بہن بھائیوں کے ساتھ مل کر استعمال کرتے ہیں۔",
+        "en": "We share our toys with our brothers and sisters."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "سوچیں: سکول میں آپ دوستوں کے ساتھ کیا مل کر استعمال کرتے ہیں؟",
+       "en": "Think: what do you share with friends at school?"
+      },
+      {
+       "ur": "سوچیں: گھر میں آپ خاندان کے ساتھ کیا مل کر استعمال کرتے ہیں؟",
+       "en": "Think: what do you share with family at home?"
+      },
+      {
+       "ur": "کوئی سی تین چیزوں کے نام بتائیں۔",
+       "en": "Say the names of any three things."
+      }
+     ],
+     "model": {
+      "ur": "میں اپنے کھلونے، اپنی رنگین پنسلیں اور ٹیلی وژن دوسروں کے ساتھ مل کر استعمال کرتا/کرتی ہوں۔",
+      "en": "I share my toys, my coloured pencils and the television with others."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے تین چیزوں کے نام بتائے۔",
+       "en": "I named three things."
+      },
+      {
+       "ur": "میں نے بتایا کہ کس کے ساتھ مل کر استعمال کرتا/کرتی ہوں۔",
+       "en": "I said who I share them with."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "سکول میں دوستوں کے ساتھ",
+       "en": "With friends at school"
+      },
+      {
+       "ur": "گھر میں خاندان کے ساتھ",
+       "en": "With family at home"
+      }
+     ],
+     "items": [
+      {
+       "ur": "پنسل اور ربڑ",
+       "en": "Pencil and rubber",
+       "group": 0
+      },
+      {
+       "ur": "ٹیلی وژن",
+       "en": "Television",
+       "group": 1
+      },
+      {
+       "ur": "کلاس کی کتابیں",
+       "en": "Class books",
+       "group": 0
+      },
+      {
+       "ur": "کمرا",
+       "en": "Room",
+       "group": 1
+      },
+      {
+       "ur": "فرنیچر (صوفہ، پلنگ)",
+       "en": "Furniture (sofa, bed)",
+       "group": 1
+      },
+      {
+       "ur": "کھیل کے میدان کا جھولا",
+       "en": "The playground swing",
+       "group": 0
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "تینوں تصویروں میں ڈھونڈیں: کون مدد کر رہا ہے اور کس کی مدد ہو رہی ہے؟",
+   "en": "In all three pictures, find: who is helping and who is being helped?"
+  },
+  {
+   "for": "hearing",
+   "ur": "“مدد” اور “شکریہ” کے اشارے سیکھیں اور سرگرمی میں اپنی بات اشاروں، تصویر یا لکھ کر بتائیں۔",
+   "en": "Learn the signs for “help” and “thank you”, and share your answer in the activity by signing, drawing or writing."
+  },
+  {
+   "for": "motor",
+   "ur": "تین چیزوں کے نام لکھنے کے بجائے آپ بول کر بتا سکتے ہیں یا کلاس میں ان چیزوں کی طرف اشارہ کر سکتے ہیں۔",
+   "en": "Instead of writing the names of three things, you can say them aloud or point to those things in the classroom."
+  },
+  {
+   "for": "teacher",
+   "ur": "اصلی چیزیں (کھلونا، کتاب، پنسل) ایک ٹوکری میں رکھیں اور بچوں سے جوڑیوں میں باری باری مل کر استعمال کروائیں۔ ہر بچے کو مدد کرنے والے اور مدد لینے والے، دونوں کردار دیں تاکہ معذور بچے صرف “مدد لینے والے” نہ بنیں۔",
+   "en": "Put real objects (toy, book, pencil) in a basket and let pairs take turns sharing them. Give every child both roles — helper and helped — so that children with disabilities are not always only the ones “being helped”."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "مدد کرنا اور مل کر استعمال کرنا",
+   "en": "Helping and sharing"
+  },
+  "image": {
+   "crop": [
+    0.159,
+    0.115,
+    0.414,
+    0.271
+   ],
+   "alt": {
+    "ur": "احمد اپنے گرے ہوئے دوست علی کو اٹھا رہا ہے۔",
+    "en": "Ahmad is lifting up his friend Ali who has fallen."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Ali falls down.",
+    "words": [
+     {
+      "ur": "علی",
+      "sym": "boy"
+     },
+     {
+      "ur": "گر",
+      "sym": "to fall"
+     },
+     {
+      "ur": "جاتا ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Ali",
+      "sym": "boy"
+     },
+     {
+      "en": "falls down.",
+      "sym": "to fall"
+     }
+    ]
+   },
+   {
+    "en": "Ahmad helps Ali.",
+    "words": [
+     {
+      "ur": "احمد",
+      "sym": "friend"
+     },
+     {
+      "ur": "علی",
+      "sym": "boy"
+     },
+     {
+      "ur": "کی",
+      "sym": null
+     },
+     {
+      "ur": "مدد",
+      "sym": "to help"
+     },
+     {
+      "ur": "کرتا ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Ahmad",
+      "sym": "friend"
+     },
+     {
+      "en": "helps",
+      "sym": "to help"
+     },
+     {
+      "en": "Ali.",
+      "sym": "boy"
+     }
+    ]
+   },
+   {
+    "en": "Ali says thank you.",
+    "words": [
+     {
+      "ur": "علی",
+      "sym": "boy"
+     },
+     {
+      "ur": "شکریہ",
+      "sym": "thank you"
+     },
+     {
+      "ur": "کہتا ہے۔",
+      "sym": "to say"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Ali",
+      "sym": "boy"
+     },
+     {
+      "en": "says",
+      "sym": "to say"
+     },
+     {
+      "en": "thank you.",
+      "sym": "thank you"
+     }
+    ]
+   },
+   {
+    "en": "We share our toys.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "اپنے",
+      "sym": null
+     },
+     {
+      "ur": "کھلونے",
+      "sym": "toys"
+     },
+     {
+      "ur": "مل کر",
+      "sym": "to share"
+     },
+     {
+      "ur": "استعمال کرتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "share",
+      "sym": "to share"
+     },
+     {
+      "en": "our",
+      "sym": "our"
+     },
+     {
+      "en": "toys.",
+      "sym": "toys"
+     }
+    ]
+   },
+   {
+    "en": "Sharing makes friendship grow.",
+    "words": [
+     {
+      "ur": "اس سے",
+      "sym": null
+     },
+     {
+      "ur": "دوستی",
+      "sym": "friendship"
+     },
+     {
+      "ur": "بڑھتی ہے۔",
+      "sym": "to grow"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Sharing",
+      "sym": "to share"
+     },
+     {
+      "en": "makes",
+      "sym": null
+     },
+     {
+      "en": "friendship",
+      "sym": "friendship"
+     },
+     {
+      "en": "grow.",
+      "sym": "to grow"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "ہر چیز کو صحیح خانے میں رکھیں۔",
+    "en": "Put each one in the right box."
+   },
+   "task": {
+    "kind": "sort",
+    "groups": [
+     {
+      "ur": "اچھی بات",
+      "en": "Good thing to do",
+      "sym": "good"
+     },
+     {
+      "ur": "اچھی بات نہیں",
+      "en": "Not a good thing to do",
+      "sym": "bad"
+     }
+    ],
+    "items": [
+     {
+      "ur": "دوست کو اٹھانا",
+      "en": "Lifting up a friend",
+      "group": 0,
+      "img": [
+       0.159,
+       0.115,
+       0.414,
+       0.271
+      ]
+     },
+     {
+      "ur": "کھلونے مل کر کھیلنا",
+      "en": "Playing with toys together",
+      "group": 0,
+      "sym": "to share"
+     },
+     {
+      "ur": "دھکا دینا",
+      "en": "Pushing",
+      "group": 1,
+      "sym": "to push"
+     },
+     {
+      "ur": "کھلونا چھیننا",
+      "en": "Snatching a toy",
+      "group": 1,
+      "sym": "to snatch"
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

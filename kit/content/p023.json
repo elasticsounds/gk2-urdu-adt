@@ -1,0 +1,570 @@
+{
+ "n": 23,
+ "printed": "19",
+ "chapter": 3,
+ "kind": "content",
+ "title": {
+  "ur": "میرے حقوق اور میرے فرائض",
+  "en": "My rights and my duties"
+ },
+ "blocks": [
+  {
+   "t": "p",
+   "ur": "حکومت کا فرض ہے کہ وہ اپنے شہریوں کی حفاظت کرے اور ہر شہری کو اپنے مذہب کے مطابق آزادی سے زندگی گزارنے کا اختیار دے۔ اُن کے مذہبی مقامات اور تہواروں کا لحاظ کرے۔",
+   "en": "It is the duty of the government to protect its citizens and to give every citizen the freedom to live according to their own religion. It should also respect their places of worship and their festivals."
+  },
+  {
+   "t": "h",
+   "ur": "حقوق و فرائض",
+   "en": "Rights and duties"
+  },
+  {
+   "t": "table",
+   "head": [
+    {
+     "ur": "میرا حق ہے ______",
+     "en": "It is my right ______"
+    },
+    {
+     "ur": "میرا فرض ہے ______",
+     "en": "It is my duty ______"
+    }
+   ],
+   "rows": [
+    [
+     {
+      "ur": "اچھا ماحول، گھر، تعلیم، تحفّظ اور صحت کی سہولیات۔",
+      "en": "A good environment, a home, education, protection and health facilities."
+     },
+     {
+      "ur": "اپنی صحت کا خیال رکھنا۔",
+      "en": "Taking care of my health."
+     }
+    ],
+    [
+     {
+      "ur": "بجلی، گیس اور پینے کے صاف پانی کی فراہمی۔",
+      "en": "A supply of electricity, gas and clean drinking water."
+     },
+     {
+      "ur": "بڑوں اور بزرگوں کی عزّت و احترام کرنا۔",
+      "en": "Respecting and honouring older people and elders."
+     }
+    ],
+    [
+     {
+      "ur": "پیشہ اختیار کرنے کی آزادی۔",
+      "en": "Freedom to choose an occupation."
+     },
+     {
+      "ur": "قوانین پر عمل کرنا۔",
+      "en": "Obeying the laws."
+     }
+    ],
+    [
+     {
+      "ur": "بے سہارا افراد کے لیے پناہ گاہیں۔",
+      "en": "Shelters for people who have no one to support them."
+     },
+     {
+      "ur": "گیس، پانی اور بجلی کو احتیاط سے استعمال کرنا اور ضائع نہ کرنا۔",
+      "en": "Using gas, water and electricity carefully and not wasting them."
+     }
+    ],
+    [
+     {
+      "ur": "",
+      "en": ""
+     },
+     {
+      "ur": "سرکاری و غیر سرکاری اشیا کو نقصان نہ پہنچانا۔",
+      "en": "Not damaging public or private property."
+     }
+    ]
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p023-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "رول پلے: بچوں کو گروپس میں تقسیم کریں۔ ہر گروپ میں سے ایک بچہ سرکاری افسر بنے اور دوسرا شہری کا رول ادا کرے۔ ہر گروپ سے کہیں کہ دیے گئے وقت کے مطابق رول پلے کرتے ہوئے حکومت کے فرائض اور شہریوں کے حقوق بتائے۔",
+    "en": "Role play: Divide the children into groups. In each group, one child becomes a government officer and another plays the part of a citizen. Ask each group to do a role play, within the time given, that tells the duties of the government and the rights of citizens."
+   },
+   "prompt": {
+    "ur": "آئیں رول پلے کریں! ایک بچہ سرکاری افسر بنے، دوسرا شہری۔",
+    "en": "Let's do a role play! One child is the government officer and the other is a citizen."
+   },
+   "task": {
+    "kind": "open",
+    "mode": "do",
+    "steps": [
+     {
+      "ur": "جوڑی یا گروپ بنائیں۔ طے کریں کہ کون سرکاری افسر ہے اور کون شہری۔",
+      "en": "Make a pair or a group. Decide who is the government officer and who is the citizen."
+     },
+     {
+      "ur": "شہری اپنا ایک حق مانگے، جیسے: \"جناب، ہمارے محلّے میں صاف پانی نہیں آتا۔\"",
+      "en": "The citizen asks for one of their rights, for example: \"Sir, there is no clean water in our neighbourhood.\""
+     },
+     {
+      "ur": "افسر حکومت کا فرض بتائے، جیسے: \"صاف پانی دینا حکومت کا فرض ہے۔ ہم نل ٹھیک کروائیں گے۔\"",
+      "en": "The officer says what the government's duty is, for example: \"Giving clean water is the government's duty. We will have the tap repaired.\""
+     },
+     {
+      "ur": "افسر شہری کو اس کا فرض یاد دلائے، جیسے: \"آپ پانی ضائع نہ کریں۔\"",
+      "en": "The officer reminds the citizen of the citizen's duty, for example: \"Please do not waste water.\""
+     },
+     {
+      "ur": "اب رول بدل لیں اور کوئی دوسرا حق چنیں۔",
+      "en": "Now swap roles and choose another right."
+     }
+    ],
+    "model": {
+     "ur": "شہری: \"تعلیم میرا حق ہے، ہمارے گاؤں میں سکول بنوائیں۔\" افسر: \"جی، سکول بنانا حکومت کا فرض ہے۔ آپ کا فرض ہے کہ سکول کی چیزوں کو نقصان نہ پہنچائیں۔\"",
+     "en": "Citizen: \"Education is my right. Please have a school built in our village.\" Officer: \"Yes, building a school is the government's duty. Your duty is not to damage the things in the school.\""
+    },
+    "checklist": [
+     {
+      "ur": "ہم نے شہری کا ایک حق بتایا۔",
+      "en": "We named one right of a citizen."
+     },
+     {
+      "ur": "ہم نے حکومت کا ایک فرض بتایا۔",
+      "en": "We named one duty of the government."
+     },
+     {
+      "ur": "ہم نے رول بدل کر دوبارہ کیا۔",
+      "en": "We swapped roles and did it again."
+     }
+    ]
+   }
+  },
+  {
+   "t": "fact",
+   "ur": "ہم قوانین کی پابندی کر کے اچھے شہری بن سکتے ہیں۔",
+   "en": "We can become good citizens by obeying the laws."
+  },
+  {
+   "t": "activity",
+   "id": "p023-a2",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "(یہ مشق کتاب میں نہیں ہے۔ یہ اس صفحے کے سبق کو دہرانے کے لیے بنائی گئی ہے۔)",
+    "en": "This practice is not in the book. It has been added to revise the lesson on this page."
+   },
+   "prompt": {
+    "ur": "جدول کو یاد کریں۔ ہر بات کو صحیح خانے میں رکھیں: یہ میرا حق ہے یا میرا فرض؟",
+    "en": "Remember the table. Put each statement in the right box: is it my right or my duty?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "میرا حق",
+       "en": "My right"
+      },
+      {
+       "ur": "میرا فرض",
+       "en": "My duty"
+      }
+     ],
+     "items": [
+      {
+       "ur": "تعلیم",
+       "en": "Education",
+       "group": 0,
+       "sym": "school"
+      },
+      {
+       "ur": "پانی ضائع نہ کرنا",
+       "en": "Not wasting water",
+       "group": 1,
+       "sym": "tap"
+      },
+      {
+       "ur": "پینے کا صاف پانی",
+       "en": "Clean drinking water",
+       "group": 0,
+       "sym": "to drink"
+      },
+      {
+       "ur": "بڑوں کی عزّت کرنا",
+       "en": "Respecting elders",
+       "group": 1,
+       "sym": "grandparents"
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "میرا حق",
+       "en": "My right"
+      },
+      {
+       "ur": "میرا فرض",
+       "en": "My duty"
+      }
+     ],
+     "items": [
+      {
+       "ur": "اچھا ماحول، گھر، تعلیم، تحفّظ اور صحت کی سہولیات۔",
+       "en": "A good environment, a home, education, protection and health facilities.",
+       "group": 0
+      },
+      {
+       "ur": "اپنی صحت کا خیال رکھنا۔",
+       "en": "Taking care of my health.",
+       "group": 1
+      },
+      {
+       "ur": "قوانین پر عمل کرنا۔",
+       "en": "Obeying the laws.",
+       "group": 1
+      },
+      {
+       "ur": "بجلی، گیس اور پینے کے صاف پانی کی فراہمی۔",
+       "en": "A supply of electricity, gas and clean drinking water.",
+       "group": 0
+      },
+      {
+       "ur": "گیس، پانی اور بجلی کو احتیاط سے استعمال کرنا اور ضائع نہ کرنا۔",
+       "en": "Using gas, water and electricity carefully and not wasting them.",
+       "group": 1
+      },
+      {
+       "ur": "پیشہ اختیار کرنے کی آزادی۔",
+       "en": "Freedom to choose an occupation.",
+       "group": 0
+      },
+      {
+       "ur": "سرکاری و غیر سرکاری اشیا کو نقصان نہ پہنچانا۔",
+       "en": "Not damaging public or private property.",
+       "group": 1
+      },
+      {
+       "ur": "بے سہارا افراد کے لیے پناہ گاہیں۔",
+       "en": "Shelters for people who have no one to support them.",
+       "group": 0
+      }
+     ]
+    },
+    "hard": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "حق: صحت کی سہولیات",
+        "en": "Right: health facilities"
+       },
+       "b": {
+        "ur": "فرض: اپنی صحت کا خیال رکھنا",
+        "en": "Duty: taking care of my health"
+       }
+      },
+      {
+       "a": {
+        "ur": "حق: بجلی، گیس اور صاف پانی کی فراہمی",
+        "en": "Right: a supply of electricity, gas and clean water"
+       },
+       "b": {
+        "ur": "فرض: انھیں احتیاط سے استعمال کرنا اور ضائع نہ کرنا",
+        "en": "Duty: using them carefully and not wasting them"
+       }
+      },
+      {
+       "a": {
+        "ur": "حق: تحفّظ",
+        "en": "Right: protection"
+       },
+       "b": {
+        "ur": "فرض: قوانین پر عمل کرنا",
+        "en": "Duty: obeying the laws"
+       }
+      },
+      {
+       "a": {
+        "ur": "حق: سکول، پارک اور دوسری سرکاری سہولیات",
+        "en": "Right: schools, parks and other government facilities"
+       },
+       "b": {
+        "ur": "فرض: سرکاری اشیا کو نقصان نہ پہنچانا",
+        "en": "Duty: not damaging government property"
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "یاد رکھنے کا طریقہ: \"حق\" وہ ہے جو مجھے ملتا ہے (ایک ہاتھ اپنی طرف لائیں)۔ \"فرض\" وہ ہے جو مجھے کرنا ہے (ہاتھ آگے بڑھائیں)۔ ہر حق کے ساتھ ایک فرض جُڑا ہے۔",
+   "en": "A way to remember: a \"right\" is what I receive (bring one hand towards yourself). A \"duty\" is what I must do (stretch your hand forward). Every right comes with a duty."
+  },
+  {
+   "for": "vision",
+   "ur": "جدول کے دو کالم ہیں۔ پہلے \"میرا حق ہے\" کے چار جملے سنیں، پھر \"میرا فرض ہے\" کے پانچ جملے۔ ہر جملے کے بعد رُک کر اسے اپنے لفظوں میں دہرائیں۔",
+   "en": "The table has two columns. First listen to the four \"It is my right\" sentences, then the five \"It is my duty\" sentences. Stop after each sentence and say it again in your own words."
+  },
+  {
+   "for": "cognitive",
+   "ur": "رول پلے میں صرف ایک جملہ بولنا بھی کافی ہے، جیسے \"پانی میرا حق ہے۔\" تصویری کارڈ (نل، سکول، بلب) ہاتھ میں پکڑ کر بھی حصہ لیا جا سکتا ہے۔",
+   "en": "In the role play, saying just one sentence is enough, such as \"Water is my right.\" A child can also take part by holding up a picture card (tap, school, bulb)."
+  },
+  {
+   "for": "teacher",
+   "ur": "رول پلے میں ہر بچے کو کردار ملے: جو بچہ بول نہ سکے وہ اشاروں، تصویری کارڈ یا لکھی ہوئی پرچی سے اپنا حق \"مانگے\"؛ وہیل چیئر استعمال کرنے والا بچہ افسر کی میز پر بیٹھ سکتا ہے۔ مذہبی آزادی والے جملے پر بتائیں کہ ہم سب کے تہواروں اور عبادت گاہوں کا احترام کرتے ہیں۔",
+   "en": "Every child should get a part in the role play: a child who cannot speak can \"ask\" for a right with gestures, picture cards or a written slip of paper; a child who uses a wheelchair can sit at the officer's desk. At the sentence about religious freedom, explain that we respect everyone's festivals and places of worship."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "حق اور فرض",
+   "en": "Rights and duties"
+  },
+  "image": null,
+  "sentences": [
+   {
+    "en": "Education is my right.",
+    "words": [
+     {
+      "ur": "تعلیم",
+      "sym": "school"
+     },
+     {
+      "ur": "میرا",
+      "sym": "my"
+     },
+     {
+      "ur": "حق",
+      "sym": "rights"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Education",
+      "sym": "school"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "my",
+      "sym": "my"
+     },
+     {
+      "en": "right.",
+      "sym": "rights"
+     }
+    ]
+   },
+   {
+    "en": "Clean water is my right.",
+    "words": [
+     {
+      "ur": "صاف",
+      "sym": "clean"
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "میرا",
+      "sym": "my"
+     },
+     {
+      "ur": "حق",
+      "sym": "rights"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Clean",
+      "sym": "clean"
+     },
+     {
+      "en": "water",
+      "sym": "water"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "my",
+      "sym": "my"
+     },
+     {
+      "en": "right.",
+      "sym": "rights"
+     }
+    ]
+   },
+   {
+    "en": "Saving water is my duty.",
+    "words": [
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "بچانا",
+      "sym": "to save"
+     },
+     {
+      "ur": "میرا",
+      "sym": "my"
+     },
+     {
+      "ur": "فرض",
+      "sym": "responsibility"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Saving",
+      "sym": "to save"
+     },
+     {
+      "en": "water",
+      "sym": "water"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "my",
+      "sym": "my"
+     },
+     {
+      "en": "duty.",
+      "sym": "responsibility"
+     }
+    ]
+   },
+   {
+    "en": "Respecting elders is my duty.",
+    "words": [
+     {
+      "ur": "بڑوں",
+      "sym": "grandparents"
+     },
+     {
+      "ur": "کی",
+      "sym": null
+     },
+     {
+      "ur": "عزّت",
+      "sym": "respect"
+     },
+     {
+      "ur": "میرا",
+      "sym": "my"
+     },
+     {
+      "ur": "فرض",
+      "sym": "responsibility"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Respecting",
+      "sym": "respect"
+     },
+     {
+      "en": "elders",
+      "sym": "grandparents"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "my",
+      "sym": "my"
+     },
+     {
+      "en": "duty.",
+      "sym": "responsibility"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "ہر چیز کو صحیح جگہ رکھیں: حق یا فرض؟",
+    "en": "Put each thing in the right place: right or duty?"
+   },
+   "task": {
+    "kind": "sort",
+    "groups": [
+     {
+      "ur": "میرا حق (مجھے ملتا ہے)",
+      "en": "My right (I receive it)"
+     },
+     {
+      "ur": "میرا فرض (مجھے کرنا ہے)",
+      "en": "My duty (I must do it)"
+     }
+    ],
+    "items": [
+     {
+      "ur": "سکول جانا",
+      "en": "Going to school",
+      "group": 0,
+      "sym": "school"
+     },
+     {
+      "ur": "نل بند کرنا",
+      "en": "Turning off the tap",
+      "group": 1,
+      "sym": "tap"
+     },
+     {
+      "ur": "صاف پانی پینا",
+      "en": "Drinking clean water",
+      "group": 0,
+      "sym": "to drink"
+     },
+     {
+      "ur": "بڑوں کی عزّت کرنا",
+      "en": "Respecting elders",
+      "group": 1,
+      "sym": "grandparents"
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

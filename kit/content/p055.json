@@ -1,0 +1,519 @@
+{
+ "n": 55,
+ "printed": "51",
+ "chapter": 8,
+ "kind": "content",
+ "title": {
+  "ur": "جانور اور اُن کے بچے",
+  "en": "Animals and their babies"
+ },
+ "blocks": [
+  {
+   "ur": "جانور اور اُن کے بچے",
+   "en": "Animals and their babies",
+   "t": "h"
+  },
+  {
+   "ur": "کچھ جانوروں کے بچے پیدائش سے ہی اُن جیسے ہوتے ہیں۔",
+   "en": "The babies of some animals look just like them from the day they are born.",
+   "t": "p"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.634,
+      0.231,
+      0.857,
+      0.399
+     ],
+     "alt": {
+      "ur": "ایک سفید بلی اور اس کا سفید بلونگڑا اوپر دیکھ رہے ہیں۔ بلونگڑا بالکل بلی جیسا ہے، بس چھوٹا ہے۔",
+      "en": "A white cat and its white kitten looking up. The kitten looks just like the cat, only smaller."
+     },
+     "cap": {
+      "ur": "بلی اور بلونگڑا",
+      "en": "Cat and kitten"
+     }
+    },
+    {
+     "crop": [
+      0.387,
+      0.231,
+      0.611,
+      0.399
+     ],
+     "alt": {
+      "ur": "ایک بھوری مرغی گھاس پر اپنے چار پیلے چوزوں کے ساتھ چل رہی ہے۔",
+      "en": "A brown hen walking on grass with her four yellow chicks."
+     },
+     "cap": {
+      "ur": "مرغی اور چوزے",
+      "en": "Hen and chicks"
+     }
+    },
+    {
+     "crop": [
+      0.14,
+      0.231,
+      0.363,
+      0.399
+     ],
+     "alt": {
+      "ur": "ایک گہرے رنگ کا گھوڑا اور اس کا چھوٹا بچھیرا کھیت میں ساتھ ساتھ کھڑے ہیں۔",
+      "en": "A dark horse and its small foal standing side by side in a field."
+     },
+     "cap": {
+      "ur": "گھوڑا اور بچھیرا",
+      "en": "Horse and foal"
+     }
+    }
+   ]
+  },
+  {
+   "ur": "کچھ جانوروں کے بچے شکل میں اُن سے مختلف ہوتے ہیں۔",
+   "en": "The babies of some animals look different from them.",
+   "t": "p"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.502,
+      0.509,
+      0.854,
+      0.693
+     ],
+     "alt": {
+      "ur": "اوپر ایک بھورا مینڈک ہے جس کی چار ٹانگیں ہیں۔ نیچے اس کا بچہ ہے جس کا گول سر اور لمبی دُم ہے اور ٹانگیں نہیں ہیں۔",
+      "en": "At the top is a brown frog with four legs. Below is its baby, which has a round head, a long tail and no legs."
+     },
+     "cap": {
+      "ur": "مینڈک اور اس کا بچہ",
+      "en": "Frog and its baby"
+     }
+    },
+    {
+     "crop": [
+      0.138,
+      0.509,
+      0.49,
+      0.692
+     ],
+     "alt": {
+      "ur": "دائیں طرف نارنجی اور کالے پروں والی تتلی ہے۔ بائیں طرف پتے پر اس کا بچہ ہے جو پیلی، کالی اور سفید دھاریوں والی سنڈی ہے اور اس کے پر نہیں ہیں۔",
+      "en": "On the right is a butterfly with orange and black wings. On the left, on a leaf, is its baby, a caterpillar with yellow, black and white stripes and no wings."
+     },
+     "cap": {
+      "ur": "تتلی اور اس کا بچہ",
+      "en": "Butterfly and its baby"
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p055-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "کلاس میں مختلف جانوروں اور ان کے بچوں کی تصاویر لائیں اور طلبہ کو جانوروں کے بچوں کی پہچان کرائیں۔",
+    "en": "Bring pictures of different animals and their babies to class and help the pupils to recognise the baby animals."
+   },
+   "prompt": {
+    "ur": "جانور اور اس کے بچے کو پہچانیں۔",
+    "en": "Get to know each animal and its baby."
+   },
+   "levels": {
+    "easy": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "بلی",
+        "en": "Cat",
+        "sym": "cat"
+       },
+       "b": {
+        "ur": "بلونگڑا",
+        "en": "Kitten",
+        "sym": "kitten"
+       }
+      },
+      {
+       "a": {
+        "ur": "مرغی",
+        "en": "Hen",
+        "sym": "hen"
+       },
+       "b": {
+        "ur": "چوزہ",
+        "en": "Chick",
+        "sym": "chick"
+       }
+      },
+      {
+       "a": {
+        "ur": "گھوڑا",
+        "en": "Horse",
+        "sym": "horse"
+       },
+       "b": {
+        "ur": "بچھیرا",
+        "en": "Foal",
+        "sym": "foal"
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "do",
+     "steps": [
+      {
+       "ur": "گھر سے، پرانے اخبار یا رسالے سے کسی جانور اور اس کے بچے کی تصویر لائیں یا خود بنائیں۔",
+       "en": "Bring a picture of an animal and its baby from home, or from an old newspaper or magazine, or draw one yourself."
+      },
+      {
+       "ur": "اپنی تصویر کلاس کو دکھائیں۔ جانور اور اس کے بچے کا نام بتائیں۔",
+       "en": "Show your picture to the class. Say the name of the animal and the name of its baby."
+      },
+      {
+       "ur": "بتائیں: کیا بچہ اپنے ماں باپ جیسا دکھتا ہے یا مختلف ہے؟",
+       "en": "Say: does the baby look like its parents, or does it look different?"
+      },
+      {
+       "ur": "سب تصویریں ایک چارٹ پر لگائیں۔",
+       "en": "Stick all the pictures on one chart."
+      }
+     ],
+     "model": {
+      "ur": "یہ بلی ہے اور یہ اس کا بچہ بلونگڑا ہے۔ بلونگڑا بلی جیسا دکھتا ہے۔",
+      "en": "This is a cat and this is its baby, a kitten. The kitten looks like the cat."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے جانور اور بچے کی تصویر دکھائی۔",
+       "en": "I showed a picture of an animal and its baby."
+      },
+      {
+       "ur": "میں نے دونوں کے نام بتائے۔",
+       "en": "I said both names."
+      },
+      {
+       "ur": "میں نے بتایا کہ بچہ ویسا ہے یا مختلف۔",
+       "en": "I said whether the baby looks the same or different."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "بچہ ماں باپ جیسا ہے",
+       "en": "The baby looks like its parents"
+      },
+      {
+       "ur": "بچہ شکل میں مختلف ہے",
+       "en": "The baby looks different"
+      }
+     ],
+     "items": [
+      {
+       "ur": "بلونگڑا",
+       "en": "Kitten",
+       "group": 0
+      },
+      {
+       "ur": "مینڈک کا بچہ",
+       "en": "A frog's baby",
+       "group": 1
+      },
+      {
+       "ur": "چوزہ",
+       "en": "Chick",
+       "group": 0
+      },
+      {
+       "ur": "تتلی کا بچہ",
+       "en": "A butterfly's baby",
+       "group": 1
+      },
+      {
+       "ur": "بچھیرا",
+       "en": "Foal",
+       "group": 0
+      },
+      {
+       "ur": "بکری کا بچہ",
+       "en": "A goat's baby",
+       "group": 0
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "پہلے بڑے جانور کو دیکھیں، پھر اس کے بچے کو۔ اپنے آپ سے پوچھیں: کیا دونوں ایک جیسے لگتے ہیں؟",
+   "en": "First look at the big animal, then at its baby. Ask yourself: do they look alike?"
+  },
+  {
+   "for": "vision",
+   "ur": "مینڈک کے بچے کی ٹانگیں نہیں ہوتیں اور لمبی دُم ہوتی ہے۔ تتلی کا بچہ سنڈی ہے جس کے پر نہیں ہوتے۔ مٹی یا آٹے سے دونوں شکلیں بنا کر چھو کر فرق محسوس کریں۔",
+   "en": "A frog's baby has no legs and has a long tail. A butterfly's baby is a caterpillar, which has no wings. Make both shapes from clay or dough and feel the difference with your hands."
+  },
+  {
+   "for": "cognitive",
+   "ur": "ایک وقت میں صرف ایک جوڑا دیکھیں۔ کہیں: \"بلی — بلونگڑا\"، \"مرغی — چوزہ\"۔ ساتھ جانور کی آواز نکالیں۔",
+   "en": "Look at only one pair at a time. Say: \"cat, kitten\", \"hen, chick\". Make the animal's sound as well."
+  },
+  {
+   "for": "teacher",
+   "ur": "جو بچے تصویر نہیں لا سکتے انھیں کلاس کے کارڈ دیں یا بنانے دیں۔ بچے بول کر، اشارے سے یا کارڈ ملا کر حصہ لے سکتے ہیں۔",
+   "en": "Give class picture cards to children who cannot bring a picture, or let them draw one. Children can take part by speaking, by using gestures or by matching cards."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "جانوروں کے بچے",
+   "en": "Baby animals"
+  },
+  "image": {
+   "crop": [
+    0.387,
+    0.231,
+    0.611,
+    0.399
+   ],
+   "alt": {
+    "ur": "مرغی اپنے پیلے چوزوں کے ساتھ۔",
+    "en": "A hen with her yellow chicks."
+   }
+  },
+  "sentences": [
+   {
+    "en": "All animals have babies.",
+    "words": [
+     {
+      "ur": "سب",
+      "sym": "all"
+     },
+     {
+      "ur": "جانوروں",
+      "sym": "animal"
+     },
+     {
+      "ur": "کے",
+      "sym": null
+     },
+     {
+      "ur": "بچے",
+      "sym": "baby"
+     },
+     {
+      "ur": "ہوتے",
+      "sym": null
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "All",
+      "sym": "all"
+     },
+     {
+      "en": "animals",
+      "sym": "animal"
+     },
+     {
+      "en": "have",
+      "sym": null
+     },
+     {
+      "en": "babies.",
+      "sym": "baby"
+     }
+    ]
+   },
+   {
+    "en": "The hen's baby is a chick.",
+    "words": [
+     {
+      "ur": "مرغی",
+      "sym": "hen"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "بچہ",
+      "sym": "baby"
+     },
+     {
+      "ur": "چوزہ",
+      "sym": "chick"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The hen's",
+      "sym": "hen"
+     },
+     {
+      "en": "baby",
+      "sym": "baby"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "a chick.",
+      "sym": "chick"
+     }
+    ]
+   },
+   {
+    "en": "The kitten looks like the cat.",
+    "words": [
+     {
+      "ur": "بلونگڑا",
+      "sym": "kitten"
+     },
+     {
+      "ur": "بلی",
+      "sym": "cat"
+     },
+     {
+      "ur": "جیسا",
+      "sym": "same"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The kitten",
+      "sym": "kitten"
+     },
+     {
+      "en": "looks like",
+      "sym": "same"
+     },
+     {
+      "en": "the cat.",
+      "sym": "cat"
+     }
+    ]
+   },
+   {
+    "en": "The frog's baby is different.",
+    "words": [
+     {
+      "ur": "مینڈک",
+      "sym": "frog"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "بچہ",
+      "sym": "baby"
+     },
+     {
+      "ur": "مختلف",
+      "sym": "different"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The frog's",
+      "sym": "frog"
+     },
+     {
+      "en": "baby",
+      "sym": "baby"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "different.",
+      "sym": "different"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "ماں اور بچے کو ملائیں۔",
+    "en": "Match the mother and the baby."
+   },
+   "task": {
+    "kind": "match",
+    "pairs": [
+     {
+      "a": {
+       "ur": "مرغی",
+       "en": "Hen",
+       "sym": "hen"
+      },
+      "b": {
+       "ur": "چوزہ",
+       "en": "Chick",
+       "sym": "chick"
+      }
+     },
+     {
+      "a": {
+       "ur": "بلی",
+       "en": "Cat",
+       "sym": "cat"
+      },
+      "b": {
+       "ur": "بلونگڑا",
+       "en": "Kitten",
+       "sym": "kitten"
+      }
+     },
+     {
+      "a": {
+       "ur": "گھوڑا",
+       "en": "Horse",
+       "sym": "horse"
+      },
+      "b": {
+       "ur": "بچھیرا",
+       "en": "Foal",
+       "sym": "foal"
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

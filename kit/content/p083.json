@@ -1,0 +1,662 @@
+{
+ "n": 83,
+ "printed": "79",
+ "chapter": 13,
+ "kind": "exercise",
+ "title": {
+  "ur": "مشق: تصویر دیکھ کر پیشہ پہچانیں",
+  "en": "Exercise: Name the profession in the picture"
+ },
+ "blocks": [
+  {
+   "t": "activity",
+   "id": "p083-a1",
+   "label": {
+    "ur": "سوال نمبر 4",
+    "en": "Question 4"
+   },
+   "orig": {
+    "ur": "کالم \"الف\" میں دی گئی تصاویر کے سامنے کالم \"ب\" میں پیشہ لکھیں۔",
+    "en": "In column B, write the profession next to each picture given in column A."
+   },
+   "prompt": {
+    "ur": "ہر تصویر دیکھیں۔ یہ شخص کیا کام کرتا ہے؟ اس کا پیشہ بتائیں۔",
+    "en": "Look at each picture. What work does this person do? Name the profession."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "یہ کون ہے؟",
+        "en": "Who is this?"
+       },
+       "options": [
+        {
+         "ur": "ڈرائیور",
+         "en": "Driver",
+         "sym": "driver"
+        },
+        {
+         "ur": "ڈاکٹر",
+         "en": "Doctor",
+         "sym": "doctor"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "یہ ڈرائیور ہے۔ اس کے ہاتھ میں گاڑی کا سٹیئرنگ ہے۔",
+        "en": "This is a driver. He is holding the steering wheel."
+       },
+       "img": [
+        0.503,
+        0.262,
+        0.718,
+        0.351
+       ]
+      },
+      {
+       "q": {
+        "ur": "یہ کون ہیں؟",
+        "en": "Who is this?"
+       },
+       "options": [
+        {
+         "ur": "موچی",
+         "en": "Cobbler",
+         "sym": "shoe"
+        },
+        {
+         "ur": "استانی",
+         "en": "Teacher",
+         "sym": "teacher"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "یہ استانی ہیں۔ وہ تختے پر گنتی پڑھا رہی ہیں۔",
+        "en": "This is a teacher. She is teaching numbers on the board."
+       },
+       "img": [
+        0.506,
+        0.467,
+        0.711,
+        0.557
+       ]
+      },
+      {
+       "q": {
+        "ur": "یہ کون ہے؟",
+        "en": "Who is this?"
+       },
+       "options": [
+        {
+         "ur": "موچی",
+         "en": "Cobbler",
+         "sym": "shoe"
+        },
+        {
+         "ur": "پائلٹ",
+         "en": "Pilot",
+         "sym": "pilot"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "یہ موچی ہے۔ وہ جوتے بناتا اور مرمت کرتا ہے۔",
+        "en": "This is a cobbler. He makes and mends shoes."
+       },
+       "img": [
+        0.502,
+        0.672,
+        0.719,
+        0.766
+       ]
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "تصویر 1",
+        "en": "Picture 1",
+        "img": [
+         0.503,
+         0.262,
+         0.718,
+         0.351
+        ]
+       },
+       "b": {
+        "ur": "ڈرائیور",
+        "en": "Driver"
+       }
+      },
+      {
+       "a": {
+        "ur": "تصویر 2",
+        "en": "Picture 2",
+        "img": [
+         0.503,
+         0.365,
+         0.718,
+         0.454
+        ]
+       },
+       "b": {
+        "ur": "حلوائی",
+        "en": "Sweet-maker"
+       }
+      },
+      {
+       "a": {
+        "ur": "تصویر 3",
+        "en": "Picture 3",
+        "img": [
+         0.506,
+         0.467,
+         0.711,
+         0.557
+        ]
+       },
+       "b": {
+        "ur": "استانی (استاد)",
+        "en": "Teacher"
+       }
+      },
+      {
+       "a": {
+        "ur": "تصویر 4",
+        "en": "Picture 4",
+        "img": [
+         0.502,
+         0.569,
+         0.719,
+         0.663
+        ]
+       },
+       "b": {
+        "ur": "ڈاکٹر",
+        "en": "Doctor"
+       }
+      },
+      {
+       "a": {
+        "ur": "تصویر 5",
+        "en": "Picture 5",
+        "img": [
+         0.502,
+         0.672,
+         0.719,
+         0.766
+        ]
+       },
+       "b": {
+        "ur": "موچی",
+        "en": "Cobbler"
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "یہ شخص ہماری مدد کیسے کرتا ہے؟",
+        "en": "How does this person help us?"
+       },
+       "options": [
+        {
+         "ur": "ہمارا علاج کرتا ہے",
+         "en": "Treats us"
+        },
+        {
+         "ur": "ہمیں گاڑی میں ایک جگہ سے دوسری جگہ پہنچاتا ہے",
+         "en": "Takes us from one place to another in a vehicle"
+        },
+        {
+         "ur": "ہمارے جوتے مرمت کرتا ہے",
+         "en": "Mends our shoes"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "یہ ڈرائیور ہے۔ وہ بس یا گاڑی چلا کر ہمیں منزل تک پہنچاتا ہے۔",
+        "en": "This is a driver. He drives a bus or car and takes us to where we are going."
+       },
+       "img": [
+        0.503,
+        0.262,
+        0.718,
+        0.351
+       ]
+      },
+      {
+       "q": {
+        "ur": "یہ شخص کیا بیچتا ہے؟",
+        "en": "What does this person sell?"
+       },
+       "options": [
+        {
+         "ur": "مٹھائی",
+         "en": "Sweets"
+        },
+        {
+         "ur": "سبزی",
+         "en": "Vegetables"
+        },
+        {
+         "ur": "کپڑے",
+         "en": "Clothes"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "یہ حلوائی ہے۔ وہ مٹھائی بناتا اور بیچتا ہے۔",
+        "en": "This is a sweet-maker. He makes and sells sweets."
+       },
+       "img": [
+        0.503,
+        0.365,
+        0.718,
+        0.454
+       ]
+      },
+      {
+       "q": {
+        "ur": "یہ خاتون ہماری مدد کیسے کرتی ہیں؟",
+        "en": "How does this lady help us?"
+       },
+       "options": [
+        {
+         "ur": "ہمارے کپڑے دھوتی ہیں",
+         "en": "Washes our clothes"
+        },
+        {
+         "ur": "جہاز اڑاتی ہیں",
+         "en": "Flies an aeroplane"
+        },
+        {
+         "ur": "ہمیں پڑھنا لکھنا سکھاتی ہیں",
+         "en": "Teaches us to read and write"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "یہ استانی ہیں۔ وہ ہمیں پڑھنا لکھنا سکھاتی ہیں۔",
+        "en": "This is a teacher. She teaches us to read and write."
+       },
+       "img": [
+        0.506,
+        0.467,
+        0.711,
+        0.557
+       ]
+      },
+      {
+       "q": {
+        "ur": "ہم اس خاتون کے پاس کب جاتے ہیں؟",
+        "en": "When do we go to this lady?"
+       },
+       "options": [
+        {
+         "ur": "جب گاڑی خراب ہو",
+         "en": "When the car breaks down"
+        },
+        {
+         "ur": "جب ہم بیمار ہوں",
+         "en": "When we are ill"
+        },
+        {
+         "ur": "جب مٹھائی لینی ہو",
+         "en": "When we want sweets"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "سفید کوٹ اور ماسک والی یہ خاتون ڈاکٹر ہیں۔ بیمار ہونے پر ہم ڈاکٹر کے پاس جاتے ہیں۔",
+        "en": "This lady in a white coat and mask is a doctor. We go to the doctor when we are ill."
+       },
+       "img": [
+        0.502,
+        0.569,
+        0.719,
+        0.663
+       ]
+      },
+      {
+       "q": {
+        "ur": "یہ شخص کس چیز کی مرمت کرتا ہے؟",
+        "en": "What does this person mend?"
+       },
+       "options": [
+        {
+         "ur": "جوتے",
+         "en": "Shoes"
+        },
+        {
+         "ur": "گاڑیاں",
+         "en": "Cars"
+        },
+        {
+         "ur": "نلکے",
+         "en": "Taps"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "یہ موچی ہے۔ وہ جوتے بناتا اور مرمت کرتا ہے۔",
+        "en": "This is a cobbler. He makes and mends shoes."
+       },
+       "img": [
+        0.502,
+        0.672,
+        0.719,
+        0.766
+       ]
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "teacher",
+   "ur": "بچوں کو بتائیں کہ ہر پیشہ قابلِ احترام ہے اور اس پیشہ سے متعلقہ افراد کسی نہ کسی طرح ہماری مدد کرتے ہیں۔",
+   "en": "Tell the children that every profession is worthy of respect and that the people in each profession help us in one way or another."
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "ہر تصویر میں وہ چیز ڈھونڈیں جو پیشہ بتاتی ہے: سٹیئرنگ، مٹھائی کی دکان، تختہ، سفید کوٹ، جوتے۔",
+   "en": "In each picture look for the clue that tells the profession: steering wheel, sweet shop, board, white coat, shoes."
+  },
+  {
+   "for": "vision",
+   "ur": "تصویروں کی تفصیل سنیں: (1) بزرگ آدمی بس کا سٹیئرنگ پکڑے ہیں، (2) آدمی مٹھائی کی دکان میں مٹھائی کا تھال لیے کھڑا ہے، (3) استانی تختے پر گنتی دکھا رہی ہیں، (4) سفید کوٹ اور ماسک پہنے خاتون، (5) بزرگ آدمی جوتے سی رہے ہیں۔",
+   "en": "Listen to the picture descriptions: (1) an elderly man holds a bus steering wheel, (2) a man stands in a sweet shop holding a tray of sweets, (3) a lady teacher points to numbers on a board, (4) a lady in a white coat and mask, (5) an elderly man is stitching shoes."
+  },
+  {
+   "for": "motor",
+   "ur": "پیشے کا نام لکھنے کے بجائے آپ بول سکتے ہیں، نام کے کارڈ کو تصویر کے سامنے رکھ سکتے ہیں، یا سکرین پر ملا سکتے ہیں۔",
+   "en": "Instead of writing the profession, you can say it, place a name card next to the picture, or match on the screen."
+  },
+  {
+   "for": "teacher",
+   "ur": "چوتھی تصویر کے لیے “ڈاکٹر” اور “نرس” دونوں جواب قبول کریں۔ آخر میں ہر بچے سے کہلوائیں: “ہر پیشہ قابلِ احترام ہے” — اور سکول کے چوکیدار، صفائی والے اور ڈرائیور کا شکریہ ادا کروائیں۔",
+   "en": "For the fourth picture accept both “doctor” and “nurse”. At the end have every child say “Every profession deserves respect” — and thank the school guard, cleaner and driver."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "ہر پیشہ اچھا ہے",
+   "en": "Every profession is good"
+  },
+  "image": {
+   "crop": [
+    0.506,
+    0.467,
+    0.711,
+    0.557
+   ],
+   "alt": {
+    "ur": "استانی تختے پر گنتی پڑھا رہی ہیں۔",
+    "en": "A lady teacher is teaching numbers on the board."
+   }
+  },
+  "sentences": [
+   {
+    "en": "The driver drives the vehicle.",
+    "words": [
+     {
+      "ur": "ڈرائیور",
+      "img": [
+       0.503,
+       0.262,
+       0.718,
+       0.351
+      ]
+     },
+     {
+      "ur": "گاڑی",
+      "sym": "bus"
+     },
+     {
+      "ur": "چلاتا ہے۔",
+      "sym": "to drive"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The driver",
+      "img": [
+       0.503,
+       0.262,
+       0.718,
+       0.351
+      ]
+     },
+     {
+      "en": "drives",
+      "sym": "to drive"
+     },
+     {
+      "en": "the vehicle.",
+      "sym": "bus"
+     }
+    ]
+   },
+   {
+    "en": "The teacher teaches.",
+    "words": [
+     {
+      "ur": "استانی",
+      "img": [
+       0.506,
+       0.467,
+       0.711,
+       0.557
+      ]
+     },
+     {
+      "ur": "پڑھاتی ہیں۔",
+      "sym": "to teach"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The teacher",
+      "img": [
+       0.506,
+       0.467,
+       0.711,
+       0.557
+      ]
+     },
+     {
+      "en": "teaches.",
+      "sym": "to teach"
+     }
+    ]
+   },
+   {
+    "en": "The cobbler mends shoes.",
+    "words": [
+     {
+      "ur": "موچی",
+      "img": [
+       0.502,
+       0.672,
+       0.719,
+       0.766
+      ]
+     },
+     {
+      "ur": "جوتے",
+      "sym": "shoes"
+     },
+     {
+      "ur": "ٹھیک کرتا ہے۔",
+      "sym": "to repair"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The cobbler",
+      "img": [
+       0.502,
+       0.672,
+       0.719,
+       0.766
+      ]
+     },
+     {
+      "en": "mends",
+      "sym": "to repair"
+     },
+     {
+      "en": "shoes.",
+      "sym": "shoes"
+     }
+    ]
+   },
+   {
+    "en": "Everyone helps us.",
+    "words": [
+     {
+      "ur": "سب",
+      "sym": "everybody"
+     },
+     {
+      "ur": "ہماری",
+      "sym": "our"
+     },
+     {
+      "ur": "مدد",
+      "sym": "to help"
+     },
+     {
+      "ur": "کرتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Everyone",
+      "sym": "everybody"
+     },
+     {
+      "en": "helps",
+      "sym": "to help"
+     },
+     {
+      "en": "us.",
+      "sym": "we"
+     }
+    ]
+   },
+   {
+    "en": "We respect everyone.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "سب کی",
+      "sym": "everybody"
+     },
+     {
+      "ur": "عزت",
+      "sym": "respect"
+     },
+     {
+      "ur": "کرتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "respect",
+      "sym": "respect"
+     },
+     {
+      "en": "everyone.",
+      "sym": "everybody"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "تصویر کو صحیح نام سے ملائیں۔",
+    "en": "Match the picture with the right name."
+   },
+   "task": {
+    "kind": "match",
+    "pairs": [
+     {
+      "a": {
+       "ur": "تصویر 1",
+       "en": "Picture 1",
+       "img": [
+        0.503,
+        0.262,
+        0.718,
+        0.351
+       ]
+      },
+      "b": {
+       "ur": "ڈرائیور",
+       "en": "Driver",
+       "sym": "driver"
+      }
+     },
+     {
+      "a": {
+       "ur": "تصویر 2",
+       "en": "Picture 2",
+       "img": [
+        0.506,
+        0.467,
+        0.711,
+        0.557
+       ]
+      },
+      "b": {
+       "ur": "استانی",
+       "en": "Teacher",
+       "sym": "teacher"
+      }
+     },
+     {
+      "a": {
+       "ur": "تصویر 3",
+       "en": "Picture 3",
+       "img": [
+        0.502,
+        0.672,
+        0.719,
+        0.766
+       ]
+      },
+      "b": {
+       "ur": "موچی",
+       "en": "Cobbler",
+       "sym": "shoe"
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

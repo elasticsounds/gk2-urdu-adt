@@ -1,0 +1,129 @@
+{
+  "n": 33,
+  "printed": "29",
+  "chapter": 5,
+  "kind": "content",
+  "title": {"ur": "ہوا اور سورج", "en": "Air and the sun"},
+  "blocks": [
+    {"t": "gallery", "items": [
+      {"crop": [0.497, 0.117, 0.823, 0.28], "alt": {"ur": "پی آئی اے کا سفید ہوائی جہاز آسمان میں اُڑ رہا ہے۔", "en": "A white PIA aeroplane is flying in the sky."}, "cap": {"ur": "ہوائی جہاز", "en": "Aeroplane"}},
+      {"crop": [0.158, 0.117, 0.485, 0.28], "alt": {"ur": "ایک چیل پر پھیلائے آسمان میں اُڑ رہی ہے۔", "en": "A large bird called a kite is flying in the sky with its wings spread wide."}, "cap": {"ur": "پرندہ", "en": "Bird"}}
+    ]},
+    {
+      "t": "activity",
+      "id": "p033-a1",
+      "label": {"ur": "سرگرمی", "en": "Activity"},
+      "orig": {"ur": "نیچے دی گئی تصاویر کو غور سے دیکھیں اور اپنی کلاس کو بتائیں کہ ان تصاویر میں ہوا کس طرح استعمال ہو رہی ہے؟", "en": "Look carefully at the pictures given below and tell your class how air is being used in these pictures."},
+      "prompt": {"ur": "پَن چکّی اور پیراشوٹ کی تصویریں دیکھیں۔ ہوا یہاں کیا کام کر رہی ہے؟", "en": "Look at the pictures of the windmill and the parachute. What job is the air doing here?"},
+      "levels": {
+        "easy": {"kind": "mcq", "questions": [
+          {"q": {"ur": "پَن چکّی کے پَر کون گھماتا ہے؟", "en": "What turns the blades of the windmill?"},
+           "img": [0.497, 0.43, 0.823, 0.615],
+           "options": [{"ur": "ہوا", "en": "The wind", "sym": "wind"}, {"ur": "پانی", "en": "Water", "sym": "water"}],
+           "answer": 0,
+           "fb": {"ur": "تیز ہوا پَن چکّی کے پَر گھماتی ہے۔", "en": "Strong wind turns the blades of the windmill."}},
+          {"q": {"ur": "پیراشوٹ والا آدمی آہستہ آہستہ نیچے کیوں آتا ہے؟", "en": "Why does the man with the parachute come down slowly?"},
+           "img": [0.158, 0.43, 0.485, 0.615],
+           "options": [{"ur": "پیراشوٹ میں مٹی بھری ہے", "en": "The parachute is full of soil", "sym": "mud"}, {"ur": "پیراشوٹ میں ہوا بھری ہے", "en": "The parachute is full of air", "sym": "wind"}],
+           "answer": 1,
+           "fb": {"ur": "پیراشوٹ میں ہوا بھر جاتی ہے، اس لیے آدمی آہستہ آہستہ نیچے اترتا ہے۔", "en": "The parachute fills with air, so the man comes down slowly."}}
+        ]},
+        "moderate": {"kind": "open", "mode": "talk",
+          "steps": [
+            {"ur": "پہلی تصویر (پَن چکّی) دیکھیں: اس کے پَر کون سی چیز گھما رہی ہے؟", "en": "Look at the first picture (the windmill): what is turning its blades?"},
+            {"ur": "دوسری تصویر (پیراشوٹ) دیکھیں: چھتری کیوں پھولی ہوئی ہے؟", "en": "Look at the second picture (the parachute): why is its top puffed up?"},
+            {"ur": "اپنی کلاس کو بول کر، اشاروں سے یا تصویر بنا کر بتائیں۔", "en": "Tell your class by speaking, by using signs or by drawing a picture."}
+          ],
+          "model": {"ur": "پَن چکّی (وِنڈ مِل) میں ہوا پَروں کو گھماتی ہے اور اس سے بجلی بنتی ہے۔ پیراشوٹ میں ہوا بھر جاتی ہے جس سے آدمی آہستہ آہستہ اور حفاظت سے زمین پر اترتا ہے۔", "en": "In a windmill, the wind turns the blades and this makes electricity. A parachute fills with air, so the man comes down to the ground slowly and safely."},
+          "checklist": [
+            {"ur": "میں نے دونوں تصویریں غور سے دیکھیں۔", "en": "I looked carefully at both pictures."},
+            {"ur": "میں نے بتایا کہ ہوا کیا کام کر رہی ہے۔", "en": "I said what job the air is doing."}
+          ]},
+        "hard": {"kind": "open", "mode": "write",
+          "steps": [
+            {"ur": "سوچیں: آپ کے گھر یا سکول میں ہوا اور کن کاموں میں استعمال ہوتی ہے؟", "en": "Think: what other jobs is air used for at your home or school?"},
+            {"ur": "کم از کم تین مثالیں لکھیں یا بنائیں۔", "en": "Write or draw at least three examples."}
+          ],
+          "model": {"ur": "ہوا سے پتنگ اُڑتی ہے، گیلے کپڑے سوکھتے ہیں، سائیکل کے ٹائر اور غبارے میں ہوا بھری جاتی ہے، اور ہم ہوا میں سانس لیتے ہیں۔", "en": "The wind makes a kite fly and dries wet clothes, air is pumped into bicycle tyres and balloons, and we breathe air."}}
+      }
+    },
+    {"t": "gallery", "items": [
+      {"crop": [0.497, 0.43, 0.823, 0.615], "alt": {"ur": "نیلے آسمان کے نیچے ہرے میدان میں کئی اونچی سفید پَن چکّیاں جن کے تین تین لمبے پَر ہیں۔", "en": "Several tall white windmills, each with three long blades, stand in a green field under a blue sky."}, "cap": {"ur": "پَن چکّی (وِنڈ مِل)", "en": "Windmill"}},
+      {"crop": [0.158, 0.43, 0.485, 0.615], "alt": {"ur": "ایک آدمی سبز اور سفید پیراشوٹ سے لٹکا آسمان سے نیچے آ رہا ہے؛ دور ایک اور پیراشوٹ ہے۔", "en": "A man hangs from a green and white parachute as he comes down from the sky, and another parachute is far away."}, "cap": {"ur": "پیراشوٹ", "en": "Parachute"}}
+    ]},
+    {"t": "h", "ur": "سورج", "en": "The sun"},
+    {"t": "p", "ur": "سورج، روشنی اور حرارت کا سب سے بڑا ذریعہ ہے۔ پودوں اور فصلوں کی نشوونما کے لیے سورج بہت ضروری ہے۔ اس کے بغیر زمین پر فصلیں نہیں اُگ سکتیں۔", "en": "The sun is the biggest source of light and heat. The sun is very important for the growth of plants and crops. Without it, crops cannot grow on the Earth."},
+    {"t": "img", "crop": [0.515, 0.724, 0.835, 0.872],
+     "alt": {"ur": "چمکتے سورج کی دھوپ میں کھلا ہوا ایک پیلا سورج مکھی کا پھول۔", "en": "A yellow sunflower is blooming in the bright sunshine."},
+     "cap": {"ur": "پودوں کی نشوونما کے لیے", "en": "For the growth of plants"}},
+    {
+      "t": "activity",
+      "id": "p033-a2",
+      "label": {"ur": "ذرا سوچیے!", "en": "Think about it!"},
+      "orig": {"ur": "شیشہ کس چیز سے بنتا ہے؟\nکاغذ کس چیز سے بنتا ہے؟", "en": "What is glass made from?\nWhat is paper made from?"},
+      "prompt": {"ur": "سوچیں اور اندازہ لگائیں۔ یہ چیزیں قدرت کی کس چیز سے بنتی ہیں؟", "en": "Think and guess. Which natural thing is each of these made from?"},
+      "levels": {
+        "easy": {"kind": "mcq", "questions": [
+          {"q": {"ur": "کاغذ کس چیز سے بنتا ہے؟", "en": "What is paper made from?"},
+           "options": [{"ur": "درخت کی لکڑی", "en": "Wood from trees", "sym": "tree"}, {"ur": "پتھر", "en": "Stone", "sym": "stone"}],
+           "answer": 0,
+           "fb": {"ur": "کاغذ درختوں کی لکڑی سے بنتا ہے۔", "en": "Paper is made from the wood of trees."}},
+          {"q": {"ur": "شیشہ کس چیز سے بنتا ہے؟", "en": "What is glass made from?"},
+           "options": [{"ur": "دودھ", "en": "Milk", "sym": "milk"}, {"ur": "ریت", "en": "Sand", "sym": "sand"}],
+           "answer": 1,
+           "fb": {"ur": "شیشہ ریت کو بہت زیادہ گرم کر کے بنایا جاتا ہے۔", "en": "Glass is made by heating sand until it is very, very hot."}}
+        ]},
+        "moderate": {"kind": "mcq", "questions": [
+          {"q": {"ur": "شیشہ کس چیز سے بنتا ہے؟", "en": "What is glass made from?"},
+           "options": [{"ur": "لکڑی", "en": "Wood"}, {"ur": "ریت", "en": "Sand"}, {"ur": "روئی", "en": "Cotton"}],
+           "answer": 1,
+           "fb": {"ur": "شیشہ ریت سے بنتا ہے۔ ریت کو بہت تیز آگ میں پگھلا کر شیشہ بنایا جاتا ہے۔", "en": "Glass is made from sand. Sand is melted in a very hot fire to make glass."}},
+          {"q": {"ur": "کاغذ کس چیز سے بنتا ہے؟", "en": "What is paper made from?"},
+           "options": [{"ur": "درختوں کی لکڑی", "en": "Wood from trees"}, {"ur": "لوہا", "en": "Iron"}, {"ur": "ریت", "en": "Sand"}],
+           "answer": 0,
+           "fb": {"ur": "کاغذ درختوں کی لکڑی سے بنتا ہے۔ اس لیے کاغذ ضائع نہ کریں۔", "en": "Paper is made from the wood of trees. That is why we should not waste paper."}}
+        ]},
+        "hard": {"kind": "match", "pairs": [
+          {"a": {"ur": "شیشے کا گلاس", "en": "A drinking glass"}, "b": {"ur": "ریت", "en": "Sand"}},
+          {"a": {"ur": "کاپی کا کاغذ", "en": "Paper in a notebook"}, "b": {"ur": "درخت کی لکڑی", "en": "Wood from trees"}},
+          {"a": {"ur": "مٹی کا گھڑا", "en": "A clay water pot"}, "b": {"ur": "مٹی", "en": "Clay"}},
+          {"a": {"ur": "نلکا", "en": "A hand pump"}, "b": {"ur": "لوہا", "en": "Iron"}}
+        ]}
+      }
+    }
+  ],
+  "hint": [
+    {"for": "all", "ur": "ہوا نظر نہیں آتی مگر محسوس ہوتی ہے۔ اپنے ہاتھ پر پھونک ماریں یا کاغذ کا پنکھا ہلائیں — یہی ہوا پَن چکّی گھماتی اور پیراشوٹ کو سنبھالتی ہے۔", "en": "We cannot see air, but we can feel it. Blow on your hand or wave a paper fan. This same air turns the windmill and holds up the parachute."},
+    {"for": "vision", "ur": "کاغذ کی پھرکی بنا کر اس پر پھونک ماریں اور گھومتے پَروں کو انگلی سے محسوس کریں۔ رومال کے چاروں کونوں پر دھاگا باندھ کر چھوٹا پیراشوٹ بنائیں اور اسے گرتے ہوئے محسوس کریں۔", "en": "Make a paper pinwheel, blow on it and feel the spinning blades with your finger. Tie threads to the four corners of a handkerchief to make a small parachute, and feel it as it falls."},
+    {"for": "cognitive", "ur": "ایک وقت میں ایک تصویر دیکھیں اور ایک ہی سوال پوچھیں: ”ہوا کہاں ہے؟“ بچہ تصویر پر انگلی رکھ کر بتا سکتا ہے۔", "en": "Look at one picture at a time and ask just one question: “Where is the air?” The child can answer by putting a finger on the picture."},
+    {"for": "teacher", "ur": "”اپنی کلاس کو بتائیں“ کے لیے بولنے کے ساتھ اشاروں، اداکاری (بازو گھما کر پَن چکّی بننا) یا تصویر کو بھی قبول کریں۔ دھوپ اور سائے میں رکھے دو پودوں کا تجربہ سورج کی اہمیت دکھاتا ہے۔", "en": "For “tell your class”, accept signs, acting (turning the arms like a windmill) or a picture as well as speaking. An experiment with two plants, one kept in sunshine and one in shade, shows how important the sun is."}
+  ],
+  "easy": {
+    "title": {"ur": "ہوا اور سورج", "en": "Air and the sun"},
+    "image": {"crop": [0.515, 0.724, 0.835, 0.872], "alt": {"ur": "دھوپ میں کھلا سورج مکھی کا پھول۔", "en": "A sunflower is blooming in the sunshine."}},
+    "sentences": [
+      {"en": "A bird flies in the air.",
+       "words": [{"ur": "پرندہ", "img": [0.158, 0.117, 0.485, 0.28]}, {"ur": "ہوا", "sym": "air"}, {"ur": "میں", "sym": null}, {"ur": "اُڑتا ہے۔", "sym": "to fly"}],
+       "words_en": [{"en": "A bird", "img": [0.158, 0.117, 0.485, 0.28]}, {"en": "flies", "sym": "to fly"}, {"en": "in", "sym": null}, {"en": "the air.", "sym": "air"}]},
+      {"en": "An aeroplane also flies in the air.",
+       "words": [{"ur": "ہوائی جہاز", "img": [0.497, 0.117, 0.823, 0.28]}, {"ur": "بھی", "sym": "also"}, {"ur": "ہوا", "sym": "air"}, {"ur": "میں", "sym": null}, {"ur": "اُڑتا ہے۔", "sym": "to fly"}],
+       "words_en": [{"en": "An aeroplane", "img": [0.497, 0.117, 0.823, 0.28]}, {"en": "also", "sym": "also"}, {"en": "flies", "sym": "to fly"}, {"en": "in", "sym": null}, {"en": "the air.", "sym": "air"}]},
+      {"en": "The sun gives light and heat.",
+       "words": [{"ur": "سورج", "sym": "sun"}, {"ur": "روشنی", "sym": "light"}, {"ur": "اور", "sym": null}, {"ur": "گرمی", "sym": "heat"}, {"ur": "دیتا ہے۔", "sym": "to give"}],
+       "words_en": [{"en": "The sun", "sym": "sun"}, {"en": "gives", "sym": "to give"}, {"en": "light", "sym": "light"}, {"en": "and", "sym": null}, {"en": "heat.", "sym": "heat"}]},
+      {"en": "Plants grow with sunshine.",
+       "words": [{"ur": "پودے", "sym": "plant"}, {"ur": "دھوپ", "sym": "sunny"}, {"ur": "سے", "sym": null}, {"ur": "بڑھتے ہیں۔", "sym": "to grow"}],
+       "words_en": [{"en": "Plants", "sym": "plant"}, {"en": "grow", "sym": "to grow"}, {"en": "with", "sym": null}, {"en": "sunshine.", "sym": "sunny"}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "صحیح تصویر چنیں۔", "en": "Choose the right picture."},
+      "task": {"kind": "mcq", "questions": [
+        {"q": {"ur": "پودوں کو بڑھنے کے لیے کیا چاہیے؟", "en": "What do plants need to grow?"},
+         "options": [{"ur": "سورج کی روشنی", "en": "Sunlight", "sym": "sun"}, {"ur": "اندھیرا", "en": "Darkness", "sym": "dark"}],
+         "answer": 0,
+         "fb": {"ur": "پودوں کو بڑھنے کے لیے سورج کی روشنی چاہیے۔", "en": "Plants need sunlight to grow."}}
+      ]}
+    }
+  },
+  "print": true
+}

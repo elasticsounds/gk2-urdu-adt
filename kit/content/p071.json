@@ -1,0 +1,568 @@
+{
+ "n": 71,
+ "printed": "67",
+ "chapter": 11,
+ "kind": "opener",
+ "title": {
+  "ur": "حرارت اور روشنی",
+  "en": "Heat and light"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "11۔ حرارت اور روشنی",
+   "en": "Chapter 11: Heat and light"
+  },
+  {
+   "t": "h",
+   "ur": "حاصلاتِ تعلّم",
+   "en": "Learning outcomes"
+  },
+  {
+   "t": "p",
+   "ur": "اس باب کے اختتام پر آپ اس قابل ہو جائیں گے کہ:",
+   "en": "By the end of this chapter you will be able to:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "حرارت اور روشنی کے ذرائع (گھر، سکول اور اِرد گِرد) کی شناخت کر سکیں۔",
+     "en": "Identify the sources of heat and light (at home, at school and in the surroundings)."
+    },
+    {
+     "ur": "حرارت اور روشنی کے قدرتی اور مصنوعی ذرائع کو الگ کر سکیں۔",
+     "en": "Sort the sources of heat and light into natural and artificial ones."
+    },
+    {
+     "ur": "بیان کر سکیں کہ ہم کن کن طریقوں سے حرارت پیدا کر سکتے ہیں۔",
+     "en": "Describe the ways in which we can produce heat."
+    },
+    {
+     "ur": "حرارت اور روشنی کے استعمال کی فہرست بنا سکیں۔",
+     "en": "Make a list of the uses of heat and light."
+    },
+    {
+     "ur": "پہچان سکیں کہ جب ذرائع کے قریب ہوں تو حرارت اور روشنی کی شدّت زیادہ محسوس ہوتی ہے۔",
+     "en": "Recognise that heat and light feel stronger when we are near their sources."
+    }
+   ]
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.496,
+      0.65,
+      0.814,
+      0.807
+     ],
+     "alt": {
+      "ur": "نارنجی آسمان پر چمکتا ہوا سورج، جس کی روشنی نیچے پانی پر پڑ رہی ہے۔",
+      "en": "The sun is shining in an orange sky, and its light is falling on the water below."
+     }
+    },
+    {
+     "crop": [
+      0.164,
+      0.65,
+      0.481,
+      0.807
+     ],
+     "alt": {
+      "ur": "رات کے نیلے آسمان پر پورا گول چاند، بہت سے ستارے اور سفید بادل۔",
+      "en": "A round full moon, many stars and white clouds are in the blue night sky."
+     }
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "ur": "سورج، حرارت اور روشنی کا قدرتی اور سب سے بڑا ذریعہ ہے۔ اس کے علاوہ چاند اور ستاروں سے بھی روشنی حاصل ہوتی ہے۔",
+   "en": "The sun is the natural and the biggest source of heat and light. Besides the sun, we also get light from the moon and the stars."
+  },
+  {
+   "t": "activity",
+   "id": "p071-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "سورج، حرارت اور روشنی کا قدرتی اور سب سے بڑا ذریعہ ہے۔ اس کے علاوہ چاند اور ستاروں سے بھی روشنی حاصل ہوتی ہے۔",
+    "en": "The sun is the natural and the biggest source of heat and light. Besides the sun, we also get light from the moon and the stars."
+   },
+   "prompt": {
+    "ur": "آسمان کی روشنیوں کے بارے میں جواب دیں۔",
+    "en": "Answer the questions about the lights in the sky."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "دن میں ہمیں روشنی اور حرارت کون دیتا ہے؟",
+        "en": "What gives us light and heat in the day?"
+       },
+       "options": [
+        {
+         "ur": "سورج",
+         "en": "The sun",
+         "img": [
+          0.496,
+          0.65,
+          0.814,
+          0.807
+         ]
+        },
+        {
+         "ur": "چاند",
+         "en": "The moon",
+         "img": [
+          0.164,
+          0.65,
+          0.481,
+          0.807
+         ]
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "دن میں سورج ہمیں روشنی اور حرارت دیتا ہے۔",
+        "en": "In the day the sun gives us light and heat."
+       }
+      },
+      {
+       "q": {
+        "ur": "رات کو آسمان پر کیا چمکتا ہے؟",
+        "en": "What shines in the sky at night?"
+       },
+       "options": [
+        {
+         "ur": "سورج",
+         "en": "The sun",
+         "img": [
+          0.496,
+          0.65,
+          0.814,
+          0.807
+         ]
+        },
+        {
+         "ur": "چاند اور ستارے",
+         "en": "The moon and stars",
+         "img": [
+          0.164,
+          0.65,
+          0.481,
+          0.807
+         ]
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "رات کو چاند اور ستاروں سے روشنی حاصل ہوتی ہے۔",
+        "en": "At night we get light from the moon and stars."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "fill",
+     "questions": [
+      {
+       "q": {
+        "ur": "___ حرارت اور روشنی کا قدرتی اور سب سے بڑا ذریعہ ہے۔",
+        "en": "The ___ is the natural and the biggest source of heat and light."
+       },
+       "options": [
+        {
+         "ur": "چاند",
+         "en": "moon"
+        },
+        {
+         "ur": "سورج",
+         "en": "sun"
+        },
+        {
+         "ur": "بلب",
+         "en": "bulb"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "سورج حرارت اور روشنی کا سب سے بڑا ذریعہ ہے۔",
+        "en": "The sun is the biggest source of heat and light."
+       }
+      },
+      {
+       "q": {
+        "ur": "چاند اور ___ سے بھی روشنی حاصل ہوتی ہے۔",
+        "en": "We also get light from the moon and the ___."
+       },
+       "options": [
+        {
+         "ur": "ستاروں",
+         "en": "stars"
+        },
+        {
+         "ur": "بادلوں",
+         "en": "clouds"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "چاند اور ستاروں سے بھی روشنی حاصل ہوتی ہے۔",
+        "en": "We also get light from the moon and the stars."
+       }
+      },
+      {
+       "q": {
+        "ur": "سورج ہمیں روشنی اور ___ دیتا ہے۔",
+        "en": "The sun gives us light and ___."
+       },
+       "options": [
+        {
+         "ur": "پانی",
+         "en": "water"
+        },
+        {
+         "ur": "مٹی",
+         "en": "soil"
+        },
+        {
+         "ur": "حرارت",
+         "en": "heat"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "سورج ہمیں روشنی اور حرارت یعنی گرمی دیتا ہے۔",
+        "en": "The sun gives us light and heat, which means warmth."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "do",
+     "steps": [
+      {
+       "ur": "کسی بڑے کے ساتھ صحن میں جائیں۔ ایک منٹ دھوپ میں کھڑے ہوں، پھر ایک منٹ سائے میں۔",
+       "en": "Go outside with a grown-up. Stand in the sunshine for one minute, then in the shade for one minute."
+      },
+      {
+       "ur": "بتائیں: کہاں زیادہ حرارت (گرمی) محسوس ہوئی؟ کہاں زیادہ روشنی تھی؟",
+       "en": "Say: where did you feel more heat? Where was there more light?"
+      },
+      {
+       "ur": "سوچ کر بتائیں: گیلے کپڑے دھوپ میں جلدی کیوں سوکھتے ہیں؟",
+       "en": "Think and say: why do wet clothes dry quickly in the sunshine?"
+      },
+      {
+       "ur": "یاد رکھیں: سورج کی طرف سیدھا کبھی نہ دیکھیں۔",
+       "en": "Remember: never look straight at the sun."
+      }
+     ],
+     "model": {
+      "ur": "دھوپ میں زیادہ حرارت اور زیادہ روشنی تھی کیوں کہ وہاں سورج کی کرنیں سیدھی پڑتی ہیں۔ سورج کی حرارت سے گیلے کپڑے جلدی سوکھ جاتے ہیں۔",
+      "en": "There was more heat and more light in the sunshine because the sun's rays fall there directly. The sun's heat dries wet clothes quickly."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دھوپ اور سائے کا فرق محسوس کیا۔",
+       "en": "I felt the difference between sunshine and shade."
+      },
+      {
+       "ur": "میں نے سورج کی طرف سیدھا نہیں دیکھا۔",
+       "en": "I did not look straight at the sun."
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "یاد رکھیں: حرارت کا مطلب ہے گرمی، اور روشنی وہ ہے جس سے ہم دیکھ سکتے ہیں۔ سورج ہمیں دونوں دیتا ہے۔",
+   "en": "Remember: heat means warmth, and light is what lets us see. The sun gives us both."
+  },
+  {
+   "for": "vision",
+   "ur": "دھوپ میں ہاتھ پھیلا کر سورج کی حرارت جلد پر محسوس کریں، پھر ہاتھ سائے میں لے جائیں۔ یوں آپ دیکھے بغیر جان سکتے ہیں کہ سورج کہاں ہے۔",
+   "en": "Hold your hand out in the sunshine and feel the sun's heat on your skin, then move it into the shade. This way you can tell where the sun is without seeing it."
+  },
+  {
+   "for": "hearing",
+   "ur": "دو نئے لفظ ہیں: ”حرارت“ اور ”روشنی“۔ حرارت کے لیے ہاتھ آگ پر سینکنے کا اشارہ، اور روشنی کے لیے بند مٹھی کھولنے کا اشارہ استعمال کریں۔",
+   "en": "There are two new words: \"heat\" and \"light\". For heat, use the sign of warming your hands at a fire. For light, use the sign of opening a closed fist."
+  },
+  {
+   "for": "teacher",
+   "ur": "باب کا آغاز کمرے کی بتّی بند اور کھول کر، اور کھڑکی کی دھوپ میں ہاتھ رکھوا کر کریں تاکہ ہر بچہ روشنی اور حرارت کو خود محسوس کرے۔ بچوں کو یاد دلائیں کہ سورج کی طرف سیدھا دیکھنا آنکھوں کے لیے نقصان دہ ہے۔",
+   "en": "Start the chapter by switching the room light off and on, and by letting children hold a hand in the sunshine at the window, so every child experiences light and heat. Remind them that looking straight at the sun harms the eyes."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "سورج: روشنی اور حرارت",
+   "en": "The sun: light and heat"
+  },
+  "image": {
+   "crop": [
+    0.496,
+    0.65,
+    0.814,
+    0.807
+   ],
+   "alt": {
+    "ur": "آسمان پر چمکتا ہوا سورج۔",
+    "en": "The sun is shining in the sky."
+   }
+  },
+  "sentences": [
+   {
+    "en": "The sun gives us light.",
+    "words": [
+     {
+      "ur": "سورج",
+      "sym": "sun"
+     },
+     {
+      "ur": "ہمیں",
+      "sym": "we"
+     },
+     {
+      "ur": "روشنی",
+      "sym": "light"
+     },
+     {
+      "ur": "دیتا ہے۔",
+      "sym": "to give"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "sun",
+      "sym": "sun"
+     },
+     {
+      "en": "gives",
+      "sym": "to give"
+     },
+     {
+      "en": "us",
+      "sym": "we"
+     },
+     {
+      "en": "light.",
+      "sym": "light"
+     }
+    ]
+   },
+   {
+    "en": "The sun gives us heat.",
+    "words": [
+     {
+      "ur": "سورج",
+      "sym": "sun"
+     },
+     {
+      "ur": "ہمیں",
+      "sym": "we"
+     },
+     {
+      "ur": "حرارت",
+      "sym": "heat"
+     },
+     {
+      "ur": "دیتا ہے۔",
+      "sym": "to give"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "sun",
+      "sym": "sun"
+     },
+     {
+      "en": "gives",
+      "sym": "to give"
+     },
+     {
+      "en": "us",
+      "sym": "we"
+     },
+     {
+      "en": "heat.",
+      "sym": "heat"
+     }
+    ]
+   },
+   {
+    "en": "Heat means warmth.",
+    "words": [
+     {
+      "ur": "حرارت",
+      "sym": "heat"
+     },
+     {
+      "ur": "کا مطلب",
+      "sym": null
+     },
+     {
+      "ur": "گرمی",
+      "sym": "hot"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Heat",
+      "sym": "heat"
+     },
+     {
+      "en": "means",
+      "sym": null
+     },
+     {
+      "en": "warmth.",
+      "sym": "hot"
+     }
+    ]
+   },
+   {
+    "en": "The moon and stars also give light.",
+    "words": [
+     {
+      "ur": "چاند",
+      "img": [
+       0.164,
+       0.65,
+       0.481,
+       0.807
+      ]
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "ستارے",
+      "sym": "star"
+     },
+     {
+      "ur": "بھی",
+      "sym": null
+     },
+     {
+      "ur": "روشنی",
+      "sym": "light"
+     },
+     {
+      "ur": "دیتے ہیں۔",
+      "sym": "to give"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "moon",
+      "img": [
+       0.164,
+       0.65,
+       0.481,
+       0.807
+      ]
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "stars",
+      "sym": "star"
+     },
+     {
+      "en": "also",
+      "sym": null
+     },
+     {
+      "en": "give",
+      "sym": "to give"
+     },
+     {
+      "en": "light.",
+      "sym": "light"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح تصویر چنیں۔",
+    "en": "Choose the right picture."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "روشنی اور حرارت کا سب سے بڑا ذریعہ کون سا ہے؟",
+       "en": "Which is the biggest source of light and heat?"
+      },
+      "options": [
+       {
+        "ur": "چاند",
+        "en": "The moon",
+        "img": [
+         0.164,
+         0.65,
+         0.481,
+         0.807
+        ]
+       },
+       {
+        "ur": "سورج",
+        "en": "The sun",
+        "img": [
+         0.496,
+         0.65,
+         0.814,
+         0.807
+        ]
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "سورج روشنی اور حرارت کا سب سے بڑا ذریعہ ہے۔",
+       "en": "The sun is the biggest source of light and heat."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

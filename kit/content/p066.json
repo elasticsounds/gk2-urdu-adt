@@ -1,0 +1,446 @@
+{
+ "n": 66,
+ "printed": "62",
+ "chapter": 10,
+ "kind": "opener",
+ "title": {
+  "ur": "زمینی وسائل کی حفاظت",
+  "en": "Protecting the Earth's resources"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "10۔ زمینی وسائل کی حفاظت",
+   "en": "Chapter 10: Protecting the Earth's resources"
+  },
+  {
+   "t": "h",
+   "ur": "حاصلاتِ تعلّم",
+   "en": "Learning outcomes"
+  },
+  {
+   "t": "p",
+   "ur": "اس باب کے اختتام پر آپ اس قابل ہو جائیں گے کہ:",
+   "en": "By the end of this chapter you will be able to:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "شناخت کر سکیں کہ انسان پانی کس طرح ضائع کرتا ہے۔",
+     "en": "Identify how people waste water."
+    },
+    {
+     "ur": "جان سکیں کہ پانی کے ضائع ہونے سے کیا مسائل پیدا ہوتے ہیں۔",
+     "en": "Know what problems arise when water is wasted."
+    },
+    {
+     "ur": "پانی کے ضیاع کو روکنے کے طریقے بتا سکیں۔",
+     "en": "Describe ways to stop water being wasted."
+    },
+    {
+     "ur": "سمجھ سکیں کہ جنگلات انسان کے لیے کیوں ضروری ہیں۔",
+     "en": "Understand why people need forests."
+    },
+    {
+     "ur": "شناخت کر سکیں کہ انسانی سرگرمیوں (جنگلات کے کٹاؤ) سے زمین کو کیسے نقصان پہنچ رہا ہے۔",
+     "en": "Identify how human activities (cutting down forests) are harming the earth."
+    },
+    {
+     "ur": "تجویز دے سکیں کہ کن طریقوں سے جنگلات کے کٹاؤ کو روکا جا سکتا ہے۔",
+     "en": "Suggest ways in which the cutting down of forests can be stopped."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "ur": "زمینی وسائل انسانی زندگی کے لیے بہت اہم ہیں۔ پانی کے بغیر زندگی ناممکن ہے۔",
+   "en": "The earth's resources are very important for human life. Life is impossible without water."
+  },
+  {
+   "t": "p",
+   "ur": "پانی ہماری روزمرّہ کی ضرورت ہے لہٰذا اس کا استعمال احتیاط سے کرنا چاہیے۔ پانی کے ضائع کرنے سے ہمیں بہت سے مسائل کا سامنا کرنا پڑتا ہے۔",
+   "en": "Water is our everyday need, so we should use it carefully. When we waste water we have to face many problems."
+  },
+  {
+   "t": "activity",
+   "id": "p066-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "پانی کے بغیر زندگی ناممکن ہے۔ پانی ہماری روزمرّہ کی ضرورت ہے لہٰذا اس کا استعمال احتیاط سے کرنا چاہیے۔",
+    "en": "Life is impossible without water. Water is our everyday need, so we should use it carefully."
+   },
+   "prompt": {
+    "ur": "اوپر کی عبارت پڑھیں یا سنیں، پھر جواب دیں۔",
+    "en": "Read or listen to the text above, then answer."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "ہم روز کیا پیتے ہیں؟",
+        "en": "What do we drink every day?"
+       },
+       "options": [
+        {
+         "ur": "پانی",
+         "en": "Water",
+         "sym": "water"
+        },
+        {
+         "ur": "ریت",
+         "en": "Sand",
+         "sym": "sand"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "ہم روز پانی پیتے ہیں۔ پانی کے بغیر زندگی ناممکن ہے۔",
+        "en": "We drink water every day. Life is impossible without water."
+       }
+      },
+      {
+       "q": {
+        "ur": "پانی کیسے استعمال کرنا چاہیے؟",
+        "en": "How should we use water?"
+       },
+       "options": [
+        {
+         "ur": "ضائع کر کے",
+         "en": "By wasting it",
+         "sym": "to spill"
+        },
+        {
+         "ur": "احتیاط سے",
+         "en": "Carefully",
+         "sym": "careful"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "پانی احتیاط سے استعمال کرنا چاہیے تاکہ ضائع نہ ہو۔",
+        "en": "We should use water carefully so that it is not wasted."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "tf",
+     "questions": [
+      {
+       "q": {
+        "ur": "زمینی وسائل انسانی زندگی کے لیے بہت اہم ہیں۔",
+        "en": "The earth's resources are very important for human life."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ پانی اور جنگلات جیسے وسائل کے بغیر ہم نہیں رہ سکتے۔",
+        "en": "True. We cannot live without resources like water and forests."
+       }
+      },
+      {
+       "q": {
+        "ur": "پانی کے بغیر بھی زندگی ممکن ہے۔",
+        "en": "Life is possible even without water."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "غلط۔ کتاب کہتی ہے: پانی کے بغیر زندگی ناممکن ہے۔",
+        "en": "False. The book says: life is impossible without water."
+       }
+      },
+      {
+       "q": {
+        "ur": "پانی کا استعمال احتیاط سے کرنا چاہیے۔",
+        "en": "Water should be used carefully."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ پانی ہماری روزمرّہ کی ضرورت ہے، اس لیے اسے بچانا چاہیے۔",
+        "en": "True. Water is our everyday need, so we should save it."
+       }
+      },
+      {
+       "q": {
+        "ur": "پانی ضائع کرنے سے کوئی مسئلہ پیدا نہیں ہوتا۔",
+        "en": "Wasting water causes no problem."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "غلط۔ پانی ضائع کرنے سے ہمیں بہت سے مسائل کا سامنا کرنا پڑتا ہے۔",
+        "en": "False. When we waste water we face many problems."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "سوچیں: آج صبح سے آپ نے پانی کن کن کاموں میں استعمال کیا؟",
+       "en": "Think: for which jobs have you used water since this morning?"
+      },
+      {
+       "ur": "کم از کم چار کام بتائیں یا ان کی تصویر بنائیں۔",
+       "en": "Name at least four jobs, or draw them."
+      },
+      {
+       "ur": "بتائیں: ان میں سے کس کام میں آپ پانی بچا سکتے تھے؟",
+       "en": "Say: in which of these jobs could you have saved water?"
+      }
+     ],
+     "model": {
+      "ur": "میں نے پانی پیا، منہ ہاتھ دھویا، دانت صاف کیے اور وضو کیا۔ دانت صاف کرتے وقت میں نل بند رکھ کر پانی بچا سکتا ہوں۔",
+      "en": "I drank water, washed my face and hands, brushed my teeth and did wudu. I can save water by keeping the tap turned off while I brush my teeth."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے پانی کے چار استعمال بتائے۔",
+       "en": "I named four uses of water."
+      },
+      {
+       "ur": "میں نے پانی بچانے کا ایک طریقہ بتایا۔",
+       "en": "I gave one way to save water."
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "پڑھنے سے پہلے سوچیں: اگر ایک دن گھر میں پانی نہ آئے تو کیا کیا کام رک جائیں گے؟",
+   "en": "Before reading, think: if no water came to your home for one day, which jobs would stop?"
+  },
+  {
+   "for": "vision",
+   "ur": "صفحے کے پیچھے شیشے کے گولے میں ہرا درخت بنا ہے؛ یہ صرف سجاوٹ ہے۔ اصل باتیں فہرست اور آخری عبارت میں ہیں، انھیں سنیں۔",
+   "en": "Behind the text there is a green tree inside a glass globe; it is only decoration. The real content is in the list and the last paragraph, so listen to them."
+  },
+  {
+   "for": "cognitive",
+   "ur": "چھ نکات ایک ساتھ یاد نہ کریں۔ بس دو لفظ یاد رکھیں: پانی اور جنگل — ہمیں دونوں کو بچانا ہے۔",
+   "en": "Do not try to remember all six points. Just remember two words: water and forest. We must save both."
+  },
+  {
+   "for": "teacher",
+   "ur": "پانی کا ایک گلاس اور ایک پتّا یا ٹہنی سامنے رکھ کر باب شروع کریں تاکہ ہر بچہ چھو کر، دیکھ کر یا سونگھ کر جان سکے کہ ”زمینی وسائل“ کیا ہیں۔ اہم الفاظ (پانی، درخت) کے لیے اشارہ بھی استعمال کریں۔",
+   "en": "Start the chapter with a glass of water and a leaf or twig in front of the class, so every child can touch, see or smell what \"the earth's resources\" are. Use a sign or gesture too for the key words (water, tree)."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "پانی بہت اہم ہے",
+   "en": "Water is very important"
+  },
+  "image": null,
+  "sentences": [
+   {
+    "en": "Water is very important.",
+    "words": [
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "بہت",
+      "sym": "very"
+     },
+     {
+      "ur": "اہم",
+      "sym": "important"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Water",
+      "sym": "water"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "very",
+      "sym": "very"
+     },
+     {
+      "en": "important.",
+      "sym": "important"
+     }
+    ]
+   },
+   {
+    "en": "We all need water.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "سب",
+      "sym": "all"
+     },
+     {
+      "ur": "کو",
+      "sym": null
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "چاہیے۔",
+      "sym": "to need"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "all",
+      "sym": "all"
+     },
+     {
+      "en": "need",
+      "sym": "to need"
+     },
+     {
+      "en": "water.",
+      "sym": "water"
+     }
+    ]
+   },
+   {
+    "en": "We use water carefully.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "احتیاط سے",
+      "sym": "careful"
+     },
+     {
+      "ur": "استعمال کرتے ہیں۔",
+      "sym": "to use"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "use",
+      "sym": "to use"
+     },
+     {
+      "en": "water",
+      "sym": "water"
+     },
+     {
+      "en": "carefully.",
+      "sym": "careful"
+     }
+    ]
+   },
+   {
+    "en": "We do not waste water.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "ضائع",
+      "sym": "to spill"
+     },
+     {
+      "ur": "نہیں",
+      "sym": "no"
+     },
+     {
+      "ur": "کرتے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "do not",
+      "sym": "no"
+     },
+     {
+      "en": "waste",
+      "sym": "to spill"
+     },
+     {
+      "en": "water.",
+      "sym": "water"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح تصویر چنیں۔",
+    "en": "Choose the right picture."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "کس کے بغیر زندگی ناممکن ہے؟",
+       "en": "What can we not live without?"
+      },
+      "options": [
+       {
+        "ur": "کھلونا",
+        "en": "Toy",
+        "sym": "toy"
+       },
+       {
+        "ur": "پانی",
+        "en": "Water",
+        "sym": "water"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "پانی کے بغیر زندگی ناممکن ہے۔",
+       "en": "Life is impossible without water."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

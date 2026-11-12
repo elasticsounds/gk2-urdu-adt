@@ -1,0 +1,699 @@
+{
+ "n": 7,
+ "printed": "3",
+ "chapter": 1,
+ "kind": "content",
+ "title": {
+  "ur": "پاکستان کا پرچم",
+  "en": "The flag of Pakistan"
+ },
+ "blocks": [
+  {
+   "t": "activity",
+   "id": "p007-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "دیے گئے پاکستان کے نقشے کو غور سے دیکھیں اور چاروں صوبوں اور وفاقی علاقوں کے نام لکھیں۔",
+    "en": "Look carefully at the map of Pakistan given here and write the names of the four provinces and the federal areas."
+   },
+   "prompt": {
+    "ur": "نقشے کو غور سے دیکھیں۔ ہر حصے کا صحیح نام چنیں۔ مدد کے لیے پچھلے صفحے کا نقشہ دیکھ سکتے ہیں۔",
+    "en": "Look carefully at the map. Choose the right name for each part. You can look at the map on the previous page for help."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "نقشے میں بائیں طرف سب سے بڑا حصہ کون سا صوبہ ہے؟",
+        "en": "Which province is the biggest part, on the left of the map?"
+       },
+       "options": [
+        {
+         "ur": "بلوچستان",
+         "en": "Balochistan"
+        },
+        {
+         "ur": "سندھ",
+         "en": "Sindh"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "بائیں طرف سب سے بڑا حصہ بلوچستان ہے۔ یہ رقبے میں سب سے بڑا صوبہ ہے۔",
+        "en": "The biggest part on the left is Balochistan. It is the biggest province by area."
+       },
+       "img": [
+        0.295,
+        0.15,
+        0.83,
+        0.505
+       ]
+      },
+      {
+       "q": {
+        "ur": "نقشے میں سب سے نیچے دائیں طرف والا حصہ کون سا صوبہ ہے؟",
+        "en": "Which province is the part at the bottom right of the map?"
+       },
+       "options": [
+        {
+         "ur": "پنجاب",
+         "en": "Punjab"
+        },
+        {
+         "ur": "سندھ",
+         "en": "Sindh"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "نیچے دائیں طرف، سمندر کے پاس، صوبہ سندھ ہے۔",
+        "en": "At the bottom right, beside the sea, is Sindh."
+       },
+       "img": [
+        0.295,
+        0.15,
+        0.83,
+        0.505
+       ]
+      },
+      {
+       "q": {
+        "ur": "نقشے کے بیچ میں کون سا صوبہ ہے؟",
+        "en": "Which province is in the middle of the map?"
+       },
+       "options": [
+        {
+         "ur": "پنجاب",
+         "en": "Punjab"
+        },
+        {
+         "ur": "بلوچستان",
+         "en": "Balochistan"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "نقشے کے بیچ میں صوبہ پنجاب ہے۔",
+        "en": "Punjab is in the middle of the map."
+       },
+       "img": [
+        0.295,
+        0.15,
+        0.83,
+        0.505
+       ]
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "بائیں طرف سب سے بڑا حصہ (ہلکا پیلا)، جو نیچے سمندر سے ملتا ہے، کون سا صوبہ ہے؟",
+        "en": "Which province is the biggest part on the left (light yellow), which touches the sea at the bottom?"
+       },
+       "options": [
+        {
+         "ur": "سندھ",
+         "en": "Sindh"
+        },
+        {
+         "ur": "بلوچستان",
+         "en": "Balochistan"
+        },
+        {
+         "ur": "پنجاب",
+         "en": "Punjab"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "یہ بلوچستان ہے، رقبے کے لحاظ سے سب سے بڑا صوبہ۔",
+        "en": "This is Balochistan, the biggest province by area."
+       },
+       "img": [
+        0.295,
+        0.15,
+        0.83,
+        0.505
+       ]
+      },
+      {
+       "q": {
+        "ur": "سب سے نیچے دائیں طرف والا حصہ (ہلکا جامنی) کون سا صوبہ ہے؟",
+        "en": "Which province is the part at the bottom right (light purple)?"
+       },
+       "options": [
+        {
+         "ur": "سندھ",
+         "en": "Sindh"
+        },
+        {
+         "ur": "خیبر پختون خوا",
+         "en": "Khyber Pakhtunkhwa"
+        },
+        {
+         "ur": "گلگت بلتستان",
+         "en": "Gilgit-Baltistan"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "یہ صوبہ سندھ ہے۔ اس کا دارالحکومت کراچی ہے۔",
+        "en": "This is Sindh. Its capital is Karachi."
+       },
+       "img": [
+        0.295,
+        0.15,
+        0.83,
+        0.505
+       ]
+      },
+      {
+       "q": {
+        "ur": "نقشے کے بیچ میں، سندھ کے اوپر والا حصہ کون سا صوبہ ہے؟",
+        "en": "Which province is the part in the middle of the map, above Sindh?"
+       },
+       "options": [
+        {
+         "ur": "بلوچستان",
+         "en": "Balochistan"
+        },
+        {
+         "ur": "آزاد جموں و کشمیر",
+         "en": "Azad Jammu and Kashmir"
+        },
+        {
+         "ur": "پنجاب",
+         "en": "Punjab"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "یہ صوبہ پنجاب ہے، آبادی کے لحاظ سے سب سے بڑا صوبہ۔",
+        "en": "This is Punjab, the biggest province by population."
+       },
+       "img": [
+        0.295,
+        0.15,
+        0.83,
+        0.505
+       ]
+      },
+      {
+       "q": {
+        "ur": "پنجاب کے اوپر بائیں طرف والا لمبا حصہ (ہلکا گلابی) کون سا صوبہ ہے؟",
+        "en": "Which province is the long part above Punjab on the left (light pink)?"
+       },
+       "options": [
+        {
+         "ur": "خیبر پختون خوا",
+         "en": "Khyber Pakhtunkhwa"
+        },
+        {
+         "ur": "سندھ",
+         "en": "Sindh"
+        },
+        {
+         "ur": "بلوچستان",
+         "en": "Balochistan"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "یہ صوبہ خیبر پختون خوا ہے۔ اس کا دارالحکومت پشاور ہے۔",
+        "en": "This is Khyber Pakhtunkhwa. Its capital is Peshawar."
+       },
+       "img": [
+        0.295,
+        0.15,
+        0.83,
+        0.505
+       ]
+      },
+      {
+       "q": {
+        "ur": "نقشے میں سب سے اوپر (شمال میں) سبز رنگ کا بڑا علاقہ کون سا ہے؟",
+        "en": "Which is the big green area at the very top of the map, in the north?"
+       },
+       "options": [
+        {
+         "ur": "پنجاب",
+         "en": "Punjab"
+        },
+        {
+         "ur": "گلگت بلتستان",
+         "en": "Gilgit-Baltistan"
+        },
+        {
+         "ur": "سندھ",
+         "en": "Sindh"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "سب سے اوپر، شمال میں، گلگت بلتستان ہے۔",
+        "en": "At the very top, in the north, is Gilgit-Baltistan."
+       },
+       "img": [
+        0.295,
+        0.15,
+        0.83,
+        0.505
+       ]
+      },
+      {
+       "q": {
+        "ur": "گلگت بلتستان کے نیچے اور پنجاب کے اوپر چھوٹا سا پتلا سبز علاقہ کون سا ہے؟",
+        "en": "Which is the small, thin green area below Gilgit-Baltistan and above Punjab?"
+       },
+       "options": [
+        {
+         "ur": "بلوچستان",
+         "en": "Balochistan"
+        },
+        {
+         "ur": "خیبر پختون خوا",
+         "en": "Khyber Pakhtunkhwa"
+        },
+        {
+         "ur": "آزاد جموں و کشمیر",
+         "en": "Azad Jammu and Kashmir"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "یہ آزاد جموں و کشمیر ہے۔ اس کا دارالحکومت مظفر آباد ہے۔",
+        "en": "This is Azad Jammu and Kashmir. Its capital is Muzaffarabad."
+       },
+       "img": [
+        0.295,
+        0.15,
+        0.83,
+        0.505
+       ]
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "پچھلے صفحے کا نقشہ دیکھے بغیر کاپی میں چاروں صوبوں کے نام لکھیں۔",
+       "en": "Without looking at the map on the previous page, write the names of the four provinces in your notebook."
+      },
+      {
+       "ur": "اب دونوں وفاقی (زیرِ انتظام) علاقوں کے نام لکھیں۔",
+       "en": "Now write the names of the two federally administered areas."
+      },
+      {
+       "ur": "جس صوبے یا علاقے میں آپ رہتے ہیں اس کے گرد دائرہ لگائیں۔",
+       "en": "Draw a circle around the province or area where you live."
+      },
+      {
+       "ur": "پچھلے صفحے کے نقشے سے اپنے جواب خود جانچیں۔",
+       "en": "Check your answers yourself with the map on the previous page."
+      }
+     ],
+     "model": {
+      "ur": "چار صوبے: پنجاب، سندھ، خیبر پختون خوا، بلوچستان۔ زیرِ انتظام علاقے: گلگت بلتستان، آزاد جموں و کشمیر۔",
+      "en": "Four provinces: Punjab, Sindh, Khyber Pakhtunkhwa, Balochistan. Administered areas: Gilgit-Baltistan, Azad Jammu and Kashmir."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے چار صوبوں کے نام لکھے۔",
+       "en": "I wrote the names of the four provinces."
+      },
+      {
+       "ur": "میں نے دو علاقوں کے نام لکھے۔",
+       "en": "I wrote the names of the two areas."
+      },
+      {
+       "ur": "میں نے اپنا صوبہ یا علاقہ پہچانا۔",
+       "en": "I found my own province or area."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.295,
+    0.15,
+    0.83,
+    0.505
+   ],
+   "alt": {
+    "ur": "پاکستان کا خالی نقشہ جس پر نام نہیں لکھے۔ ہر صوبہ اور علاقہ ہلکے الگ رنگ میں ہے: بائیں طرف سب سے بڑا حصہ، نیچے دائیں چھوٹا حصہ، بیچ میں ایک حصہ، اوپر ایک لمبا حصہ اور سب سے اوپر سبز علاقے۔",
+    "en": "A blank map of Pakistan with no names on it. Each province and area is in a different pale colour: the biggest part on the left, a smaller part at the bottom right, one part in the middle, a long part above, and green areas at the very top."
+   }
+  },
+  {
+   "t": "h",
+   "ur": "پاکستان کا پرچم",
+   "en": "The flag of Pakistan"
+  },
+  {
+   "t": "p",
+   "ur": "ہر ملک کی طرح پاکستان کا پرچم بھی اس کی پہچان ہے۔ اس میں سبز اور سفید رنگ ہیں۔",
+   "en": "Like every country's flag, the flag of Pakistan is its identity. It has the colours green and white."
+  },
+  {
+   "t": "p",
+   "ur": "پرچم میں سبز رنگ مسلمانوں اور سفید رنگ دوسرے مذاہب کے لوگوں کو ظاہر کرتا ہے۔ اس پر بنا ہوا چاند ترقّی اور ستارا روشنی اور عِلم کی علامت ہیں۔",
+   "en": "In the flag, the green colour stands for Muslims and the white colour stands for people of other religions. The crescent moon on it is a symbol of progress, and the star is a symbol of light and knowledge."
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.372,
+    0.655,
+    0.862,
+    0.9
+   ],
+   "alt": {
+    "ur": "پاکستان کا پرچم: بائیں طرف سفید پٹی ہے اور باقی بڑا حصہ سبز ہے جس کے بیچ میں سفید چاند اور پانچ کونوں والا سفید ستارا ہے۔",
+    "en": "The flag of Pakistan: there is a white stripe on the left, and the bigger part is green with a white crescent moon and a white five-pointed star in the middle."
+   }
+  },
+  {
+   "t": "fact",
+   "ur": "زمین کے بڑے خشک ٹکڑے یا علاقے کو برِاعظم (Continent) کہتے ہیں۔ دنیا میں سات برِاعظم ہیں۔",
+   "en": "A large piece or area of dry land on Earth is called a continent. There are seven continents in the world."
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "پرچم کو یاد رکھنے کا طریقہ: بڑا حصہ سبز، چھوٹی پٹی سفید، بیچ میں چاند اور ستارا۔ سوچیں، آپ نے پرچم کہاں کہاں لہراتا دیکھا ہے؟ (سکول، 14 اگست)",
+   "en": "A way to remember the flag: the big part is green, the small stripe is white, and there is a moon and a star in the middle. Think: where have you seen the flag flying? For example, at school or on 14 August."
+  },
+  {
+   "for": "vision",
+   "ur": "پرچم کی وضاحت سنیں۔ کپڑے یا کاغذ کا پرچم ہاتھ میں لے کر محسوس کریں؛ کوئی بڑا چاند اور ستارے پر گوند یا دھاگا لگا کر اُنھیں اُبھرا ہوا بنا سکتا ہے۔",
+   "en": "Listen to the description of the flag. Hold a cloth or paper flag and feel it; an adult can put glue or thread on the moon and star to make them raised."
+  },
+  {
+   "for": "motor",
+   "ur": "نقشے والی سرگرمی میں لکھنا ضروری نہیں۔ آپ نام بول کر بتا سکتے ہیں یا سکرین پر صحیح نام کو چھو سکتے ہیں۔",
+   "en": "You do not have to write in the map activity. You can say the names aloud or touch the right name on the screen."
+  },
+  {
+   "for": "teacher",
+   "ur": "نقشے کے حصوں کو باری باری دکھائیں اور پوری کلاس سے نام بلوائیں۔ ’’سبز = مسلمان، سفید = دوسرے مذاہب کے لوگ‘‘ سمجھاتے ہوئے بتائیں کہ پرچم سب پاکستانیوں کا ہے۔",
+   "en": "Point to the parts of the map one by one and have the whole class say the names. When you explain that green stands for Muslims and white stands for people of other religions, tell the children that the flag belongs to all Pakistanis."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "پاکستان کا پرچم",
+   "en": "The flag of Pakistan"
+  },
+  "image": {
+   "crop": [
+    0.372,
+    0.655,
+    0.862,
+    0.9
+   ],
+   "alt": {
+    "ur": "پاکستان کا سبز اور سفید پرچم جس پر چاند اور ستارا ہے۔",
+    "en": "Pakistan's green and white flag with a moon and a star."
+   }
+  },
+  "sentences": [
+   {
+    "en": "This is the flag of Pakistan.",
+    "words": [
+     {
+      "ur": "یہ",
+      "sym": "this"
+     },
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "پرچم",
+      "img": [
+       0.372,
+       0.655,
+       0.862,
+       0.9
+      ]
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "This",
+      "sym": "this"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "the flag",
+      "img": [
+       0.372,
+       0.655,
+       0.862,
+       0.9
+      ]
+     },
+     {
+      "en": "of",
+      "sym": null
+     },
+     {
+      "en": "Pakistan.",
+      "sym": "Pakistan"
+     }
+    ]
+   },
+   {
+    "en": "The flag has the colour green.",
+    "words": [
+     {
+      "ur": "پرچم",
+      "sym": "flag"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "سبز",
+      "sym": "green"
+     },
+     {
+      "ur": "رنگ",
+      "sym": "colour"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The flag",
+      "sym": "flag"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "the colour",
+      "sym": "colour"
+     },
+     {
+      "en": "green.",
+      "sym": "green"
+     }
+    ]
+   },
+   {
+    "en": "The flag has the colour white.",
+    "words": [
+     {
+      "ur": "پرچم",
+      "sym": "flag"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "سفید",
+      "sym": "white"
+     },
+     {
+      "ur": "رنگ",
+      "sym": "colour"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The flag",
+      "sym": "flag"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "the colour",
+      "sym": "colour"
+     },
+     {
+      "en": "white.",
+      "sym": "white"
+     }
+    ]
+   },
+   {
+    "en": "The flag has a moon and a star.",
+    "words": [
+     {
+      "ur": "پرچم",
+      "sym": "flag"
+     },
+     {
+      "ur": "پر",
+      "sym": null
+     },
+     {
+      "ur": "چاند",
+      "sym": "moon"
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "ستارا",
+      "sym": "star"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The flag",
+      "sym": "flag"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "a moon",
+      "sym": "moon"
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "a star.",
+      "sym": "star"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "پاکستان کے پرچم کا بڑا حصہ کس رنگ کا ہے؟",
+       "en": "What colour is the big part of Pakistan's flag?"
+      },
+      "options": [
+       {
+        "ur": "لال",
+        "en": "Red",
+        "sym": "red"
+       },
+       {
+        "ur": "سبز",
+        "en": "Green",
+        "sym": "green"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "پرچم کا بڑا حصہ سبز ہے۔",
+       "en": "The big part of the flag is green."
+      },
+      "img": [
+       0.372,
+       0.655,
+       0.862,
+       0.9
+      ]
+     },
+     {
+      "q": {
+       "ur": "پرچم پر کیا بنا ہوا ہے؟",
+       "en": "What is on the flag?"
+      },
+      "options": [
+       {
+        "ur": "چاند اور ستارا",
+        "en": "A moon and a star",
+        "sym": "moon"
+       },
+       {
+        "ur": "پھول",
+        "en": "A flower",
+        "sym": "flower"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "پرچم پر چاند اور ستارا بنا ہوا ہے۔",
+       "en": "There is a moon and a star on the flag."
+      },
+      "img": [
+       0.372,
+       0.655,
+       0.862,
+       0.9
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

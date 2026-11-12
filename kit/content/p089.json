@@ -1,0 +1,129 @@
+{
+  "n": 89,
+  "printed": "85",
+  "chapter": 15,
+  "kind": "content",
+  "title": {"ur": "سارہ اور ندا کی کہانی", "en": "The story of Sara and Nida"},
+  "blocks": [
+    {"t": "p", "ur": "آج سارہ کا سکول میں پہلا دن تھا۔ وہ پریشان تھی۔ اُستاد نے اُسے ندا کے ساتھ بٹھایا۔ ندا کو شرارت سوجھی۔ وہ اس کو بُرے ناموں سے پکارتی رہی۔ سارہ کو بہت دُکھ ہوا۔ اُس کی آنکھوں میں آنسو آ گئے۔ وہ چپ چاپ بیٹھی رہی۔ سارا دن اُس کا پڑھائی میں دل نہ لگا۔ اُس کی بے بسی دیکھ کر ندا اُس پر ہنستی رہی۔ چھٹی کے وقت سارہ خاموشی سے اُٹھ کر چلی گئی۔",
+     "en": "Today was Sara's first day at school. She was worried. The teacher seated her with Nida. Nida thought of some mischief. She kept calling her bad names. Sara felt very hurt. Tears came to her eyes. She sat quietly. All day she could not put her heart into her studies. Seeing her helplessness, Nida kept laughing at her. At home time Sara quietly got up and left."},
+    {"t": "p", "ur": "اگلے دن دونوں کلاس روم میں آئیں تو ندا کے چہرے پر آج بھی شرارت تھی۔ سارہ نے اُسے سلام کیا اور اس کے ساتھ بیٹھ گئی۔ آج اُردو کا ٹیسٹ تھا۔ ندا نے بستہ کھولا لیکن اُسے بستے میں پنسل نہ ملی۔ وہ پریشان ہو گئی۔ سارہ نے اس کی پریشانی دیکھ کر اس کی طرف اپنی پنسل بڑھائی۔",
+     "en": "The next day, when both came into the classroom, there was mischief on Nida's face again. Sara greeted her and sat down beside her. Today there was an Urdu test. Nida opened her bag but could not find a pencil in it. She became worried. Seeing her worry, Sara held out her own pencil to her."},
+    {"t": "img", "crop": [0.157, 0.388, 0.833, 0.648],
+     "alt": {"ur": "کلاس روم میں دو لڑکیاں گول میز پر کھلی کتابوں کے ساتھ بیٹھی ہیں۔ بائیں طرف والی لڑکی آنکھیں بند کر کے زور سے ہنس رہی ہے اور دائیں طرف والی لڑکی اُسے دیکھ رہی ہے۔ پیچھے کتابوں کی الماری، گلوب اور گملا ہے۔", "en": "Two girls sit at a round table with open books in a classroom. The girl on the left is laughing hard with her eyes shut, and the girl on the right is looking at her. Behind them are a bookshelf, a globe and a plant pot."}},
+    {"t": "p", "ur": "ندا شرمندہ ہو گئی۔ اُسے احساس ہوا کہ اُس نے سارہ کے ساتھ بُرا سلوک کیا تھا لیکن سارہ نے پھر بھی اس کی مدد کی۔ ندا نے سارہ سے معافی مانگی۔ سارہ نے اُسے معاف کر دیا۔ سارہ نے اُسے بتایا کہ میری امّی کہتی ہیں کہ معاف کر دینا اچھی بات ہے۔ ندا نے سارہ کی طرف دوستی کا ہاتھ بڑھایا۔ سارہ نے کہا: \"آج سے ہم اچھے دوست ہیں۔\"",
+     "en": "Nida felt ashamed. She realised that she had treated Sara badly, yet Sara had still helped her. Nida said sorry to Sara. Sara forgave her. Sara told her, \"My mother says that forgiving is a good thing.\" Nida held out her hand in friendship to Sara. Sara said: \"From today we are good friends.\""},
+    {"t": "activity",
+     "id": "p089-a1",
+     "label": {"ur": "سرگرمی", "en": "Activity"},
+     "orig": {"ur": "بچے اپنی ذاتی زندگی سے کوئی ایسا واقعہ سب کے سامنے سنائیں جس میں انھوں نے کسی کو معاف کر دیا ہو یا کسی سے معافی مانگی ہو۔", "en": "Children tell everyone about a time in their own life when they forgave someone or said sorry to someone."},
+     "prompt": {"ur": "اپنی ایک سچی بات سنائیں: آپ نے کب کسی کو معاف کیا، یا کب کسی سے معافی مانگی؟ آپ بول کر، اشاروں سے یا تصویر بنا کر بتا سکتے ہیں۔", "en": "Share one true story of your own: when did you forgive someone, or when did you say sorry to someone? You can tell it by speaking, by signing or by drawing a picture."},
+     "task": {"kind": "open", "mode": "talk",
+       "steps": [
+         {"ur": "سوچیں: کیا ہوا تھا؟ کس کے ساتھ ہوا تھا؟", "en": "Think: what happened? Who was it with?"},
+         {"ur": "بتائیں: کس نے معافی مانگی اور کس نے معاف کیا؟", "en": "Say: who said sorry and who forgave?"},
+         {"ur": "بتائیں: اس کے بعد آپ کو کیسا لگا؟", "en": "Say: how did you feel afterwards?"},
+         {"ur": "دوسروں کی بات غور سے سنیں اور کسی پر نہ ہنسیں۔", "en": "Listen carefully to others and do not laugh at anyone."}
+       ],
+       "model": {"ur": "ایک دن میرے بھائی سے میرا کھلونا ٹوٹ گیا۔ اُس نے مجھ سے معافی مانگی۔ میں نے اُسے معاف کر دیا۔ پھر ہم دونوں مل کر کھیلے اور مجھے بہت اچھا لگا۔", "en": "One day my brother broke my toy. He said sorry to me. I forgave him. Then we played together and I felt very good."},
+       "checklist": [
+         {"ur": "میں نے اپنا واقعہ سنایا یا دکھایا۔", "en": "I told or showed my story."},
+         {"ur": "میں نے بتایا کہ مجھے کیسا محسوس ہوا۔", "en": "I said how I felt."},
+         {"ur": "میں نے دوسروں کی بات آرام سے سنی۔", "en": "I listened calmly to others."}
+       ]}},
+    {"t": "activity",
+     "id": "p089-a2",
+     "label": {"ur": "آزمائیں", "en": "Try it"},
+     "orig": {"ur": "ندا نے سارہ سے معافی مانگی۔ سارہ نے اُسے معاف کر دیا۔", "en": "Nida said sorry to Sara. Sara forgave her."},
+     "prompt": {"ur": "کہانی یاد کریں اور کھیل کھیلیں۔", "en": "Remember the story and play the game."},
+     "levels": {
+       "easy": {"kind": "mcq", "questions": [
+         {"q": {"ur": "پہلے دن ندا نے کیا کیا؟", "en": "What did Nida do on the first day?"},
+          "options": [{"ur": "سارہ پر ہنستی رہی", "en": "Kept laughing at Sara", "sym": "to mock"}, {"ur": "سارہ کی مدد کی", "en": "Helped Sara", "sym": "to help"}],
+          "answer": 0,
+          "fb": {"ur": "ندا سارہ کو بُرے ناموں سے پکارتی اور اُس پر ہنستی رہی۔ سارہ کو دُکھ ہوا۔", "en": "Nida called Sara bad names and laughed at her. Sara felt hurt."}},
+         {"q": {"ur": "سارہ نے ندا کو کیا دیا؟", "en": "What did Sara give Nida?"},
+          "options": [{"ur": "کتاب", "en": "A book", "sym": "book"}, {"ur": "پنسل", "en": "A pencil", "sym": "pencil"}],
+          "answer": 1,
+          "fb": {"ur": "ندا کو بستے میں پنسل نہ ملی تو سارہ نے اپنی پنسل دی۔", "en": "Nida could not find a pencil in her bag, so Sara gave her own pencil."}},
+         {"q": {"ur": "آخر میں سارہ اور ندا کیا بن گئیں؟", "en": "What did Sara and Nida become in the end?"},
+          "options": [{"ur": "اچھے دوست", "en": "Good friends", "sym": "friends"}, {"ur": "ناراض", "en": "Angry", "sym": "angry"}],
+          "answer": 0,
+          "fb": {"ur": "ندا نے معافی مانگی، سارہ نے معاف کیا اور دونوں اچھے دوست بن گئیں۔", "en": "Nida said sorry, Sara forgave her and they became good friends."}}
+       ]},
+       "moderate": {"kind": "order", "items": [
+         {"ur": "ندا سارہ کو بُرے ناموں سے پکارتی رہی۔", "en": "Nida kept calling Sara bad names."},
+         {"ur": "ندا کو بستے میں پنسل نہ ملی۔", "en": "Nida could not find a pencil in her bag."},
+         {"ur": "سارہ نے ندا کو اپنی پنسل دی۔", "en": "Sara gave Nida her pencil."},
+         {"ur": "ندا نے سارہ سے معافی مانگی۔", "en": "Nida said sorry to Sara."},
+         {"ur": "سارہ نے معاف کر دیا اور دونوں دوست بن گئیں۔", "en": "Sara forgave her and they became friends."}
+       ]},
+       "hard": {"kind": "mcq", "questions": [
+         {"q": {"ur": "ندا شرمندہ کیوں ہوئی؟", "en": "Why did Nida feel ashamed?"},
+          "options": [
+            {"ur": "کیونکہ اُستاد نے اُسے ڈانٹا", "en": "Because the teacher scolded her"},
+            {"ur": "کیونکہ اُس کا ٹیسٹ اچھا نہیں ہوا", "en": "Because her test did not go well"},
+            {"ur": "کیونکہ اُس نے بُرا سلوک کیا تھا، پھر بھی سارہ نے اُس کی مدد کی", "en": "Because she had behaved badly, yet Sara still helped her"}],
+          "answer": 2,
+          "fb": {"ur": "ندا کو احساس ہوا کہ اُس نے سارہ کے ساتھ بُرا سلوک کیا تھا لیکن سارہ نے پھر بھی اُس کی مدد کی۔", "en": "Nida realised she had treated Sara badly, but Sara still helped her."}},
+         {"q": {"ur": "سارہ کی امّی کیا کہتی ہیں؟", "en": "What does Sara's mother say?"},
+          "options": [
+            {"ur": "معاف کر دینا اچھی بات ہے", "en": "Forgiving is a good thing"},
+            {"ur": "بدلہ لینا اچھی بات ہے", "en": "Taking revenge is a good thing"},
+            {"ur": "کسی سے بات نہ کرو", "en": "Do not talk to anyone"}],
+          "answer": 0,
+          "fb": {"ur": "سارہ نے بتایا کہ میری امّی کہتی ہیں کہ معاف کر دینا اچھی بات ہے۔", "en": "Sara said, \"My mother says that forgiving is a good thing.\""}},
+         {"q": {"ur": "پہلے دن سارہ کا پڑھائی میں دل کیوں نہ لگا؟", "en": "Why couldn't Sara concentrate on her studies on the first day?"},
+          "options": [
+            {"ur": "کیونکہ اُسے نیند آ رہی تھی", "en": "Because she was sleepy"},
+            {"ur": "کیونکہ ندا کی باتوں سے اُسے بہت دُکھ ہوا تھا", "en": "Because Nida's words had hurt her very much"},
+            {"ur": "کیونکہ اُس کے پاس کتاب نہیں تھی", "en": "Because she had no book"}],
+          "answer": 1,
+          "fb": {"ur": "بُرے ناموں سے پکارنے پر سارہ کو بہت دُکھ ہوا اور اُس کی آنکھوں میں آنسو آ گئے۔ مذاق اڑانے سے دوسروں کو تکلیف ہوتی ہے۔", "en": "Being called bad names hurt Sara very much and tears came to her eyes. Making fun of others causes them pain."}},
+         {"q": {"ur": "اس کہانی سے ہمیں کیا سبق ملتا ہے؟", "en": "What lesson does this story teach us?"},
+          "options": [
+            {"ur": "نئے بچوں کا مذاق اڑانا چاہیے", "en": "We should make fun of new children"},
+            {"ur": "غلطی پر معافی مانگنی چاہیے اور معاف کر دینا چاہیے", "en": "We should say sorry for our mistakes and forgive others"},
+            {"ur": "اپنی پنسل کسی کو نہیں دینی چاہیے", "en": "We should not give our pencil to anyone"}],
+          "answer": 1,
+          "fb": {"ur": "معافی مانگنے اور معاف کرنے سے دل صاف ہوتے ہیں اور دوستی بنتی ہے۔", "en": "Saying sorry and forgiving clears hearts and builds friendship."}}
+       ]}
+     }}
+  ],
+  "hint": [
+    {"for": "all", "ur": "کہانی کے دو دن ہیں۔ پہلے دن ندا نے سارہ کو تنگ کیا۔ دوسرے دن سارہ نے ندا کی مدد کی۔ دونوں دنوں کا فرق سوچیں۔", "en": "The story has two days. On day one Nida teased Sara. On day two Sara helped Nida. Think about the difference between the two days."},
+    {"for": "vision", "ur": "تصویر میں بائیں طرف ہنستی ہوئی لڑکی ندا ہے اور دائیں طرف سارہ۔ کہانی سنتے ہوئے ہاتھ میں ایک پنسل پکڑیں اور جب سارہ پنسل دے تو اپنی پنسل ساتھی کی طرف بڑھائیں۔", "en": "In the picture the laughing girl on the left is Nida and Sara is on the right. Hold a pencil while listening, and when Sara gives her pencil, hold yours out to your partner."},
+    {"for": "hearing", "ur": "کہانی کو اداکاری سے دکھائیں: اُداس چہرہ، پنسل دینا، دل پر ہاتھ رکھ کر ”معاف کیجیے“، اور آخر میں ہاتھ ملانا۔", "en": "Act the story out: a sad face, giving a pencil, hand on heart for \"sorry\", and shaking hands at the end."},
+    {"for": "teacher", "ur": "سرگرمی میں کسی بچے کو سب کے سامنے بولنے پر مجبور نہ کریں۔ بچہ ساتھی کو آہستہ بتا سکتا ہے، تصویر بنا سکتا ہے یا اشاروں سے دکھا سکتا ہے۔ پہلے اپنی ایک مثال سنائیں اور کلاس میں طے کریں کہ کسی کے واقعے پر کوئی نہیں ہنسے گا۔", "en": "In the activity do not force any child to speak in front of everyone. A child may tell a partner quietly, draw a picture or show it with gestures. Share your own example first, and agree as a class that nobody laughs at anyone's story."}
+  ],
+  "easy": {
+    "title": {"ur": "سارہ نے معاف کر دیا", "en": "Sara forgave Nida"},
+    "image": {"crop": [0.157, 0.388, 0.833, 0.648], "alt": {"ur": "دو لڑکیاں، ندا اور سارہ، کلاس میں میز پر بیٹھی ہیں۔", "en": "Two girls, Nida and Sara, sitting at a table in class."}},
+    "sentences": [
+      {"en": "Nida laughs at Sara.", "words_en": [{"en": "Nida", "sym": "girl"}, {"en": "laughs at", "sym": "to mock"}, {"en": "Sara.", "sym": "girl"}],
+       "words": [{"ur": "ندا", "sym": "girl"}, {"ur": "سارہ", "sym": "girl"}, {"ur": "پر", "sym": null}, {"ur": "ہنستی", "sym": "to mock"}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "Sara is sad.", "words_en": [{"en": "Sara", "sym": "girl"}, {"en": "is", "sym": null}, {"en": "sad.", "sym": "sad"}],
+       "words": [{"ur": "سارہ", "sym": "girl"}, {"ur": "اُداس", "sym": "sad"}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "Sara gives Nida a pencil.", "words_en": [{"en": "Sara", "sym": "girl"}, {"en": "gives", "sym": "to give"}, {"en": "Nida", "sym": "girl"}, {"en": "a pencil.", "sym": "pencil"}],
+       "words": [{"ur": "سارہ", "sym": "girl"}, {"ur": "ندا", "sym": "girl"}, {"ur": "کو", "sym": null}, {"ur": "پنسل", "sym": "pencil"}, {"ur": "دیتی", "sym": "to give"}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "Nida says sorry.", "words_en": [{"en": "Nida", "sym": "girl"}, {"en": "says sorry.", "sym": "sorry"}],
+       "words": [{"ur": "ندا", "sym": "girl"}, {"ur": "معافی", "sym": "sorry"}, {"ur": "مانگتی", "sym": "to ask"}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "Now both are friends.", "words_en": [{"en": "Now", "sym": "now"}, {"en": "both", "sym": "two"}, {"en": "are", "sym": null}, {"en": "friends.", "sym": "friends"}],
+       "words": [{"ur": "اب", "sym": "now"}, {"ur": "دونوں", "sym": "two"}, {"ur": "دوست", "sym": "friends"}, {"ur": "ہیں۔", "sym": null}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "صحیح جواب پر انگلی رکھیں۔", "en": "Touch the right answer."},
+      "task": {"kind": "mcq", "questions": [
+        {"q": {"ur": "سارہ نے ندا کو کیا دیا؟", "en": "What did Sara give Nida?"},
+         "options": [{"ur": "پنسل", "en": "Pencil", "sym": "pencil"}, {"ur": "گیند", "en": "Ball", "sym": "ball"}],
+         "answer": 0,
+         "fb": {"ur": "سارہ نے ندا کو اپنی پنسل دی۔", "en": "Sara gave Nida her pencil."}},
+        {"q": {"ur": "ندا نے معافی مانگی۔ سارہ نے کیا کیا؟", "en": "Nida said sorry. What did Sara do?"},
+         "options": [{"ur": "غصّہ کیا", "en": "Got angry", "sym": "angry"}, {"ur": "معاف کر دیا", "en": "Forgave her", "sym": "to forgive"}],
+         "answer": 1,
+         "fb": {"ur": "سارہ نے ندا کو معاف کر دیا۔ معاف کرنا اچھی بات ہے۔", "en": "Sara forgave Nida. Forgiving is a good thing."}}
+      ]}
+    }
+  },
+  "print": true
+}

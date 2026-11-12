@@ -1,0 +1,118 @@
+{
+  "n": 93,
+  "printed": "89",
+  "chapter": 16,
+  "kind": "content",
+  "title": {"ur": "جنگل کی عدالت: بندر کی شکایت", "en": "The jungle court: the monkey's complaint"},
+  "blocks": [
+    {"t": "p", "ur": "جنگل کے سب جانور برگد کے درخت کے نیچے جمع تھے۔ لومڑی نے سب کو خاموش رہنے کا حکم دیا۔ یہاں جنگل کے بادشاہ شیر نے بندر اور ہاتھی کے جھگڑے کا فیصلہ سنانا تھا۔",
+     "en": "All the animals of the jungle were gathered under the banyan tree. The fox ordered everyone to be silent. Here the lion, king of the jungle, was to give his decision on the quarrel between the monkey and the elephant."},
+    {"t": "img", "crop": [0.142, 0.253, 0.832, 0.565],
+     "alt": {"ur": "جنگل میں بڑے درختوں کے نیچے جانور جمع ہیں۔ دائیں طرف شیر کھڑا ہے۔ اُس کے سامنے لومڑی ہے۔ بائیں طرف ناراض ہاتھی اور زرافہ ہیں۔ پیچھے ہرن، مور، بطخیں اور بھالو ہیں۔ درخت کی شاخ پر ایک چھوٹا بندر بیٹھا ہے۔", "en": "Animals are gathered under big trees in a jungle. The lion stands on the right, with the fox in front of him. On the left are an angry-looking elephant and a giraffe. Behind are a deer, a peacock, ducks and a bear. A small monkey sits on a tree branch."}},
+    {"t": "p", "ur": "سب سے پہلے لومڑی نے بندر کو اپنی بات بتانے کے لیے کہا۔ بندر نے شیر کو سلام کیا اور کہا: ”بادشاہ سلامت! آپ کی حکومت میں مجھ پر ظلم ہوا ہے۔ یہ ہاتھی کئی دنوں سے مجھے تنگ کر رہا ہے۔ جس درخت پر میں جُھولتا ہوں، یہ اسی درخت کی شاخیں توڑ دیتا ہے۔ میں نے اپنے بچوں کے لیے پھل جمع کر رکھے تھے۔ کل اس نے سارے پھل چوری کر لیے۔ آپ مجھے انصاف دلائیں۔“",
+     "en": "First of all, the fox asked the monkey to tell his side of the story. The monkey greeted the lion and said: \"Your Majesty! I have been wronged in your kingdom. This elephant has been troubling me for many days. He breaks the branches of the very tree I swing on. I had collected fruit for my children. Yesterday he stole all the fruit. Please give me justice.\""},
+    {"t": "activity",
+     "id": "p093-a1",
+     "label": {"ur": "سرگرمی", "en": "Activity"},
+     "orig": {"ur": "کیا روز مرّہ زندگی میں آپ نے محسوس کیا کہ گھر یا سکول میں آپ کے ساتھ ناانصافی ہوئی ہو؟ (کوئی واقعہ بیان کیجیے)", "en": "In daily life, have you ever felt that you were treated unfairly at home or at school? (Describe an incident.)"},
+     "prompt": {"ur": "کیا کبھی گھر یا سکول میں آپ کو لگا کہ آپ کے ساتھ ناانصافی ہوئی؟ اپنی بات سنائیں، اشاروں سے دکھائیں یا تصویر بنائیں۔", "en": "Have you ever felt that something unfair happened to you at home or school? Tell your story, show it with gestures or draw a picture."},
+     "task": {"kind": "open", "mode": "talk",
+       "steps": [
+         {"ur": "بتائیں: کیا ہوا تھا اور کہاں ہوا تھا؟", "en": "Say: what happened, and where?"},
+         {"ur": "بتائیں: آپ کو کیسا محسوس ہوا؟", "en": "Say: how did you feel?"},
+         {"ur": "سوچیں: انصاف کیا ہوتا؟ کیا کرنا چاہیے تھا؟", "en": "Think: what would have been fair? What should have been done?"}
+       ],
+       "model": {"ur": "ایک دن کھیل میں سب کو باری ملی لیکن مجھے باری نہیں ملی۔ مجھے بہت دُکھ ہوا۔ انصاف یہ تھا کہ سب کو باری باری کھیلنے دیا جاتا۔", "en": "One day everyone got a turn in the game but I did not. I felt very sad. It would have been fair to let everyone play in turn."},
+       "checklist": [
+         {"ur": "میں نے اپنا واقعہ سنایا یا دکھایا۔", "en": "I told or showed my story."},
+         {"ur": "میں نے بتایا کہ مجھے کیسا لگا۔", "en": "I said how I felt."},
+         {"ur": "میں نے بتایا کہ انصاف کیا ہوتا۔", "en": "I said what would have been fair."}
+       ]}},
+    {"t": "activity",
+     "id": "p093-a2",
+     "label": {"ur": "آزمائیں", "en": "Try it"},
+     "orig": {"ur": "یہاں جنگل کے بادشاہ شیر نے بندر اور ہاتھی کے جھگڑے کا فیصلہ سنانا تھا۔", "en": "Here the lion, king of the jungle, was to give his decision on the quarrel between the monkey and the elephant."},
+     "prompt": {"ur": "کہانی یاد کریں اور بتائیں کہ جنگل کی عدالت میں کون کیا ہے۔", "en": "Remember the story and say who is who in the jungle court."},
+     "levels": {
+       "easy": {"kind": "match", "pairs": [
+         {"a": {"ur": "شیر", "en": "Lion", "img": [0.535, 0.405, 0.80, 0.555]}, "b": {"ur": "جنگل کا بادشاہ", "en": "King of the jungle", "sym": "king"}},
+         {"a": {"ur": "ہاتھی", "en": "Elephant", "img": [0.245, 0.385, 0.378, 0.545]}, "b": {"ur": "شاخیں توڑتا ہے", "en": "Breaks branches", "sym": "to break"}},
+         {"a": {"ur": "بندر", "en": "Monkey", "img": [0.635, 0.262, 0.725, 0.33]}, "b": {"ur": "درخت پر جُھولتا ہے", "en": "Swings on the tree", "sym": "tree"}}
+       ]},
+       "moderate": {"kind": "mcq", "questions": [
+         {"q": {"ur": "جنگل کے جانور کہاں جمع تھے؟", "en": "Where were the jungle animals gathered?"},
+          "options": [
+            {"ur": "دریا کے کنارے", "en": "On the river bank"},
+            {"ur": "برگد کے درخت کے نیچے", "en": "Under the banyan tree"},
+            {"ur": "پہاڑ کے اوپر", "en": "On top of the mountain"}],
+          "answer": 1,
+          "fb": {"ur": "سب جانور برگد کے درخت کے نیچے جمع تھے۔", "en": "All the animals were gathered under the banyan tree."}},
+         {"q": {"ur": "جھگڑا کس کس کا تھا؟", "en": "Who was the quarrel between?"},
+          "options": [
+            {"ur": "بندر اور ہاتھی کا", "en": "The monkey and the elephant"},
+            {"ur": "شیر اور لومڑی کا", "en": "The lion and the fox"},
+            {"ur": "بھالو اور کبوتر کا", "en": "The bear and the pigeon"}],
+          "answer": 0,
+          "fb": {"ur": "شیر نے بندر اور ہاتھی کے جھگڑے کا فیصلہ سنانا تھا۔", "en": "The lion was to decide the quarrel between the monkey and the elephant."}},
+         {"q": {"ur": "سب کو خاموش رہنے کا حکم کس نے دیا؟", "en": "Who ordered everyone to be silent?"},
+          "options": [
+            {"ur": "ہاتھی نے", "en": "The elephant"},
+            {"ur": "بندر نے", "en": "The monkey"},
+            {"ur": "لومڑی نے", "en": "The fox"}],
+          "answer": 2,
+          "fb": {"ur": "لومڑی نے سب کو خاموش رہنے کا حکم دیا۔", "en": "The fox ordered everyone to be silent."}},
+         {"q": {"ur": "بندر نے شیر سے کیا مانگا؟", "en": "What did the monkey ask the lion for?"},
+          "options": [
+            {"ur": "پھل", "en": "Fruit"},
+            {"ur": "انصاف", "en": "Justice"},
+            {"ur": "نیا درخت", "en": "A new tree"}],
+          "answer": 1,
+          "fb": {"ur": "بندر نے کہا: ”آپ مجھے انصاف دلائیں۔“", "en": "The monkey said: \"Please give me justice.\""}}
+       ]},
+       "hard": {"kind": "tf", "questions": [
+         {"q": {"ur": "بندر نے کہا کہ ہاتھی اُس درخت کی شاخیں توڑ دیتا ہے جس پر وہ جُھولتا ہے۔", "en": "The monkey said the elephant breaks the branches of the tree he swings on."}, "answer": true,
+          "fb": {"ur": "درست۔ بندر نے یہی شکایت کی۔", "en": "True. That was the monkey's complaint."}},
+         {"q": {"ur": "بندر نے پھل اپنے دوستوں کے لیے جمع کیے تھے۔", "en": "The monkey had collected the fruit for his friends."}, "answer": false,
+          "fb": {"ur": "غلط۔ بندر نے پھل اپنے بچوں کے لیے جمع کر رکھے تھے۔", "en": "False. The monkey had collected the fruit for his children."}},
+         {"q": {"ur": "بندر کے مطابق ہاتھی نے کل سارے پھل چوری کر لیے۔", "en": "According to the monkey, the elephant stole all the fruit yesterday."}, "answer": true,
+          "fb": {"ur": "درست۔ بندر نے کہا: ”کل اس نے سارے پھل چوری کر لیے۔“", "en": "True. The monkey said: \"Yesterday he stole all the fruit.\""}},
+         {"q": {"ur": "شیر نے بندر کی بات سنتے ہی فوراً ہاتھی کو سزا دے دی۔", "en": "The lion punished the elephant immediately after hearing the monkey."}, "answer": false,
+          "fb": {"ur": "غلط۔ ابھی صرف بندر نے اپنی بات بتائی ہے۔ انصاف کے لیے دونوں کی بات سننا ضروری ہے۔", "en": "False. So far only the monkey has spoken. To be fair, both sides must be heard."}}
+       ]}
+     }}
+  ],
+  "hint": [
+    {"for": "all", "ur": "یہ جنگل کی عدالت ہے۔ شیر جج ہے، بندر شکایت کر رہا ہے۔ سوچیں: کیا شیر کو فیصلے سے پہلے ہاتھی کی بات بھی سننی چاہیے؟", "en": "This is a jungle court. The lion is the judge and the monkey is complaining. Think: should the lion also listen to the elephant before deciding?"},
+    {"for": "vision", "ur": "تصویر میں دائیں طرف بڑا شیر ہے، درمیان میں نارنجی لومڑی اور بائیں طرف سرمئی ہاتھی۔ بندر اوپر دائیں طرف درخت کی شاخ پر بہت چھوٹا ہے۔ کھلونا جانوروں کو چھو کر کہانی دہرائیں۔", "en": "In the picture the big lion is on the right, the orange fox in the middle and the grey elephant on the left. The monkey is very small on a branch at the top right. Retell the story by touching toy animals."},
+    {"for": "hearing", "ur": "ہر جانور کے لیے ایک اشارہ بنائیں (شیر: پنجے، ہاتھی: بازو سے سونڈ، بندر: بغل کھجانا) اور کہانی اشاروں کے ساتھ سنائیں۔", "en": "Make one sign for each animal (lion: claws, elephant: arm as a trunk, monkey: scratching under the arm) and tell the story with the signs."},
+    {"for": "teacher", "ur": "ناانصافی کا واقعہ سناتے ہوئے کچھ بچے جذباتی ہو سکتے ہیں؛ اُن کی بات تسلّی سے سنیں اور کسی بچے یا گھر والے کو قصوروار نہ ٹھہرائیں۔ جو بچے بول نہ سکیں وہ تصویر بنا کر، کارڈ دکھا کر یا ساتھی کے ذریعے بتا سکتے ہیں۔ کہانی کا کردار ادا کرواتے وقت ہر بچے کو کوئی کردار دیں۔", "en": "Some children may become emotional when describing an unfair incident; listen calmly and do not blame any child or family member. Children who cannot speak may draw, show a card or share through a buddy. When role-playing the story, give every child a part."}
+  ],
+  "easy": {
+    "title": {"ur": "جنگل کی عدالت", "en": "The jungle court"},
+    "image": {"crop": [0.142, 0.253, 0.832, 0.565], "alt": {"ur": "جنگل میں شیر، لومڑی، ہاتھی اور دوسرے جانور جمع ہیں۔", "en": "A lion, a fox, an elephant and other animals gathered in the jungle."}},
+    "sentences": [
+      {"en": "The lion is the king of the jungle.", "words_en": [{"en": "The lion", "sym": "lion"}, {"en": "is", "sym": null}, {"en": "the king", "sym": "king"}, {"en": "of", "sym": null}, {"en": "the jungle.", "sym": "jungle"}],
+       "words": [{"ur": "شیر", "sym": "lion"}, {"ur": "جنگل", "sym": "jungle"}, {"ur": "کا", "sym": null}, {"ur": "بادشاہ", "sym": "king"}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "The monkey is sad.", "words_en": [{"en": "The monkey", "sym": "monkey"}, {"en": "is", "sym": null}, {"en": "sad.", "sym": "sad"}],
+       "words": [{"ur": "بندر", "sym": "monkey"}, {"ur": "اُداس", "sym": "sad"}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "The elephant troubles the monkey.", "words_en": [{"en": "The elephant", "sym": "elephant"}, {"en": "troubles", "sym": "to annoy"}, {"en": "the monkey.", "sym": "monkey"}],
+       "words": [{"ur": "ہاتھی", "sym": "elephant"}, {"ur": "بندر", "sym": "monkey"}, {"ur": "کو", "sym": null}, {"ur": "تنگ", "sym": "to annoy"}, {"ur": "کرتا", "sym": null}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "The monkey tells the lion.", "words_en": [{"en": "The monkey", "sym": "monkey"}, {"en": "tells", "sym": "to tell"}, {"en": "the lion.", "sym": "lion"}],
+       "words": [{"ur": "بندر", "sym": "monkey"}, {"ur": "شیر", "sym": "lion"}, {"ur": "کو", "sym": null}, {"ur": "بتاتا", "sym": "to tell"}, {"ur": "ہے۔", "sym": null}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "صحیح جواب پر انگلی رکھیں۔", "en": "Touch the right answer."},
+      "task": {"kind": "mcq", "questions": [
+        {"q": {"ur": "جنگل کا بادشاہ کون ہے؟", "en": "Who is the king of the jungle?"},
+         "options": [{"ur": "شیر", "en": "Lion", "sym": "lion"}, {"ur": "بندر", "en": "Monkey", "sym": "monkey"}],
+         "answer": 0,
+         "fb": {"ur": "شیر جنگل کا بادشاہ ہے۔", "en": "The lion is the king of the jungle."}},
+        {"q": {"ur": "بندر کو کون تنگ کرتا ہے؟", "en": "Who troubles the monkey?"},
+         "options": [{"ur": "لومڑی", "en": "Fox", "sym": "fox"}, {"ur": "ہاتھی", "en": "Elephant", "sym": "elephant"}],
+         "answer": 1,
+         "fb": {"ur": "ہاتھی بندر کو تنگ کرتا ہے۔", "en": "The elephant troubles the monkey."}}
+      ]}
+    }
+  },
+  "print": true
+}

@@ -1,0 +1,161 @@
+{
+  "n": 31,
+  "printed": "27",
+  "chapter": 5,
+  "kind": "content",
+  "title": {"ur": "قدرتی وسائل اور ان کی اہمیت", "en": "Natural resources and their importance"},
+  "blocks": [
+    {
+      "t": "activity",
+      "id": "p031-a1",
+      "label": {"ur": "سرگرمی", "en": "Activity"},
+      "orig": {"ur": "بچوں کو گروپوں میں تقسیم کریں اور ہر گروپ کو سکول کا ایک حصّہ مختص کر دیں۔ ایک گروپ سے سکول میں جان دار اور دوسرے گروپ سے بے جان اشیا کی فہرست بنوائیں اور آپس میں تبادلۂ خیال کروائیں۔", "en": "Divide the children into groups and give each group one part of the school. Ask one group to make a list of the living things in the school and the other group a list of the non-living things, and then let them talk about their lists together."},
+      "prompt": {"ur": "آئیے اپنے سکول میں جان دار اور بے جان چیزیں ڈھونڈیں!", "en": "Let us look for living and non-living things in our school!"},
+      "levels": {
+        "easy": {"kind": "sort",
+          "groups": [{"ur": "جان دار", "en": "Living"}, {"ur": "بے جان", "en": "Non-living"}],
+          "items": [
+            {"ur": "استاد", "en": "Teacher", "sym": "teacher", "group": 0},
+            {"ur": "بلیک بورڈ", "en": "Blackboard", "sym": "blackboard", "group": 1},
+            {"ur": "درخت", "en": "Tree", "sym": "tree", "group": 0},
+            {"ur": "گھنٹی", "en": "Bell", "sym": "bell", "group": 1},
+            {"ur": "چڑیا", "en": "Sparrow", "sym": "bird", "group": 0},
+            {"ur": "ڈیسک", "en": "Desk", "sym": "desk", "group": 1}
+          ]},
+        "moderate": {"kind": "open", "mode": "do",
+          "steps": [
+            {"ur": "اپنے گروپ کے ساتھ سکول کے اس حصے میں جائیں جو استاد نے بتایا ہے (مثلاً صحن، کمرۂ جماعت یا باغیچہ)۔", "en": "Go with your group to the part of the school your teacher tells you (for example the courtyard, the classroom or the garden)."},
+            {"ur": "غور سے دیکھیں۔ ایک گروپ جان دار چیزوں کی اور دوسرا گروپ بے جان چیزوں کی فہرست بنائے۔", "en": "Look carefully. One group makes a list of living things and the other group makes a list of non-living things."},
+            {"ur": "ہر چیز کا نام لکھیں یا اس کی تصویر بنائیں۔", "en": "Write the name of each thing or draw a picture of it."},
+            {"ur": "واپس آ کر دوسرے گروپ کو اپنی فہرست سنائیں اور ان کی فہرست سنیں۔", "en": "Come back, read your list to the other group and listen to their list."}
+          ],
+          "model": {"ur": "جان دار: بچے، استاد، درخت، پودے، چڑیاں، چیونٹیاں۔ بے جان: ڈیسک، کرسیاں، بلیک بورڈ، گھنٹی، دروازہ، نلکا۔", "en": "Living: children, teacher, tree, plants, sparrows, ants. Non-living: desks, chairs, blackboard, bell, door, hand pump."},
+          "checklist": [
+            {"ur": "ہم نے اپنے حصے کی چیزیں غور سے دیکھیں۔", "en": "We looked carefully at the things in our part of the school."},
+            {"ur": "ہم نے فہرست بنائی۔", "en": "We made a list."},
+            {"ur": "ہم نے دوسرے گروپ کی بات سنی۔", "en": "We listened to the other group."}
+          ]},
+        "hard": {"kind": "open", "mode": "write",
+          "steps": [
+            {"ur": "اپنی فہرست میں سے ایک جان دار اور ایک بے جان چیز چنیں۔", "en": "Choose one living thing and one non-living thing from your list."},
+            {"ur": "لکھیں کہ آپ کو کیسے پتا چلا کہ ایک جان دار ہے اور دوسری بے جان۔", "en": "Write how you found out that one is living and the other is non-living."}
+          ],
+          "model": {"ur": "درخت جان دار ہے کیوں کہ وہ بڑھتا ہے اور اسے پانی اور ہوا کی ضرورت ہوتی ہے۔ ڈیسک بے جان ہے کیوں کہ وہ نہ بڑھتا ہے، نہ خود حرکت کرتا ہے۔", "en": "A tree is living because it grows and it needs water and air. A desk is non-living because it does not grow and does not move by itself."}}
+      }
+    },
+    {
+      "t": "activity",
+      "id": "p031-a2",
+      "label": {"ur": "ذرا سوچیے!", "en": "Think about it!"},
+      "orig": {"ur": "کار یا بس ایک جگہ سے دوسری جگہ جاتی ہے۔ کیا وہ جان دار ہے؟ اپنے جواب کی وجہ بتائیں۔", "en": "A car or a bus goes from one place to another. Is it a living thing? Give the reason for your answer."},
+      "prompt": {"ur": "کار چلتی تو ہے — مگر کیا وہ جان دار ہے؟ سوچ کر جواب دیں۔", "en": "A car does move, but is it a living thing? Think and then answer."},
+      "levels": {
+        "easy": {"kind": "mcq", "questions": [
+          {"q": {"ur": "کیا کار جان دار ہے؟", "en": "Is a car a living thing?"},
+           "options": [{"ur": "نہیں", "en": "No", "sym": "no"}, {"ur": "ہاں", "en": "Yes", "sym": "yes"}],
+           "answer": 0,
+           "fb": {"ur": "کار جان دار نہیں۔ وہ نہ کھاتی ہے، نہ بڑھتی ہے۔ اسے انسان چلاتا ہے۔", "en": "A car is not a living thing. It does not eat and it does not grow. A person drives it."}}
+        ]},
+        "moderate": {"kind": "mcq", "questions": [
+          {"q": {"ur": "کار یا بس ایک جگہ سے دوسری جگہ جاتی ہے۔ کیا وہ جان دار ہے؟", "en": "A car or a bus goes from one place to another. Is it a living thing?"},
+           "options": [{"ur": "ہاں، جان دار ہے", "en": "Yes, it is living"}, {"ur": "نہیں، بے جان ہے", "en": "No, it is non-living"}],
+           "answer": 1,
+           "fb": {"ur": "کار اور بس بے جان ہیں۔", "en": "Cars and buses are non-living."}},
+          {"q": {"ur": "اس کی وجہ کیا ہے؟", "en": "What is the reason?"},
+           "options": [{"ur": "وہ خود نہیں چلتی، نہ بڑھتی ہے اور نہ اس کی افزائشِ نسل ہوتی ہے", "en": "It does not move by itself, does not grow and does not have young ones"}, {"ur": "اس کے پہیے ہوتے ہیں", "en": "It has wheels"}, {"ur": "وہ بہت تیز چلتی ہے", "en": "It goes very fast"}],
+           "answer": 0,
+           "fb": {"ur": "کار کو انسان چلاتا ہے۔ وہ نہ سانس لیتی ہے، نہ خوراک کھاتی ہے، نہ بڑھتی ہے اور نہ اس کے بچے ہوتے ہیں۔ اس لیے وہ بے جان ہے۔", "en": "A person drives the car. It does not breathe, eat food, grow or have babies. That is why it is non-living."}}
+        ]},
+        "hard": {"kind": "tf", "questions": [
+          {"q": {"ur": "ہر حرکت کرنے والی چیز جان دار ہوتی ہے۔", "en": "Everything that moves is living."}, "answer": false,
+           "fb": {"ur": "نہیں۔ کار، بس اور پنکھا حرکت کرتے ہیں مگر بے جان ہیں۔", "en": "No. A car, a bus and a fan all move, but they are non-living."}},
+          {"q": {"ur": "درخت ایک جگہ کھڑا رہتا ہے، پھر بھی جان دار ہے۔", "en": "A tree stays in one place, but it is still living."}, "answer": true,
+           "fb": {"ur": "جی ہاں۔ درخت بڑھتا ہے، اسے پانی اور ہوا چاہیے اور اس کے بیجوں سے نئے درخت اُگتے ہیں۔", "en": "Yes. A tree grows, needs water and air, and new trees grow from its seeds."}},
+          {"q": {"ur": "دریا کا پانی بہتا ہے، اس لیے پانی جان دار ہے۔", "en": "River water flows, so water is living."}, "answer": false,
+           "fb": {"ur": "پانی بہتا ہے مگر نہ بڑھتا ہے، نہ خوراک کھاتا ہے۔ پانی بے جان ہے۔", "en": "Water flows, but it does not grow and it does not eat food. Water is non-living."}}
+        ]}
+      }
+    },
+    {"t": "h", "ur": "قدرتی وسائل اور ان کی اہمیت", "en": "Natural resources and their importance"},
+    {"t": "p", "ur": "جو اشیا قدرت نے ہمیں عطا کی ہیں انھیں قدرتی وسائل کہتے ہیں۔ اللہ تعالیٰ نے قدرتی وسائل پیدا کیے ہیں جو انسانوں کے زندہ رہنے کے لیے ان کی ضروریات پوری کرتے ہیں۔ قدرتی وسائل کئی قسم کے ہوتے ہیں: زمینی، آبی، سورج اور ہوا کے وسائل۔", "en": "The things that nature has given us are called natural resources. Allah Almighty has created natural resources, which meet the needs of human beings so that they can stay alive. There are several kinds of natural resources: land, water, sun and air resources."},
+    {"t": "p", "ur": "سورج سے ہم روشنی اور حرارت لیتے ہیں جب کہ پانی پینے کے لیے اور سانس لینے کے لیے ہوا بہت اہم ہے۔", "en": "From the sun we get light and heat, while water is very important for drinking and air for breathing."},
+    {"t": "gallery", "items": [
+      {"crop": [0.122, 0.482, 0.462, 0.69], "alt": {"ur": "ایک بڑے ہرے بھرے درخت کی شاخوں میں سے سورج کی روشنی چھن کر آ رہی ہے۔", "en": "Sunlight shines through the branches of a big green tree."}},
+      {"crop": [0.47, 0.70, 0.862, 0.882], "alt": {"ur": "ایک سرخی مائل بھوری گائے کھڑی ہے۔", "en": "A reddish-brown cow is standing."}},
+      {"crop": [0.122, 0.70, 0.462, 0.88], "alt": {"ur": "نیلے پانی پر تیرتی ہوئی پیلی پَن چکّی (ہوا سے چلنے والی چکّی) جس کے پیچھے جنگل ہے۔", "en": "A yellow windmill floats on blue water, with a forest behind it."}}
+    ]},
+    {
+      "t": "activity",
+      "id": "p031-a3",
+      "label": {"ur": "آزمائیں", "en": "Try it"},
+      "orig": {"ur": "(اضافی مشق — یہ کتاب میں چھپی ہوئی نہیں ہے)", "en": "(Extra practice — not printed in the book)"},
+      "prompt": {"ur": "ہر قدرتی وسیلہ ہمارے کس کام آتا ہے؟ جوڑ ملائیں۔", "en": "What do we use each natural resource for? Match the pairs."},
+      "levels": {
+        "easy": {"kind": "match", "pairs": [
+          {"a": {"ur": "سورج", "en": "Sun", "sym": "sun"}, "b": {"ur": "روشنی", "en": "Light", "sym": "light"}},
+          {"a": {"ur": "پانی", "en": "Water", "sym": "water"}, "b": {"ur": "پینا", "en": "Drinking", "sym": "to drink"}},
+          {"a": {"ur": "ہوا", "en": "Air", "sym": "wind"}, "b": {"ur": "سانس لینا", "en": "Breathing", "sym": "to breathe"}}
+        ]},
+        "moderate": {"kind": "fill", "questions": [
+          {"q": {"ur": "جو اشیا قدرت نے ہمیں عطا کی ہیں انھیں ___ کہتے ہیں۔", "en": "The things nature has given us are called ___."},
+           "options": [{"ur": "کھلونے", "en": "toys"}, {"ur": "قدرتی وسائل", "en": "natural resources"}, {"ur": "تہوار", "en": "festivals"}],
+           "answer": 1,
+           "fb": {"ur": "قدرت کی دی ہوئی چیزیں، جیسے زمین، پانی، سورج اور ہوا، قدرتی وسائل ہیں۔", "en": "The things given by nature, such as land, water, the sun and air, are natural resources."}},
+          {"q": {"ur": "سورج سے ہم روشنی اور ___ لیتے ہیں۔", "en": "From the sun we get light and ___."},
+           "options": [{"ur": "حرارت", "en": "heat"}, {"ur": "پانی", "en": "water"}, {"ur": "مٹی", "en": "soil"}],
+           "answer": 0,
+           "fb": {"ur": "سورج ہمیں روشنی اور حرارت (گرمی) دیتا ہے۔", "en": "The sun gives us light and heat."}},
+          {"q": {"ur": "سانس لینے کے لیے ___ بہت اہم ہے۔", "en": "___ is very important for breathing."},
+           "options": [{"ur": "مٹی", "en": "Soil"}, {"ur": "روشنی", "en": "Light"}, {"ur": "ہوا", "en": "Air"}],
+           "answer": 2,
+           "fb": {"ur": "ہم ہوا میں سانس لیتے ہیں۔", "en": "We breathe air."}}
+        ]},
+        "hard": {"kind": "sort",
+          "groups": [{"ur": "قدرتی وسائل", "en": "Natural resources"}, {"ur": "انسان کی بنائی ہوئی چیزیں", "en": "Things made by people"}],
+          "items": [
+            {"ur": "سورج", "en": "Sun", "group": 0},
+            {"ur": "کرسی", "en": "Chair", "group": 1},
+            {"ur": "پانی", "en": "Water", "group": 0},
+            {"ur": "بس", "en": "Bus", "group": 1},
+            {"ur": "ہوا", "en": "Air", "group": 0},
+            {"ur": "کتاب", "en": "Book", "group": 1},
+            {"ur": "زمین", "en": "Land", "group": 0},
+            {"ur": "پنکھا", "en": "Fan", "group": 1}
+          ]}
+      }
+    }
+  ],
+  "hint": [
+    {"for": "all", "ur": "چار قدرتی وسائل انگلیوں پر گنیں: زمین، پانی، سورج، ہوا۔ ہر ایک کے ساتھ سوچیں: یہ آج میرے کس کام آیا؟ (پانی پیا، ہوا میں سانس لیا، دھوپ میں کھیلا، زمین پر چلا۔)", "en": "Count the four natural resources on your fingers: land, water, sun and air. For each one, think: how did I use it today? (I drank water, breathed air, played in the sunshine and walked on the ground.)"},
+    {"for": "vision", "ur": "قدرتی وسائل کو محسوس کریں: دھوپ کی گرمی چہرے پر، ہوا ہاتھ پر، پانی انگلیوں پر اور مٹی مٹھی میں۔ سکول کی سرگرمی میں ساتھی کے ساتھ چیزوں کو چھو کر پہچانیں۔", "en": "Feel the natural resources: the warmth of the sun on your face, air on your hand, water on your fingers and soil in your fist. In the school activity, work with a partner and get to know things by touching them."},
+    {"for": "motor", "ur": "جو بچہ سکول میں گھوم نہیں سکتا وہ اپنی جگہ سے (کھڑکی یا کمرے میں) چیزیں دیکھ کر بتائے اور ساتھی لکھ لے۔ فہرست کی جگہ تصویروں پر نشان لگانا بھی ٹھیک ہے۔", "en": "A child who cannot walk around the school can look at things from their own place (through the window or in the room) and name them, while a partner writes them down. Ticking pictures instead of writing a list is fine too."},
+    {"for": "teacher", "ur": "ہر گروپ میں کام بانٹیں: دیکھنے والا، لکھنے/تصویر بنانے والا، سنانے والا — تاکہ ہر بچہ اپنی صلاحیت کے مطابق حصہ لے۔ تبادلۂ خیال میں بولنے، اشارے اور تصویر، سب طریقے قبول کریں۔", "en": "Share out the jobs in each group: one child looks, one writes or draws, and one reads out the list, so that every child takes part in the way they are able. In the discussion, accept speaking, signs and pictures alike."}
+  ],
+  "easy": {
+    "title": {"ur": "قدرتی وسائل", "en": "Natural resources"},
+    "image": {"crop": [0.122, 0.482, 0.462, 0.69], "alt": {"ur": "درخت میں سے سورج کی روشنی آ رہی ہے۔", "en": "Sunlight shines through a tree."}},
+    "sentences": [
+      {"en": "The sun, water and air are natural resources.",
+       "words": [{"ur": "سورج،", "sym": "sun"}, {"ur": "پانی", "sym": "water"}, {"ur": "اور", "sym": null}, {"ur": "ہوا", "sym": "wind"}, {"ur": "قدرتی وسائل", "sym": "nature"}, {"ur": "ہیں۔", "sym": null}],
+       "words_en": [{"en": "The sun,", "sym": "sun"}, {"en": "water", "sym": "water"}, {"en": "and", "sym": null}, {"en": "air", "sym": "wind"}, {"en": "are", "sym": null}, {"en": "natural resources.", "sym": "nature"}]},
+      {"en": "The sun gives light.",
+       "words": [{"ur": "سورج", "sym": "sun"}, {"ur": "روشنی", "sym": "light"}, {"ur": "دیتا ہے۔", "sym": "to give"}],
+       "words_en": [{"en": "The sun", "sym": "sun"}, {"en": "gives", "sym": "to give"}, {"en": "light.", "sym": "light"}]},
+      {"en": "We drink water.",
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "پانی", "sym": "water"}, {"ur": "پیتے ہیں۔", "sym": "to drink"}],
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "drink", "sym": "to drink"}, {"en": "water.", "sym": "water"}]},
+      {"en": "We breathe air.",
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "ہوا", "sym": "air"}, {"ur": "میں", "sym": null}, {"ur": "سانس لیتے ہیں۔", "sym": "to breathe"}],
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "breathe", "sym": "to breathe"}, {"en": "air.", "sym": "air"}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "جوڑ ملائیں۔", "en": "Match the pairs."},
+      "task": {"kind": "match", "pairs": [
+        {"a": {"ur": "سورج", "en": "Sun", "sym": "sun"}, "b": {"ur": "روشنی", "en": "Light", "sym": "light"}},
+        {"a": {"ur": "پانی", "en": "Water", "sym": "water"}, "b": {"ur": "پینا", "en": "Drinking", "sym": "to drink"}},
+        {"a": {"ur": "ہوا", "en": "Air", "sym": "wind"}, "b": {"ur": "سانس لینا", "en": "Breathing", "sym": "to breathe"}}
+      ]}
+    }
+  },
+  "print": true
+}

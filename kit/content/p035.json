@@ -1,0 +1,159 @@
+{
+  "n": 35,
+  "printed": "31",
+  "chapter": 5,
+  "kind": "exercise",
+  "title": {"ur": "مشق: قدرتی ماحول اور وسائل", "en": "Exercise: Natural environment and resources"},
+  "blocks": [
+    {
+      "t": "activity",
+      "id": "p035-a1",
+      "label": {"ur": "سرگرمی", "en": "Activity"},
+      "orig": {"ur": "(گروپ ورک)\nاپنے سکول میں موجود قدرتی وسائل اور انسان کی بنائی ہوئی چیزوں کی فہرست بنائیں۔", "en": "(Group work)\nMake a list of the natural resources and the things made by people that are in your school."},
+      "prompt": {"ur": "اپنے گروپ کے ساتھ سکول میں دیکھیں: کون سی چیز قدرت نے دی ہے اور کون سی انسان نے بنائی ہے؟", "en": "Look around your school with your group: which things are given by nature and which are made by people?"},
+      "levels": {
+        "easy": {"kind": "sort",
+          "groups": [{"ur": "قدرتی وسائل", "en": "Natural resources"}, {"ur": "انسان کی بنائی ہوئی چیزیں", "en": "Things made by people"}],
+          "items": [
+            {"ur": "درخت", "en": "Tree", "sym": "tree", "group": 0},
+            {"ur": "ڈیسک", "en": "Desk", "sym": "desk", "group": 1},
+            {"ur": "سورج کی روشنی", "en": "Sunlight", "sym": "sun", "group": 0},
+            {"ur": "کتاب", "en": "Book", "sym": "book", "group": 1},
+            {"ur": "پانی", "en": "Water", "sym": "water", "group": 0},
+            {"ur": "گھنٹی", "en": "Bell", "sym": "bell", "group": 1}
+          ]},
+        "moderate": {"kind": "open", "mode": "do",
+          "steps": [
+            {"ur": "کاغذ پر دو خانے بنائیں: ”قدرتی وسائل“ اور ”انسان کی بنائی ہوئی چیزیں“۔", "en": "Draw two boxes on a sheet of paper: “Natural resources” and “Things made by people”."},
+            {"ur": "اپنے گروپ کے ساتھ کمرۂ جماعت اور صحن میں چیزیں دیکھیں۔", "en": "With your group, look at the things in the classroom and the courtyard."},
+            {"ur": "ہر چیز کا نام صحیح خانے میں لکھیں یا اس کی تصویر بنائیں۔", "en": "Write the name of each thing in the right box, or draw a picture of it."},
+            {"ur": "اپنی فہرست جماعت کو دکھائیں۔", "en": "Show your list to the class."}
+          ],
+          "model": {"ur": "قدرتی وسائل: درخت، پودے، مٹی، پانی، ہوا، سورج کی روشنی۔\nانسان کی بنائی ہوئی چیزیں: ڈیسک، کرسی، بلیک بورڈ، کتابیں، پنکھا، گھنٹی، نلکا۔", "en": "Natural resources: trees, plants, soil, water, air, sunlight.\nThings made by people: desk, chair, blackboard, books, fan, bell, hand pump."},
+          "checklist": [
+            {"ur": "ہم نے دونوں خانوں میں چیزیں لکھیں۔", "en": "We wrote things in both boxes."},
+            {"ur": "گروپ کے ہر بچے نے کم از کم ایک چیز بتائی۔", "en": "Every child in the group named at least one thing."}
+          ]},
+        "hard": {"kind": "match", "pairs": [
+          {"a": {"ur": "ڈیسک", "en": "Desk"}, "b": {"ur": "لکڑی (درخت سے)", "en": "Wood (from trees)"}},
+          {"a": {"ur": "کتاب کا کاغذ", "en": "The paper in a book"}, "b": {"ur": "درخت", "en": "Trees"}},
+          {"a": {"ur": "نلکا", "en": "Hand pump"}, "b": {"ur": "لوہا (زمین کی معدنیات سے)", "en": "Iron (from minerals in the ground)"}},
+          {"a": {"ur": "گملا", "en": "Flowerpot"}, "b": {"ur": "مٹی", "en": "Clay"}}
+        ]}
+      }
+    },
+    {"t": "h", "ur": "مشق", "en": "Exercise"},
+    {
+      "t": "activity",
+      "id": "p035-a2",
+      "label": {"ur": "سوال نمبر 1", "en": "Question 1"},
+      "orig": {"ur": "نیچے دی گئی تصاویر میں سے جان دار اشیا میں رنگ بھریں۔", "en": "Colour in the living things in the pictures given below."},
+      "prompt": {"ur": "تصویر میں پانچ چیزیں ہیں۔ جان دار چیزوں کو ڈھونڈیں (چھپے ہوئے صفحے پر ان میں رنگ بھریں)۔", "en": "There are five things in the picture. Find the living things (on the printed page, colour them in)."},
+      "levels": {
+        "easy": {"kind": "mcq", "questions": [
+          {"q": {"ur": "کون سی چیز جان دار ہے؟", "en": "Which thing is living?"},
+           "options": [{"ur": "زیبرا", "en": "Zebra", "sym": "zebra"}, {"ur": "فٹ بال", "en": "Football", "img": [0.535, 0.505, 0.65, 0.602]}],
+           "answer": 0,
+           "fb": {"ur": "زیبرا جان دار ہے۔ وہ کھاتا، بڑھتا اور چلتا ہے۔ فٹ بال بے جان ہے۔", "en": "The zebra is living. It eats, grows and walks. The football is non-living."}},
+          {"q": {"ur": "کون سی چیز جان دار ہے؟", "en": "Which thing is living?"},
+           "options": [{"ur": "گٹار", "en": "Guitar", "img": [0.41, 0.378, 0.597, 0.445]}, {"ur": "درخت", "en": "Tree", "sym": "tree"}],
+           "answer": 1,
+           "fb": {"ur": "درخت جان دار ہے۔ وہ بڑھتا ہے اور اسے پانی چاہیے۔ گٹار بے جان ہے۔", "en": "The tree is living. It grows and it needs water. The guitar is non-living."}}
+        ]},
+        "moderate": {"kind": "sort",
+          "groups": [{"ur": "جان دار (رنگ بھریں)", "en": "Living (colour it in)"}, {"ur": "بے جان (رنگ نہ بھریں)", "en": "Non-living (do not colour it in)"}],
+          "items": [
+            {"ur": "زیبرا", "en": "Zebra", "sym": "zebra", "group": 0},
+            {"ur": "گٹار", "en": "Guitar", "img": [0.41, 0.378, 0.597, 0.445], "group": 1},
+            {"ur": "درخت", "en": "Tree", "sym": "tree", "group": 0},
+            {"ur": "فٹ بال", "en": "Football", "img": [0.535, 0.505, 0.65, 0.602], "group": 1},
+            {"ur": "کیڑا (بھونرا)", "en": "Insect (beetle)", "img": [0.18, 0.455, 0.325, 0.597], "group": 0}
+          ]},
+        "hard": {"kind": "mcq", "questions": [
+          {"q": {"ur": "تصویر میں کتنی چیزیں جان دار ہیں؟", "en": "How many things in the picture are living?"},
+           "img": [0.17, 0.376, 0.82, 0.603],
+           "options": [{"ur": "دو", "en": "Two"}, {"ur": "تین", "en": "Three"}, {"ur": "پانچ", "en": "Five"}],
+           "answer": 1,
+           "fb": {"ur": "تین چیزیں جان دار ہیں: زیبرا، کیڑا اور درخت۔ گٹار اور فٹ بال بے جان ہیں۔", "en": "Three things are living: the zebra, the insect and the tree. The guitar and the football are non-living."}},
+          {"q": {"ur": "درخت چلتا پھرتا نہیں۔ پھر وہ جان دار کیوں ہے؟", "en": "A tree does not walk about. So why is it living?"},
+           "options": [{"ur": "کیوں کہ وہ بڑھتا ہے اور اسے ہوا اور پانی چاہیے", "en": "Because it grows and needs air and water"}, {"ur": "کیوں کہ وہ سبز ہے", "en": "Because it is green"}, {"ur": "کیوں کہ وہ بہت بڑا ہے", "en": "Because it is very big"}],
+           "answer": 0,
+           "fb": {"ur": "جان دار بڑھتے اور پھلتے پھولتے ہیں اور انھیں ہوا، خوراک اور پانی کی ضرورت ہوتی ہے۔ درخت میں یہ سب باتیں ہیں۔", "en": "Living things grow and thrive, and they need air, food and water. All of this is true of a tree."}},
+          {"q": {"ur": "فٹ بال لڑھک کر دور چلا جاتا ہے۔ کیا وہ جان دار ہے؟", "en": "A football rolls and goes far away. Is it living?"},
+           "options": [{"ur": "ہاں، کیوں کہ وہ حرکت کرتا ہے", "en": "Yes, because it moves"}, {"ur": "ہاں، کیوں کہ وہ گول ہے", "en": "Yes, because it is round"}, {"ur": "نہیں، وہ خود حرکت نہیں کرتا اور نہ بڑھتا ہے", "en": "No, it does not move by itself and does not grow"}],
+           "answer": 2,
+           "fb": {"ur": "فٹ بال کو ہم ٹھوکر مارتے ہیں تو وہ چلتا ہے۔ وہ نہ خود حرکت کرتا ہے، نہ بڑھتا ہے۔ وہ بے جان ہے۔", "en": "The football moves when we kick it. It does not move by itself and it does not grow. It is non-living."}}
+        ]}
+      }
+    },
+    {"t": "img", "crop": [0.17, 0.376, 0.82, 0.603],
+     "alt": {"ur": "رنگ بھرنے کے لیے سیاہ لکیروں والی پانچ تصویریں: بائیں طرف ایک کیڑا (بھونرا)، درمیان میں زیبرا، اوپر گٹار، نیچے فٹ بال اور دائیں طرف ایک درخت۔", "en": "There are five black outline pictures to colour in: an insect (a beetle) on the left, a zebra in the middle, a guitar at the top, a football at the bottom and a tree on the right."}},
+    {
+      "t": "activity",
+      "id": "p035-a3",
+      "label": {"ur": "سوال نمبر 2", "en": "Question 2"},
+      "orig": {"ur": "کالم “الف” میں دیے گئے وسائل کو ان کی افادیت کے لحاظ سے کالم “ب” سے ملائیں۔\nکالم “الف”: ہوا، پانی، جنگل، سورج\nکالم “ب”: لکڑی، روشنی، سانس لینا، پینا", "en": "Match each resource given in column A with its use in column B.\nColumn A: air, water, forest, sun\nColumn B: wood, light, breathing, drinking"},
+      "prompt": {"ur": "ہر قدرتی وسیلے کو اس کے فائدے سے ملائیں۔", "en": "Match each natural resource to its use."},
+      "levels": {
+        "easy": {"kind": "match", "pairs": [
+          {"a": {"ur": "پانی", "en": "Water", "sym": "water"}, "b": {"ur": "پینا", "en": "Drinking", "sym": "to drink"}},
+          {"a": {"ur": "سورج", "en": "Sun", "sym": "sun"}, "b": {"ur": "روشنی", "en": "Light", "sym": "light"}},
+          {"a": {"ur": "ہوا", "en": "Air", "sym": "wind"}, "b": {"ur": "سانس لینا", "en": "Breathing", "sym": "to breathe"}}
+        ]},
+        "moderate": {"kind": "match", "pairs": [
+          {"a": {"ur": "ہوا", "en": "Air"}, "b": {"ur": "سانس لینا", "en": "Breathing"}},
+          {"a": {"ur": "پانی", "en": "Water"}, "b": {"ur": "پینا", "en": "Drinking"}},
+          {"a": {"ur": "جنگل", "en": "Forest"}, "b": {"ur": "لکڑی", "en": "Wood"}},
+          {"a": {"ur": "سورج", "en": "Sun"}, "b": {"ur": "روشنی", "en": "Light"}}
+        ]},
+        "hard": {"kind": "match", "pairs": [
+          {"a": {"ur": "ہوا", "en": "Air"}, "b": {"ur": "سانس لینا", "en": "Breathing"}},
+          {"a": {"ur": "پانی", "en": "Water"}, "b": {"ur": "پینا", "en": "Drinking"}},
+          {"a": {"ur": "جنگل", "en": "Forest"}, "b": {"ur": "لکڑی", "en": "Wood"}},
+          {"a": {"ur": "سورج", "en": "Sun"}, "b": {"ur": "روشنی اور حرارت", "en": "Light and heat"}},
+          {"a": {"ur": "زمین", "en": "Land"}, "b": {"ur": "کھیتی باڑی", "en": "Farming"}},
+          {"a": {"ur": "دریا اور سمندر", "en": "Rivers and the sea"}, "b": {"ur": "مچھلیاں", "en": "Fish"}}
+        ]}
+      }
+    }
+  ],
+  "hint": [
+    {"for": "all", "ur": "سوال 1 میں ہر تصویر سے پوچھیں: ”کیا یہ بڑھتی ہے؟ کیا اسے خوراک اور پانی چاہیے؟“ اگر ہاں تو رنگ بھریں۔ سوال 2 میں پہلے آسان جوڑ بنائیں (پانی — پینا)، باقی خود آسان ہو جائیں گے۔", "en": "In Question 1, ask each picture: “Does it grow? Does it need food and water?” If the answer is yes, colour it in. In Question 2, make the easy pair first (water and drinking). Then the rest will become easy."},
+    {"for": "vision", "ur": "رنگ بھرنے والی تصویروں کے کناروں پر گوند یا دھاگا لگا کر انھیں اُبھار دیں تاکہ بچہ چھو کر شکل پہچان سکے، یا کھلونا جانور، پتّا، گیند جیسی اصل چیزیں دے کر الگ الگ کروائیں۔", "en": "Put glue or thread along the outlines of the colouring pictures to raise them, so that the child can feel the shapes. Or give real things such as a toy animal, a leaf and a ball, and ask the child to sort them."},
+    {"for": "motor", "ur": "باریک رنگ بھرنے کی جگہ موٹا کریون، انگلی کا رنگ یا جان دار چیز پر صرف ایک بڑا نشان لگانا بھی ٹھیک ہے۔ سوال 2 میں لکیر کھینچنے کی جگہ بچہ دونوں لفظوں کی طرف اشارہ کرے۔", "en": "Instead of careful colouring, it is fine to use a thick crayon or finger paint, or just to put one big mark on each living thing. In Question 2, the child can point to the two words instead of drawing a line."},
+    {"for": "teacher", "ur": "گروپ ورک میں ہر گروپ میں مختلف صلاحیتوں کے بچے رکھیں اور ہر بچے کو ایک کام دیں (دیکھنا، بتانا، لکھنا، تصویر بنانا)۔ فہرست زبانی یا تصویری بھی ہو سکتی ہے۔", "en": "In the group work, put children of different abilities in each group and give every child a job (looking, telling, writing or drawing). The list can also be spoken or made of pictures."}
+  ],
+  "easy": {
+    "title": {"ur": "جان دار اور بے جان", "en": "Living and non-living"},
+    "image": {"crop": [0.17, 0.376, 0.82, 0.603], "alt": {"ur": "کیڑا، زیبرا، گٹار، فٹ بال اور درخت کی تصویریں۔", "en": "The pictures show an insect, a zebra, a guitar, a football and a tree."}},
+    "sentences": [
+      {"en": "The zebra is living.",
+       "words": [{"ur": "زیبرا", "sym": "zebra"}, {"ur": "جان دار", "sym": "alive"}, {"ur": "ہے۔", "sym": null}],
+       "words_en": [{"en": "The zebra", "sym": "zebra"}, {"en": "is", "sym": null}, {"en": "living.", "sym": "alive"}]},
+      {"en": "The tree is also living.",
+       "words": [{"ur": "درخت", "sym": "tree"}, {"ur": "بھی", "sym": "also"}, {"ur": "جان دار", "sym": "alive"}, {"ur": "ہے۔", "sym": null}],
+       "words_en": [{"en": "The tree", "sym": "tree"}, {"en": "is", "sym": null}, {"en": "also", "sym": "also"}, {"en": "living.", "sym": "alive"}]},
+      {"en": "The football is non-living.",
+       "words": [{"ur": "فٹ بال", "sym": "football"}, {"ur": "بے جان", "sym": "object"}, {"ur": "ہے۔", "sym": null}],
+       "words_en": [{"en": "The football", "sym": "football"}, {"en": "is", "sym": null}, {"en": "non-living.", "sym": "object"}]},
+      {"en": "We breathe air.",
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "ہوا", "sym": "air"}, {"ur": "میں", "sym": null}, {"ur": "سانس لیتے ہیں۔", "sym": "to breathe"}],
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "breathe", "sym": "to breathe"}, {"en": "air.", "sym": "air"}]},
+      {"en": "The sun gives us light.",
+       "words": [{"ur": "سورج", "sym": "sun"}, {"ur": "ہمیں", "sym": "us"}, {"ur": "روشنی", "sym": "light"}, {"ur": "دیتا ہے۔", "sym": "to give"}],
+       "words_en": [{"en": "The sun", "sym": "sun"}, {"en": "gives", "sym": "to give"}, {"en": "us", "sym": "us"}, {"en": "light.", "sym": "light"}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "ہر تصویر کو صحیح خانے میں رکھیں۔", "en": "Put each picture in the right box."},
+      "task": {"kind": "sort",
+        "groups": [{"ur": "جان دار", "en": "Living"}, {"ur": "بے جان", "en": "Non-living"}],
+        "items": [
+          {"ur": "زیبرا", "en": "Zebra", "sym": "zebra", "group": 0},
+          {"ur": "فٹ بال", "en": "Football", "img": [0.535, 0.505, 0.65, 0.602], "group": 1},
+          {"ur": "درخت", "en": "Tree", "sym": "tree", "group": 0},
+          {"ur": "گٹار", "en": "Guitar", "img": [0.41, 0.378, 0.597, 0.445], "group": 1}
+        ]}
+    }
+  },
+  "print": true
+}

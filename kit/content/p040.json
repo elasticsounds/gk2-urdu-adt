@@ -1,0 +1,111 @@
+{
+  "n": 40,
+  "printed": "36",
+  "chapter": 6,
+  "kind": "content",
+  "title": {"ur": "پانی کے قدرتی ذرائع", "en": "Natural sources of water"},
+  "blocks": [
+    {"t": "h", "ur": "پانی کے قدرتی ذرائع", "en": "Natural sources of water"},
+    {"t": "list", "items": [
+      {"ur": "1. بارش", "en": "1. Rain"},
+      {"ur": "2. برف", "en": "2. Snow"},
+      {"ur": "3. زیرِ زمین پانی", "en": "3. Underground water"}
+    ]},
+    {"t": "p", "ur": "پانی حاصل کرنے کا سب سے اہم اور بڑا ذریعہ بارش ہے۔ بارش کا پانی تالاب، جھیلوں، نہروں اور دریاؤں میں شامل ہو جاتا ہے۔", "en": "The most important and biggest source of water is rain. Rainwater flows into ponds, lakes, canals and rivers."},
+    {"t": "p", "ur": "گلیشیئر اور پہاڑوں سے برف پگھل کر ندی نالوں، نہروں، تالابوں، جھیلوں میں پانی کی صورت میں شامل ہو جاتی ہے اور یہ پانی دریاؤں کے ذریعے سمندر میں مل جاتا ہے۔", "en": "Snow on glaciers and mountains melts and flows as water into streams, canals, ponds and lakes, and this water then travels along rivers into the sea."},
+    {"t": "p", "ur": "اس کے علاوہ زمین کی تہ میں بھی پانی کا ذخیرہ موجود ہے۔", "en": "As well as this, there is also a store of water deep under the ground."},
+    {"t": "gallery", "items": [
+      {"crop": [0.525, 0.357, 0.833, 0.495],
+       "alt": {"ur": "تیز بارش ہو رہی ہے اور پانی کے قطرے ایک نیلی چھتری پر گر رہے ہیں۔", "en": "Heavy rain is falling and the drops are landing on a blue umbrella."},
+       "cap": {"ur": "بارش", "en": "Rain"}},
+      {"crop": [0.198, 0.357, 0.506, 0.495],
+       "alt": {"ur": "کھیتوں کے بیچ ایک سیدھی لمبی نہر جس میں پانی بہہ رہا ہے۔", "en": "A long, straight canal full of flowing water runs between fields."},
+       "cap": {"ur": "نہر", "en": "Canal"}},
+      {"crop": [0.525, 0.531, 0.834, 0.671],
+       "alt": {"ur": "نیلا سمندر، اس کی سفید لہریں ریتلے ساحل پر آ رہی ہیں۔", "en": "White waves from a blue sea are rolling onto a sandy shore."},
+       "cap": {"ur": "سمندر", "en": "Sea"}},
+      {"crop": [0.196, 0.531, 0.506, 0.671],
+       "alt": {"ur": "سبز درختوں والے جنگل کے بیچ تیزی سے بہتا ہوا دریا۔", "en": "A fast-flowing river runs through a forest of green trees."},
+       "cap": {"ur": "دریا", "en": "River"}},
+      {"crop": [0.525, 0.705, 0.835, 0.844],
+       "alt": {"ur": "سبز پہاڑی سے اونچائی سے نیچے گرتا ہوا پانی؛ نیچے لوگ کرسیوں پر بیٹھے ہیں۔", "en": "Water is falling from high up down a green hillside, and people are sitting on chairs at the bottom."},
+       "cap": {"ur": "آبشار", "en": "Waterfall"}},
+      {"crop": [0.196, 0.705, 0.506, 0.844],
+       "alt": {"ur": "برف کا بہت بڑا سفید اور نیلا پہاڑ جو پانی کے کنارے کھڑا ہے۔", "en": "A huge white and blue mountain of ice stands at the edge of the water."},
+       "cap": {"ur": "گلیشیئر", "en": "Glacier"}}
+    ]},
+    {"t": "activity",
+     "id": "p040-a1",
+     "label": {"ur": "آزمائیں", "en": "Try it"},
+     "orig": {"ur": "پانی کے قدرتی ذرائع", "en": "Natural sources of water"},
+     "prompt": {"ur": "دیکھیں کہ آپ کو پانی کے ذرائع کتنے یاد ہیں۔", "en": "See how well you remember the sources of water."},
+     "levels": {
+       "easy": {"kind": "match", "pairs": [
+         {"a": {"ur": "تصویر 1", "en": "Picture 1", "img": [0.525, 0.357, 0.833, 0.495]}, "b": {"ur": "بارش", "en": "Rain", "sym": "rain"}},
+         {"a": {"ur": "تصویر 2", "en": "Picture 2", "img": [0.196, 0.531, 0.506, 0.671]}, "b": {"ur": "دریا", "en": "River", "sym": "river"}},
+         {"a": {"ur": "تصویر 3", "en": "Picture 3", "img": [0.525, 0.531, 0.834, 0.671]}, "b": {"ur": "سمندر", "en": "Sea", "sym": "sea"}}
+       ]},
+       "moderate": {"kind": "fill", "questions": [
+         {"q": {"ur": "پانی حاصل کرنے کا سب سے اہم اور بڑا ذریعہ ___ ہے۔", "en": "The most important and biggest source of water is ___."},
+          "options": [{"ur": "سمندر", "en": "the sea"}, {"ur": "بارش", "en": "rain"}, {"ur": "آبشار", "en": "a waterfall"}],
+          "answer": 1,
+          "fb": {"ur": "پانی حاصل کرنے کا سب سے اہم اور بڑا ذریعہ بارش ہے۔", "en": "The most important and biggest source of water is rain."}},
+         {"q": {"ur": "گلیشیئر اور پہاڑوں سے ___ پگھل کر ندی نالوں میں شامل ہو جاتی ہے۔", "en": "On glaciers and mountains, ___ melts and flows into the streams."},
+          "options": [{"ur": "برف", "en": "snow"}, {"ur": "ریت", "en": "sand"}, {"ur": "مٹی", "en": "soil"}],
+          "answer": 0,
+          "fb": {"ur": "گلیشیئر اور پہاڑوں سے برف پگھل کر پانی بن جاتی ہے۔", "en": "Snow melts from glaciers and mountains and becomes water."}},
+         {"q": {"ur": "یہ پانی دریاؤں کے ذریعے ___ میں مل جاتا ہے۔", "en": "This water travels along rivers into the ___."},
+          "options": [{"ur": "تالاب", "en": "pond"}, {"ur": "کنویں", "en": "well"}, {"ur": "سمندر", "en": "sea"}],
+          "answer": 2,
+          "fb": {"ur": "دریاؤں کا پانی آخر میں سمندر میں مل جاتا ہے۔", "en": "River water finally flows into the sea."}},
+         {"q": {"ur": "زمین کی ___ میں بھی پانی کا ذخیرہ موجود ہے۔", "en": "There is also a store of water in the ___ of the ground."},
+          "options": [{"ur": "تہ", "en": "depths"}, {"ur": "چھت", "en": "roof"}, {"ur": "ہوا", "en": "air"}],
+          "answer": 0,
+          "fb": {"ur": "زمین کی تہ میں، یعنی زمین کے نیچے، بھی پانی موجود ہے۔ اسے زیرِ زمین پانی کہتے ہیں۔", "en": "There is water in the depths of the ground too, which means deep down under the ground. It is called underground water."}}
+       ]},
+       "hard": {"kind": "order", "items": [
+         {"ur": "پہاڑوں اور گلیشیئر پر برف جمی ہے۔", "en": "Snow lies frozen on the mountains and glaciers."},
+         {"ur": "برف پگھل کر پانی بن جاتی ہے۔", "en": "The snow melts and becomes water."},
+         {"ur": "پانی ندی نالوں میں بہتا ہے۔", "en": "The water flows in streams."},
+         {"ur": "پانی دریا میں شامل ہو جاتا ہے۔", "en": "The water joins the river."},
+         {"ur": "دریا کا پانی سمندر میں مل جاتا ہے۔", "en": "The river water flows into the sea."}
+       ]}
+     }}
+  ],
+  "hint": [
+    {"for": "all", "ur": "تین قدرتی ذرائع انگلیوں پر یاد کریں: اوپر سے بارش، پہاڑ پر برف، اور زمین کے نیچے پانی۔ ہاتھ اوپر، بیچ میں، اور نیچے کر کے دہرائیں۔", "en": "Remember the three natural sources on your fingers: rain from above, snow on the mountain, and water under the ground. Say them again with your hand held up high, then in the middle, then down low."},
+    {"for": "vision", "ur": "برف کا ٹکڑا ہاتھ پر رکھیں اور محسوس کریں کہ وہ پگھل کر پانی بن رہا ہے۔ پہاڑوں کی برف بھی ایسے ہی پگھل کر دریا بنتی ہے۔", "en": "Put a piece of ice on your hand and feel it melt into water. Mountain snow melts in the same way and becomes rivers."},
+    {"for": "hearing", "ur": "ہر تصویر کے ساتھ ایک اشارہ جوڑیں: بارش (انگلیاں اوپر سے نیچے)، دریا (ہاتھ لہراتا ہوا)، برف (کانپنا)۔ نئے لفظ ’گلیشیئر‘ اور ’آبشار‘ بورڈ پر لکھ کر تصویر کے ساتھ دکھائیں۔", "en": "Link a gesture to each picture: for rain, move your fingers downwards; for river, wave your hand; for snow, shiver. Write the new words 'glacier' and 'waterfall' on the board next to their pictures."},
+    {"for": "teacher", "ur": "ریت کی ڈھلوان بنا کر اوپر برف رکھیں اور بچوں کو دکھائیں کہ پگھلا ہوا پانی نیچے ’دریا‘ بن کر ’سمندر‘ (تسلا) میں جاتا ہے۔ ترتیب والی سرگرمی میں جملوں کے کارڈ دیں تاکہ بچے لکھنے کے بجائے کارڈ رکھ کر جواب دیں۔", "en": "Make a slope of sand with ice on top and show children how the melted water runs down as a 'river' into a basin that is the 'sea'. For the ordering task give sentence cards so children can answer by placing cards instead of writing."}
+  ],
+  "easy": {
+    "title": {"ur": "پانی کہاں سے آتا ہے؟", "en": "Where does water come from?"},
+    "image": {"crop": [0.525, 0.357, 0.833, 0.495], "alt": {"ur": "بارش ہو رہی ہے اور قطرے چھتری پر گر رہے ہیں۔", "en": "Rain is falling and the drops are landing on an umbrella."}},
+    "sentences": [
+      {"en": "We get water from rain.",
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "get", "sym": "to get"}, {"en": "water", "sym": "water"}, {"en": "from", "sym": null}, {"en": "rain.", "sym": "rain"}],
+       "words": [{"ur": "بارش", "sym": "rain"}, {"ur": "سے", "sym": null}, {"ur": "پانی", "sym": "water"}, {"ur": "ملتا ہے۔", "sym": "to get"}]},
+      {"en": "Snow melts on the mountain.",
+       "words_en": [{"en": "Snow", "sym": "snow"}, {"en": "melts", "sym": "to melt"}, {"en": "on", "sym": null}, {"en": "the mountain.", "sym": "mountain"}],
+       "words": [{"ur": "پہاڑ", "sym": "mountain"}, {"ur": "پر", "sym": null}, {"ur": "برف", "sym": "snow"}, {"ur": "پگھلتی ہے۔", "sym": "to melt"}]},
+      {"en": "Water flows in the river.",
+       "words_en": [{"en": "Water", "sym": "water"}, {"en": "flows", "sym": "to flow"}, {"en": "in", "sym": null}, {"en": "the river.", "sym": "river"}],
+       "words": [{"ur": "پانی", "sym": "water"}, {"ur": "دریا", "sym": "river"}, {"ur": "میں", "sym": null}, {"ur": "بہتا ہے۔", "sym": "to flow"}]},
+      {"en": "The river goes to the sea.",
+       "words_en": [{"en": "The river", "sym": "river"}, {"en": "goes", "sym": "to go"}, {"en": "to", "sym": null}, {"en": "the sea.", "sym": "sea"}],
+       "words": [{"ur": "دریا", "sym": "river"}, {"ur": "سمندر", "sym": "sea"}, {"ur": "میں", "sym": null}, {"ur": "جاتا ہے۔", "sym": "to go"}]},
+      {"en": "There is water under the ground too.",
+       "words_en": [{"en": "There is", "sym": null}, {"en": "water", "sym": "water"}, {"en": "under", "sym": "under"}, {"en": "the ground", "sym": "ground"}, {"en": "too.", "sym": null}],
+       "words": [{"ur": "زمین", "sym": "ground"}, {"ur": "کے نیچے", "sym": "under"}, {"ur": "بھی", "sym": null}, {"ur": "پانی", "sym": "water"}, {"ur": "ہے۔", "sym": null}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "تصویر کو اس کے نام سے ملائیں۔", "en": "Match the picture to its name."},
+      "task": {"kind": "match", "pairs": [
+        {"a": {"ur": "چھتری پر قطرے", "en": "Drops on an umbrella", "img": [0.525, 0.357, 0.833, 0.495]}, "b": {"ur": "بارش", "en": "Rain", "sym": "rain"}},
+        {"a": {"ur": "درختوں کے بیچ بہتا پانی", "en": "Water flowing between trees", "img": [0.196, 0.531, 0.506, 0.671]}, "b": {"ur": "دریا", "en": "River", "sym": "river"}},
+        {"a": {"ur": "برف کا پہاڑ", "en": "A mountain of ice", "img": [0.196, 0.705, 0.506, 0.844]}, "b": {"ur": "برف", "en": "Snow and ice", "sym": "snow"}}
+      ]}
+    }
+  },
+  "print": true
+}

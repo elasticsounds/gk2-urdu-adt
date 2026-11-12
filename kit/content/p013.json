@@ -1,0 +1,926 @@
+{
+ "n": 13,
+ "printed": "9",
+ "chapter": 1,
+ "kind": "exercise",
+ "title": {
+  "ur": "نقشے کے ٹکڑے اور مشق",
+  "en": "Map pieces and exercise"
+ },
+ "blocks": [
+  {
+   "t": "img",
+   "crop": [
+    0.17,
+    0.08,
+    0.8,
+    0.59
+   ],
+   "alt": {
+    "ur": "پاکستان کے نقشے کے چھ الگ الگ رنگین ٹکڑے: آزاد جموں و کشمیر کا چھوٹا پتلا گہرا گلابی ٹکڑا، سندھ کا ہلکا گلابی، پنجاب کا نیلا، گلگت بلتستان کا سبز، خیبر پختون خوا کا گہرا نیلا اور بلوچستان کا سب سے بڑا نارنجی ٹکڑا۔",
+    "en": "Six separate coloured pieces of the map of Pakistan: a small, thin, dark pink piece for Azad Jammu and Kashmir, a light pink piece for Sindh, blue for Punjab, green for Gilgit-Baltistan, dark blue for Khyber Pakhtunkhwa and the biggest piece, in orange, for Balochistan."
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p013-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "اپنے اساتذہ کی راہنمائی میں گروپ میں دیے گئے صوبوں اور پاکستان کے زیرِ انتظام علاقوں کو چارٹ پیپر پر ٹریس (Trace) کر کے ان کے ٹکڑے (Cutout) بنائیں۔ اب ان ٹکڑوں (Cutout) کو آپس میں ملاتے ہوئے پاکستان کا نقشہ مکمل کریں۔",
+    "en": "With your teacher's help, work in a group. Trace the provinces and the areas administered by Pakistan on chart paper and cut out the pieces. Now join the pieces together to complete the map of Pakistan."
+   },
+   "prompt": {
+    "ur": "یہ پاکستان کے نقشے کے ٹکڑے ہیں۔ ہر ٹکڑے کو اس کے صحیح نام سے ملائیں۔",
+    "en": "These are the pieces of the map of Pakistan. Match each piece with its correct name."
+   },
+   "levels": {
+    "easy": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "نارنجی ٹکڑا",
+        "en": "Orange piece",
+        "img": [
+         0.405,
+         0.312,
+         0.795,
+         0.583
+        ]
+       },
+       "b": {
+        "ur": "بلوچستان",
+        "en": "Balochistan"
+       }
+      },
+      {
+       "a": {
+        "ur": "نیلا ٹکڑا",
+        "en": "Blue piece",
+        "img": [
+         0.53,
+         0.085,
+         0.775,
+         0.348
+        ]
+       },
+       "b": {
+        "ur": "پنجاب",
+        "en": "Punjab"
+       }
+      },
+      {
+       "a": {
+        "ur": "ہلکا گلابی ٹکڑا",
+        "en": "Light pink piece",
+        "img": [
+         0.365,
+         0.1,
+         0.54,
+         0.275
+        ]
+       },
+       "b": {
+        "ur": "سندھ",
+        "en": "Sindh"
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "نارنجی ٹکڑا",
+        "en": "Orange piece",
+        "img": [
+         0.405,
+         0.312,
+         0.795,
+         0.583
+        ]
+       },
+       "b": {
+        "ur": "بلوچستان",
+        "en": "Balochistan"
+       }
+      },
+      {
+       "a": {
+        "ur": "نیلا ٹکڑا",
+        "en": "Blue piece",
+        "img": [
+         0.53,
+         0.085,
+         0.775,
+         0.348
+        ]
+       },
+       "b": {
+        "ur": "پنجاب",
+        "en": "Punjab"
+       }
+      },
+      {
+       "a": {
+        "ur": "ہلکا گلابی ٹکڑا",
+        "en": "Light pink piece",
+        "img": [
+         0.365,
+         0.1,
+         0.54,
+         0.275
+        ]
+       },
+       "b": {
+        "ur": "سندھ",
+        "en": "Sindh"
+       }
+      },
+      {
+       "a": {
+        "ur": "گہرا نیلا ٹکڑا",
+        "en": "Dark blue piece",
+        "img": [
+         0.215,
+         0.392,
+         0.395,
+         0.588
+        ]
+       },
+       "b": {
+        "ur": "خیبر پختون خوا",
+        "en": "Khyber Pakhtunkhwa"
+       }
+      },
+      {
+       "a": {
+        "ur": "سبز ٹکڑا",
+        "en": "Green piece",
+        "img": [
+         0.175,
+         0.232,
+         0.415,
+         0.393
+        ]
+       },
+       "b": {
+        "ur": "گلگت بلتستان",
+        "en": "Gilgit-Baltistan"
+       }
+      },
+      {
+       "a": {
+        "ur": "چھوٹا پتلا گہرا گلابی ٹکڑا",
+        "en": "Small, thin, dark pink piece",
+        "img": [
+         0.23,
+         0.115,
+         0.31,
+         0.225
+        ]
+       },
+       "b": {
+        "ur": "آزاد جموں و کشمیر",
+        "en": "Azad Jammu and Kashmir"
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "یہ ٹکڑا کس صوبے کا ہے اور اس کا دارالحکومت کون سا ہے؟",
+        "en": "Which province is this piece, and what is its capital?"
+       },
+       "options": [
+        {
+         "ur": "سندھ — کراچی",
+         "en": "Sindh — Karachi"
+        },
+        {
+         "ur": "بلوچستان — کوئٹہ",
+         "en": "Balochistan — Quetta"
+        },
+        {
+         "ur": "پنجاب — لاہور",
+         "en": "Punjab — Lahore"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "یہ بلوچستان ہے، رقبے کے لحاظ سے سب سے بڑا صوبہ۔ اس کا دارالحکومت کوئٹہ ہے۔",
+        "en": "This is Balochistan, the largest province by area. Its capital is Quetta."
+       },
+       "img": [
+        0.405,
+        0.312,
+        0.795,
+        0.583
+       ]
+      },
+      {
+       "q": {
+        "ur": "یہ ٹکڑا کس صوبے کا ہے اور اس کا دارالحکومت کون سا ہے؟",
+        "en": "Which province is this piece, and what is its capital?"
+       },
+       "options": [
+        {
+         "ur": "خیبر پختون خوا — پشاور",
+         "en": "Khyber Pakhtunkhwa — Peshawar"
+        },
+        {
+         "ur": "سندھ — کراچی",
+         "en": "Sindh — Karachi"
+        },
+        {
+         "ur": "گلگت بلتستان — گلگت",
+         "en": "Gilgit-Baltistan — Gilgit"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "یہ خیبر پختون خوا ہے۔ اس کا دارالحکومت پشاور ہے۔",
+        "en": "This is Khyber Pakhtunkhwa. Its capital is Peshawar."
+       },
+       "img": [
+        0.215,
+        0.392,
+        0.395,
+        0.588
+       ]
+      },
+      {
+       "q": {
+        "ur": "یہ ٹکڑا کس صوبے کا ہے اور اس کا دارالحکومت کون سا ہے؟",
+        "en": "Which province is this piece, and what is its capital?"
+       },
+       "options": [
+        {
+         "ur": "بلوچستان — کوئٹہ",
+         "en": "Balochistan — Quetta"
+        },
+        {
+         "ur": "پنجاب — لاہور",
+         "en": "Punjab — Lahore"
+        },
+        {
+         "ur": "سندھ — کراچی",
+         "en": "Sindh — Karachi"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "یہ صوبہ سندھ ہے۔ اس کا دارالحکومت کراچی ہے۔",
+        "en": "This is Sindh. Its capital is Karachi."
+       },
+       "img": [
+        0.365,
+        0.1,
+        0.54,
+        0.275
+       ]
+      },
+      {
+       "q": {
+        "ur": "یہ چھوٹا پتلا ٹکڑا کس علاقے کا ہے اور اس کا دارالحکومت کون سا ہے؟",
+        "en": "Which area is this small thin piece, and what is its capital?"
+       },
+       "options": [
+        {
+         "ur": "گلگت بلتستان — گلگت",
+         "en": "Gilgit-Baltistan — Gilgit"
+        },
+        {
+         "ur": "آزاد جموں و کشمیر — مظفر آباد",
+         "en": "Azad Jammu and Kashmir — Muzaffarabad"
+        },
+        {
+         "ur": "پنجاب — لاہور",
+         "en": "Punjab — Lahore"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "یہ آزاد جموں و کشمیر ہے۔ اس کا دارالحکومت مظفر آباد ہے۔",
+        "en": "This is Azad Jammu and Kashmir. Its capital is Muzaffarabad."
+       },
+       "img": [
+        0.23,
+        0.115,
+        0.31,
+        0.225
+       ]
+      },
+      {
+       "q": {
+        "ur": "آبادی کے لحاظ سے سب سے بڑے صوبے کا ٹکڑا کون سا ہے؟",
+        "en": "Which piece is the province with the largest population?"
+       },
+       "options": [
+        {
+         "ur": "نیلا ٹکڑا",
+         "en": "Blue piece",
+         "img": [
+          0.53,
+          0.085,
+          0.775,
+          0.348
+         ]
+        },
+        {
+         "ur": "نارنجی ٹکڑا",
+         "en": "Orange piece",
+         "img": [
+          0.405,
+          0.312,
+          0.795,
+          0.583
+         ]
+        },
+        {
+         "ur": "سبز ٹکڑا",
+         "en": "Green piece",
+         "img": [
+          0.175,
+          0.232,
+          0.415,
+          0.393
+         ]
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "نیلا ٹکڑا پنجاب ہے۔ آبادی کے لحاظ سے پنجاب سب سے بڑا صوبہ ہے۔",
+        "en": "The blue piece is Punjab. Punjab is the largest province by population."
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "h",
+   "ur": "مشق",
+   "en": "Exercise"
+  },
+  {
+   "t": "activity",
+   "id": "p013-a2",
+   "label": {
+    "ur": "سوال نمبر 1",
+    "en": "Question 1"
+   },
+   "orig": {
+    "ur": "نیچے دیے گئے سوالات میں سے درست جواب کے سامنے ✓ کا نشان لگائیں۔ 1۔ پاکستان کب وجود میں آیا؟ (i) 23 مارچ 1940ء (ii) 14 اگست 1947ء (iii) 11 ستمبر 1948ء",
+    "en": "Tick (✓) the correct answer to each question below. 1. When did Pakistan come into being? (i) 23 March 1940 (ii) 14 August 1947 (iii) 11 September 1948"
+   },
+   "prompt": {
+    "ur": "سوال پڑھیں یا سنیں، پھر درست جواب کو چھوئیں۔",
+    "en": "Read or listen to the question, then touch the correct answer."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "پاکستان کب وجود میں آیا؟",
+        "en": "When did Pakistan come into being?"
+       },
+       "options": [
+        {
+         "ur": "14 اگست 1947ء",
+         "en": "14 August 1947"
+        },
+        {
+         "ur": "23 مارچ 1940ء",
+         "en": "23 March 1940"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "پاکستان 14 اگست 1947ء کو وجود میں آیا۔ ہم ہر سال 14 اگست کو یومِ آزادی مناتے ہیں۔",
+        "en": "Pakistan came into being on 14 August 1947. Every year we celebrate Independence Day on 14 August."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "پاکستان کب وجود میں آیا؟",
+        "en": "When did Pakistan come into being?"
+       },
+       "options": [
+        {
+         "ur": "23 مارچ 1940ء",
+         "en": "23 March 1940"
+        },
+        {
+         "ur": "14 اگست 1947ء",
+         "en": "14 August 1947"
+        },
+        {
+         "ur": "11 ستمبر 1948ء",
+         "en": "11 September 1948"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "پاکستان 14 اگست 1947ء کو وجود میں آیا۔ ہم ہر سال 14 اگست کو یومِ آزادی مناتے ہیں۔",
+        "en": "Pakistan came into being on 14 August 1947. Every year we celebrate Independence Day on 14 August."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "پاکستان کب وجود میں آیا؟",
+        "en": "When did Pakistan come into being?"
+       },
+       "options": [
+        {
+         "ur": "23 مارچ 1940ء",
+         "en": "23 March 1940"
+        },
+        {
+         "ur": "14 اگست 1947ء",
+         "en": "14 August 1947"
+        },
+        {
+         "ur": "11 ستمبر 1948ء",
+         "en": "11 September 1948"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "پاکستان 14 اگست 1947ء کو وجود میں آیا۔ ہم ہر سال 14 اگست کو یومِ آزادی مناتے ہیں۔",
+        "en": "Pakistan came into being on 14 August 1947. Every year we celebrate Independence Day on 14 August."
+       }
+      },
+      {
+       "q": {
+        "ur": "پاکستان کس برِاعظم میں واقع ہے؟",
+        "en": "On which continent is Pakistan?"
+       },
+       "options": [
+        {
+         "ur": "ایشیا",
+         "en": "Asia"
+        },
+        {
+         "ur": "افریقہ",
+         "en": "Africa"
+        },
+        {
+         "ur": "یورپ",
+         "en": "Europe"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "پاکستان برِاعظم ایشیا میں واقع ہے۔",
+        "en": "Pakistan is on the continent of Asia."
+       }
+      },
+      {
+       "q": {
+        "ur": "دنیا میں کتنے برِاعظم ہیں؟",
+        "en": "How many continents are there in the world?"
+       },
+       "options": [
+        {
+         "ur": "چار",
+         "en": "Four"
+        },
+        {
+         "ur": "پانچ",
+         "en": "Five"
+        },
+        {
+         "ur": "سات",
+         "en": "Seven"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "دنیا میں سات برِاعظم ہیں۔ زمین کے بڑے خشک ٹکڑے کو برِاعظم کہتے ہیں۔",
+        "en": "There are seven continents in the world. A large piece of dry land is called a continent."
+       }
+      },
+      {
+       "q": {
+        "ur": "آزاد جموں و کشمیر کا دارالحکومت کون سا ہے؟",
+        "en": "What is the capital of Azad Jammu and Kashmir?"
+       },
+       "options": [
+        {
+         "ur": "گلگت",
+         "en": "Gilgit"
+        },
+        {
+         "ur": "کوئٹہ",
+         "en": "Quetta"
+        },
+        {
+         "ur": "مظفر آباد",
+         "en": "Muzaffarabad"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "آزاد جموں و کشمیر کا دارالحکومت مظفر آباد ہے۔",
+        "en": "The capital of Azad Jammu and Kashmir is Muzaffarabad."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "ٹکڑوں کو پہچاننے کا طریقہ: سب سے بڑا ٹکڑا بلوچستان ہے، سب سے چھوٹا اور پتلا آزاد جموں و کشمیر۔ باقی کے لیے صفحہ 2 کے نقشے سے شکلیں ملائیں۔ تاریخ یاد رکھیں: 14 اگست = یومِ آزادی۔",
+   "en": "Here is a way to recognise the pieces: the biggest piece is Balochistan, and the smallest and thinnest is Azad Jammu and Kashmir. For the rest, compare the shapes with the map on page 2. Remember the date: 14 August is Independence Day."
+  },
+  {
+   "for": "vision",
+   "ur": "ٹکڑوں کے رنگ اور شکل کی وضاحت سنیں۔ گتے سے کٹے ہوئے ٹکڑوں کو ہاتھ میں لے کر ان کے کنارے محسوس کریں اور بڑے سے چھوٹے کی ترتیب میں رکھیں۔",
+   "en": "Listen to the description of the colours and shapes of the pieces. Hold pieces cut out of card, feel their edges and put them in order from biggest to smallest."
+  },
+  {
+   "for": "motor",
+   "ur": "✓ کا نشان لگانے کے بجائے آپ درست جواب کو چھو سکتے ہیں، اس کی طرف اشارہ کر سکتے ہیں یا اس کا نمبر (ایک، دو، تین) بول سکتے ہیں۔",
+   "en": "Instead of drawing a tick (✓), you can touch the correct answer, point to it, or say its number (one, two or three)."
+  },
+  {
+   "for": "teacher",
+   "ur": "سوال اور تینوں جواب اونچی آواز میں پڑھیں اور بچوں کو سوچنے کا وقت دیں۔ بچے انگلیاں دکھا کر (1، 2 یا 3) بھی جواب دے سکتے ہیں۔ غلط جواب پر صفحہ 2 کا پہلا پیراگراف دوبارہ مل کر پڑھیں۔",
+   "en": "Read the question and all three answers aloud and give the children time to think. Children can also answer by holding up fingers (1, 2 or 3). After a wrong answer, read the first paragraph on page 2 together again."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "پاکستان کے چار صوبے",
+   "en": "The four provinces of Pakistan"
+  },
+  "image": {
+   "crop": [
+    0.17,
+    0.08,
+    0.8,
+    0.59
+   ],
+   "alt": {
+    "ur": "پاکستان کے نقشے کے چھ رنگین ٹکڑے۔",
+    "en": "Six coloured pieces of the map of Pakistan."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Pakistan is our homeland.",
+    "words": [
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "ہمارا",
+      "sym": "our"
+     },
+     {
+      "ur": "وطن",
+      "sym": "country"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Pakistan",
+      "sym": "Pakistan"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "our",
+      "sym": "our"
+     },
+     {
+      "en": "homeland.",
+      "sym": "country"
+     }
+    ]
+   },
+   {
+    "en": "Pakistan has four provinces.",
+    "words": [
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "کے",
+      "sym": null
+     },
+     {
+      "ur": "چار",
+      "sym": "four"
+     },
+     {
+      "ur": "صوبے",
+      "sym": "region"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Pakistan",
+      "sym": "Pakistan"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "four",
+      "sym": "four"
+     },
+     {
+      "en": "provinces.",
+      "sym": "region"
+     }
+    ]
+   },
+   {
+    "en": "Punjab and Sindh are provinces.",
+    "words": [
+     {
+      "ur": "پنجاب",
+      "img": [
+       0.53,
+       0.085,
+       0.775,
+       0.348
+      ]
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "سندھ",
+      "img": [
+       0.365,
+       0.1,
+       0.54,
+       0.275
+      ]
+     },
+     {
+      "ur": "صوبے",
+      "sym": "region"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Punjab",
+      "img": [
+       0.53,
+       0.085,
+       0.775,
+       0.348
+      ]
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "Sindh",
+      "img": [
+       0.365,
+       0.1,
+       0.54,
+       0.275
+      ]
+     },
+     {
+      "en": "are",
+      "sym": null
+     },
+     {
+      "en": "provinces.",
+      "sym": "region"
+     }
+    ]
+   },
+   {
+    "en": "Balochistan and Khyber Pakhtunkhwa are provinces.",
+    "words": [
+     {
+      "ur": "بلوچستان",
+      "img": [
+       0.405,
+       0.312,
+       0.795,
+       0.583
+      ]
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "خیبر پختون خوا",
+      "img": [
+       0.215,
+       0.392,
+       0.395,
+       0.588
+      ]
+     },
+     {
+      "ur": "صوبے",
+      "sym": "region"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Balochistan",
+      "img": [
+       0.405,
+       0.312,
+       0.795,
+       0.583
+      ]
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "Khyber Pakhtunkhwa",
+      "img": [
+       0.215,
+       0.392,
+       0.395,
+       0.588
+      ]
+     },
+     {
+      "en": "are",
+      "sym": null
+     },
+     {
+      "en": "provinces.",
+      "sym": "region"
+     }
+    ]
+   },
+   {
+    "en": "The pieces join to make the map.",
+    "words": [
+     {
+      "ur": "ٹکڑے",
+      "sym": "puzzle"
+     },
+     {
+      "ur": "مل کر",
+      "sym": "together"
+     },
+     {
+      "ur": "نقشہ",
+      "sym": "map"
+     },
+     {
+      "ur": "بناتے ہیں۔",
+      "sym": "to make"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "pieces",
+      "sym": "puzzle"
+     },
+     {
+      "en": "join",
+      "sym": "together"
+     },
+     {
+      "en": "to make",
+      "sym": "to make"
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "map.",
+      "sym": "map"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "پاکستان کے کتنے صوبے ہیں؟",
+       "en": "How many provinces does Pakistan have?"
+      },
+      "options": [
+       {
+        "ur": "چار",
+        "en": "Four",
+        "sym": "four"
+       },
+       {
+        "ur": "دو",
+        "en": "Two",
+        "sym": "two"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "پاکستان کے چار صوبے ہیں۔",
+       "en": "Pakistan has four provinces."
+      }
+     },
+     {
+      "q": {
+       "ur": "سب سے بڑا ٹکڑا کون سا ہے؟ (یہ بلوچستان ہے)",
+       "en": "Which is the biggest piece? It is Balochistan."
+      },
+      "options": [
+       {
+        "ur": "چھوٹا پتلا گہرا گلابی ٹکڑا",
+        "en": "Small, thin, dark pink piece",
+        "img": [
+         0.23,
+         0.115,
+         0.31,
+         0.225
+        ]
+       },
+       {
+        "ur": "نارنجی ٹکڑا",
+        "en": "Orange piece",
+        "img": [
+         0.405,
+         0.312,
+         0.795,
+         0.583
+        ]
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "نارنجی ٹکڑا سب سے بڑا ہے۔ یہ بلوچستان ہے۔",
+       "en": "The orange piece is the biggest. It is Balochistan."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

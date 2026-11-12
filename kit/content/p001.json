@@ -1,0 +1,115 @@
+{
+ "n": 1,
+ "printed": "",
+ "chapter": 0,
+ "kind": "cover",
+ "title": {
+  "ur": "سرورق: واقفیتِ عامہ",
+  "en": "Cover: General Knowledge"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "واقفیتِ عامہ",
+   "en": "General Knowledge"
+  },
+  {
+   "t": "p",
+   "ur": "جماعت دوم",
+   "en": "Class Two"
+  },
+  {
+   "t": "p",
+   "ur": "2",
+   "en": "2"
+  },
+  {
+   "t": "p",
+   "ur": "یکساں قومی نصاب 2020ء کے مطابق",
+   "en": "According to the Single National Curriculum 2020"
+  },
+  {
+   "t": "p",
+   "ur": "ایک قوم، ایک نصاب",
+   "en": "One nation, one curriculum"
+  },
+  {
+   "t": "img",
+   "crop": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "alt": {
+    "ur": "کتاب کا سرورق: ایک آدمی ایک بچی کو پھلوں کا تھیلا دے رہا ہے، ایک لڑکا اور ایک عورت مل کر جھونپڑی کی چھت ٹھیک کر رہے ہیں، اور تین گول تصویروں میں بچے اچھے کام کر رہے ہیں۔",
+    "en": "The book cover: a man hands a bag of fruit to a girl, a boy and a woman repair a hut's roof together, and three round pictures show children doing good deeds."
+   }
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.375,
+      0.305,
+      0.672,
+      0.552
+     ],
+     "alt": {
+      "ur": "دو بچیاں مل کر زمین میں پودا لگا رہی ہیں۔",
+      "en": "Two girls are planting a young plant together."
+     }
+    },
+    {
+     "crop": [
+      0.075,
+      0.34,
+      0.345,
+      0.583
+     ],
+     "alt": {
+      "ur": "ایک لڑکا گر کر زخمی ہونے والے روتے ہوئے دوست کی مدد کر رہا ہے۔",
+      "en": "A boy helps a crying friend who has fallen and hurt himself."
+     }
+    },
+    {
+     "crop": [
+      0.02,
+      0.545,
+      0.245,
+      0.8
+     ],
+     "alt": {
+      "ur": "ایک لڑکا اور لڑکی ٹریفک کے اشارے پر زیبرا کراسنگ سے سڑک پار کر رہے ہیں۔",
+      "en": "A boy and a girl cross the road at a zebra crossing by the traffic light."
+     }
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "ur": "پنجاب کریکولم اینڈ ٹیکسٹ بک بورڈ، لاہور",
+   "en": "Punjab Curriculum and Textbook Board, Lahore"
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "سرورق کی تصویروں کو دیکھیں۔ ہر تصویر میں کوئی اچھا کام ہو رہا ہے: پودا لگانا، مدد کرنا، سڑک احتیاط سے پار کرنا۔ یہ سب باتیں ہم اس کتاب میں سیکھیں گے۔",
+   "en": "Look at the cover pictures. Each one shows a good deed: planting a tree, helping, crossing the road safely. We will learn about all of these in this book."
+  },
+  {
+   "for": "vision",
+   "ur": "تصویر پر رک کر اس کی وضاحت سنیں۔ کسی ساتھی سے کہیں کہ وہ بتائے کہ کون سی تصویر کہاں ہے۔",
+   "en": "Pause on each picture and listen to its description. Ask a buddy to tell you where each picture is."
+  },
+  {
+   "for": "teacher",
+   "ur": "بچوں سے پوچھیں: ’’آپ نے آج کون سا اچھا کام کیا؟‘‘ بچہ بول کر، اشارے سے یا تصویر کی طرف انگلی کر کے جواب دے سکتا ہے۔",
+   "en": "Ask the children: 'What good deed did you do today?' A child may answer by speaking, signing or pointing to a picture."
+  }
+ ],
+ "easy": null,
+ "print": false
+}

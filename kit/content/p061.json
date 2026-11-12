@@ -1,0 +1,581 @@
+{
+ "n": 61,
+ "printed": "57",
+ "chapter": 9,
+ "kind": "content",
+ "title": {
+  "ur": "کپاس سے کپڑا اور گنّا",
+  "en": "Cloth from cotton, and sugarcane"
+ },
+ "blocks": [
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.515,
+      0.124,
+      0.811,
+      0.308
+     ],
+     "alt": {
+      "ur": "فیکٹری کی ایک لمبی مشین جس پر سفید دھاگے کی بہت سی ریلیں لگی ہیں۔",
+      "en": "A long factory machine with many reels of white thread on it."
+     },
+     "cap": {
+      "ur": "روئی سے دھاگا بنتا ہے۔",
+      "en": "Thread is made from cotton wool."
+     }
+    },
+    {
+     "crop": [
+      0.15,
+      0.124,
+      0.495,
+      0.308
+     ],
+     "alt": {
+      "ur": "کھڈی پر لال اور سفید دھاگوں سے کپڑا بُنا جا رہا ہے۔",
+      "en": "Cloth is being woven on a loom from red and white threads."
+     },
+     "cap": {
+      "ur": "دھاگے سے فیکٹری میں کپڑا بنتا ہے۔",
+      "en": "Cloth is made from thread in a factory."
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p061-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "مختلف فصلوں کے بیج کلاس روم میں لائیں اور اپنے ہم جماعتوں کو بتائیں کہ وہ بیج کس فصل کے ہیں؟",
+    "en": "Bring seeds of different crops to the classroom and tell your classmates which crop those seeds are from."
+   },
+   "prompt": {
+    "ur": "فصلوں کے بیج لائیں، دکھائیں اور ان کے نام بتائیں۔",
+    "en": "Bring crop seeds, show them and say their names."
+   },
+   "levels": {
+    "easy": {
+     "kind": "open",
+     "mode": "do",
+     "steps": [
+      {
+       "ur": "کسی بڑے کی مدد سے گھر سے ایک فصل کے چند دانے لائیں، جیسے گندم یا چاول۔",
+       "en": "With a grown-up's help, bring a few grains of one crop from home, such as wheat or rice."
+      },
+      {
+       "ur": "دانے اپنے ساتھی کو دکھائیں اور چھونے دیں۔",
+       "en": "Show the grains to your partner and let them touch the grains."
+      },
+      {
+       "ur": "فصل کا نام بتائیں۔",
+       "en": "Say the name of the crop."
+      }
+     ],
+     "model": {
+      "ur": "یہ گندم کے دانے ہیں۔",
+      "en": "These are wheat grains."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دانے دکھائے۔",
+       "en": "I showed the grains."
+      },
+      {
+       "ur": "میں نے فصل کا نام بتایا۔",
+       "en": "I said the crop's name."
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "do",
+     "steps": [
+      {
+       "ur": "گھر سے دو یا تین فصلوں کے بیج لائیں، جیسے گندم، چاول، مکئی یا کوئی دال۔",
+       "en": "Bring seeds of two or three crops from home, such as wheat, rice, maize or a pulse."
+      },
+      {
+       "ur": "ہر بیج کو الگ کاغذ یا ڈھکن میں رکھیں۔",
+       "en": "Put each seed on a separate paper or in a bottle cap."
+      },
+      {
+       "ur": "اپنے ہم جماعتوں کو دکھائیں اور بتائیں کہ یہ بیج کس فصل کے ہیں۔",
+       "en": "Show them to your classmates and tell them which crop each seed comes from."
+      },
+      {
+       "ur": "دوسروں کے بیج دیکھیں اور پہچاننے کی کوشش کریں۔",
+       "en": "Look at other children's seeds and try to recognise them."
+      }
+     ],
+     "model": {
+      "ur": "یہ گندم کے بیج ہیں، یہ چاول کے اور یہ مکئی کے۔",
+      "en": "These are wheat seeds, these are rice seeds and these are maize seeds."
+     },
+     "checklist": [
+      {
+       "ur": "میں بیج لایا / لائی۔",
+       "en": "I brought seeds."
+      },
+      {
+       "ur": "میں نے ہر بیج کی فصل کا نام بتایا۔",
+       "en": "I named the crop of each seed."
+      },
+      {
+       "ur": "میں نے دوسروں کے بیج دیکھے۔",
+       "en": "I looked at other children's seeds."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "do",
+     "steps": [
+      {
+       "ur": "چار فصلوں کے بیج ایک چارٹ پر گوند سے چپکائیں۔",
+       "en": "Glue the seeds of four crops onto a chart."
+      },
+      {
+       "ur": "ہر بیج کے نیچے فصل کا نام لکھیں۔",
+       "en": "Write the crop's name under each seed."
+      },
+      {
+       "ur": "ہر فصل سے بننے والی ایک چیز بھی لکھیں۔",
+       "en": "Also write one thing made from each crop."
+      }
+     ],
+     "model": {
+      "ur": "گندم — آٹا اور روٹی۔ مکئی — مکئی کی روٹی اور پاپ کارن۔ چاول — پلاؤ اور کھیر۔ کپاس کا بیج (بنولا) — روئی اور کپڑا۔",
+      "en": "Wheat: flour and roti. Maize: maize roti and popcorn. Rice: pulao and rice pudding. Cotton seed: cotton wool and cloth."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے چار بیج چپکائے۔",
+       "en": "I glued four seeds."
+      },
+      {
+       "ur": "میں نے نام اور ایک ایک چیز لکھی۔",
+       "en": "I wrote each name and one thing made from each crop."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p061-a2",
+   "label": {
+    "ur": "ذرا سوچیے!",
+    "en": "Think about it!"
+   },
+   "orig": {
+    "ur": "سورج مکھی کی فصل سے کیا بنایا جاتا ہے؟",
+    "en": "What is made from the sunflower crop?"
+   },
+   "prompt": {
+    "ur": "سوچیں اور صحیح جواب چنیں۔",
+    "en": "Think and choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "سورج مکھی کی فصل سے کیا بنایا جاتا ہے؟",
+       "en": "What is made from the sunflower crop?"
+      },
+      "options": [
+       {
+        "ur": "چینی",
+        "en": "Sugar"
+       },
+       {
+        "ur": "کھانا پکانے کا تیل",
+        "en": "Cooking oil"
+       },
+       {
+        "ur": "کپڑا",
+        "en": "Cloth"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "سورج مکھی کے بیجوں سے کھانا پکانے کا تیل نکالا جاتا ہے۔",
+       "en": "Cooking oil is pressed from sunflower seeds."
+      }
+     }
+    ]
+   }
+  },
+  {
+   "ur": "گنّا",
+   "en": "Sugarcane",
+   "t": "h"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.49,
+      0.546,
+      0.814,
+      0.732
+     ],
+     "alt": {
+      "ur": "کسان کھیت میں لمبے لمبے گنّوں کے گٹھے باندھ کر کھڑے کر رہے ہیں۔",
+      "en": "Farmers in a field are tying tall sugarcane stalks into bundles and standing them up."
+     },
+     "cap": {
+      "ur": "کسان گنّا اُگاتا ہے۔",
+      "en": "The farmer grows sugarcane."
+     }
+    },
+    {
+     "crop": [
+      0.157,
+      0.546,
+      0.481,
+      0.732
+     ],
+     "alt": {
+      "ur": "گنّے کے ہرے رس سے بھرا شیشے کا گلاس، ساتھ گنّے کے ٹکڑے رکھے ہیں۔",
+      "en": "A glass mug is full of green sugarcane juice, with pieces of sugarcane beside it."
+     },
+     "cap": {
+      "ur": "گنّے سے رس نکالا جاتا ہے۔",
+      "en": "Juice is squeezed out of sugarcane."
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p061-a3",
+   "label": {
+    "ur": "ذرا سوچیے!",
+    "en": "Think about it!"
+   },
+   "orig": {
+    "ur": "ہمارے گھروں میں استعمال ہونے والی دالیں کہاں سے حاصل ہوتی ہیں؟",
+    "en": "Where do the pulses used in our homes come from?"
+   },
+   "prompt": {
+    "ur": "سوچیں اور صحیح جواب چنیں۔",
+    "en": "Think and choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "ہمارے گھروں میں استعمال ہونے والی دالیں کہاں سے حاصل ہوتی ہیں؟",
+       "en": "Where do the pulses used in our homes come from?"
+      },
+      "options": [
+       {
+        "ur": "کھیتوں میں اُگنے والی فصلوں سے",
+        "en": "From crops grown in fields"
+       },
+       {
+        "ur": "مویشیوں سے",
+        "en": "From livestock"
+       },
+       {
+        "ur": "سمندر سے",
+        "en": "From the sea"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "دالیں بھی فصلیں ہیں، جیسے چنا، مونگ اور مسور۔ کسان انھیں کھیتوں میں اُگاتا ہے۔",
+       "en": "Pulses are crops too, such as chickpeas, mung beans and lentils. The farmer grows them in fields."
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "کپاس کا سفر یاد رکھیں: کپاس ← روئی ← دھاگا ← کپڑا۔ اپنی قمیص کو چھوئیں: یہ بھی دھاگوں سے بنی ہے۔",
+   "en": "Remember cotton's journey: cotton, then cotton wool, then thread, then cloth. Touch your shirt: it is made of threads too."
+  },
+  {
+   "for": "vision",
+   "ur": "روئی کا گولا، دھاگے کی ریل اور کپڑے کا ٹکڑا باری باری چھوئیں۔ بیجوں کو شکل اور سائز سے پہچانیں: گندم لمبی، مکئی بڑی اور چپٹی، چاول پتلا۔",
+   "en": "Touch a ball of cotton wool, a reel of thread and a piece of cloth in turn. Recognise seeds by shape and size: wheat is long, maize is big and flat, rice is thin."
+  },
+  {
+   "for": "motor",
+   "ur": "چھوٹے بیج اٹھانا مشکل ہو تو انھیں پیالوں یا ڈھکنوں میں رکھیں اور صرف اشارہ کر کے نام بتائیں۔",
+   "en": "If picking up small seeds is hard, keep them in bowls or bottle caps, then just point and say the names."
+  },
+  {
+   "for": "teacher",
+   "ur": "بیج چھوٹے ہوتے ہیں؛ خیال رکھیں کہ کوئی بچہ انھیں منہ، ناک یا کان میں نہ ڈالے۔ جو بچے بیج نہ لا سکیں ان کے ساتھ اپنے بیج بانٹیں تاکہ سب شامل ہوں۔",
+   "en": "Seeds are small; make sure no child puts them in the mouth, nose or ear. Share your own seeds with children who could not bring any so that everyone is included."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "کپاس اور گنّا",
+   "en": "Cotton and sugarcane"
+  },
+  "image": {
+   "crop": [
+    0.157,
+    0.546,
+    0.481,
+    0.732
+   ],
+   "alt": {
+    "ur": "گنّے کے رس کا گلاس۔",
+    "en": "This is a glass of sugarcane juice."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Thread is made from cotton wool.",
+    "words": [
+     {
+      "ur": "روئی",
+      "sym": "cotton"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "دھاگا",
+      "sym": "thread"
+     },
+     {
+      "ur": "بنتا",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Thread",
+      "sym": "thread"
+     },
+     {
+      "en": "is made",
+      "sym": "to make"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "cotton wool.",
+      "sym": "cotton"
+     }
+    ]
+   },
+   {
+    "en": "Cloth is made from thread.",
+    "words": [
+     {
+      "ur": "دھاگے",
+      "sym": "thread"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "کپڑا",
+      "sym": "cloth"
+     },
+     {
+      "ur": "بنتا",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Cloth",
+      "sym": "cloth"
+     },
+     {
+      "en": "is made",
+      "sym": "to make"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "thread.",
+      "sym": "thread"
+     }
+    ]
+   },
+   {
+    "en": "The farmer grows sugarcane.",
+    "words": [
+     {
+      "ur": "کسان",
+      "sym": "farmer"
+     },
+     {
+      "ur": "گنّا",
+      "sym": "sugar cane"
+     },
+     {
+      "ur": "اُگاتا",
+      "sym": "to grow"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "farmer",
+      "sym": "farmer"
+     },
+     {
+      "en": "grows",
+      "sym": "to grow"
+     },
+     {
+      "en": "sugarcane.",
+      "sym": "sugar cane"
+     }
+    ]
+   },
+   {
+    "en": "Juice comes from sugarcane.",
+    "words": [
+     {
+      "ur": "گنّے",
+      "sym": "sugar cane"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "رس",
+      "sym": "juice"
+     },
+     {
+      "ur": "نکلتا",
+      "sym": null
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Juice",
+      "sym": "juice"
+     },
+     {
+      "en": "comes from",
+      "sym": null
+     },
+     {
+      "en": "sugarcane.",
+      "sym": "sugar cane"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "کپڑا کس سے بنتا ہے؟",
+       "en": "What is cloth made from?"
+      },
+      "img": [
+       0.15,
+       0.124,
+       0.495,
+       0.308
+      ],
+      "options": [
+       {
+        "ur": "دھاگا",
+        "en": "Thread",
+        "sym": "thread"
+       },
+       {
+        "ur": "دودھ",
+        "en": "Milk",
+        "sym": "milk"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "کپڑا دھاگے سے بنتا ہے۔",
+       "en": "Cloth is made from thread."
+      }
+     },
+     {
+      "q": {
+       "ur": "گنّے سے کیا نکلتا ہے؟",
+       "en": "What comes out of sugarcane?"
+      },
+      "img": [
+       0.157,
+       0.546,
+       0.481,
+       0.732
+      ],
+      "options": [
+       {
+        "ur": "آٹا",
+        "en": "Flour",
+        "sym": "flour"
+       },
+       {
+        "ur": "رس",
+        "en": "Juice",
+        "sym": "juice"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "گنّے سے میٹھا رس نکلتا ہے۔",
+       "en": "Sweet juice comes out of sugarcane."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

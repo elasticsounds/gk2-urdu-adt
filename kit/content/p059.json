@@ -1,0 +1,304 @@
+{
+ "n": 59,
+ "printed": "55",
+ "chapter": 9,
+ "kind": "opener",
+ "title": {
+  "ur": "زراعت اور مویشی",
+  "en": "Agriculture and livestock"
+ },
+ "blocks": [
+  {
+   "ur": "09 زراعت اور مویشی",
+   "en": "Chapter 9: Agriculture and livestock",
+   "t": "h"
+  },
+  {
+   "ur": "حاصلاتِ تعلّم",
+   "en": "Learning outcomes",
+   "t": "h"
+  },
+  {
+   "ur": "اس باب کے اختتام پر آپ اس قابل ہو جائیں گے کہ:",
+   "en": "By the end of this chapter you will be able to:",
+   "t": "p"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "پاکستان میں اُگنے والی اہم فصلوں کے نام بتا سکیں۔",
+     "en": "Name the important crops grown in Pakistan."
+    },
+    {
+     "ur": "پہچان سکیں کہ لوگ ان فصلوں سے مصنوعات بناتے ہیں۔",
+     "en": "Recognise that people make products from these crops."
+    },
+    {
+     "ur": "مویشی پالنے کی اہمیت جان سکیں۔",
+     "en": "Understand why keeping livestock is important."
+    }
+   ]
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.02,
+    0.33,
+    0.38,
+    0.89
+   ],
+   "alt": {
+    "ur": "بھورے اور سفید رنگ کی ایک گائے جس کے لمبے سینگ ہیں، ہری گھاس کے میدان میں کھڑی ہے۔",
+    "en": "A brown and white cow with long horns standing in a field of green grass."
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "اس باب میں دو باتیں سیکھیں گے: کھیتوں میں اُگنے والی فصلیں اور گھروں میں پالے جانے والے مویشی۔ سوچیں: آج آپ نے جو روٹی کھائی اور دودھ پیا وہ کہاں سے آیا؟",
+   "en": "In this chapter you will learn about two things: crops that grow in fields and livestock that people keep at home. Think: where did the roti you ate and the milk you drank today come from?"
+  },
+  {
+   "for": "cognitive",
+   "ur": "دو نئے لفظ: فصل = کھیت میں اُگنے والے پودے جیسے گندم۔ مویشی = گائے، بھینس، بکری جیسے پالتو جانور۔",
+   "en": "Here are two new words. Crops are plants that grow in fields, like wheat. Livestock are animals that people keep, like cows, buffaloes and goats."
+  },
+  {
+   "for": "teacher",
+   "ur": "سبق شروع کرنے سے پہلے اصلی چیزیں دکھائیں: گندم کے دانے، روئی، گڑ، دودھ کا ڈبا۔ بچے انھیں چھوئیں، سونگھیں اور نام بتائیں۔ یہ نابینا اور سست رفتار سیکھنے والے بچوں کے لیے خاص طور پر مفید ہے۔",
+   "en": "Before you start the lesson, show real things: grains of wheat, cotton wool, jaggery, a carton of milk. Let the children touch them, smell them and name them. This is especially helpful for children who are blind and children who learn slowly."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "زراعت اور مویشی",
+   "en": "Farming and livestock"
+  },
+  "image": {
+   "crop": [
+    0.02,
+    0.33,
+    0.38,
+    0.89
+   ],
+   "alt": {
+    "ur": "ایک گائے گھاس کے میدان میں کھڑی ہے۔",
+    "en": "A cow standing in a grassy field."
+   }
+  },
+  "sentences": [
+   {
+    "en": "The farmer grows crops.",
+    "words": [
+     {
+      "ur": "کسان",
+      "sym": "farmer"
+     },
+     {
+      "ur": "فصلیں",
+      "sym": "crop"
+     },
+     {
+      "ur": "اُگاتا",
+      "sym": "to grow"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The farmer",
+      "sym": "farmer"
+     },
+     {
+      "en": "grows",
+      "sym": "to grow"
+     },
+     {
+      "en": "crops.",
+      "sym": "crop"
+     }
+    ]
+   },
+   {
+    "en": "We get food from crops.",
+    "words": [
+     {
+      "ur": "فصلوں",
+      "sym": "crop"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "کھانا",
+      "sym": "food"
+     },
+     {
+      "ur": "ملتا",
+      "sym": "to get"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "get",
+      "sym": "to get"
+     },
+     {
+      "en": "food",
+      "sym": "food"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "crops.",
+      "sym": "crop"
+     }
+    ]
+   },
+   {
+    "en": "The farmer keeps cows.",
+    "words": [
+     {
+      "ur": "کسان",
+      "sym": "farmer"
+     },
+     {
+      "ur": "گائے",
+      "sym": "cow"
+     },
+     {
+      "ur": "پالتا",
+      "sym": "to take care"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The farmer",
+      "sym": "farmer"
+     },
+     {
+      "en": "keeps",
+      "sym": "to take care"
+     },
+     {
+      "en": "cows.",
+      "sym": "cow"
+     }
+    ]
+   },
+   {
+    "en": "The cow gives milk.",
+    "words": [
+     {
+      "ur": "گائے",
+      "sym": "cow"
+     },
+     {
+      "ur": "دودھ",
+      "sym": "milk"
+     },
+     {
+      "ur": "دیتی",
+      "sym": "to give"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The cow",
+      "sym": "cow"
+     },
+     {
+      "en": "gives",
+      "sym": "to give"
+     },
+     {
+      "en": "milk.",
+      "sym": "milk"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "دودھ کون دیتا ہے؟",
+       "en": "Which one gives milk?"
+      },
+      "options": [
+       {
+        "ur": "گائے",
+        "en": "A cow",
+        "sym": "cow"
+       },
+       {
+        "ur": "درخت",
+        "en": "A tree",
+        "sym": "tree"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "گائے ہمیں دودھ دیتی ہے۔",
+       "en": "The cow gives us milk."
+      }
+     },
+     {
+      "q": {
+       "ur": "فصلیں کون اُگاتا ہے؟",
+       "en": "Who grows crops?"
+      },
+      "options": [
+       {
+        "ur": "ڈاکٹر",
+        "en": "A doctor",
+        "sym": "doctor"
+       },
+       {
+        "ur": "کسان",
+        "en": "A farmer",
+        "sym": "farmer"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "کسان کھیت میں فصلیں اُگاتا ہے۔",
+       "en": "The farmer grows crops in the field."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": false
+}

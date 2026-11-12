@@ -1,0 +1,675 @@
+{
+ "n": 50,
+ "printed": "46",
+ "chapter": 7,
+ "kind": "content",
+ "title": {
+  "ur": "پودوں کی اہمیت",
+  "en": "The importance of plants"
+ },
+ "blocks": [
+  {
+   "t": "activity",
+   "id": "p050-a1",
+   "label": {
+    "ur": "بتائیں",
+    "en": "Tell us"
+   },
+   "orig": {
+    "ur": "بچو! کیا آپ بتا سکتے ہیں کہ کس پھل میں بیج ہوتا ہے؟ بیج والا پھل: 1 ______ 2 ______ 3 ______",
+    "en": "Children, can you tell us which fruits have seeds? Fruits with seeds: 1 ______ 2 ______ 3 ______"
+   },
+   "prompt": {
+    "ur": "تین ایسے پھلوں کے نام بتائیں جن کے اندر بیج ہوتے ہیں۔",
+    "en": "Name three fruits that have seeds inside."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "سیب کے اندر کیا ہوتا ہے؟",
+        "en": "What is inside an apple?"
+       },
+       "options": [
+        {
+         "ur": "بیج",
+         "en": "Seeds",
+         "sym": "seed"
+        },
+        {
+         "ur": "پتھر",
+         "en": "Stones",
+         "sym": "stone"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "سیب کے بیچ میں چھوٹے چھوٹے بیج ہوتے ہیں۔",
+        "en": "There are small seeds in the middle of an apple."
+       }
+      },
+      {
+       "q": {
+        "ur": "کس پھل میں بہت سے کالے بیج ہوتے ہیں؟",
+        "en": "Which fruit has many black seeds?"
+       },
+       "options": [
+        {
+         "ur": "کیلا",
+         "en": "Banana",
+         "sym": "banana"
+        },
+        {
+         "ur": "تربوز",
+         "en": "Watermelon",
+         "sym": "watermelon"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "تربوز میں بہت سے بیج ہوتے ہیں۔",
+        "en": "A watermelon has many seeds."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "سوچیں: آپ نے کون سے پھل کھائے ہیں جن میں سے بیج یا گٹھلی نکلی؟",
+       "en": "Think: which fruits have you eaten that had seeds or a stone inside?"
+      },
+      {
+       "ur": "ایسے تین پھلوں کے نام لکھیں یا بتائیں۔",
+       "en": "Write or say the names of three such fruits."
+      }
+     ],
+     "model": {
+      "ur": "1۔ سیب 2۔ آم 3۔ تربوز",
+      "en": "1. Apple 2. Mango 3. Watermelon"
+     }
+    },
+    "hard": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "بیج والا پھل",
+       "en": "Fruit with seeds"
+      },
+      {
+       "ur": "بغیر بیج کا پھل",
+       "en": "Fruit without seeds"
+      }
+     ],
+     "items": [
+      {
+       "ur": "سیب",
+       "en": "Apple",
+       "group": 0
+      },
+      {
+       "ur": "کیلا",
+       "en": "Banana",
+       "group": 1
+      },
+      {
+       "ur": "تربوز",
+       "en": "Watermelon",
+       "group": 0
+      },
+      {
+       "ur": "آم",
+       "en": "Mango",
+       "group": 0
+      },
+      {
+       "ur": "انناس",
+       "en": "Pineapple",
+       "group": 1
+      },
+      {
+       "ur": "امرود",
+       "en": "Guava",
+       "group": 0
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "h",
+   "ur": "پودوں کی اہمیت",
+   "en": "The importance of plants"
+  },
+  {
+   "t": "p",
+   "ur": "پودوں کے بہت سے فائدے ہیں۔ گھر اور فرنیچر بنانے کے لیے درختوں کی لکڑی استعمال ہوتی ہیں۔",
+   "en": "Plants are useful in many ways. The wood of trees is used to make houses and furniture."
+  },
+  {
+   "t": "p",
+   "ur": "پودے آب و ہوا کو تبدیل کرنے میں بھی اہم کردار ادا کرتے ہیں۔ یہ ہمارے ماحول کو خوب صورت بناتے ہیں۔ درخت، پرندوں اور جانوروں کو خوراک مہیّا کرتے ہیں۔",
+   "en": "Plants also play an important part in changing the climate. They make our environment beautiful. Trees provide food for birds and animals."
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.513,
+      0.488,
+      0.839,
+      0.721
+     ],
+     "alt": {
+      "ur": "ایک خوب صورت باغ جس میں رنگ برنگے پُھولوں کی کیاریاں، سبز درخت اور لکڑی کی ایک چھتری ہے۔",
+      "en": "A beautiful garden with beds of colourful flowers, green trees and a wooden shelter."
+     }
+    },
+    {
+     "crop": [
+      0.165,
+      0.488,
+      0.504,
+      0.721
+     ],
+     "alt": {
+      "ur": "لکڑی کا نقش و نگار والا فرنیچر: ایک کرسی نما تخت اور دوسری چیزیں۔",
+      "en": "Carved wooden furniture: a long seat like a bench and other pieces."
+     }
+    }
+   ]
+  },
+  {
+   "t": "fact",
+   "ur": "مکئی، گندم اور تربوز بیج سے اُگنے والا پودا ہے جب کہ پودینہ اور ادرک جڑ سے اُگتے ہیں۔ آلو اور گنّا تنے سے اُگتے ہیں۔",
+   "en": "Maize, wheat and watermelon are plants that grow from seeds, but mint and ginger grow from roots. Potatoes and sugarcane grow from stems."
+  },
+  {
+   "t": "activity",
+   "id": "p050-a2",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "مکئی، گندم اور تربوز بیج سے اُگنے والا پودا ہے جب کہ پودینہ اور ادرک جڑ سے اُگتے ہیں۔ آلو اور گنّا تنے سے اُگتے ہیں۔",
+    "en": "Maize, wheat and watermelon are plants that grow from seeds, but mint and ginger grow from roots. Potatoes and sugarcane grow from stems."
+   },
+   "prompt": {
+    "ur": "کون سا پودا کس چیز سے اُگتا ہے؟ ہر پودے کو صحیح خانے میں رکھیں۔",
+    "en": "What does each plant grow from? Put each plant in the right box."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "گندم کس چیز سے اُگتی ہے؟",
+        "en": "What does wheat grow from?"
+       },
+       "options": [
+        {
+         "ur": "بیج سے",
+         "en": "From a seed",
+         "sym": "seed"
+        },
+        {
+         "ur": "تنے سے",
+         "en": "From a stem",
+         "sym": "stem"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "گندم بیج سے اُگتی ہے۔",
+        "en": "Wheat grows from a seed."
+       }
+      },
+      {
+       "q": {
+        "ur": "آلو کس چیز سے اُگتا ہے؟",
+        "en": "What does a potato grow from?"
+       },
+       "options": [
+        {
+         "ur": "بیج سے",
+         "en": "From a seed",
+         "sym": "seed"
+        },
+        {
+         "ur": "تنے سے",
+         "en": "From a stem",
+         "sym": "stem"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "آلو تنے سے اُگتا ہے۔",
+        "en": "A potato grows from a stem."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "بیج سے",
+       "en": "From a seed"
+      },
+      {
+       "ur": "جڑ سے",
+       "en": "From a root"
+      },
+      {
+       "ur": "تنے سے",
+       "en": "From a stem"
+      }
+     ],
+     "items": [
+      {
+       "ur": "مکئی",
+       "en": "Maize",
+       "group": 0
+      },
+      {
+       "ur": "پودینہ",
+       "en": "Mint",
+       "group": 1
+      },
+      {
+       "ur": "آلو",
+       "en": "Potato",
+       "group": 2
+      },
+      {
+       "ur": "گندم",
+       "en": "Wheat",
+       "group": 0
+      },
+      {
+       "ur": "ادرک",
+       "en": "Ginger",
+       "group": 1
+      },
+      {
+       "ur": "گنّا",
+       "en": "Sugarcane",
+       "group": 2
+      },
+      {
+       "ur": "تربوز",
+       "en": "Watermelon",
+       "group": 0
+      }
+     ]
+    },
+    "hard": {
+     "kind": "tf",
+     "questions": [
+      {
+       "q": {
+        "ur": "گھر اور فرنیچر بنانے کے لیے درختوں کی لکڑی استعمال ہوتی ہے۔",
+        "en": "The wood of trees is used to make houses and furniture."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ کرسی، میز اور دروازے درختوں کی لکڑی سے بنتے ہیں۔",
+        "en": "True. Chairs, tables and doors are made from the wood of trees."
+       }
+      },
+      {
+       "q": {
+        "ur": "گنّا بیج سے اُگتا ہے۔",
+        "en": "Sugarcane grows from a seed."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "غلط۔ کتاب کے مطابق آلو اور گنّا تنے سے اُگتے ہیں۔",
+        "en": "False. The book says that potatoes and sugarcane grow from stems."
+       }
+      },
+      {
+       "q": {
+        "ur": "درخت پرندوں اور جانوروں کو خوراک مہیّا کرتے ہیں۔",
+        "en": "Trees provide food for birds and animals."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ پرندے اور جانور درختوں کے پھل، بیج اور پتّے کھاتے ہیں۔",
+        "en": "True. Birds and animals eat the fruits, seeds and leaves of trees."
+       }
+      },
+      {
+       "q": {
+        "ur": "پودینہ اور ادرک تنے سے اُگتے ہیں۔",
+        "en": "Mint and ginger grow from stems."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "غلط۔ کتاب کے مطابق پودینہ اور ادرک جڑ سے اُگتے ہیں۔",
+        "en": "False. The book says that mint and ginger grow from roots."
+       }
+      },
+      {
+       "q": {
+        "ur": "پودے ہمارے ماحول کو خوب صورت بناتے ہیں۔",
+        "en": "Plants make our environment beautiful."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ پُھول اور سبز درخت ہمارے ماحول کو خوب صورت بناتے ہیں۔",
+        "en": "True. Flowers and green trees make our environment beautiful."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "اپنے کمرے میں نظر دوڑائیں: دروازہ، میز، کرسی، پنسل — یہ سب لکڑی سے بنے ہیں، اور لکڑی درخت سے آتی ہے۔",
+   "en": "Look around your room: the door, the table, the chair, the pencil. They are all made of wood, and wood comes from trees."
+  },
+  {
+   "for": "cognitive",
+   "ur": "ایک وقت میں صرف ایک گروہ یاد کریں۔ پہلے: \"مکئی، گندم، تربوز — بیج سے\"۔ اسے تالی کے ساتھ تین بار بولیں، پھر اگلا گروہ۔",
+   "en": "Learn only one group at a time. First: \"maize, wheat, watermelon — from seeds\". Say it three times with a clap, then go on to the next group."
+  },
+  {
+   "for": "vision",
+   "ur": "لکڑی کی میز پر ہاتھ پھیریں اور پھر درخت کے تنے کو چھوئیں۔ دونوں لکڑی ہیں۔ پھل کاٹ کر بیج انگلیوں سے گنیں۔",
+   "en": "Run your hand over a wooden table and then touch the trunk of a tree. Both are wood. Cut a fruit open and count the seeds with your fingers."
+  },
+  {
+   "for": "teacher",
+   "ur": "اصلی چیزیں دکھائیں: گندم یا مکئی کے دانے، ایک آلو جس پر آنکھیں نکلی ہوں، اور پودینے کی جڑ والی ٹہنی۔ بچوں کو انھیں تین ٹوکریوں (بیج، جڑ، تنا) میں رکھنے دیں؛ جو بچے لکھ نہیں سکتے وہ چیز رکھ کر جواب دیں۔",
+   "en": "Show real things: grains of wheat or maize, a potato with sprouting eyes, and a sprig of mint with its roots. Let the children put them in three baskets (seed, root, stem). Children who cannot write can answer by placing the object."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "پودے ہمارے دوست ہیں",
+   "en": "Plants are our friends"
+  },
+  "image": {
+   "crop": [
+    0.513,
+    0.488,
+    0.839,
+    0.721
+   ],
+   "alt": {
+    "ur": "رنگ برنگے پُھولوں والا خوب صورت باغ۔",
+    "en": "A beautiful garden with colourful flowers."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Plants give us fruit.",
+    "words": [
+     {
+      "ur": "پودے",
+      "sym": "plant"
+     },
+     {
+      "ur": "ہمیں",
+      "sym": "we"
+     },
+     {
+      "ur": "پھل",
+      "sym": "fruit"
+     },
+     {
+      "ur": "دیتے",
+      "sym": "to give"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Plants",
+      "sym": "plant"
+     },
+     {
+      "en": "give",
+      "sym": "to give"
+     },
+     {
+      "en": "us",
+      "sym": "we"
+     },
+     {
+      "en": "fruit.",
+      "sym": "fruit"
+     }
+    ]
+   },
+   {
+    "en": "Fruit has seeds.",
+    "words": [
+     {
+      "ur": "پھل",
+      "sym": "fruit"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "بیج",
+      "sym": "seed"
+     },
+     {
+      "ur": "ہوتے",
+      "sym": null
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Fruit",
+      "sym": "fruit"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "seeds.",
+      "sym": "seed"
+     }
+    ]
+   },
+   {
+    "en": "Trees give us wood.",
+    "words": [
+     {
+      "ur": "درخت",
+      "sym": "tree"
+     },
+     {
+      "ur": "ہمیں",
+      "sym": "we"
+     },
+     {
+      "ur": "لکڑی",
+      "sym": "wood"
+     },
+     {
+      "ur": "دیتے",
+      "sym": "to give"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Trees",
+      "sym": "tree"
+     },
+     {
+      "en": "give",
+      "sym": "to give"
+     },
+     {
+      "en": "us",
+      "sym": "we"
+     },
+     {
+      "en": "wood.",
+      "sym": "wood"
+     }
+    ]
+   },
+   {
+    "en": "A chair is made of wood.",
+    "words": [
+     {
+      "ur": "کرسی",
+      "sym": "chair"
+     },
+     {
+      "ur": "لکڑی",
+      "sym": "wood"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "بنتی",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "A chair",
+      "sym": "chair"
+     },
+     {
+      "en": "is made of",
+      "sym": "to make"
+     },
+     {
+      "en": "wood.",
+      "sym": "wood"
+     }
+    ]
+   },
+   {
+    "en": "Flowers are beautiful.",
+    "words": [
+     {
+      "ur": "پُھول",
+      "sym": "flower"
+     },
+     {
+      "ur": "خوب صورت",
+      "sym": "beautiful"
+     },
+     {
+      "ur": "ہوتے",
+      "sym": null
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Flowers",
+      "sym": "flower"
+     },
+     {
+      "en": "are",
+      "sym": null
+     },
+     {
+      "en": "beautiful.",
+      "sym": "beautiful"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "لکڑی کہاں سے آتی ہے؟",
+       "en": "Where does wood come from?"
+      },
+      "options": [
+       {
+        "ur": "درخت سے",
+        "en": "From a tree",
+        "sym": "tree"
+       },
+       {
+        "ur": "پانی سے",
+        "en": "From water",
+        "sym": "water"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "لکڑی درخت سے آتی ہے۔",
+       "en": "Wood comes from a tree."
+      }
+     },
+     {
+      "q": {
+       "ur": "لکڑی سے کیا بنتا ہے؟",
+       "en": "What is made from wood?"
+      },
+      "options": [
+       {
+        "ur": "روٹی",
+        "en": "Roti",
+        "sym": "bread"
+       },
+       {
+        "ur": "کرسی",
+        "en": "A chair",
+        "sym": "chair"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "کرسی لکڑی سے بنتی ہے۔",
+       "en": "A chair is made from wood."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

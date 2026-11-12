@@ -1,0 +1,504 @@
+{
+ "n": 51,
+ "printed": "47",
+ "chapter": 7,
+ "kind": "content",
+ "title": {
+  "ur": "موسمیاتی تبدیلی میں پودوں کا کردار",
+  "en": "The role of plants in climate change"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "موسمیاتی تبدیلی میں پودوں کا کردار",
+   "en": "The role of plants in climate change"
+  },
+  {
+   "t": "p",
+   "ur": "انسانی سرگرمیوں کی وجہ سے زمین کے بڑھتے ہوئے درجہ حرارت کو کم کرنے میں پودے مدد دیتے ہیں۔ یہ ہوا کو صاف رکھتے ہیں اور موسم کو خوش گوار اور ماحول کو خوب صورت بناتے ہیں۔",
+   "en": "The Earth is getting hotter because of the things people do. Plants help to bring its temperature down. They keep the air clean, make the weather pleasant and make the environment beautiful."
+  },
+  {
+   "t": "p",
+   "ur": "اس کے لیے ہمیں:",
+   "en": "For this, we should do these things:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "زیادہ سے زیادہ درخت لگانے چاہییں۔",
+     "en": "We should plant as many trees as we can."
+    },
+    {
+     "ur": "جنگلات کو آگ لگنے سے بچانا چاہیے۔",
+     "en": "We should save forests from catching fire."
+    },
+    {
+     "ur": "درختوں اور پودوں کا خیال رکھنا چاہیے۔",
+     "en": "We should take care of trees and plants."
+    },
+    {
+     "ur": "بلا وجہ درخت نہیں کاٹنے چاہییں۔",
+     "en": "We should not cut down trees without a reason."
+    }
+   ]
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.182,
+    0.457,
+    0.785,
+    0.755
+   ],
+   "alt": {
+    "ur": "زمین کے گولے کی تصویر۔ دائیں طرف کارخانوں اور گاڑیوں سے کالا دھواں اٹھ کر زمین کے اوپر پھیل رہا ہے اور سرخ تیر اس کا راستہ دکھا رہے ہیں۔ بائیں طرف ایک سبز درخت، پودے اور ایک آدمی ہیں؛ پودے اس دھوئیں کو روکنے میں مدد کرتے ہیں۔",
+    "en": "A picture of the Earth as a globe. On the right, black smoke rises from factories and cars and spreads over the Earth, and red arrows show its path. On the left are a green tree, plants and a man. Plants help to stop this smoke."
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p051-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "اپنے ٹیچر کی مدد سے سکول میں شجر کاری کا ہفتہ منائیں۔ بچے پودے لگا کر اپنے لگائے ہوئے پودے کو باقاعدگی سے پانی دیں اور ان کی حفاظت کریں۔",
+    "en": "With your teacher's help, hold a tree-planting week at school. Children should plant saplings, water the saplings they have planted regularly, and keep them safe."
+   },
+   "prompt": {
+    "ur": "آئیں، سکول میں پودا لگائیں اور روز اس کا خیال رکھیں!",
+    "en": "Come on, let us plant a sapling at school and look after it every day!"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "اچھا کام",
+       "en": "Good thing to do",
+       "sym": "good"
+      },
+      {
+       "ur": "بُرا کام",
+       "en": "Bad thing to do",
+       "sym": "bad"
+      }
+     ],
+     "items": [
+      {
+       "ur": "پودا لگانا",
+       "en": "Planting a sapling",
+       "sym": "to plant",
+       "group": 0
+      },
+      {
+       "ur": "درخت کاٹنا",
+       "en": "Cutting down a tree",
+       "sym": "to cut",
+       "group": 1
+      },
+      {
+       "ur": "پودے کو پانی دینا",
+       "en": "Watering a plant",
+       "sym": "to water",
+       "group": 0
+      },
+      {
+       "ur": "جنگل میں آگ لگانا",
+       "en": "Setting fire to a forest",
+       "sym": "fire",
+       "group": 1
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "do",
+     "steps": [
+      {
+       "ur": "ٹیچر کے ساتھ مل کر سکول میں پودا لگانے کی جگہ چنیں۔",
+       "en": "Together with your teacher, choose a place at school to plant a sapling."
+      },
+      {
+       "ur": "گڑھا کھودیں، پودا رکھیں اور مٹی سے دبا دیں۔",
+       "en": "Dig a hole, put the sapling in and press the soil down around it."
+      },
+      {
+       "ur": "پودے کو پانی دیں اور اس کے پاس اپنے نام کی تختی لگائیں۔",
+       "en": "Water the plant and put a label with your name beside it."
+      },
+      {
+       "ur": "پورا ہفتہ روزانہ اپنے پودے کو پانی دیں اور اس کی حفاظت کریں۔",
+       "en": "Water your plant every day for the whole week and keep it safe."
+      }
+     ],
+     "checklist": [
+      {
+       "ur": "میں نے پودا لگایا یا لگانے میں مدد کی۔",
+       "en": "I planted a sapling or helped to plant one."
+      },
+      {
+       "ur": "میں نے اپنے پودے کو باقاعدگی سے پانی دیا۔",
+       "en": "I watered my plant regularly."
+      },
+      {
+       "ur": "میں نے اپنے پودے کی حفاظت کی۔",
+       "en": "I kept my plant safe."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "order",
+     "items": [
+      {
+       "ur": "پودا لگانے کے لیے دھوپ والی جگہ چنیں۔",
+       "en": "Choose a sunny place to plant the sapling."
+      },
+      {
+       "ur": "زمین میں گڑھا کھودیں۔",
+       "en": "Dig a hole in the ground."
+      },
+      {
+       "ur": "پودے کو گڑھے میں رکھ کر مٹی ڈالیں۔",
+       "en": "Put the sapling in the hole and fill it with soil."
+      },
+      {
+       "ur": "پودے کو پانی دیں۔",
+       "en": "Water the plant."
+      },
+      {
+       "ur": "روزانہ پودے کا خیال رکھیں اور اس کی حفاظت کریں۔",
+       "en": "Look after the plant every day and keep it safe."
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "تصویر کو دو حصّوں میں دیکھیں: دائیں طرف دھواں (گاڑیاں اور کارخانے)، بائیں طرف سبز درخت۔ درخت ہوا کو صاف کرتے ہیں۔",
+   "en": "Look at the picture in two halves. On the right there is smoke from cars and factories. On the left there is a green tree. Trees clean the air."
+  },
+  {
+   "for": "all",
+   "ur": "گرمی کے دن درخت کے سائے میں کھڑے ہوں، پھر دھوپ میں۔ فرق محسوس کریں: درخت کے نیچے ٹھنڈک ہوتی ہے۔",
+   "en": "On a hot day, stand in the shade of a tree and then in the sun. Feel the difference: it is cooler under the tree."
+  },
+  {
+   "for": "motor",
+   "ur": "اگر گڑھا کھودنا مشکل ہو تو آپ بیج یا پودا گڑھے میں رکھ سکتے ہیں، یا چھوٹے فوارے والے ڈبے سے پانی دے سکتے ہیں۔ میز پر رکھے گملے میں بھی پودا لگایا جا سکتا ہے۔",
+   "en": "If digging the hole is hard, you can put the seed or sapling in the hole, or water it with a small watering can. You can also plant it in a pot on a table."
+  },
+  {
+   "for": "teacher",
+   "ur": "شجر کاری میں ہر بچے کو ایک کام دیں: کوئی جگہ چنے، کوئی مٹی ڈالے، کوئی پانی دے، کوئی نام کی تختی بنائے۔ وہیل چیئر والے بچوں کے لیے اونچی جگہ پر گملے رکھیں۔ پانی دینے کی باری کا تصویری چارٹ بنائیں تاکہ ہر بچہ اپنا دن پہچان سکے۔",
+   "en": "During tree planting, give every child a job: one chooses the place, one adds the soil, one waters, and one makes the name label. Put pots on a raised surface for children who use wheelchairs. Make a picture chart of watering turns so that every child can find their day."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "درخت لگائیں",
+   "en": "Plant trees"
+  },
+  "image": {
+   "crop": [
+    0.182,
+    0.457,
+    0.785,
+    0.755
+   ],
+   "alt": {
+    "ur": "زمین کی تصویر: ایک طرف دھواں، دوسری طرف سبز درخت۔",
+    "en": "A picture of the Earth with smoke on one side and a green tree on the other."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Trees keep the air clean.",
+    "words": [
+     {
+      "ur": "درخت",
+      "sym": "tree"
+     },
+     {
+      "ur": "ہوا",
+      "sym": "air"
+     },
+     {
+      "ur": "صاف",
+      "sym": "clean"
+     },
+     {
+      "ur": "رکھتے",
+      "sym": "to keep"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Trees",
+      "sym": "tree"
+     },
+     {
+      "en": "keep",
+      "sym": "to keep"
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "air",
+      "sym": "air"
+     },
+     {
+      "en": "clean.",
+      "sym": "clean"
+     }
+    ]
+   },
+   {
+    "en": "Trees keep the Earth cool.",
+    "words": [
+     {
+      "ur": "درخت",
+      "sym": "tree"
+     },
+     {
+      "ur": "زمین",
+      "sym": "Earth"
+     },
+     {
+      "ur": "کو",
+      "sym": null
+     },
+     {
+      "ur": "ٹھنڈا",
+      "sym": "cold"
+     },
+     {
+      "ur": "رکھتے",
+      "sym": "to keep"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Trees",
+      "sym": "tree"
+     },
+     {
+      "en": "keep",
+      "sym": "to keep"
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "Earth",
+      "sym": "Earth"
+     },
+     {
+      "en": "cool.",
+      "sym": "cold"
+     }
+    ]
+   },
+   {
+    "en": "We plant trees.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "درخت",
+      "sym": "tree"
+     },
+     {
+      "ur": "لگاتے",
+      "sym": "to plant"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "plant",
+      "sym": "to plant"
+     },
+     {
+      "en": "trees.",
+      "sym": "tree"
+     }
+    ]
+   },
+   {
+    "en": "We give water to plants.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "پودوں",
+      "sym": "plant"
+     },
+     {
+      "ur": "کو",
+      "sym": null
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "دیتے",
+      "sym": "to water"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "give",
+      "sym": "to water"
+     },
+     {
+      "en": "water",
+      "sym": "water"
+     },
+     {
+      "en": "to",
+      "sym": null
+     },
+     {
+      "en": "plants.",
+      "sym": "plant"
+     }
+    ]
+   },
+   {
+    "en": "We do not cut trees.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "درخت",
+      "sym": "tree"
+     },
+     {
+      "ur": "نہیں",
+      "sym": "no"
+     },
+     {
+      "ur": "کاٹتے۔",
+      "sym": "to cut"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "do not",
+      "sym": "no"
+     },
+     {
+      "en": "cut",
+      "sym": "to cut"
+     },
+     {
+      "en": "trees.",
+      "sym": "tree"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "اچھا کام کون سا ہے؟",
+    "en": "Which is the good thing to do?"
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "ہمیں کیا کرنا چاہیے؟",
+       "en": "What should we do?"
+      },
+      "options": [
+       {
+        "ur": "درخت لگانا",
+        "en": "Plant a tree",
+        "sym": "to plant"
+       },
+       {
+        "ur": "درخت کاٹنا",
+        "en": "Cut down a tree",
+        "sym": "to cut"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "ہمیں زیادہ سے زیادہ درخت لگانے چاہییں۔",
+       "en": "We should plant as many trees as possible."
+      }
+     },
+     {
+      "q": {
+       "ur": "پودے کا خیال کیسے رکھیں؟",
+       "en": "How do we look after a plant?"
+      },
+      "options": [
+       {
+        "ur": "اس کے پتّے توڑیں",
+        "en": "Pull off its leaves",
+        "sym": "to break"
+       },
+       {
+        "ur": "اسے پانی دیں",
+        "en": "Give it water",
+        "sym": "to water"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "پودے کو باقاعدگی سے پانی دینا چاہیے۔",
+       "en": "A plant should be watered regularly."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

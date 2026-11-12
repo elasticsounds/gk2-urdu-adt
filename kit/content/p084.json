@@ -1,0 +1,263 @@
+{
+ "n": 84,
+ "printed": "80",
+ "chapter": 14,
+ "kind": "opener",
+ "title": {
+  "ur": "دوسروں کا احترام",
+  "en": "Respecting others"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "14 دوسروں کا احترام",
+   "en": "Chapter 14: Respecting others"
+  },
+  {
+   "t": "h",
+   "ur": "حاصلاتِ تعلّم",
+   "en": "Learning outcomes"
+  },
+  {
+   "t": "p",
+   "ur": "اس باب کے اختتام پر آپ اس قابل ہو جائیں گے کہ:",
+   "en": "By the end of this chapter you will be able to:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "پہچان سکیں کہ تمام انسان حقوق کے لحاظ سے برابر اور اہم ہے۔",
+     "en": "Recognise that all human beings are equal and important in terms of rights."
+    },
+    {
+     "ur": "یہ جان سکیں کہ تمام انسان ایک جیسے ہوتے ہیں لیکن خاندان، مذہب اور ثقافت وغیرہ کی بنیاد پر مختلف ہیں اور سب قابلِ عزّت ہیں۔",
+     "en": "Know that all human beings are alike, but differ in family, religion, culture and so on, and that all deserve respect."
+    },
+    {
+     "ur": "پہچان سکیں کہ تمام انسان پیدائشی لحاظ سے برابر ہیں اور عزّت و احترام کے قابل ہیں۔",
+     "en": "Recognise that all human beings are equal by birth and deserve honour and respect."
+    },
+    {
+     "ur": "ایسے طریقوں کی نشان دہی کر سکیں جن سے وہ سب کی عزّت کریں۔",
+     "en": "Identify ways in which you can respect everyone."
+    },
+    {
+     "ur": "ایسے مواقع کی شناخت کر سکیں جب اپنی باری کا انتظار کرنا بہت ضروری ہو (بات چیت کرتے ہوئے، ٹکٹ خریدتے ہوئے، سکول کینٹین وغیرہ پر)۔",
+     "en": "Identify occasions when waiting for your turn is very necessary (while talking, while buying a ticket, at the school canteen, etc.)."
+    },
+    {
+     "ur": "سمجھ سکیں کہ دوسروں کی ضروریات، دلچسپیوں، خیالات اور جذبات کا احترام ضروری ہے۔",
+     "en": "Understand that it is necessary to respect the needs, interests, ideas and feelings of others."
+    }
+   ]
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.03,
+    0.47,
+    0.32,
+    0.85
+   ],
+   "alt": {
+    "ur": "ایک مسکراتی ہوئی بچی اپنے دوست کو پیار سے گلے لگا رہی ہے۔",
+    "en": "A smiling little girl is lovingly hugging her friend."
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "یہ باب “احترام” کے بارے میں ہے۔ سوچیں: آج آپ نے کس سے ادب سے بات کی؟ سلام کرنا، شکریہ کہنا اور باری کا انتظار کرنا احترام ہے۔",
+   "en": "This chapter is about “respect”. Think: who did you speak politely to today? Greeting, saying thank you and waiting for your turn are all respect."
+  },
+  {
+   "for": "cognitive",
+   "ur": "چھ نکات ایک ساتھ نہ پڑھیں۔ صرف ایک بات یاد رکھیں: سب انسان برابر ہیں اور ہم سب کی عزت کرتے ہیں۔",
+   "en": "Do not read all six points at once. Remember just one idea: all people are equal and we respect everyone."
+  },
+  {
+   "for": "hearing",
+   "ur": "“عزت/احترام” اور “برابر” کے اشارے سیکھیں اور باب کے دوران انھیں بار بار استعمال کریں۔",
+   "en": "Learn the signs for “respect” and “equal” and use them again and again through the chapter."
+  },
+  {
+   "for": "teacher",
+   "ur": "حاصلاتِ تعلّم کو بچوں کی زبان میں سنائیں (“ہم سیکھیں گے کہ…”)۔ کلاس میں ایک دائرہ بنائیں جہاں ہر بچہ — وہیل چیئر والا، کم سننے والا، خاموش رہنے والا — برابر جگہ پر بیٹھے اور ہر ایک کو باری ملے۔",
+   "en": "Read the outcomes in child-friendly words (“We will learn that…”). Make a circle where every child — a wheelchair user, a child who is hard of hearing, a quiet child — sits in an equal place and each gets a turn."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "ہم سب کی عزت کرتے ہیں",
+   "en": "We respect everyone"
+  },
+  "image": {
+   "crop": [
+    0.03,
+    0.47,
+    0.32,
+    0.85
+   ],
+   "alt": {
+    "ur": "ایک بچی اپنے دوست کو گلے لگا رہی ہے۔",
+    "en": "A girl is hugging her friend."
+   }
+  },
+  "sentences": [
+   {
+    "en": "All people are equal.",
+    "words": [
+     {
+      "ur": "سب",
+      "sym": "everybody"
+     },
+     {
+      "ur": "انسان",
+      "sym": "people"
+     },
+     {
+      "ur": "برابر",
+      "sym": "equal"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "All",
+      "sym": "everybody"
+     },
+     {
+      "en": "people",
+      "sym": "people"
+     },
+     {
+      "en": "are",
+      "sym": null
+     },
+     {
+      "en": "equal.",
+      "sym": "equal"
+     }
+    ]
+   },
+   {
+    "en": "We respect everyone.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "سب کی",
+      "sym": "everybody"
+     },
+     {
+      "ur": "عزت",
+      "sym": "respect"
+     },
+     {
+      "ur": "کرتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "respect",
+      "sym": "respect"
+     },
+     {
+      "en": "everyone.",
+      "sym": "everybody"
+     }
+    ]
+   },
+   {
+    "en": "We wait for our turn.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "اپنی",
+      "sym": null
+     },
+     {
+      "ur": "باری کا",
+      "sym": "turn"
+     },
+     {
+      "ur": "انتظار",
+      "sym": "to wait"
+     },
+     {
+      "ur": "کرتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "wait for",
+      "sym": "to wait"
+     },
+     {
+      "en": "our",
+      "sym": "our"
+     },
+     {
+      "en": "turn.",
+      "sym": "turn"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح تصویر چنیں۔",
+    "en": "Choose the right picture."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "ہم دوسروں کے ساتھ کیسے رہتے ہیں؟",
+       "en": "How do we live with others?"
+      },
+      "options": [
+       {
+        "ur": "پیار اور عزت سے",
+        "en": "With love and respect",
+        "sym": "friends"
+       },
+       {
+        "ur": "لڑ کر",
+        "en": "By fighting",
+        "sym": "to fight"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "ہم سب کے ساتھ پیار اور عزت سے رہتے ہیں۔",
+       "en": "We live with everyone with love and respect."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": false
+}

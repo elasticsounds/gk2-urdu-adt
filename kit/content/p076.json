@@ -1,0 +1,470 @@
+{
+ "n": 76,
+ "printed": "72",
+ "chapter": 12,
+ "kind": "opener",
+ "title": {
+  "ur": "دوسروں کی مدد کرنا",
+  "en": "Helping others"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "12 دوسروں کی مدد کرنا",
+   "en": "Chapter 12: Helping others"
+  },
+  {
+   "t": "h",
+   "ur": "حاصلاتِ تعلّم",
+   "en": "Learning outcomes"
+  },
+  {
+   "t": "p",
+   "ur": "اس باب کے اختتام پر آپ اس قابل ہو جائیں گے کہ:",
+   "en": "By the end of this chapter you will be able to:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "اشیا کے اشتراک (Sharing) کی اہمیت کو سمجھ سکیں۔",
+     "en": "Understand the importance of sharing things."
+    },
+    {
+     "ur": "اشیا کے نام بتا سکیں جو دوسروں کے ساتھ مل کر استعمال کرتے ہیں۔",
+     "en": "Name things that we use together with others."
+    },
+    {
+     "ur": "دی گئی کہانیوں اور تصاویر سے شناخت کر سکیں کہ لوگ ایک دوسرے کی مدد کیسے کرتے ہیں۔",
+     "en": "Identify from the given stories and pictures how people help one another."
+    },
+    {
+     "ur": "پہچان سکیں کہ لوگ اپنی روزمرہ زندگی میں کس طرح ایک دوسرے پر انحصار کرتے ہیں۔",
+     "en": "Recognise how people depend on one another in their daily lives."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "ur": "آمنہ اور مریم ایک ہی کلاس میں پڑھتی ہیں۔ ایک دن آمنہ نے مریم کو بہت پریشان دیکھا۔ آمنہ کے پوچھنے پر مریم نے بتایا کہ اسے گھر کے لیے ریاضی کا دیا ہوا کام (ہوم ورک) سمجھ نہیں آیا۔",
+   "en": "Amna and Maryam study in the same class. One day Amna saw Maryam looking very worried. When Amna asked, Maryam told her that she had not understood her maths homework."
+  },
+  {
+   "t": "p",
+   "ur": "آمنہ نے مریم سے کہا، پریشان نہ ہوں، میں آپ کو سمجھاتی ہوں۔ آمنہ نے مریم کو سارا کام (ہوم ورک) سمجھایا اور مریم سمجھ گئی۔ اس طرح آمنہ کی مدد سے مریم کی پریشانی ختم ہو گئی۔",
+   "en": "Amna said to Maryam, “Don't worry, I will explain it to you.” Amna explained all the homework to Maryam, and Maryam understood. In this way, with Amna's help, Maryam's worry went away."
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.09,
+    0.593,
+    0.535,
+    0.88
+   ],
+   "alt": {
+    "ur": "دو لڑکیاں، آمنہ اور مریم، میز پر کھلی کاپی کے سامنے بیٹھی ہیں۔ آمنہ ہاتھ میں پنسل لیے مریم کو کام سمجھا رہی ہے اور مریم مسکرا رہی ہے۔",
+    "en": "Two girls, Amna and Maryam, sit at a table with an open notebook. Amna holds a pencil and explains the work to Maryam, who is smiling."
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p076-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "اس طرح آمنہ کی مدد سے مریم کی پریشانی ختم ہو گئی۔",
+    "en": "In this way, with Amna's help, Maryam's worry went away."
+   },
+   "prompt": {
+    "ur": "آمنہ اور مریم کی کہانی پڑھیں یا سنیں۔ پھر جواب دیں۔",
+    "en": "Read or listen to the story of Amna and Maryam. Then answer."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "مریم کیوں پریشان تھی؟",
+        "en": "Why was Maryam worried?"
+       },
+       "options": [
+        {
+         "ur": "اسے ہوم ورک سمجھ نہیں آیا",
+         "en": "She did not understand the homework",
+         "sym": "homework"
+        },
+        {
+         "ur": "اس کا کھلونا ٹوٹ گیا",
+         "en": "Her toy broke",
+         "sym": "toy"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "مریم کو ریاضی کا ہوم ورک سمجھ نہیں آیا تھا۔",
+        "en": "Maryam had not understood the maths homework."
+       }
+      },
+      {
+       "q": {
+        "ur": "مریم کی مدد کس نے کی؟",
+        "en": "Who helped Maryam?"
+       },
+       "options": [
+        {
+         "ur": "ڈاکٹر نے",
+         "en": "A doctor",
+         "sym": "doctor"
+        },
+        {
+         "ur": "اس کی دوست آمنہ نے",
+         "en": "Her friend Amna",
+         "sym": "friend"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "آمنہ نے مریم کو سارا کام سمجھایا۔",
+        "en": "Amna explained all the work to Maryam."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "order",
+     "items": [
+      {
+       "ur": "آمنہ نے مریم کو بہت پریشان دیکھا۔",
+       "en": "Amna saw Maryam looking very worried."
+      },
+      {
+       "ur": "مریم نے بتایا کہ اسے ریاضی کا ہوم ورک سمجھ نہیں آیا۔",
+       "en": "Maryam said she had not understood the maths homework."
+      },
+      {
+       "ur": "آمنہ نے مریم کو سارا کام سمجھایا۔",
+       "en": "Amna explained all the work to Maryam."
+      },
+      {
+       "ur": "مریم کی پریشانی ختم ہو گئی۔",
+       "en": "Maryam's worry went away."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "آمنہ کو کیسے پتا چلا کہ مریم کو مدد چاہیے؟",
+        "en": "How did Amna find out that Maryam needed help?"
+       },
+       "options": [
+        {
+         "ur": "استاد نے بتایا",
+         "en": "The teacher told her"
+        },
+        {
+         "ur": "اس نے مریم کو پریشان دیکھا اور پوچھا",
+         "en": "She saw Maryam was worried and asked her"
+        },
+        {
+         "ur": "مریم رو رہی تھی",
+         "en": "Maryam was crying"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "آمنہ نے مریم کو پریشان دیکھا تو خود اس سے پوچھا۔ اچھے دوست دوسروں کا خیال رکھتے ہیں۔",
+        "en": "Amna saw Maryam was worried and asked her herself. Good friends notice how others feel."
+       }
+      },
+      {
+       "q": {
+        "ur": "آمنہ نے مریم کی مدد کیسے کی؟",
+        "en": "How did Amna help Maryam?"
+       },
+       "options": [
+        {
+         "ur": "اس نے مریم کو کام سمجھایا",
+         "en": "She explained the work to Maryam"
+        },
+        {
+         "ur": "اس نے مریم کا کام خود لکھ دیا",
+         "en": "She wrote Maryam's work for her"
+        },
+        {
+         "ur": "اس نے مریم کو اپنی کاپی دے دی",
+         "en": "She gave Maryam her own notebook"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "آمنہ نے کام سمجھایا، خود نہیں لکھا۔ اس طرح مریم نے خود سیکھ لیا۔",
+        "en": "Amna explained the work; she did not write it herself. This way Maryam learned it herself."
+       }
+      },
+      {
+       "q": {
+        "ur": "اگر آپ کی کلاس میں کسی بچے کو سبق سمجھ نہ آئے تو آپ کیا کریں گے؟",
+        "en": "If a child in your class does not understand the lesson, what will you do?"
+       },
+       "options": [
+        {
+         "ur": "اس پر ہنسوں گا/گی",
+         "en": "Laugh at them"
+        },
+        {
+         "ur": "کچھ نہیں کروں گا/گی",
+         "en": "Do nothing"
+        },
+        {
+         "ur": "اسے پیار سے سمجھاؤں گا/گی",
+         "en": "Explain it to them kindly"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "آمنہ کی طرح ہمیں بھی اپنے ساتھیوں کی مدد کرنی چاہیے۔",
+        "en": "Like Amna, we too should help our classmates."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "پہلے تصویر دیکھیں: کس کے ہاتھ میں پنسل ہے؟ وہ آمنہ ہے جو مریم کو سمجھا رہی ہے۔ پھر کہانی پڑھیں۔",
+   "en": "Look at the picture first: who is holding the pencil? That is Amna, explaining to Maryam. Then read the story."
+  },
+  {
+   "for": "vision",
+   "ur": "کہانی سنانے والا بٹن دبائیں یا کسی ساتھی سے کہانی سنیں۔ تصویر میں دو لڑکیاں ایک کھلی کاپی کے پاس بیٹھی ہیں۔",
+   "en": "Press the read-aloud button or ask a partner to read the story. In the picture two girls sit beside an open notebook."
+  },
+  {
+   "for": "cognitive",
+   "ur": "کہانی کو تین حصوں میں یاد رکھیں: مریم پریشان — آمنہ نے مدد کی — مریم خوش۔",
+   "en": "Remember the story in three parts: Maryam worried — Amna helped — Maryam happy."
+  },
+  {
+   "for": "teacher",
+   "ur": "دو بچوں سے آمنہ اور مریم کا کردار ادا کروائیں۔ جو بچے بول نہیں سکتے وہ اشاروں یا تصویری کارڈ (پریشان، مدد، خوش) سے حصہ لیں۔",
+   "en": "Have two children role-play Amna and Maryam. Children who cannot speak can join in with gestures or picture cards (worried, help, happy)."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "دوست کی مدد",
+   "en": "Helping a friend"
+  },
+  "image": {
+   "crop": [
+    0.09,
+    0.593,
+    0.535,
+    0.88
+   ],
+   "alt": {
+    "ur": "آمنہ اپنی دوست مریم کو کام سمجھا رہی ہے۔",
+    "en": "Amna is explaining the work to her friend Maryam."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Maryam is worried.",
+    "words": [
+     {
+      "ur": "مریم",
+      "sym": "girl"
+     },
+     {
+      "ur": "پریشان",
+      "sym": "worried"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Maryam",
+      "sym": "girl"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "worried.",
+      "sym": "worried"
+     }
+    ]
+   },
+   {
+    "en": "She does not understand the homework.",
+    "words": [
+     {
+      "ur": "اسے",
+      "sym": null
+     },
+     {
+      "ur": "ہوم ورک",
+      "sym": "homework"
+     },
+     {
+      "ur": "سمجھ",
+      "sym": "to understand"
+     },
+     {
+      "ur": "نہیں",
+      "sym": "no"
+     },
+     {
+      "ur": "آیا۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "She",
+      "sym": null
+     },
+     {
+      "en": "does not",
+      "sym": "no"
+     },
+     {
+      "en": "understand",
+      "sym": "to understand"
+     },
+     {
+      "en": "the homework.",
+      "sym": "homework"
+     }
+    ]
+   },
+   {
+    "en": "Amna helps Maryam.",
+    "words": [
+     {
+      "ur": "آمنہ",
+      "sym": "friend"
+     },
+     {
+      "ur": "مریم",
+      "sym": "girl"
+     },
+     {
+      "ur": "کی",
+      "sym": null
+     },
+     {
+      "ur": "مدد",
+      "sym": "to help"
+     },
+     {
+      "ur": "کرتی ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Amna",
+      "sym": "friend"
+     },
+     {
+      "en": "helps",
+      "sym": "to help"
+     },
+     {
+      "en": "Maryam.",
+      "sym": "girl"
+     }
+    ]
+   },
+   {
+    "en": "Now Maryam is happy.",
+    "words": [
+     {
+      "ur": "اب",
+      "sym": "now"
+     },
+     {
+      "ur": "مریم",
+      "sym": "girl"
+     },
+     {
+      "ur": "خوش",
+      "sym": "happy"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Now",
+      "sym": "now"
+     },
+     {
+      "en": "Maryam",
+      "sym": "girl"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "happy.",
+      "sym": "happy"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح تصویر چنیں۔",
+    "en": "Choose the right picture."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "دوست پریشان ہو تو ہم کیا کرتے ہیں؟",
+       "en": "What do we do when a friend is worried?"
+      },
+      "options": [
+       {
+        "ur": "مدد کرتے ہیں",
+        "en": "We help",
+        "sym": "to help"
+       },
+       {
+        "ur": "ہنستے ہیں",
+        "en": "We laugh",
+        "sym": "to laugh"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "ہم دوست کی مدد کرتے ہیں، جیسے آمنہ نے کی۔",
+       "en": "We help our friend, as Amna did."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

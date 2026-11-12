@@ -1,0 +1,919 @@
+{
+ "n": 74,
+ "printed": "70",
+ "chapter": 11,
+ "kind": "exercise",
+ "title": {
+  "ur": "قریب اور دور؛ مشق",
+  "en": "Near and far; Exercise"
+ },
+ "blocks": [
+  {
+   "t": "activity",
+   "id": "p074-a1",
+   "label": {
+    "ur": "دیکھیں اور بتائیں",
+    "en": "Look and tell"
+   },
+   "orig": {
+    "ur": "نیچے دی گئی تصاویر کو دیکھیں اور بتائیں کہ روشنی اور حرارت کہاں زیادہ پہنچ رہی ہے اور کیوں؟",
+    "en": "Look at the pictures below and say where more light and heat are reaching, and why."
+   },
+   "prompt": {
+    "ur": "تصویریں غور سے دیکھیں: کہاں چیز قریب ہے اور کہاں دور؟ پھر جواب چنیں۔",
+    "en": "Look at the pictures carefully: where is the thing near and where is it far? Then choose the answer."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "کس لڑکے کو آگ کی حرارت زیادہ مل رہی ہے؟",
+        "en": "Which boy is getting more heat from the fire?"
+       },
+       "options": [
+        {
+         "ur": "جو آگ کے قریب بیٹھا ہے",
+         "en": "The one sitting near the fire",
+         "img": [
+          0.189,
+          0.31,
+          0.502,
+          0.428
+         ]
+        },
+        {
+         "ur": "جو آگ سے دور بیٹھا ہے",
+         "en": "The one sitting far from the fire",
+         "img": [
+          0.51,
+          0.31,
+          0.824,
+          0.428
+         ]
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "آگ کے قریب بیٹھنے سے زیادہ حرارت ملتی ہے۔",
+        "en": "Sitting near the fire gives more heat."
+       }
+      },
+      {
+       "q": {
+        "ur": "کس بالٹی پر ٹارچ کی روشنی زیادہ پڑ رہی ہے؟",
+        "en": "Which bucket is getting more light from the torch?"
+       },
+       "options": [
+        {
+         "ur": "جو ٹارچ سے دور ہے",
+         "en": "The one far from the torch",
+         "img": [
+          0.51,
+          0.167,
+          0.824,
+          0.302
+         ]
+        },
+        {
+         "ur": "جو ٹارچ کے قریب ہے",
+         "en": "The one near the torch",
+         "img": [
+          0.189,
+          0.167,
+          0.502,
+          0.302
+         ]
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "قریب والی بالٹی پر زیادہ روشنی پڑ رہی ہے، اسی لیے وہ صاف نظر آ رہی ہے۔",
+        "en": "More light falls on the near bucket, which is why it can be seen clearly."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "ٹارچ کی روشنی بالٹی پر کس تصویر میں زیادہ پہنچ رہی ہے؟",
+        "en": "In which picture is more light from the torch reaching the bucket?"
+       },
+       "options": [
+        {
+         "ur": "بالٹی لڑکی سے دور ہے",
+         "en": "The bucket is far from the girl",
+         "img": [
+          0.51,
+          0.167,
+          0.824,
+          0.302
+         ]
+        },
+        {
+         "ur": "بالٹی لڑکی کے قریب ہے",
+         "en": "The bucket is near the girl",
+         "img": [
+          0.189,
+          0.167,
+          0.502,
+          0.302
+         ]
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "جب بالٹی ٹارچ کے قریب ہے تو اس پر زیادہ روشنی پہنچتی ہے اور وہ صاف دکھائی دیتی ہے۔ دور والی بالٹی دھندلی ہے۔",
+        "en": "When the bucket is near the torch, more light reaches it and it looks clear. The bucket that is far away looks dim."
+       }
+      },
+      {
+       "q": {
+        "ur": "آگ کی حرارت لڑکے تک کس تصویر میں زیادہ پہنچ رہی ہے؟",
+        "en": "In which picture is more heat from the fire reaching the boy?"
+       },
+       "options": [
+        {
+         "ur": "لڑکا انگیٹھی کے قریب بیٹھا ہے",
+         "en": "The boy sits near the fireplace",
+         "img": [
+          0.189,
+          0.31,
+          0.502,
+          0.428
+         ]
+        },
+        {
+         "ur": "لڑکا انگیٹھی سے دور بیٹھا ہے",
+         "en": "The boy sits far from the fireplace",
+         "img": [
+          0.51,
+          0.31,
+          0.824,
+          0.428
+         ]
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "انگیٹھی کے قریب بیٹھے لڑکے کو زیادہ حرارت مل رہی ہے، وہ ہاتھ بھی سینک رہا ہے۔",
+        "en": "The boy sitting near the fireplace gets more heat; he is even warming his hands."
+       }
+      },
+      {
+       "q": {
+        "ur": "ایسا کیوں ہوتا ہے؟",
+        "en": "Why does this happen?"
+       },
+       "options": [
+        {
+         "ur": "کیوں کہ دور کی چیزیں بڑی ہوتی ہیں",
+         "en": "Because far things are bigger"
+        },
+        {
+         "ur": "کیوں کہ رات کو سب کچھ ٹھنڈا ہوتا ہے",
+         "en": "Because everything is cold at night"
+        },
+        {
+         "ur": "کیوں کہ ذریعے کے قریب حرارت اور روشنی کی شدّت زیادہ ہوتی ہے",
+         "en": "Because heat and light are stronger near their source"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "جب ہم ذرائع کے قریب ہوں تو حرارت اور روشنی کی شدّت زیادہ محسوس ہوتی ہے، اور دور ہوں تو کم۔",
+        "en": "When we are near the sources, heat and light feel stronger. When we are far away, they feel weaker."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "چاروں تصویریں دیکھ کر اپنے لفظوں میں بتائیں کہ روشنی اور حرارت کہاں زیادہ پہنچ رہی ہے اور کیوں۔",
+       "en": "Look at the four pictures and say in your own words where more light and heat are reaching, and why."
+      },
+      {
+       "ur": "اپنی زندگی سے ایک مثال دیں جب آپ روشنی یا حرارت کے ذریعے کے قریب یا دور گئے۔",
+       "en": "Give one example from your own life when you went near to or far from a source of light or heat."
+      },
+      {
+       "ur": "سوچ کر بتائیں: آگ کے بہت زیادہ قریب جانا کیوں خطرناک ہے؟",
+       "en": "Think and say: why is it dangerous to go too close to a fire?"
+      }
+     ],
+     "model": {
+      "ur": "جب بالٹی ٹارچ کے قریب ہے تو اس پر زیادہ روشنی پڑتی ہے، اور جب لڑکا انگیٹھی کے قریب ہے تو اسے زیادہ حرارت ملتی ہے، کیوں کہ ذریعے کے قریب شدّت زیادہ ہوتی ہے۔ مثال: سردیوں میں میں ہیٹر کے پاس بیٹھوں تو زیادہ گرمی لگتی ہے اور دور جاؤں تو سردی لگتی ہے۔ آگ کے بہت قریب جانے سے ہاتھ یا کپڑے جل سکتے ہیں۔",
+      "en": "When the bucket is near the torch more light falls on it, and when the boy is near the fireplace he gets more heat, because the strength is greater near the source. Example: in winter when I sit by the heater I feel warmer, and when I move away I feel cold. Going too close to a fire can burn your hands or clothes."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے بتایا کہ کہاں زیادہ اور کہاں کم۔",
+       "en": "I said where there is more and where there is less."
+      },
+      {
+       "ur": "میں نے وجہ بتائی۔",
+       "en": "I gave the reason."
+      },
+      {
+       "ur": "میں نے اپنی ایک مثال دی۔",
+       "en": "I gave an example of my own."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.51,
+      0.167,
+      0.824,
+      0.302
+     ],
+     "alt": {
+      "ur": "ایک لڑکی ٹارچ کی روشنی دور رکھی بالٹی پر ڈال رہی ہے؛ روشنی پھیل کر مدھم ہو گئی ہے اور بالٹی دھندلی نظر آ رہی ہے۔",
+      "en": "A girl shines a torch on a bucket placed far away; the light spreads out and becomes dim, and the bucket looks faint."
+     }
+    },
+    {
+     "crop": [
+      0.189,
+      0.167,
+      0.502,
+      0.302
+     ],
+     "alt": {
+      "ur": "وہی لڑکی ٹارچ کی روشنی قریب رکھی بالٹی پر ڈال رہی ہے؛ بالٹی روشن اور صاف نظر آ رہی ہے۔",
+      "en": "The same girl shines the torch on a bucket placed near her; the bucket is bright and clear."
+     }
+    },
+    {
+     "crop": [
+      0.51,
+      0.31,
+      0.824,
+      0.428
+     ],
+     "alt": {
+      "ur": "ایک لڑکا جلتی ہوئی انگیٹھی سے دور کمرے کے دوسرے کنارے پر بیٹھا ہے۔",
+      "en": "A boy sits at the other side of the room, far from the burning fireplace."
+     }
+    },
+    {
+     "crop": [
+      0.189,
+      0.31,
+      0.502,
+      0.428
+     ],
+     "alt": {
+      "ur": "ایک لڑکا جلتی ہوئی انگیٹھی کے بالکل قریب بیٹھا ہاتھ سینک رہا ہے۔",
+      "en": "A boy sits right next to the burning fireplace, warming his hands."
+     }
+    }
+   ]
+  },
+  {
+   "t": "h",
+   "ur": "مشق",
+   "en": "Exercise"
+  },
+  {
+   "t": "activity",
+   "id": "p074-a2",
+   "label": {
+    "ur": "سوال نمبر 1",
+    "en": "Question 1"
+   },
+   "orig": {
+    "ur": "درست جملے کے سامنے ✓ اور غلط جملے کے سامنے ✗ کا نشان لگائیں۔ • سورج روشنی کا سب سے بڑا ذریعہ ہے۔ • انگیٹھی یا ہیٹر کے قریب کھڑا ہونے سے کم حرارت ملتی ہے۔ • ہم اندھیرے میں دیکھ سکتے ہیں۔ • لکڑی کے جلنے سے روشنی اور حرارت حاصل ہوتی ہے۔",
+    "en": "Put a tick ✓ next to the correct sentence and a cross ✗ next to the wrong sentence. • The sun is the biggest source of light. • Standing near a fireplace or heater gives less heat. • We can see in the dark. • Burning wood gives light and heat."
+   },
+   "prompt": {
+    "ur": "ہر جملہ پڑھیں یا سنیں اور بتائیں: درست ہے یا غلط؟",
+    "en": "Read or listen to each sentence and say: is it true or false?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "tf",
+     "questions": [
+      {
+       "q": {
+        "ur": "سورج ہمیں روشنی دیتا ہے۔",
+        "en": "The sun gives us light."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ سورج روشنی کا سب سے بڑا ذریعہ ہے۔",
+        "en": "True. The sun is the biggest source of light."
+       }
+      },
+      {
+       "q": {
+        "ur": "ہم اندھیرے میں دیکھ سکتے ہیں۔",
+        "en": "We can see in the dark."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "غلط۔ دیکھنے کے لیے روشنی چاہیے۔",
+        "en": "False. We need light to see."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "tf",
+     "questions": [
+      {
+       "q": {
+        "ur": "سورج روشنی کا سب سے بڑا ذریعہ ہے۔",
+        "en": "The sun is the biggest source of light."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ سورج حرارت اور روشنی کا قدرتی اور سب سے بڑا ذریعہ ہے۔",
+        "en": "True. The sun is the natural and the biggest source of heat and light."
+       }
+      },
+      {
+       "q": {
+        "ur": "انگیٹھی یا ہیٹر کے قریب کھڑا ہونے سے کم حرارت ملتی ہے۔",
+        "en": "Standing near a fireplace or heater gives less heat."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "غلط۔ ذریعے کے قریب ہوں تو زیادہ حرارت ملتی ہے، دور ہوں تو کم۔",
+        "en": "False. When we are near the source we get more heat, and when we are far away we get less."
+       }
+      },
+      {
+       "q": {
+        "ur": "ہم اندھیرے میں دیکھ سکتے ہیں۔",
+        "en": "We can see in the dark."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "غلط۔ چیزیں دیکھنے کے لیے روشنی کی ضرورت پڑتی ہے۔",
+        "en": "False. We need light to see things."
+       }
+      },
+      {
+       "q": {
+        "ur": "لکڑی کے جلنے سے روشنی اور حرارت حاصل ہوتی ہے۔",
+        "en": "Burning wood gives light and heat."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ جلتی ہوئی لکڑی روشنی بھی دیتی ہے اور حرارت بھی۔",
+        "en": "True. Burning wood gives both light and heat."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "tf",
+     "questions": [
+      {
+       "q": {
+        "ur": "سورج روشنی کا سب سے بڑا ذریعہ ہے۔",
+        "en": "The sun is the biggest source of light."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ سورج حرارت اور روشنی کا قدرتی اور سب سے بڑا ذریعہ ہے۔",
+        "en": "True. The sun is the natural and the biggest source of heat and light."
+       }
+      },
+      {
+       "q": {
+        "ur": "انگیٹھی یا ہیٹر کے قریب کھڑا ہونے سے کم حرارت ملتی ہے۔",
+        "en": "Standing near a fireplace or heater gives less heat."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "غلط۔ ذریعے کے قریب ہوں تو زیادہ حرارت ملتی ہے، دور ہوں تو کم۔",
+        "en": "False. When we are near the source we get more heat, and when we are far away we get less."
+       }
+      },
+      {
+       "q": {
+        "ur": "ہم اندھیرے میں دیکھ سکتے ہیں۔",
+        "en": "We can see in the dark."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "غلط۔ چیزیں دیکھنے کے لیے روشنی کی ضرورت پڑتی ہے۔",
+        "en": "False. We need light to see things."
+       }
+      },
+      {
+       "q": {
+        "ur": "لکڑی کے جلنے سے روشنی اور حرارت حاصل ہوتی ہے۔",
+        "en": "Burning wood gives light and heat."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ جلتی ہوئی لکڑی روشنی بھی دیتی ہے اور حرارت بھی۔",
+        "en": "True. Burning wood gives both light and heat."
+       }
+      },
+      {
+       "q": {
+        "ur": "ٹارچ کو چیز سے دور لے جائیں تو اس چیز پر روشنی زیادہ پڑتی ہے۔",
+        "en": "If we take a torch farther away from a thing, more light falls on that thing."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "غلط۔ ٹارچ دور ہو تو روشنی کم پہنچتی ہے، قریب ہو تو زیادہ۔",
+        "en": "False. When the torch is far away, less light reaches the thing. When the torch is near, more light reaches it."
+       }
+      },
+      {
+       "q": {
+        "ur": "چاند اور ستاروں سے بھی روشنی حاصل ہوتی ہے۔",
+        "en": "We also get light from the moon and stars."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ سورج کے علاوہ چاند اور ستاروں سے بھی روشنی حاصل ہوتی ہے۔",
+        "en": "True. Besides the sun, we also get light from the moon and stars."
+       }
+      },
+      {
+       "q": {
+        "ur": "کھانا پکانے کے لیے حرارت کی ضرورت نہیں ہوتی۔",
+        "en": "Heat is not needed for cooking food."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "غلط۔ ہمیں کھانا پکانے کے لیے آگ (حرارت) کی ضرورت ہوتی ہے۔",
+        "en": "False. We need fire (heat) to cook food."
+       }
+      },
+      {
+       "q": {
+        "ur": "سورج کی روشنی فصلوں کی نشوونما کے لیے ضروری ہے۔",
+        "en": "Sunlight is necessary for the growth of crops."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ سورج کی روشنی کے بغیر فصلیں نہیں بڑھ سکتیں۔",
+        "en": "True. Crops cannot grow without sunlight."
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p074-a3",
+   "label": {
+    "ur": "سوال نمبر 2",
+    "en": "Question 2"
+   },
+   "orig": {
+    "ur": "حرارت اور روشنی کے قدرتی ذرائع پر ✓ اور مصنوعی ذرائع پر ✗ کا نشان لگائیں۔ قدرتی ذریعہ — انسان کا بنایا ہوا۔ سورج، بلب",
+    "en": "Put a tick ✓ on the natural sources of heat and light and a cross ✗ on the artificial sources. Natural source — Made by people. Sun, bulb"
+   },
+   "prompt": {
+    "ur": "ہر چیز کو صحیح خانے میں رکھیں: قدرتی ذریعہ یا انسان کا بنایا ہوا؟ (اس سوال کے باقی الفاظ اگلے صفحے پر ہیں؛ یہاں سب اکٹھے دیے گئے ہیں۔)",
+    "en": "Put each thing in the right box: a natural source or made by people? (The rest of this question's words are on the next page; here they are all given together.)"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "قدرتی ذریعہ",
+       "en": "Natural source",
+       "sym": "nature"
+      },
+      {
+       "ur": "انسان کا بنایا ہوا",
+       "en": "Made by people",
+       "sym": "factory"
+      }
+     ],
+     "items": [
+      {
+       "ur": "سورج",
+       "en": "Sun",
+       "sym": "sun",
+       "group": 0
+      },
+      {
+       "ur": "بلب",
+       "en": "Bulb",
+       "sym": "light bulb",
+       "group": 1
+      },
+      {
+       "ur": "ستارے",
+       "en": "Stars",
+       "sym": "star",
+       "group": 0
+      },
+      {
+       "ur": "موم بتّی",
+       "en": "Candle",
+       "sym": "candle",
+       "group": 1
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "قدرتی ذریعہ",
+       "en": "Natural source",
+       "sym": "nature"
+      },
+      {
+       "ur": "انسان کا بنایا ہوا",
+       "en": "Made by people",
+       "sym": "factory"
+      }
+     ],
+     "items": [
+      {
+       "ur": "سورج",
+       "en": "Sun",
+       "group": 0
+      },
+      {
+       "ur": "بلب",
+       "en": "Bulb",
+       "group": 1
+      },
+      {
+       "ur": "ستارے",
+       "en": "Stars",
+       "group": 0
+      },
+      {
+       "ur": "ہیٹر",
+       "en": "Heater",
+       "group": 1
+      },
+      {
+       "ur": "موم بتّی",
+       "en": "Candle",
+       "group": 1
+      }
+     ]
+    },
+    "hard": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "قدرتی ذریعہ",
+       "en": "Natural source",
+       "sym": "nature"
+      },
+      {
+       "ur": "انسان کا بنایا ہوا",
+       "en": "Made by people",
+       "sym": "factory"
+      }
+     ],
+     "items": [
+      {
+       "ur": "سورج",
+       "en": "Sun",
+       "group": 0
+      },
+      {
+       "ur": "بلب",
+       "en": "Bulb",
+       "group": 1
+      },
+      {
+       "ur": "ستارے",
+       "en": "Stars",
+       "group": 0
+      },
+      {
+       "ur": "ہیٹر",
+       "en": "Heater",
+       "group": 1
+      },
+      {
+       "ur": "موم بتّی",
+       "en": "Candle",
+       "group": 1
+      },
+      {
+       "ur": "چاند",
+       "en": "Moon",
+       "group": 0
+      },
+      {
+       "ur": "ٹارچ",
+       "en": "Torch",
+       "group": 1
+      },
+      {
+       "ur": "آسمانی بجلی کی چمک",
+       "en": "A flash of lightning",
+       "group": 0
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "یاد رکھنے کا طریقہ: ”قریب = زیادہ، دور = کم“۔ ہاتھ سے قریب اور دور کا اشارہ کرتے ہوئے یہ جملہ دہرائیں۔",
+   "en": "A way to remember: 'near means more, far means less'. Say it again and again while showing near and far with your hands."
+  },
+  {
+   "for": "all",
+   "ur": "آگ اور ہیٹر سے حرارت لینے کے لیے مناسب فاصلے پر بیٹھیں۔ بہت قریب جانا خطرناک ہے۔",
+   "en": "Sit at a safe distance to get warmth from a fire or heater. Going too close is dangerous."
+  },
+  {
+   "for": "vision",
+   "ur": "تصویروں کی جگہ خود محسوس کریں: دھوپ والی کھڑکی یا گرم پانی کے بند برتن کی طرف آہستہ آہستہ ہاتھ بڑھائیں (چھوئے بغیر) — قریب جانے پر حرارت بڑھتی ہے، دور ہٹانے پر کم ہوتی ہے۔",
+   "en": "Instead of the pictures, feel it yourself: slowly move your hand towards a sunny window or a closed pot of warm water (without touching) — the heat grows as you come near and fades as you move away."
+  },
+  {
+   "for": "teacher",
+   "ur": "کمرے میں اندھیرا کر کے ٹارچ کو دیوار کے قریب اور پھر دور لے جائیں تاکہ بچے روشنی کا فرق خود دیکھیں۔ درست/غلط کے لیے ✓ اور ✗ کے کارڈ، انگوٹھے کا اشارہ یا آنکھ کے اشارے سے جواب بھی قبول کریں، اور ہر جملہ اونچی آواز میں پڑھ کر سنائیں۔",
+   "en": "Darken the room and move a torch near to the wall and then away from it, so that the children see the difference in light for themselves. For true or false, also accept tick and cross cards, a thumbs up or down, or eye-pointing, and read every sentence aloud."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "قریب زیادہ، دور کم",
+   "en": "Near is more, far is less"
+  },
+  "image": {
+   "crop": [
+    0.189,
+    0.31,
+    0.502,
+    0.428
+   ],
+   "alt": {
+    "ur": "لڑکا آگ کے قریب بیٹھا ہاتھ سینک رہا ہے۔",
+    "en": "A boy sits near the fire warming his hands."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Near the fire there is more heat.",
+    "words": [
+     {
+      "ur": "آگ",
+      "sym": "fire"
+     },
+     {
+      "ur": "کے",
+      "sym": null
+     },
+     {
+      "ur": "قریب",
+      "sym": "near"
+     },
+     {
+      "ur": "زیادہ",
+      "sym": "more"
+     },
+     {
+      "ur": "حرارت",
+      "sym": "heat"
+     },
+     {
+      "ur": "ملتی ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Near",
+      "sym": "near"
+     },
+     {
+      "en": "the fire",
+      "sym": "fire"
+     },
+     {
+      "en": "there is",
+      "sym": null
+     },
+     {
+      "en": "more",
+      "sym": "more"
+     },
+     {
+      "en": "heat.",
+      "sym": "heat"
+     }
+    ]
+   },
+   {
+    "en": "Far from the fire there is less heat.",
+    "words": [
+     {
+      "ur": "آگ",
+      "sym": "fire"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "دور",
+      "sym": "far"
+     },
+     {
+      "ur": "کم",
+      "sym": "less"
+     },
+     {
+      "ur": "حرارت",
+      "sym": "heat"
+     },
+     {
+      "ur": "ملتی ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Far",
+      "sym": "far"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "the fire",
+      "sym": "fire"
+     },
+     {
+      "en": "there is",
+      "sym": null
+     },
+     {
+      "en": "less",
+      "sym": "less"
+     },
+     {
+      "en": "heat.",
+      "sym": "heat"
+     }
+    ]
+   },
+   {
+    "en": "Near the torch there is more light.",
+    "words": [
+     {
+      "ur": "ٹارچ",
+      "sym": "flashlight"
+     },
+     {
+      "ur": "کے",
+      "sym": null
+     },
+     {
+      "ur": "قریب",
+      "sym": "near"
+     },
+     {
+      "ur": "زیادہ",
+      "sym": "more"
+     },
+     {
+      "ur": "روشنی",
+      "sym": "light"
+     },
+     {
+      "ur": "ہوتی ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Near",
+      "sym": "near"
+     },
+     {
+      "en": "the torch",
+      "sym": "flashlight"
+     },
+     {
+      "en": "there is",
+      "sym": null
+     },
+     {
+      "en": "more",
+      "sym": "more"
+     },
+     {
+      "en": "light.",
+      "sym": "light"
+     }
+    ]
+   },
+   {
+    "en": "Do not touch fire.",
+    "words": [
+     {
+      "ur": "آگ",
+      "sym": "fire"
+     },
+     {
+      "ur": "کو",
+      "sym": null
+     },
+     {
+      "ur": "ہاتھ",
+      "sym": "hand"
+     },
+     {
+      "ur": "نہ",
+      "sym": "no"
+     },
+     {
+      "ur": "لگائیں۔",
+      "sym": "to touch"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Do not",
+      "sym": "no"
+     },
+     {
+      "en": "touch",
+      "sym": "to touch"
+     },
+     {
+      "en": "fire.",
+      "sym": "fire"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح تصویر چنیں۔",
+    "en": "Choose the right picture."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "زیادہ حرارت کس کو مل رہی ہے؟",
+       "en": "Who is getting more heat?"
+      },
+      "options": [
+       {
+        "ur": "دور بیٹھا لڑکا",
+        "en": "The boy sitting far away",
+        "img": [
+         0.51,
+         0.31,
+         0.824,
+         0.428
+        ]
+       },
+       {
+        "ur": "قریب بیٹھا لڑکا",
+        "en": "The boy sitting near",
+        "img": [
+         0.189,
+         0.31,
+         0.502,
+         0.428
+        ]
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "آگ کے قریب زیادہ حرارت ملتی ہے۔",
+       "en": "There is more heat near the fire."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

@@ -1,0 +1,1196 @@
+{
+ "n": 52,
+ "printed": "48",
+ "chapter": 7,
+ "kind": "exercise",
+ "title": {
+  "ur": "مشق: پودے",
+  "en": "Exercise: Plants"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "مشق",
+   "en": "Exercise"
+  },
+  {
+   "t": "activity",
+   "id": "p052-a1",
+   "label": {
+    "ur": "سوال نمبر 1",
+    "en": "Question 1"
+   },
+   "orig": {
+    "ur": "نیچے دی گئی ان سبزیوں پر ✓ کا نشان لگائیں جو پودے کی جڑیں ہیں۔ ٹماٹر، گاجر، مُولی، ادرک، شلجم، پودینہ",
+    "en": "Put a tick ✓ on the vegetables below that are the roots of a plant. Tomato, carrot, radish, ginger, turnip, mint."
+   },
+   "prompt": {
+    "ur": "کون سی سبزی پودے کی جڑ ہے اور کون سی نہیں؟ ہر سبزی کو صحیح خانے میں رکھیں۔",
+    "en": "Which vegetable is the root of a plant and which is not? Put each vegetable in the right box."
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "جڑ ہے ✓",
+       "en": "It is a root ✓",
+       "sym": "root"
+      },
+      {
+       "ur": "جڑ نہیں ہے",
+       "en": "It is not a root",
+       "sym": "no"
+      }
+     ],
+     "items": [
+      {
+       "ur": "گاجر",
+       "en": "Carrot",
+       "sym": "carrot",
+       "group": 0
+      },
+      {
+       "ur": "ٹماٹر",
+       "en": "Tomato",
+       "sym": "tomato",
+       "group": 1
+      },
+      {
+       "ur": "مُولی",
+       "en": "Radish",
+       "sym": "radish",
+       "group": 0
+      },
+      {
+       "ur": "پودینہ",
+       "en": "Mint",
+       "sym": "mint",
+       "group": 1
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "جڑ ہے ✓",
+       "en": "It is a root ✓"
+      },
+      {
+       "ur": "جڑ نہیں ہے",
+       "en": "It is not a root"
+      }
+     ],
+     "items": [
+      {
+       "ur": "ٹماٹر",
+       "en": "Tomato",
+       "group": 1
+      },
+      {
+       "ur": "گاجر",
+       "en": "Carrot",
+       "group": 0
+      },
+      {
+       "ur": "مُولی",
+       "en": "Radish",
+       "group": 0
+      },
+      {
+       "ur": "ادرک",
+       "en": "Ginger",
+       "group": 0
+      },
+      {
+       "ur": "شلجم",
+       "en": "Turnip",
+       "group": 0
+      },
+      {
+       "ur": "پودینہ",
+       "en": "Mint",
+       "group": 1
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "ان میں سے کون سی سبزی پودے کی جڑ نہیں ہے؟",
+        "en": "Which of these vegetables is NOT the root of a plant?"
+       },
+       "options": [
+        {
+         "ur": "گاجر",
+         "en": "Carrot"
+        },
+        {
+         "ur": "شلجم",
+         "en": "Turnip"
+        },
+        {
+         "ur": "ٹماٹر",
+         "en": "Tomato"
+        },
+        {
+         "ur": "مُولی",
+         "en": "Radish"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "ٹماٹر پودے کا پھل ہے، اس کے اندر بیج ہوتے ہیں۔ گاجر، شلجم اور مُولی جڑیں ہیں۔",
+        "en": "A tomato is the fruit of a plant. It has seeds inside. Carrots, turnips and radishes are roots."
+       }
+      },
+      {
+       "q": {
+        "ur": "ہم پودینے کا کون سا حصّہ کھاتے ہیں؟",
+        "en": "Which part of the mint plant do we eat?"
+       },
+       "options": [
+        {
+         "ur": "پتّے",
+         "en": "Leaves"
+        },
+        {
+         "ur": "جڑ",
+         "en": "Root"
+        },
+        {
+         "ur": "پُھول",
+         "en": "Flower"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "ہم پودینے کے سبز پتّے کھاتے ہیں، اس لیے پودینہ جڑ والی سبزی نہیں ہے۔",
+        "en": "We eat the green leaves of mint, so mint is not a root vegetable."
+       }
+      },
+      {
+       "q": {
+        "ur": "کتاب میں کھائی جانے والی جڑوں میں کون سی سبزی دکھائی گئی ہے؟",
+        "en": "Which of these vegetables does the book show as a root that we eat?"
+       },
+       "options": [
+        {
+         "ur": "ٹماٹر",
+         "en": "Tomato"
+        },
+        {
+         "ur": "شکر قندی",
+         "en": "Sweet potato"
+        },
+        {
+         "ur": "پودینہ",
+         "en": "Mint"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "کتاب میں چار جڑیں دکھائی گئی ہیں: شکر قندی، شلجم، گاجر اور مُولی۔",
+        "en": "The book shows four roots: sweet potato, turnip, carrot and radish."
+       }
+      },
+      {
+       "q": {
+        "ur": "جڑ والی سبزیاں کہاں اُگتی ہیں؟",
+        "en": "Where do root vegetables grow?"
+       },
+       "options": [
+        {
+         "ur": "درخت کی شاخ پر",
+         "en": "On the branch of a tree"
+        },
+        {
+         "ur": "پانی کے اوپر",
+         "en": "On top of water"
+        },
+        {
+         "ur": "زمین کے اندر",
+         "en": "Under the ground"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "جڑ زمین کے اندر رہتی ہے، اس لیے گاجر اور مُولی کو زمین سے نکالا جاتا ہے۔",
+        "en": "A root stays under the ground, so carrots and radishes are pulled out of the ground."
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p052-a2",
+   "label": {
+    "ur": "سوال نمبر 2",
+    "en": "Question 2"
+   },
+   "orig": {
+    "ur": "نیچے دیے گئے پودے کے حصّے کا نام اور کام بتائیں۔ نام ______ کام ______",
+    "en": "Tell the name and the job of each part of a plant shown below. Name ______ Job ______"
+   },
+   "prompt": {
+    "ur": "تصویر دیکھیں۔ پودے کے حصّے کا نام اور اس کا کام چنیں۔",
+    "en": "Look at the picture. Choose the name of the plant part and its job."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "یہ پودے کا کون سا حصّہ ہے؟",
+        "en": "Which part of the plant is this?"
+       },
+       "img": [
+        0.51,
+        0.344,
+        0.67,
+        0.4
+       ],
+       "options": [
+        {
+         "ur": "پتّا",
+         "en": "Leaf",
+         "sym": "leaf"
+        },
+        {
+         "ur": "جڑ",
+         "en": "Root",
+         "sym": "root"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "یہ سبز پتّا ہے۔",
+        "en": "This is a green leaf."
+       }
+      },
+      {
+       "q": {
+        "ur": "یہ پودے کا کون سا حصّہ ہے؟",
+        "en": "Which part of the plant is this?"
+       },
+       "img": [
+        0.51,
+        0.406,
+        0.67,
+        0.465
+       ],
+       "options": [
+        {
+         "ur": "پُھول",
+         "en": "Flower",
+         "sym": "flower"
+        },
+        {
+         "ur": "جڑ",
+         "en": "Root",
+         "sym": "root"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "یہ جڑ ہے۔ جڑ زمین کے اندر رہتی ہے۔",
+        "en": "This is a root. A root stays under the ground."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "اس حصّے کا نام کیا ہے؟",
+        "en": "What is the name of this part?"
+       },
+       "img": [
+        0.51,
+        0.344,
+        0.67,
+        0.4
+       ],
+       "options": [
+        {
+         "ur": "جڑ",
+         "en": "Root"
+        },
+        {
+         "ur": "پتّا",
+         "en": "Leaf"
+        },
+        {
+         "ur": "تنا",
+         "en": "Stem"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "یہ پتّا ہے۔",
+        "en": "This is a leaf."
+       }
+      },
+      {
+       "q": {
+        "ur": "پتّے کا کام کیا ہے؟",
+        "en": "What is the job of a leaf?"
+       },
+       "img": [
+        0.51,
+        0.344,
+        0.67,
+        0.4
+       ],
+       "options": [
+        {
+         "ur": "پانی، ہوا اور روشنی کے ساتھ مل کر پودے کی خوراک بناتا ہے",
+         "en": "It makes the plant's food with the help of water, air and light"
+        },
+        {
+         "ur": "پودے کو زمین میں گاڑے رکھتا ہے",
+         "en": "It holds the plant in the soil"
+        },
+        {
+         "ur": "پھل اور بیج بناتا ہے",
+         "en": "It makes fruit and seeds"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "پتّا پانی، ہوا اور روشنی کے ساتھ مل کر پودے کی خوراک بناتا ہے۔",
+        "en": "A leaf makes the plant's food with the help of water, air and light."
+       }
+      },
+      {
+       "q": {
+        "ur": "اس حصّے کا نام کیا ہے؟",
+        "en": "What is the name of this part?"
+       },
+       "img": [
+        0.51,
+        0.406,
+        0.67,
+        0.465
+       ],
+       "options": [
+        {
+         "ur": "پُھول",
+         "en": "Flower"
+        },
+        {
+         "ur": "تنا",
+         "en": "Stem"
+        },
+        {
+         "ur": "جڑ",
+         "en": "Root"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "یہ جڑ ہے۔",
+        "en": "This is a root."
+       }
+      },
+      {
+       "q": {
+        "ur": "جڑ کا کام کیا ہے؟",
+        "en": "What is the job of a root?"
+       },
+       "img": [
+        0.51,
+        0.406,
+        0.67,
+        0.465
+       ],
+       "options": [
+        {
+         "ur": "پودے کی خوب صورتی میں اضافہ کرتی ہے",
+         "en": "It makes the plant more beautiful"
+        },
+        {
+         "ur": "پودے کو زمین میں مضبوطی سے گاڑے رکھتی ہے اور پانی جذب کرتی ہے",
+         "en": "It holds the plant firmly in the soil and soaks up water"
+        },
+        {
+         "ur": "پودے کی خوراک بناتی ہے",
+         "en": "It makes the plant's food"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "جڑ پودے کو زمین میں مضبوطی سے گاڑے رکھتی ہے اور زمین سے پانی جذب کر کے تنے تک پہنچاتی ہے۔",
+        "en": "A root holds the plant firmly in the soil. It soaks up water from the soil and sends it to the stem."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "پتّے اور جڑ کا نام اور کام اپنے لفظوں میں لکھیں۔",
+       "en": "Write the name and job of the leaf and the root in your own words."
+      },
+      {
+       "ur": "اب تنے اور پُھول کا کام بھی لکھیں۔",
+       "en": "Now write the job of the stem and the flower too."
+      }
+     ],
+     "model": {
+      "ur": "پتّا: پانی، ہوا اور روشنی کے ساتھ مل کر پودے کی خوراک بناتا ہے۔ جڑ: پودے کو زمین میں مضبوطی سے گاڑے رکھتی ہے اور زمین سے پانی جذب کر کے تنے تک پہنچاتی ہے۔ تنا: جڑ سے ملنے والا پانی ٹہنیوں اور پتّوں تک پہنچاتا ہے۔ پُھول: پودے کی خوب صورتی بڑھاتا ہے اور پھل اور بیج بناتا ہے۔",
+      "en": "Leaf: it makes the plant's food with the help of water, air and light. Root: it holds the plant firmly in the soil, soaks up water from the soil and sends it to the stem. Stem: it carries the water from the root to the branches and leaves. Flower: it makes the plant more beautiful and makes fruit and seeds."
+     }
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p052-a3",
+   "label": {
+    "ur": "سوال نمبر 3",
+    "en": "Question 3"
+   },
+   "orig": {
+    "ur": "اگر ہمارے اِرد گِرد درخت اور پودے نہ ہوں تو کیا ہو گا؟ کوئی سے تین نقصانات بتائیں۔",
+    "en": "What will happen if there are no trees and plants around us? Name any three harms."
+   },
+   "prompt": {
+    "ur": "سوچیں: اگر درخت اور پودے نہ ہوں تو ہمیں کیا کیا نقصان ہو گا؟",
+    "en": "Think: if there were no trees and plants, how would it harm us?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "tf",
+     "questions": [
+      {
+       "q": {
+        "ur": "پودے نہ ہوں تو ہمیں پھل نہیں ملیں گے۔",
+        "en": "Without plants, we will get no fruit."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ پھل پودوں سے ملتے ہیں۔",
+        "en": "True. Fruit comes from plants."
+       }
+      },
+      {
+       "q": {
+        "ur": "پودے نہ ہوں تو ہوا اور صاف ہو جائے گی۔",
+        "en": "Without plants, the air will become cleaner."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "غلط۔ پودے ہوا کو صاف رکھتے ہیں۔ پودوں کے بغیر ہوا گندی ہو جائے گی۔",
+        "en": "False. Plants keep the air clean. Without plants, the air will become dirty."
+       }
+      },
+      {
+       "q": {
+        "ur": "پودے نہ ہوں تو پرندوں کو خوراک نہیں ملے گی۔",
+        "en": "Without plants, birds will get no food."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ درخت پرندوں اور جانوروں کو خوراک دیتے ہیں۔",
+        "en": "True. Trees give food to birds and animals."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "سوچیں: پودے ہمیں کیا کیا دیتے ہیں؟ (آکسیجن، پھل، لکڑی، صاف ہوا)",
+       "en": "Think: what do plants give us? (oxygen, fruit, wood, clean air)"
+      },
+      {
+       "ur": "اب سوچیں: اگر یہ چیزیں نہ ملیں تو کیا ہو گا؟ تین نقصانات لکھیں یا بتائیں۔",
+       "en": "Now think: what will happen if we do not get these things? Write or say three harms."
+      }
+     ],
+     "model": {
+      "ur": "1۔ ہمیں سانس لینے کے لیے آکسیجن نہیں ملے گی۔ 2۔ ہمیں کھانے کے لیے پھل اور فرنیچر کے لیے لکڑی نہیں ملے گی۔ 3۔ ہوا صاف نہیں رہے گی اور زمین کا درجہ حرارت بڑھ جائے گا۔",
+      "en": "1. We will not get oxygen to breathe. 2. We will not get fruit to eat or wood for furniture. 3. The air will not stay clean and the Earth's temperature will rise."
+     }
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "تین نقصانات لکھیں۔",
+       "en": "Write three harms."
+      },
+      {
+       "ur": "ہر نقصان کے ساتھ لکھیں کہ ایسا کیوں ہو گا۔",
+       "en": "With each harm, write why it would happen."
+      },
+      {
+       "ur": "آخر میں لکھیں: آپ درختوں کو بچانے کے لیے کیا کریں گے؟",
+       "en": "At the end, write: what will you do to save trees?"
+      }
+     ],
+     "model": {
+      "ur": "1۔ سانس لینا مشکل ہو جائے گا، کیونکہ پودے ہمیں آکسیجن دیتے ہیں۔ 2۔ گرمی بڑھ جائے گی، کیونکہ پودے زمین کا درجہ حرارت کم کرنے میں مدد دیتے ہیں۔ 3۔ پرندے اور جانور بھوکے رہیں گے، کیونکہ درخت انھیں خوراک دیتے ہیں۔ میں پودے لگاؤں گا، انھیں پانی دوں گا اور بلا وجہ درخت نہیں کاٹنے دوں گا۔",
+      "en": "1. Breathing will become difficult, because plants give us oxygen. 2. It will get hotter, because plants help to bring down the Earth's temperature. 3. Birds and animals will go hungry, because trees give them food. I will plant saplings, water them and not let anyone cut down trees without a reason."
+     }
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p052-a4",
+   "label": {
+    "ur": "سوال نمبر 4",
+    "en": "Question 4"
+   },
+   "orig": {
+    "ur": "پودوں سے ہمیں کون کون سے فائدے ہوتے ہیں؟ کوئی سے دو فوائد لکھیں۔ (i) ______ (ii) ______",
+    "en": "What benefits do we get from plants? Write any two benefits. (i) ______ (ii) ______"
+   },
+   "prompt": {
+    "ur": "پودے ہمیں کیا کیا دیتے ہیں؟ دو فائدے بتائیں۔",
+    "en": "What do plants give us? Name two benefits."
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "پودوں سے ملتا ہے",
+       "en": "We get it from plants",
+       "sym": "plant"
+      },
+      {
+       "ur": "پودوں سے نہیں ملتا",
+       "en": "We do not get it from plants",
+       "sym": "no"
+      }
+     ],
+     "items": [
+      {
+       "ur": "پھل",
+       "en": "Fruit",
+       "sym": "fruit",
+       "group": 0
+      },
+      {
+       "ur": "موبائل فون",
+       "en": "Mobile phone",
+       "sym": "mobile phone",
+       "group": 1
+      },
+      {
+       "ur": "لکڑی",
+       "en": "Wood",
+       "sym": "wood",
+       "group": 0
+      },
+      {
+       "ur": "شیشے کا گلاس",
+       "en": "Drinking glass",
+       "sym": "glass",
+       "group": 1
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "باب کے صفحات دوبارہ دیکھیں: پودے ہمیں کیا دیتے ہیں؟",
+       "en": "Look at the chapter pages again: what do plants give us?"
+      },
+      {
+       "ur": "کوئی سے دو فائدے لکھیں یا بتائیں۔",
+       "en": "Write or say any two benefits."
+      }
+     ],
+     "model": {
+      "ur": "(i) پودے ہمیں سانس لینے کے لیے آکسیجن اور کھانے کے لیے پھل دیتے ہیں۔ (ii) درختوں کی لکڑی سے گھر اور فرنیچر بنتا ہے۔",
+      "en": "(i) Plants give us oxygen to breathe and fruit to eat. (ii) Houses and furniture are made from the wood of trees."
+     }
+    },
+    "hard": {
+     "kind": "fill",
+     "questions": [
+      {
+       "q": {
+        "ur": "پودے ہمیں سانس لینے کے لیے ___ دیتے ہیں۔",
+        "en": "Plants give us ___ to breathe."
+       },
+       "options": [
+        {
+         "ur": "لکڑی",
+         "en": "wood"
+        },
+        {
+         "ur": "آکسیجن",
+         "en": "oxygen"
+        },
+        {
+         "ur": "دھواں",
+         "en": "smoke"
+        },
+        {
+         "ur": "مٹی",
+         "en": "soil"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "پودے ہمیں سانس لینے کے لیے آکسیجن دیتے ہیں۔",
+        "en": "Plants give us oxygen to breathe."
+       }
+      },
+      {
+       "q": {
+        "ur": "گھر اور فرنیچر بنانے کے لیے درختوں کی ___ استعمال ہوتی ہے۔",
+        "en": "The ___ of trees is used to make houses and furniture."
+       },
+       "options": [
+        {
+         "ur": "لکڑی",
+         "en": "wood"
+        },
+        {
+         "ur": "جڑ",
+         "en": "root"
+        },
+        {
+         "ur": "خوشبو",
+         "en": "scent"
+        },
+        {
+         "ur": "آکسیجن",
+         "en": "oxygen"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "درختوں کی لکڑی سے گھر اور فرنیچر بنتا ہے۔",
+        "en": "Houses and furniture are made from the wood of trees."
+       }
+      },
+      {
+       "q": {
+        "ur": "درخت، پرندوں اور جانوروں کو ___ مہیّا کرتے ہیں۔",
+        "en": "Trees provide ___ for birds and animals."
+       },
+       "options": [
+        {
+         "ur": "کپڑے",
+         "en": "clothes"
+        },
+        {
+         "ur": "کتابیں",
+         "en": "books"
+        },
+        {
+         "ur": "خوراک",
+         "en": "food"
+        },
+        {
+         "ur": "دھواں",
+         "en": "smoke"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "درخت پرندوں اور جانوروں کو خوراک مہیّا کرتے ہیں۔",
+        "en": "Trees provide food for birds and animals."
+       }
+      },
+      {
+       "q": {
+        "ur": "پودے ہوا کو ___ رکھتے ہیں۔",
+        "en": "Plants keep the air ___."
+       },
+       "options": [
+        {
+         "ur": "گندا",
+         "en": "dirty"
+        },
+        {
+         "ur": "گرم",
+         "en": "hot"
+        },
+        {
+         "ur": "کالا",
+         "en": "black"
+        },
+        {
+         "ur": "صاف",
+         "en": "clean"
+        }
+       ],
+       "answer": 3,
+       "fb": {
+        "ur": "پودے ہوا کو صاف رکھتے ہیں اور موسم کو خوش گوار بناتے ہیں۔",
+        "en": "Plants keep the air clean and make the weather pleasant."
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p052-a5",
+   "label": {
+    "ur": "سوال نمبر 5",
+    "en": "Question 5"
+   },
+   "orig": {
+    "ur": "تین ایسے پودوں کے نام بتائیں جن پر پُھول لگتے ہیں۔ (i) ______ (ii) ______ (iii) ______",
+    "en": "Name three plants that flowers grow on. (i) ______ (ii) ______ (iii) ______"
+   },
+   "prompt": {
+    "ur": "تین پُھول دار پودوں کے نام بتائیں۔",
+    "en": "Name three flowering plants."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "کس پودے پر پُھول لگتے ہیں؟",
+        "en": "Which plant do flowers grow on?"
+       },
+       "options": [
+        {
+         "ur": "گلاب",
+         "en": "Rose",
+         "sym": "rose"
+        },
+        {
+         "ur": "فرن",
+         "en": "Fern",
+         "sym": "fern"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "گلاب پر خوب صورت پُھول لگتے ہیں۔ فرن پر پُھول نہیں لگتے۔",
+        "en": "Beautiful flowers grow on a rose plant. Flowers do not grow on a fern."
+       }
+      },
+      {
+       "q": {
+        "ur": "کس پودے پر پُھول لگتے ہیں؟",
+        "en": "Which plant do flowers grow on?"
+       },
+       "options": [
+        {
+         "ur": "کائی",
+         "en": "Moss",
+         "sym": "moss"
+        },
+        {
+         "ur": "سورج مکھی",
+         "en": "Sunflower",
+         "sym": "sunflower"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "سورج مکھی پر بڑا پیلا پُھول لگتا ہے۔",
+        "en": "A big yellow flower grows on a sunflower plant."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "سوچیں: آپ نے اپنے گھر، سکول یا باغ میں کن پودوں پر پُھول دیکھے ہیں؟",
+       "en": "Think: on which plants have you seen flowers at home, at school or in a garden?"
+      },
+      {
+       "ur": "ایسے تین پودوں کے نام لکھیں یا بتائیں۔",
+       "en": "Write or say the names of three such plants."
+      }
+     ],
+     "model": {
+      "ur": "(i) گلاب (ii) سورج مکھی (iii) چنبیلی",
+      "en": "(i) Rose (ii) Sunflower (iii) Jasmine"
+     }
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "تین پُھول دار پودوں کے نام لکھیں۔",
+       "en": "Write the names of three flowering plants."
+      },
+      {
+       "ur": "ایک غیر پُھول دار پودے کا نام بھی لکھیں۔",
+       "en": "Also write the name of one non-flowering plant."
+      },
+      {
+       "ur": "بتائیں: پُھول دار اور غیر پُھول دار پودوں میں کیا فرق ہے؟",
+       "en": "Explain: what is the difference between flowering and non-flowering plants?"
+      }
+     ],
+     "model": {
+      "ur": "پُھول دار: گلاب، سورج مکھی، چنبیلی۔ غیر پُھول دار: فرن۔ فرق: پُھول دار پودوں میں پُھول، پھل اور بیج ہوتے ہیں، جب کہ غیر پُھول دار پودوں میں پُھول اور بیج نہیں بنتے۔",
+      "en": "Flowering: rose, sunflower, jasmine. Non-flowering: fern. Difference: flowering plants have flowers, fruits and seeds, but non-flowering plants do not make flowers or seeds."
+     }
+    }
+   }
+  },
+  {
+   "t": "teacher",
+   "ur": "بچوں کو پودوں کی اہمیت سے آگاہ کریں۔",
+   "en": "Help the children to understand the importance of plants."
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "جواب بھول جائیں تو باب کے صفحات دوبارہ دیکھیں: پودے کے حصّے (صفحہ 42)، کھائی جانے والی جڑیں (صفحہ 44)، پُھول دار پودے (صفحہ 45)، پودوں کے فائدے (صفحہ 46 اور 47)۔",
+   "en": "If you forget an answer, look at the chapter pages again: parts of a plant (page 42), roots that we eat (page 44), flowering plants (page 45), benefits of plants (pages 46 and 47)."
+  },
+  {
+   "for": "motor",
+   "ur": "لکھنے کی جگہ آپ جواب بول کر بتا سکتے ہیں، یا سوال نمبر 1 میں صحیح سبزی پر انگلی رکھ سکتے ہیں اور کوئی ساتھی ✓ لگا دے۔",
+   "en": "Instead of writing, you can say the answer aloud. In Question 1 you can point to the right vegetable and a partner can put the tick ✓ for you."
+  },
+  {
+   "for": "vision",
+   "ur": "سوال نمبر 2 کے لیے ایک اصلی پتّا اور جڑ والا چھوٹا پودا ہاتھ میں لیں۔ چھو کر بتائیں کہ کون سا حصّہ پتّا ہے اور کون سا جڑ۔",
+   "en": "For Question 2, hold a real leaf and a small plant with its root. Feel them and say which part is the leaf and which is the root."
+  },
+  {
+   "for": "teacher",
+   "ur": "سوال نمبر 3 اور 4 پہلے جماعت میں زبانی کروائیں اور بچوں کے خیالات بورڈ پر تصویروں کے ساتھ لکھیں؛ پھر ہر بچہ اپنی سہولت سے لکھے، تصویر بنائے یا بول کر جواب دے۔ ہر صحیح خیال قبول کریں، صرف کتاب کے الفاظ نہیں۔",
+   "en": "Do Questions 3 and 4 aloud with the class first, and write the children's ideas on the board with pictures. Then let each child write, draw or say the answer, whichever suits them. Accept every correct idea, not only the book's words."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "پودے: دہرائی",
+   "en": "Plants: revision"
+  },
+  "image": {
+   "crop": [
+    0.51,
+    0.344,
+    0.67,
+    0.4
+   ],
+   "alt": {
+    "ur": "ایک سبز پتّا۔",
+    "en": "A green leaf."
+   }
+  },
+  "sentences": [
+   {
+    "en": "A plant has a root.",
+    "words": [
+     {
+      "ur": "پودے",
+      "sym": "plant"
+     },
+     {
+      "ur": "کی",
+      "sym": null
+     },
+     {
+      "ur": "جڑ",
+      "img": [
+       0.51,
+       0.406,
+       0.67,
+       0.465
+      ]
+     },
+     {
+      "ur": "ہوتی",
+      "sym": null
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "A plant",
+      "sym": "plant"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "a root.",
+      "img": [
+       0.51,
+       0.406,
+       0.67,
+       0.465
+      ]
+     }
+    ]
+   },
+   {
+    "en": "A plant has leaves.",
+    "words": [
+     {
+      "ur": "پودے",
+      "sym": "plant"
+     },
+     {
+      "ur": "کے",
+      "sym": null
+     },
+     {
+      "ur": "پتّے",
+      "img": [
+       0.51,
+       0.344,
+       0.67,
+       0.4
+      ]
+     },
+     {
+      "ur": "ہوتے",
+      "sym": null
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "A plant",
+      "sym": "plant"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "leaves.",
+      "img": [
+       0.51,
+       0.344,
+       0.67,
+       0.4
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Plants give us fruit.",
+    "words": [
+     {
+      "ur": "پودے",
+      "sym": "plant"
+     },
+     {
+      "ur": "ہمیں",
+      "sym": "we"
+     },
+     {
+      "ur": "پھل",
+      "sym": "fruit"
+     },
+     {
+      "ur": "دیتے",
+      "sym": "to give"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Plants",
+      "sym": "plant"
+     },
+     {
+      "en": "give",
+      "sym": "to give"
+     },
+     {
+      "en": "us",
+      "sym": "we"
+     },
+     {
+      "en": "fruit.",
+      "sym": "fruit"
+     }
+    ]
+   },
+   {
+    "en": "Plants give us clean air.",
+    "words": [
+     {
+      "ur": "پودے",
+      "sym": "plant"
+     },
+     {
+      "ur": "ہمیں",
+      "sym": "we"
+     },
+     {
+      "ur": "صاف",
+      "sym": "clean"
+     },
+     {
+      "ur": "ہوا",
+      "sym": "air"
+     },
+     {
+      "ur": "دیتے",
+      "sym": "to give"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Plants",
+      "sym": "plant"
+     },
+     {
+      "en": "give",
+      "sym": "to give"
+     },
+     {
+      "en": "us",
+      "sym": "we"
+     },
+     {
+      "en": "clean",
+      "sym": "clean"
+     },
+     {
+      "en": "air.",
+      "sym": "air"
+     }
+    ]
+   },
+   {
+    "en": "We look after plants.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "پودوں",
+      "sym": "plant"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "خیال رکھتے",
+      "sym": "to take care"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "look after",
+      "sym": "to take care"
+     },
+     {
+      "en": "plants.",
+      "sym": "plant"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "تصویر کو اس کے نام سے ملائیں۔",
+    "en": "Match the picture to its name."
+   },
+   "task": {
+    "kind": "match",
+    "pairs": [
+     {
+      "a": {
+       "ur": "تصویر 1",
+       "en": "Picture 1",
+       "img": [
+        0.51,
+        0.344,
+        0.67,
+        0.4
+       ]
+      },
+      "b": {
+       "ur": "پتّا",
+       "en": "Leaf",
+       "sym": "leaf"
+      }
+     },
+     {
+      "a": {
+       "ur": "تصویر 2",
+       "en": "Picture 2",
+       "img": [
+        0.51,
+        0.406,
+        0.67,
+        0.465
+       ]
+      },
+      "b": {
+       "ur": "جڑ",
+       "en": "Root",
+       "sym": "root"
+      }
+     },
+     {
+      "a": {
+       "ur": "تصویر 3",
+       "en": "Picture 3",
+       "sym": "flower"
+      },
+      "b": {
+       "ur": "پُھول",
+       "en": "Flower"
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

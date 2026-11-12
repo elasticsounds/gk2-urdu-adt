@@ -1,0 +1,710 @@
+{
+ "n": 17,
+ "printed": "13",
+ "chapter": 2,
+ "kind": "content",
+ "title": {
+  "ur": "دیہات اور شہر: تعلیم اور ٹریفک",
+  "en": "Village and city: education and traffic"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "شہری زندگی",
+   "en": "City life"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.505,
+      0.179,
+      0.857,
+      0.405
+     ],
+     "alt": {
+      "ur": "شہر کی ایک بڑی یونیورسٹی کی پرانی، شاندار گلابی عمارت جس کے مینار ہیں اور سامنے ہرا میدان اور درخت ہیں۔",
+      "en": "The grand old pink building of a big city university, with towers, and a green lawn and trees in front."
+     },
+     "cap": {
+      "ur": "یونیورسٹی",
+      "en": "University"
+     }
+    },
+    {
+     "crop": [
+      0.505,
+      0.476,
+      0.859,
+      0.704
+     ],
+     "alt": {
+      "ur": "شہر کی ایک چوڑی سڑک جو گاڑیوں سے پوری بھری ہوئی ہے؛ گاڑیاں قطاروں میں رُکی کھڑی ہیں۔",
+      "en": "A wide city road completely full of vehicles, standing still in rows."
+     },
+     "cap": {
+      "ur": "ٹریفک کا شور و غل",
+      "en": "Traffic noise"
+     }
+    }
+   ]
+  },
+  {
+   "t": "h",
+   "ur": "دیہاتی زندگی",
+   "en": "Village life"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.131,
+      0.179,
+      0.482,
+      0.405
+     ],
+     "alt": {
+      "ur": "گاؤں کا ایک چھوٹا سکول: بہت سے بچے اور اساتذہ سکول کی سادہ عمارت کے سامنے کھلی جگہ میں بیٹھے اور کھڑے ہیں، اوپر پاکستان کا جھنڈا ہے۔",
+      "en": "A small village school: many children and teachers sit and stand in the open in front of the simple school building, with Pakistan's flag above."
+     },
+     "cap": {
+      "ur": "سکول",
+      "en": "School"
+     }
+    },
+    {
+     "crop": [
+      0.129,
+      0.476,
+      0.482,
+      0.704
+     ],
+     "alt": {
+      "ur": "گاؤں کی ایک کھلی، تقریباً خالی سڑک جس پر صرف ایک وین اور ایک گاڑی نظر آ رہی ہے۔",
+      "en": "An open, almost empty village road with only one van and one car on it."
+     },
+     "cap": {
+      "ur": "بہت کم ٹریفک",
+      "en": "Very little traffic"
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p017-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "(گروپ ورک) بچے رہنے کے لیے اپنی پسندیدہ جگہ (شہر یا دیہات) کے متعلق بتائیں اور اس کی دو وجوہات بھی بتائیں۔",
+    "en": "Group work: Children talk about the place where they would most like to live, a city or a village, and give two reasons for their choice."
+   },
+   "prompt": {
+    "ur": "آپ کہاں رہنا پسند کریں گے: شہر میں یا دیہات میں؟ اپنی وجہ بھی بتائیں۔ ہر جواب ٹھیک ہے!",
+    "en": "Where would you like to live: in a city or in a village? Give your reason too. Every answer is fine!"
+   },
+   "levels": {
+    "easy": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "شہر اور دیہات کی تصویریں دیکھیں۔",
+       "en": "Look at the pictures of the city and the village."
+      },
+      {
+       "ur": "جو جگہ آپ کو پسند ہے اس کی تصویر پر انگلی رکھیں یا اس کا نام لیں۔",
+       "en": "Point to the picture of the place you like, or say its name."
+      },
+      {
+       "ur": "ایک وجہ بتائیں: \"مجھے ___ پسند ہے کیونکہ ___۔\"",
+       "en": "Give one reason: \"I like ___ because ___.\""
+      }
+     ],
+     "model": {
+      "ur": "مجھے دیہات پسند ہے کیونکہ وہاں شور کم ہوتا ہے۔",
+      "en": "I like the village because it is less noisy there."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے اپنی پسند کی جگہ چنی۔",
+       "en": "I chose the place I like."
+      },
+      {
+       "ur": "میں نے ایک وجہ بتائی۔",
+       "en": "I gave one reason."
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "اپنے گروپ میں بیٹھیں۔",
+       "en": "Sit in your group."
+      },
+      {
+       "ur": "بتائیں کہ آپ کو رہنے کے لیے شہر پسند ہے یا دیہات۔",
+       "en": "Say whether you would like to live in a city or in a village."
+      },
+      {
+       "ur": "اپنی پسند کی دو وجوہات بتائیں۔",
+       "en": "Give two reasons for your choice."
+      },
+      {
+       "ur": "دوستوں کی پسند اور وجوہات بھی غور سے سنیں۔",
+       "en": "Listen carefully to your friends' choices and reasons too."
+      }
+     ],
+     "model": {
+      "ur": "مجھے شہر پسند ہے۔ پہلی وجہ: شہر میں بڑے سکول اور یونیورسٹی ہوتی ہے۔ دوسری وجہ: شہر میں اچھے ہسپتال ہوتے ہیں۔",
+      "en": "I like the city. My first reason is that a city has big schools and a university. My second reason is that a city has good hospitals."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے اپنی پسندیدہ جگہ بتائی۔",
+       "en": "I said which place is my favourite."
+      },
+      {
+       "ur": "میں نے دو وجوہات بتائیں۔",
+       "en": "I gave two reasons."
+      },
+      {
+       "ur": "میں نے دوسروں کی بات سنی۔",
+       "en": "I listened to others."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "اپنی پسندیدہ جگہ اور اس کی دو وجوہات لکھیں۔",
+       "en": "Write your favourite place and two reasons for it."
+      },
+      {
+       "ur": "اس جگہ کی ایک مشکل بھی لکھیں۔",
+       "en": "Also write one problem with that place."
+      },
+      {
+       "ur": "لکھیں کہ اس مشکل کو کیسے کم کیا جا سکتا ہے۔",
+       "en": "Write how that problem could be made smaller."
+      }
+     ],
+     "model": {
+      "ur": "مجھے دیہات پسند ہے کیونکہ وہاں ٹریفک بہت کم ہے اور ہوا صاف ہے۔ مشکل یہ ہے کہ وہاں یونیورسٹی نہیں ہوتی۔ اگر گاؤں کے قریب کالج بن جائے تو یہ مشکل کم ہو سکتی ہے۔",
+      "en": "I like the village because there is very little traffic and the air is clean. The problem is that there is no university there. If a college is built near the village, this problem can become smaller."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دو وجوہات لکھیں۔",
+       "en": "I wrote two reasons."
+      },
+      {
+       "ur": "میں نے ایک مشکل اور اس کا حل لکھا۔",
+       "en": "I wrote one problem and a way to solve it."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p017-a2",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "(یہ مشق کتاب میں نہیں ہے۔ یہ اس صفحے کے سبق کو دہرانے کے لیے بنائی گئی ہے۔)",
+    "en": "This practice is not in the book. It has been added to revise the lesson on this page."
+   },
+   "prompt": {
+    "ur": "اس صفحے کی تصویریں یاد کریں۔ یہ چیز کہاں کی ہے: دیہات یا شہر؟",
+    "en": "Remember the pictures on this page. Where does each thing belong: in the village or in the city?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "دیہات",
+       "en": "Village"
+      },
+      {
+       "ur": "شہر",
+       "en": "City"
+      }
+     ],
+     "items": [
+      {
+       "ur": "بہت کم ٹریفک",
+       "en": "Very little traffic",
+       "group": 0,
+       "img": [
+        0.129,
+        0.476,
+        0.482,
+        0.704
+       ]
+      },
+      {
+       "ur": "ٹریفک کا شور و غل",
+       "en": "Traffic noise",
+       "group": 1,
+       "img": [
+        0.505,
+        0.476,
+        0.859,
+        0.704
+       ]
+      },
+      {
+       "ur": "یونیورسٹی",
+       "en": "University",
+       "group": 1,
+       "img": [
+        0.505,
+        0.179,
+        0.857,
+        0.405
+       ]
+      },
+      {
+       "ur": "چھوٹا سکول",
+       "en": "Small school",
+       "group": 0,
+       "img": [
+        0.131,
+        0.179,
+        0.482,
+        0.405
+       ]
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "یہ تصویر کہاں کی ہے؟",
+        "en": "Where is this picture from?"
+       },
+       "options": [
+        {
+         "ur": "دیہات",
+         "en": "Village"
+        },
+        {
+         "ur": "شہر",
+         "en": "City"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "اتنی زیادہ گاڑیاں اور ٹریفک کا شور و غل شہر میں ہوتا ہے۔",
+        "en": "So many vehicles and so much traffic noise are found in a city."
+       },
+       "img": [
+        0.505,
+        0.476,
+        0.859,
+        0.704
+       ]
+      },
+      {
+       "q": {
+        "ur": "یہ تصویر کہاں کی ہے؟",
+        "en": "Where is this picture from?"
+       },
+       "options": [
+        {
+         "ur": "دیہات",
+         "en": "Village"
+        },
+        {
+         "ur": "شہر",
+         "en": "City"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "دیہات کی سڑکوں پر بہت کم ٹریفک ہوتی ہے۔",
+        "en": "Village roads have very little traffic."
+       },
+       "img": [
+        0.129,
+        0.476,
+        0.482,
+        0.704
+       ]
+      },
+      {
+       "q": {
+        "ur": "یونیورسٹی زیادہ تر کہاں ہوتی ہے؟",
+        "en": "Where do you mostly find a university?"
+       },
+       "options": [
+        {
+         "ur": "شہر",
+         "en": "City"
+        },
+        {
+         "ur": "دیہات",
+         "en": "Village"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "کتاب میں یونیورسٹی شہری زندگی کے نیچے دکھائی گئی ہے۔",
+        "en": "The book shows the university under city life."
+       },
+       "img": [
+        0.505,
+        0.179,
+        0.857,
+        0.405
+       ]
+      }
+     ]
+    },
+    "hard": {
+     "kind": "tf",
+     "questions": [
+      {
+       "q": {
+        "ur": "دیہات میں ٹریفک کا شور شہر سے زیادہ ہوتا ہے۔",
+        "en": "There is more traffic noise in the village than in the city."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "غلط۔ دیہات میں ٹریفک بہت کم ہوتی ہے؛ شور و غل شہر میں ہوتا ہے۔",
+        "en": "False. Villages have very little traffic; the noise is in the city."
+       }
+      },
+      {
+       "q": {
+        "ur": "شہروں میں تعلیم کی بہترین سہولیات ہوتی ہیں، جیسے یونیورسٹی۔",
+        "en": "Cities have the best education facilities, such as a university."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ کتاب بتاتی ہے کہ شہروں میں صحت اور تعلیم کی بہترین سہولیات موجود ہوتی ہیں۔",
+        "en": "True. The book says cities have the best health and education facilities."
+       }
+      },
+      {
+       "q": {
+        "ur": "دیہات میں سکول بالکل نہیں ہوتے۔",
+        "en": "There are no schools at all in villages."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "غلط۔ دیہات میں بھی سکول ہوتے ہیں، جیسے تصویر میں ہے، مگر تعلیم کی سہولیات کم ہوتی ہیں۔",
+        "en": "False. Villages have schools too, as in the picture, but there are fewer education facilities."
+       }
+      },
+      {
+       "q": {
+        "ur": "زیادہ گاڑیوں سے شور اور دھواں بڑھتا ہے۔",
+        "en": "More vehicles mean more noise and smoke."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "درست۔ اسی لیے شہر کا ماحول اتنا صاف نہیں ہوتا۔",
+        "en": "True. That is why the environment in a city is not so clean."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "دو چیزوں پر دھیان دیں: پڑھائی (سکول اور یونیورسٹی) اور سڑک (کم ٹریفک اور زیادہ ٹریفک)۔ سوچیں، آپ کے گھر کے پاس والی سڑک کیسی ہے؟",
+   "en": "Pay attention to two things: learning (school and university) and the road (little traffic and lots of traffic). Think: what is the road near your home like?"
+  },
+  {
+   "for": "hearing",
+   "ur": "\"شور و غل\" سمجھانے کے لیے تصویر میں گاڑیوں کی لمبی قطاریں دکھائیں اور کانوں پر ہاتھ رکھنے کا اشارہ کریں؛ \"کم ٹریفک\" کے لیے خالی سڑک دکھا کر خاموشی کا اشارہ کریں۔",
+   "en": "To explain \"noise\", show the long rows of vehicles in the picture and put your hands over your ears; to explain \"little traffic\", show the empty road and make the sign for quiet."
+  },
+  {
+   "for": "cognitive",
+   "ur": "سرگرمی میں صرف ایک وجہ بتانا بھی کافی ہے۔ یہ جملہ استعمال کریں: \"مجھے ___ پسند ہے کیونکہ ___۔\"",
+   "en": "In the activity, giving just one reason is enough. Use this sentence: \"I like ___ because ___.\""
+  },
+  {
+   "for": "teacher",
+   "ur": "یہ رائے کا سوال ہے؛ شہر یا دیہات دونوں جواب درست ہیں۔ بچے بول کر، اشارے سے، تصویر چن کر یا ڈرائنگ بنا کر جواب دے سکتے ہیں۔ کسی بچے کے رہنے کی جگہ کا مذاق نہ بننے دیں۔",
+   "en": "This is an opinion question; city and village are both right answers. Children may answer by speaking, by gesture, by choosing a picture or by drawing. Do not let anyone make fun of the place where a child lives."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "ٹریفک: کم اور زیادہ",
+   "en": "Traffic: a little and a lot"
+  },
+  "image": {
+   "crop": [
+    0.505,
+    0.476,
+    0.859,
+    0.704
+   ],
+   "alt": {
+    "ur": "شہر کی سڑک جو گاڑیوں سے بھری ہوئی ہے۔",
+    "en": "A city road full of vehicles."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Villages have little traffic.",
+    "words": [
+     {
+      "ur": "دیہات",
+      "sym": "village"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "ٹریفک",
+      "sym": "traffic"
+     },
+     {
+      "ur": "کم",
+      "sym": "few"
+     },
+     {
+      "ur": "ہوتی ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Villages",
+      "sym": "village"
+     },
+     {
+      "en": "have",
+      "sym": null
+     },
+     {
+      "en": "little",
+      "sym": "few"
+     },
+     {
+      "en": "traffic.",
+      "sym": "traffic"
+     }
+    ]
+   },
+   {
+    "en": "Cities have many cars.",
+    "words": [
+     {
+      "ur": "شہر",
+      "sym": "city"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "بہت",
+      "sym": "many"
+     },
+     {
+      "ur": "گاڑیاں",
+      "sym": "car"
+     },
+     {
+      "ur": "ہوتی ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Cities",
+      "sym": "city"
+     },
+     {
+      "en": "have",
+      "sym": null
+     },
+     {
+      "en": "many",
+      "sym": "many"
+     },
+     {
+      "en": "cars.",
+      "sym": "car"
+     }
+    ]
+   },
+   {
+    "en": "Cities are noisy.",
+    "words": [
+     {
+      "ur": "شہر",
+      "sym": "city"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "شور",
+      "sym": "noise"
+     },
+     {
+      "ur": "ہوتا ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Cities",
+      "sym": "city"
+     },
+     {
+      "en": "are",
+      "sym": null
+     },
+     {
+      "en": "noisy.",
+      "sym": "noise"
+     }
+    ]
+   },
+   {
+    "en": "Cities have a university.",
+    "words": [
+     {
+      "ur": "شہر",
+      "sym": "city"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "یونیورسٹی",
+      "sym": "university"
+     },
+     {
+      "ur": "ہوتی ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Cities",
+      "sym": "city"
+     },
+     {
+      "en": "have",
+      "sym": null
+     },
+     {
+      "en": "a",
+      "sym": null
+     },
+     {
+      "en": "university.",
+      "sym": "university"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "تصویر دیکھ کر جواب چنیں۔",
+    "en": "Look at the pictures and choose the answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "شور کہاں زیادہ ہے؟",
+       "en": "Where is there more noise?"
+      },
+      "options": [
+       {
+        "ur": "بھری ہوئی سڑک",
+        "en": "The crowded road",
+        "img": [
+         0.505,
+         0.476,
+         0.859,
+         0.704
+        ]
+       },
+       {
+        "ur": "خالی سڑک",
+        "en": "The empty road",
+        "img": [
+         0.129,
+         0.476,
+         0.482,
+         0.704
+        ]
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "جہاں زیادہ گاڑیاں ہوں وہاں زیادہ شور ہوتا ہے۔ یہ شہر ہے۔",
+       "en": "Where there are more vehicles, there is more noise. This is the city."
+      }
+     },
+     {
+      "q": {
+       "ur": "دیہات کی سڑک کون سی ہے؟",
+       "en": "Which is the village road?"
+      },
+      "options": [
+       {
+        "ur": "بھری ہوئی سڑک",
+        "en": "The crowded road",
+        "img": [
+         0.505,
+         0.476,
+         0.859,
+         0.704
+        ]
+       },
+       {
+        "ur": "خالی سڑک",
+        "en": "The empty road",
+        "img": [
+         0.129,
+         0.476,
+         0.482,
+         0.704
+        ]
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "دیہات کی سڑک پر بہت کم ٹریفک ہوتی ہے۔",
+       "en": "A village road has very little traffic."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

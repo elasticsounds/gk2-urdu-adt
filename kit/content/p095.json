@@ -1,0 +1,194 @@
+{
+  "n": 95,
+  "printed": "91",
+  "chapter": 16,
+  "kind": "exercise",
+  "title": {"ur": "مشق: غیر جانب داری", "en": "Exercise: impartiality"},
+  "blocks": [
+    {"t": "h", "ur": "مشق", "en": "Exercise"},
+    {"t": "activity",
+     "id": "p095-a1",
+     "label": {"ur": "سوال نمبر 1", "en": "Question 1"},
+     "orig": {"ur": "سوال نمبر 1۔ درست جملے کے سامنے ✓ اور غلط جملے کے سامنے ✗ کا نشان لگائیں۔ دوسروں کے ساتھ اچھے سلوک سے پیش آنا اچھی عادت ہے۔ اپنے حصّے سے زیادہ لینا بُری بات ہے۔ جو اپنی غلطی تسلیم نہیں کرتا وہ عظیم آدمی ہے۔ زندگی میں ہمیں انصاف پسندی کو اپنانا چاہیے۔", "en": "Question 1. Put a ✓ next to the correct sentence and a ✗ next to the wrong sentence. Treating others well is a good habit. Taking more than your share is a bad thing. A person who does not admit their mistake is a great person. We should choose to be fair in life."},
+     "prompt": {"ur": "ہر جملہ پڑھیں یا سنیں۔ اگر بات صحیح ہے تو ”درست“ دبائیں، اگر صحیح نہیں تو ”غلط“ دبائیں۔", "en": "Read or listen to each sentence. If it is right, press “True”. If it is not right, press “False”."},
+     "levels": {
+       "easy": {"kind": "tf", "questions": [
+         {"q": {"ur": "دوسروں کے ساتھ اچھا سلوک کرنا اچھی عادت ہے۔", "en": "Treating others well is a good habit."}, "answer": true,
+          "fb": {"ur": "درست۔ سب کے ساتھ اچھا سلوک کرنا اچھی عادت ہے۔", "en": "True. Treating everyone well is a good habit."}},
+         {"q": {"ur": "غلطی نہ ماننا اچھی بات ہے۔", "en": "Not admitting a mistake is a good thing."}, "answer": false,
+          "fb": {"ur": "غلط۔ اچھے لوگ اپنی غلطی مان لیتے ہیں، جیسے ہاتھی نے مانی۔", "en": "False. Good people admit their mistakes, as the elephant did."}}
+       ]},
+       "moderate": {"kind": "tf", "questions": [
+         {"q": {"ur": "دوسروں کے ساتھ اچھے سلوک سے پیش آنا اچھی عادت ہے۔", "en": "Treating others well is a good habit."}, "answer": true,
+          "fb": {"ur": "درست۔ اچھا سلوک کرنا اچھی عادت ہے۔", "en": "True. Treating others well is a good habit."}},
+         {"q": {"ur": "اپنے حصّے سے زیادہ لینا بُری بات ہے۔", "en": "Taking more than your share is a bad thing."}, "answer": true,
+          "fb": {"ur": "درست۔ اپنے حصّے سے زیادہ لینا ناانصافی ہے، اس لیے یہ بُری بات ہے۔", "en": "True. Taking more than your share is unfair, so it is a bad thing."}},
+         {"q": {"ur": "جو اپنی غلطی تسلیم نہیں کرتا وہ عظیم آدمی ہے۔", "en": "A person who does not admit their mistake is a great person."}, "answer": false,
+          "fb": {"ur": "غلط۔ عظیم آدمی وہ ہے جو اپنی غلطی مان لیتا ہے۔ کہانی میں ہاتھی نے بھی اپنی غلطی مان لی۔", "en": "False. A great person is one who admits their mistake. In the story the elephant too admitted his mistake."}},
+         {"q": {"ur": "زندگی میں ہمیں انصاف پسندی کو اپنانا چاہیے۔", "en": "We should choose to be fair in life."}, "answer": true,
+          "fb": {"ur": "درست۔ ہمیں ہمیشہ انصاف اور غیر جانب داری کا مظاہرہ کرنا چاہیے۔", "en": "True. We should always show justice and impartiality."}}
+       ]},
+       "hard": {"kind": "tf", "questions": [
+         {"q": {"ur": "دوسروں کے ساتھ اچھے سلوک سے پیش آنا اچھی عادت ہے۔", "en": "Treating others well is a good habit."}, "answer": true,
+          "fb": {"ur": "درست۔ اچھا سلوک کرنا اچھی عادت ہے۔", "en": "True. Treating others well is a good habit."}},
+         {"q": {"ur": "جو اپنی غلطی تسلیم نہیں کرتا وہ عظیم آدمی ہے۔", "en": "A person who does not admit their mistake is a great person."}, "answer": false,
+          "fb": {"ur": "غلط۔ عظیم آدمی وہ ہے جو اپنی غلطی مان لیتا ہے۔", "en": "False. A great person is one who admits their mistake."}},
+         {"q": {"ur": "اپنے حصّے سے زیادہ لینا بُری بات ہے۔", "en": "Taking more than your share is a bad thing."}, "answer": true,
+          "fb": {"ur": "درست۔ یہ دوسروں کے ساتھ ناانصافی ہے۔", "en": "True. It is unfair to others."}},
+         {"q": {"ur": "زندگی میں ہمیں انصاف پسندی کو اپنانا چاہیے۔", "en": "We should choose to be fair in life."}, "answer": true,
+          "fb": {"ur": "درست۔ ہمیں ہمیشہ انصاف کرنا چاہیے۔", "en": "True. We should always be fair."}},
+         {"q": {"ur": "شیر نے ہاتھی کا ساتھ دیا کیونکہ وہ اُس کا دوست تھا۔", "en": "The lion sided with the elephant because he was his friend."}, "answer": false,
+          "fb": {"ur": "غلط۔ شیر نے دوستی نہیں دیکھی، سچ دیکھا، اور ہاتھی کو سزا دی۔", "en": "False. The lion looked at the truth, not at friendship, and punished the elephant."}},
+         {"q": {"ur": "فیصلہ کرنے سے پہلے دونوں کی بات سننی چاہیے۔", "en": "We should listen to both sides before deciding."}, "answer": true,
+          "fb": {"ur": "درست۔ شیر نے بندر اور ہاتھی دونوں کی بات سنی، پھر فیصلہ کیا۔", "en": "True. The lion listened to both the monkey and the elephant, then decided."}}
+       ]}
+     }},
+    {"t": "activity",
+     "id": "p095-a2",
+     "label": {"ur": "سوال نمبر 2", "en": "Question 2"},
+     "orig": {"ur": "سوال نمبر 2۔ کیا بھالو اور کبوتر نے شیر کو سچ بتا کر اچھا کیا؟ آپ کی کیا رائے ہے۔", "en": "Question 2. Did the bear and the pigeon do well by telling the lion the truth? What is your opinion?"},
+     "prompt": {"ur": "بھالو اور کبوتر نے شیر کو سچ بتایا۔ کیا یہ اچھا کام تھا؟ اپنی رائے بتائیں۔", "en": "The bear and the pigeon told the lion the truth. Was that a good thing to do? Give your opinion."},
+     "levels": {
+       "easy": {"kind": "mcq", "questions": [
+         {"q": {"ur": "بھالو اور کبوتر نے سچ بتایا۔ کیا یہ اچھا کام تھا؟", "en": "The bear and the pigeon told the truth. Was that a good thing?"},
+          "options": [{"ur": "جی ہاں", "en": "Yes", "sym": "yes"}, {"ur": "جی نہیں", "en": "No", "sym": "no"}],
+          "answer": 0,
+          "fb": {"ur": "جی ہاں۔ سچ بتانا اچھا کام ہے۔ سچ کی وجہ سے بندر کو انصاف ملا۔", "en": "Yes. Telling the truth is a good thing. Because of the truth the monkey got justice."}}
+       ]},
+       "moderate": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "پہلے لکھیں: اچھا کیا یا نہیں؟", "en": "First write: was it good or not?"},
+           {"ur": "پھر لکھیں: کیوں؟", "en": "Then write: why?"}
+         ],
+         "model": {"ur": "جی ہاں، بھالو اور کبوتر نے سچ بتا کر اچھا کیا۔ اُن کے سچ بولنے سے شیر صحیح فیصلہ کر سکا اور بندر کو انصاف ملا۔", "en": "Yes, the bear and the pigeon did well by telling the truth. Because they told the truth, the lion could decide correctly and the monkey got justice."},
+         "checklist": [
+           {"ur": "میں نے اپنی رائے لکھی یا بتائی۔", "en": "I wrote or said my opinion."},
+           {"ur": "میں نے وجہ بتائی۔", "en": "I gave a reason."}
+         ]},
+       "hard": {"kind": "mcq", "questions": [
+         {"q": {"ur": "اگر بھالو اور کبوتر چپ رہتے تو کیا ہو سکتا تھا؟", "en": "What might have happened if the bear and the pigeon had stayed silent?"},
+          "options": [
+            {"ur": "بندر کو انصاف نہ ملتا", "en": "The monkey would not have got justice"},
+            {"ur": "ہاتھی خود سچ بتا دیتا", "en": "The elephant would have told the truth himself"},
+            {"ur": "کچھ بھی نہ بدلتا", "en": "Nothing would have changed"}],
+          "answer": 0,
+          "fb": {"ur": "ہاتھی جھوٹ بول رہا تھا۔ اگر کوئی سچ نہ بتاتا تو شیر کو سچ پتا نہ چلتا اور بندر کو انصاف نہ ملتا۔", "en": "The elephant was lying. If nobody had told the truth, the lion would not have known it and the monkey would not have got justice."}},
+         {"q": {"ur": "ہاتھی بہت بڑا اور طاقتور تھا، پھر بھی بھالو اور کبوتر نے سچ بولا۔ اس سے ہم کیا سیکھتے ہیں؟", "en": "The elephant was very big and strong, yet the bear and the pigeon told the truth. What do we learn from this?"},
+          "options": [
+            {"ur": "طاقتور کا ساتھ دینا چاہیے", "en": "We should side with the strong"},
+            {"ur": "ہمیں ہمت سے سچ بولنا چاہیے", "en": "We should tell the truth with courage"},
+            {"ur": "ہمیں چپ رہنا چاہیے", "en": "We should stay silent"}],
+          "answer": 1,
+          "fb": {"ur": "سچ بولنے کے لیے ہمت چاہیے۔ سچ بولنے سے ہی انصاف ہوتا ہے۔", "en": "Telling the truth takes courage. Justice happens only when the truth is told."}},
+         {"q": {"ur": "آپ نے دیکھا کہ کلاس میں ایک بچے نے دوسرے کی پنسل لے لی۔ اُستاد پوچھیں تو آپ کیا کریں گے؟", "en": "You saw one child take another's pencil in class. If the teacher asks, what will you do?"},
+          "options": [
+            {"ur": "کہوں گا مجھے نہیں پتا", "en": "Say I do not know"},
+            {"ur": "جو میرا دوست ہے اُس کا ساتھ دوں گا", "en": "Side with whoever is my friend"},
+            {"ur": "جو دیکھا وہ سچ سچ بتاؤں گا", "en": "Truthfully tell what I saw"}],
+          "answer": 2,
+          "fb": {"ur": "بھالو اور کبوتر کی طرح جو دیکھا وہ سچ بتانا چاہیے۔", "en": "Like the bear and the pigeon, we should tell the truth about what we saw."}}
+       ]}
+     }},
+    {"t": "activity",
+     "id": "p095-a3",
+     "label": {"ur": "سوال نمبر 3", "en": "Question 3"},
+     "orig": {"ur": "سوال نمبر 3۔ اگر آپ شیر کی جگہ ہوتے تو ہاتھی کے لیے کیا فیصلہ دیتے؟", "en": "Question 3. If you were in the lion's place, what decision would you give about the elephant?"},
+     "prompt": {"ur": "سوچیں کہ آپ جنگل کے بادشاہ ہیں۔ ہاتھی نے بندر کو تنگ کیا اور جھوٹ بولا۔ آپ کیا فیصلہ کریں گے؟", "en": "Imagine you are the king of the jungle. The elephant troubled the monkey and told a lie. What will you decide?"},
+     "levels": {
+       "easy": {"kind": "mcq", "questions": [
+         {"q": {"ur": "ہاتھی کے لیے اچھا فیصلہ کون سا ہے؟", "en": "Which is a good decision for the elephant?"},
+          "options": [{"ur": "ہاتھی معافی مانگے اور بندر کی مدد کرے", "en": "The elephant says sorry and helps the monkey", "sym": "to help"}, {"ur": "ہاتھی بندر کو اور تنگ کرے", "en": "The elephant troubles the monkey more", "sym": "to annoy"}],
+          "answer": 0,
+          "fb": {"ur": "اچھا فیصلہ وہ ہے جس سے غلطی ٹھیک ہو جائے: ہاتھی معافی مانگے اور بندر کی مدد کرے۔", "en": "A good decision puts the wrong right: the elephant says sorry and helps the monkey."}}
+       ]},
+       "moderate": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "یاد کریں: ہاتھی نے کون سی دو غلطیاں کیں؟", "en": "Remember: which two wrong things did the elephant do?"},
+           {"ur": "لکھیں کہ آپ کیا فیصلہ دیتے۔", "en": "Write what decision you would give."}
+         ],
+         "model": {"ur": "اگر میں شیر کی جگہ ہوتا تو ہاتھی سے کہتا کہ بندر سے معافی مانگے، اُس کے پھل واپس کرے اور آئندہ کسی کو تنگ نہ کرے۔", "en": "If I were in the lion's place, I would tell the elephant to say sorry to the monkey, give back his fruit and never trouble anyone again."},
+         "checklist": [
+           {"ur": "میں نے اپنا فیصلہ لکھا یا بتایا۔", "en": "I wrote or said my decision."},
+           {"ur": "میرا فیصلہ دونوں کے لیے انصاف والا ہے۔", "en": "My decision is fair to both."}
+         ]},
+       "hard": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "اپنا فیصلہ لکھیں۔", "en": "Write your decision."},
+           {"ur": "لکھیں کہ آپ کا فیصلہ انصاف والا کیوں ہے۔", "en": "Write why your decision is fair."},
+           {"ur": "لکھیں کہ اگر ہاتھی آپ کا دوست ہو تو کیا آپ کا فیصلہ بدل جائے گا؟ کیوں؟", "en": "Write whether your decision would change if the elephant were your friend. Why?"}
+         ],
+         "model": {"ur": "میں ہاتھی سے کہتا کہ وہ بندر سے معافی مانگے، ٹوٹی ہوئی شاخوں کی جگہ نئے پودے لگائے اور بندر کے بچوں کے لیے پھل لائے۔ یہ انصاف ہے کیونکہ اس سے بندر کا نقصان پورا ہوتا ہے۔ اگر ہاتھی میرا دوست ہوتا تب بھی میرا فیصلہ یہی ہوتا، کیونکہ انصاف سب کے لیے ایک جیسا ہوتا ہے۔", "en": "I would tell the elephant to say sorry to the monkey, plant new saplings in place of the broken branches and bring fruit for the monkey's children. This is fair because it makes up for the monkey's loss. Even if the elephant were my friend, my decision would be the same, because justice is the same for everyone."},
+         "checklist": [
+           {"ur": "میں نے فیصلہ اور اُس کی وجہ لکھی۔", "en": "I wrote the decision and the reason."},
+           {"ur": "میں نے بتایا کہ دوست کے لیے بھی فیصلہ وہی رہے گا۔", "en": "I said the decision stays the same even for a friend."}
+         ]}
+     }},
+    {"t": "activity",
+     "id": "p095-a4",
+     "label": {"ur": "سوال نمبر 4", "en": "Question 4"},
+     "orig": {"ur": "سوال نمبر 4۔ زبانی بتائیں کہ آپ نے کہانی سے کیا نتیجہ اخذ کیا ہے؟", "en": "Question 4. Say aloud what you have learned from the story."},
+     "prompt": {"ur": "بول کر یا اشاروں سے بتائیں: شیر، بندر اور ہاتھی کی کہانی سے آپ نے کیا سیکھا؟", "en": "Say aloud or sign: what did you learn from the story of the lion, the monkey and the elephant?"},
+     "levels": {
+       "easy": {"kind": "mcq", "questions": [
+         {"q": {"ur": "کہانی سے ہم نے کیا سیکھا؟", "en": "What did we learn from the story?"},
+          "options": [{"ur": "جھوٹ بولنا", "en": "To tell lies", "sym": "lie"}, {"ur": "انصاف کرنا", "en": "To be fair", "sym": "justice"}],
+          "answer": 1,
+          "fb": {"ur": "کہانی کا سبق ہے کہ ہمیشہ انصاف کرنا چاہیے۔", "en": "The lesson of the story is that we should always be fair."}}
+       ]},
+       "moderate": {"kind": "open", "mode": "talk",
+         "steps": [
+           {"ur": "سوچیں: شیر نے کیا اچھا کام کیا؟", "en": "Think: what good thing did the lion do?"},
+           {"ur": "ایک یا دو جملوں میں سبق بتائیں۔", "en": "Say the lesson in one or two sentences."}
+         ],
+         "model": {"ur": "اس کہانی سے میں نے یہ سیکھا کہ ہمیں ہمیشہ انصاف اور غیر جانب داری کا مظاہرہ کرنا چاہیے۔", "en": "From this story I learned that we should always show justice and impartiality."},
+         "checklist": [
+           {"ur": "میں نے کہانی کا سبق بتایا۔", "en": "I said the lesson of the story."},
+           {"ur": "میں نے صاف اور آرام سے بات کی۔", "en": "I spoke clearly and calmly."}
+         ]},
+       "hard": {"kind": "open", "mode": "talk",
+         "steps": [
+           {"ur": "کہانی کا سبق اپنے لفظوں میں بتائیں۔", "en": "Say the lesson of the story in your own words."},
+           {"ur": "بتائیں کہ ہر کردار سے کیا سیکھا: شیر، بھالو اور کبوتر، ہاتھی۔", "en": "Say what you learned from each character: the lion, the bear and the pigeon, the elephant."},
+           {"ur": "اپنی زندگی کی ایک مثال دیں جہاں آپ انصاف کر سکتے ہیں۔", "en": "Give one example from your own life where you can be fair."}
+         ],
+         "model": {"ur": "شیر سے سیکھا کہ دوست کے لیے بھی ناانصافی نہیں کرنی چاہیے۔ بھالو اور کبوتر سے سیکھا کہ سچ بولنا چاہیے۔ ہاتھی سے سیکھا کہ غلطی مان لینی چاہیے۔ میں کھیل میں سب کو باری دوں گا۔", "en": "From the lion I learned not to be unfair even for a friend. From the bear and the pigeon I learned to tell the truth. From the elephant I learned to admit a mistake. I will give everyone a turn when we play."},
+         "checklist": [
+           {"ur": "میں نے تینوں کرداروں سے ملنے والا سبق بتایا۔", "en": "I said the lesson from all three characters."},
+           {"ur": "میں نے اپنی زندگی کی مثال دی۔", "en": "I gave an example from my own life."}
+         ]}
+     }},
+    {"t": "teacher", "ur": "بچوں کو انصاف پسندی کے نتائج بتائیں۔", "en": "Tell the children about the results of being fair."}
+  ],
+  "hint": [
+    {"for": "all", "ur": "جواب دینے سے پہلے کہانی یاد کریں: بندر نے شکایت کی، ہاتھی نے جھوٹ بولا، بھالو اور کبوتر نے سچ بتایا، شیر نے انصاف کیا، ہاتھی نے غلطی مان لی۔", "en": "Before answering, recall the story: the monkey complained, the elephant lied, the bear and the pigeon told the truth, the lion was fair, the elephant admitted his mistake."},
+    {"for": "motor", "ur": "سوال 1 میں ✓ یا ✗ لکھنے کی جگہ انگوٹھا اوپر یا نیچے کر کے بتا سکتے ہیں۔ سوال 2 اور 3 کے جواب بول کر کسی کو لکھوا دیں۔", "en": "In Question 1, instead of writing ✓ or ✗ you can show thumbs up or thumbs down. For Questions 2 and 3, say your answers and let someone write them."},
+    {"for": "hearing", "ur": "سوال 4 زبانی ہے؛ آپ اشاروں کی زبان میں، تصویر بنا کر یا لکھ کر بھی جواب دے سکتے ہیں۔", "en": "Question 4 is oral; you may also answer in sign language, by drawing or in writing."},
+    {"for": "teacher", "ur": "سوال 2، 3 اور 4 رائے کے سوال ہیں؛ ہر سوچا سمجھا اور انصاف والا جواب قبول کریں۔ سوال 3 میں بچوں کو یاد دلائیں کہ اچھا فیصلہ نقصان پورا کرتا ہے، تکلیف نہیں دیتا۔ انصاف پسندی کے نتائج (اعتماد، دوستی، امن) تصویروں یا چھوٹے خاکے سے دکھائیں۔", "en": "Questions 2, 3 and 4 are opinion questions; accept every thoughtful, fair answer. In Question 3 remind children that a good decision repairs harm rather than causing pain. Show the results of fairness (trust, friendship, peace) with pictures or a short role play."}
+  ],
+  "easy": {
+    "title": {"ur": "ہم انصاف کرتے ہیں", "en": "We are fair"},
+    "image": null,
+    "sentences": [
+      {"en": "We tell the truth.", "words_en": [{"en": "We", "sym": "we"}, {"en": "tell", "sym": "to speak"}, {"en": "the truth.", "sym": "truth"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "سچ", "sym": "truth"}, {"ur": "بولتے", "sym": "to speak"}, {"ur": "ہیں۔", "sym": null}]},
+      {"en": "We are fair to everyone.", "words_en": [{"en": "We", "sym": "we"}, {"en": "are fair", "sym": "justice"}, {"en": "to", "sym": null}, {"en": "everyone.", "sym": "everybody"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "سب", "sym": "everybody"}, {"ur": "سے", "sym": null}, {"ur": "انصاف", "sym": "justice"}, {"ur": "کرتے", "sym": null}, {"ur": "ہیں۔", "sym": null}]},
+      {"en": "We take an equal share.", "words_en": [{"en": "We", "sym": "we"}, {"en": "take", "sym": "to take"}, {"en": "an equal", "sym": "equal"}, {"en": "share.", "sym": "to share"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "برابر", "sym": "equal"}, {"ur": "حصّہ", "sym": "to share"}, {"ur": "لیتے", "sym": "to take"}, {"ur": "ہیں۔", "sym": null}]},
+      {"en": "We admit our mistakes.", "words_en": [{"en": "We", "sym": "we"}, {"en": "admit", "sym": "yes"}, {"en": "our mistakes.", "sym": "mistake"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "اپنی", "sym": null}, {"ur": "غلطی", "sym": "mistake"}, {"ur": "مان", "sym": "yes"}, {"ur": "لیتے", "sym": null}, {"ur": "ہیں۔", "sym": null}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "ہر کام کو صحیح خانے میں رکھیں۔", "en": "Put each action in the right box."},
+      "task": {"kind": "sort",
+        "groups": [{"ur": "اچھا کام", "en": "Good action"}, {"ur": "بُرا کام", "en": "Bad action"}],
+        "items": [
+          {"ur": "سچ بولنا", "en": "Telling the truth", "sym": "truth", "group": 0},
+          {"ur": "جھوٹ بولنا", "en": "Telling lies", "sym": "lie", "group": 1},
+          {"ur": "برابر بانٹنا", "en": "Sharing equally", "sym": "to share", "group": 0},
+          {"ur": "تنگ کرنا", "en": "Troubling someone", "sym": "to annoy", "group": 1}
+        ]}
+    }
+  },
+  "print": true
+}

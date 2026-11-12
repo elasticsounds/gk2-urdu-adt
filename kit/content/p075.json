@@ -1,0 +1,680 @@
+{
+ "n": 75,
+ "printed": "71",
+ "chapter": 11,
+ "kind": "exercise",
+ "title": {
+  "ur": "مشق: حرارت اور روشنی",
+  "en": "Exercise: Heat and light"
+ },
+ "blocks": [
+  {
+   "t": "activity",
+   "id": "p075-a1",
+   "label": {
+    "ur": "سوال نمبر 2 (بقیہ)",
+    "en": "Question 2 (continued)"
+   },
+   "orig": {
+    "ur": "ستارے، ہیٹر، موم بتّی",
+    "en": "Stars, heater, candle"
+   },
+   "prompt": {
+    "ur": "پچھلے صفحے کا سوال جاری ہے۔ ہر چیز کو صحیح خانے میں رکھیں: قدرتی ذریعہ یا انسان کا بنایا ہوا؟",
+    "en": "The question from the previous page continues. Put each thing in the right box: a natural source or made by people?"
+   },
+   "task": {
+    "kind": "sort",
+    "groups": [
+     {
+      "ur": "قدرتی ذریعہ",
+      "en": "Natural source",
+      "sym": "nature"
+     },
+     {
+      "ur": "انسان کا بنایا ہوا",
+      "en": "Made by people",
+      "sym": "factory"
+     }
+    ],
+    "items": [
+     {
+      "ur": "ستارے",
+      "en": "Stars",
+      "sym": "star",
+      "group": 0
+     },
+     {
+      "ur": "ہیٹر",
+      "en": "Heater",
+      "sym": "heater",
+      "group": 1
+     },
+     {
+      "ur": "موم بتّی",
+      "en": "Candle",
+      "sym": "candle",
+      "group": 1
+     }
+    ]
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p075-a2",
+   "label": {
+    "ur": "سوال نمبر 3",
+    "en": "Question 3"
+   },
+   "orig": {
+    "ur": "روشنی کے کوئی سے دو قدرتی ذرائع کی تصاویر بنائیں اور اُن کے نام بھی لکھیں۔ نام ______ نام ______",
+    "en": "Draw pictures of any two natural sources of light and also write their names. Name ______ Name ______"
+   },
+   "prompt": {
+    "ur": "روشنی کے دو قدرتی ذرائع کی تصویریں بنائیں اور ان کے نام لکھیں۔",
+    "en": "Draw two natural sources of light and write their names."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "ان میں سے روشنی کا قدرتی ذریعہ کون سا ہے؟",
+        "en": "Which of these is a natural source of light?"
+       },
+       "options": [
+        {
+         "ur": "سورج",
+         "en": "Sun",
+         "sym": "sun"
+        },
+        {
+         "ur": "بلب",
+         "en": "Bulb",
+         "sym": "light bulb"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "سورج قدرتی ذریعہ ہے۔ بلب انسان نے بنایا ہے۔ اب سورج کی تصویر بنائیں!",
+        "en": "The sun is a natural source. The bulb is made by people. Now draw the sun!"
+       }
+      },
+      {
+       "q": {
+        "ur": "ان میں سے روشنی کا قدرتی ذریعہ کون سا ہے؟",
+        "en": "Which of these is a natural source of light?"
+       },
+       "options": [
+        {
+         "ur": "ٹارچ",
+         "en": "Torch",
+         "sym": "flashlight"
+        },
+        {
+         "ur": "چاند",
+         "en": "Moon",
+         "sym": "moon"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "چاند قدرتی ذریعہ ہے۔ ٹارچ انسان نے بنائی ہے۔ اب چاند کی تصویر بنائیں!",
+        "en": "The moon is a natural source. The torch is made by people. Now draw the moon!"
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "draw",
+     "steps": [
+      {
+       "ur": "سوچیں: روشنی کے قدرتی ذرائع کون سے ہیں؟ (صفحہ 67 دیکھیں۔)",
+       "en": "Think: what are the natural sources of light? (See page 67.)"
+      },
+      {
+       "ur": "دو خانے بنائیں اور ہر خانے میں ایک ذریعے کی تصویر بنائیں۔",
+       "en": "Draw two boxes and draw one source in each box."
+      },
+      {
+       "ur": "ہر تصویر کے نیچے اس کا نام لکھیں۔",
+       "en": "Write its name under each picture."
+      }
+     ],
+     "model": {
+      "ur": "سورج، چاند اور ستارے روشنی کے قدرتی ذرائع ہیں۔ ان میں سے کوئی سے دو بنائیں، مثلاً: نام: سورج — نام: چاند۔",
+      "en": "The sun, the moon and the stars are natural sources of light. Draw any two of them, for example: Name: sun — Name: moon."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دو تصویریں بنائیں۔",
+       "en": "I drew two pictures."
+      },
+      {
+       "ur": "دونوں قدرتی ذرائع ہیں (سورج، چاند یا ستارے)۔",
+       "en": "Both are natural sources (sun, moon or stars)."
+      },
+      {
+       "ur": "میں نے دونوں کے نام لکھے یا بتائے۔",
+       "en": "I wrote or said both names."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "draw",
+     "steps": [
+      {
+       "ur": "روشنی کے دو قدرتی ذرائع کی تصویریں بنائیں اور نام لکھیں۔",
+       "en": "Draw two natural sources of light and write their names."
+      },
+      {
+       "ur": "ہر تصویر کے نیچے ایک جملہ لکھیں کہ وہ ہمیں کب روشنی دیتا ہے۔",
+       "en": "Under each picture write one sentence about when it gives us light."
+      },
+      {
+       "ur": "ساتھ ہی روشنی کا ایک مصنوعی ذریعہ بھی بنائیں اور بتائیں کہ وہ قدرتی ذرائع سے کیسے مختلف ہے۔",
+       "en": "Also draw one artificial source of light and say how it is different from the natural sources."
+      }
+     ],
+     "model": {
+      "ur": "سورج: یہ ہمیں دن میں روشنی اور حرارت دیتا ہے۔ چاند: یہ ہمیں رات کو روشنی دیتا ہے۔ بلب مصنوعی ذریعہ ہے؛ اسے انسان نے بنایا ہے اور یہ بجلی سے جلتا ہے، جب کہ سورج اور چاند انسان نے نہیں بنائے۔",
+      "en": "Sun: it gives us light and heat in the day. Moon: it gives us light at night. A bulb is an artificial source; people made it and it works on electricity, whereas the sun and moon were not made by people."
+     }
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p075-a3",
+   "label": {
+    "ur": "سوال نمبر 4",
+    "en": "Question 4"
+   },
+   "orig": {
+    "ur": "سورج پودوں کے لیے کیوں اہم ہے؟ دو وجوہات لکھیں۔",
+    "en": "Why is the sun important for plants? Write two reasons."
+   },
+   "prompt": {
+    "ur": "سوچیں: سورج پودوں کو کیا دیتا ہے؟ دو وجوہات لکھیں یا بتائیں۔",
+    "en": "Think: what does the sun give to plants? Write or say two reasons."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "پودے کو بڑھنے کے لیے کیا چاہیے؟",
+        "en": "What does a plant need to grow?"
+       },
+       "options": [
+        {
+         "ur": "سورج کی روشنی",
+         "en": "Sunlight",
+         "sym": "sun"
+        },
+        {
+         "ur": "اندھیرا",
+         "en": "Darkness",
+         "sym": "dark"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "سورج کی روشنی پودوں کی نشوونما کے لیے ضروری ہے۔",
+        "en": "Sunlight is necessary for the growth of plants."
+       }
+      },
+      {
+       "q": {
+        "ur": "سورج پودوں کو روشنی کے ساتھ اور کیا دیتا ہے؟",
+        "en": "What else does the sun give plants along with light?"
+       },
+       "options": [
+        {
+         "ur": "برف",
+         "en": "Ice",
+         "sym": "ice"
+        },
+        {
+         "ur": "حرارت",
+         "en": "Heat",
+         "sym": "hot"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "سورج پودوں کو روشنی اور حرارت دونوں دیتا ہے۔",
+        "en": "The sun gives plants both light and heat."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "صفحہ 69 پر سورج مکھی کے پھولوں والی تصویر اور اس کے نیچے لکھا جملہ دیکھیں۔",
+       "en": "Look at the sunflower picture on page 69 and the sentence under it."
+      },
+      {
+       "ur": "یاد کریں: سورج ہمیں کون سی دو چیزیں دیتا ہے؟",
+       "en": "Remember: which two things does the sun give us?"
+      },
+      {
+       "ur": "دو وجوہات لکھیں، بولیں یا تصویر سے دکھائیں۔",
+       "en": "Write two reasons, say them, or show them in a drawing."
+      }
+     ],
+     "model": {
+      "ur": "(1) سورج کی روشنی پودوں اور فصلوں کی نشوونما (بڑھنے) کے لیے ضروری ہے۔ (2) سورج پودوں کو حرارت دیتا ہے؛ روشنی اور حرارت کے بغیر پودے اچھی طرح نہیں بڑھ سکتے۔",
+      "en": "(1) Sunlight is necessary for the growth of plants and crops. (2) The sun gives plants heat; without light and heat plants cannot grow well."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دو وجوہات بتائیں۔",
+       "en": "I gave two reasons."
+      },
+      {
+       "ur": "میں نے ”روشنی“ اور ”نشوونما“ کے لفظ استعمال کیے۔",
+       "en": "I used the words 'light' and 'growth'."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "do",
+     "steps": [
+      {
+       "ur": "ایک جیسے دو چھوٹے پودے (یا گیلی روئی پر چنے کے دانے) لیں۔",
+       "en": "Take two similar small plants (or chickpeas on wet cotton)."
+      },
+      {
+       "ur": "ایک کو دھوپ والی کھڑکی میں اور دوسرے کو بند الماری یا ڈبے میں رکھیں۔ دونوں کو برابر پانی دیں۔",
+       "en": "Put one in a sunny window and the other in a closed cupboard or box. Give both the same water."
+      },
+      {
+       "ur": "ایک ہفتے تک روز دیکھیں اور فرق لکھیں یا تصویر بنائیں۔",
+       "en": "Look every day for a week and write or draw the difference."
+      },
+      {
+       "ur": "بتائیں: اس تجربے سے سورج کے بارے میں کیا معلوم ہوا؟",
+       "en": "Say: what did this experiment show about the sun?"
+      }
+     ],
+     "model": {
+      "ur": "دھوپ والا پودا ہرا بھرا اور مضبوط رہا، جب کہ اندھیرے والا پودا پیلا اور کمزور ہو گیا۔ اس سے معلوم ہوا کہ سورج کی روشنی پودوں کی نشوونما کے لیے ضروری ہے۔",
+      "en": "The plant in the sun stayed green and strong, while the one in the dark turned yellow and weak. This shows that sunlight is necessary for the growth of plants."
+     }
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p075-a4",
+   "label": {
+    "ur": "سوال نمبر 5",
+    "en": "Question 5"
+   },
+   "orig": {
+    "ur": "آپ کے گھر میں کھانا بنانے کے لیے حرارت کے کون سے ذرائع استعمال ہوتے ہیں۔ ان کے نام لکھیں۔",
+    "en": "Which sources of heat are used in your home for making food? Write their names."
+   },
+   "prompt": {
+    "ur": "سوچیں: آپ کے گھر میں کھانا کس چیز پر پکتا ہے؟ نام لکھیں یا بتائیں۔",
+    "en": "Think: what is food cooked on in your home? Write or say the names."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "کھانا کس پر پکتا ہے؟",
+        "en": "What is food cooked on?"
+       },
+       "options": [
+        {
+         "ur": "پنکھا",
+         "en": "Fan",
+         "sym": "fan"
+        },
+        {
+         "ur": "چولہا",
+         "en": "Stove",
+         "sym": "stove"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "کھانا چولہے پر پکتا ہے۔ چولہا حرارت دیتا ہے۔",
+        "en": "Food is cooked on a stove. The stove gives heat."
+       }
+      },
+      {
+       "q": {
+        "ur": "چولہے میں کیا جلتا ہے؟",
+        "en": "What burns in a stove?"
+       },
+       "options": [
+        {
+         "ur": "گیس یا لکڑی",
+         "en": "Gas or wood",
+         "sym": "fire"
+        },
+        {
+         "ur": "پانی",
+         "en": "Water",
+         "sym": "water"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "چولہے میں گیس یا لکڑی جلتی ہے اور اس کی حرارت سے کھانا پکتا ہے۔",
+        "en": "Gas or wood burns in the stove and its heat cooks the food."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "گھر کے باورچی خانے کو یاد کریں یا امّی ابّو سے پوچھیں۔",
+       "en": "Remember your kitchen at home, or ask your parents."
+      },
+      {
+       "ur": "جن چیزوں پر کھانا پکتا یا گرم ہوتا ہے ان کے نام لکھیں، بولیں یا تصویر بنائیں۔",
+       "en": "Write, say or draw the things on which food is cooked or heated."
+      }
+     ],
+     "model": {
+      "ur": "ہر گھر کا جواب الگ ہو سکتا ہے، مثلاً: گیس کا چولہا، لکڑی کی آگ (مٹی کا چولہا یا تندور)، بجلی کا ہیٹر یا اوون، کوئلے کی انگیٹھی۔",
+      "en": "Each home may have a different answer, for example: gas stove, wood fire (clay stove or tandoor), electric heater or oven, coal brazier."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے اپنے گھر کے ذرائع کے نام بتائے۔",
+       "en": "I named the sources used in my home."
+      },
+      {
+       "ur": "میرے بتائے ہوئے ذرائع حرارت دیتے ہیں۔",
+       "en": "The sources I named give heat."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "اپنے گھر میں کھانا بنانے کے لیے حرارت کے ذرائع کے نام لکھیں۔",
+       "en": "Write the names of the sources of heat used for cooking in your home."
+      },
+      {
+       "ur": "لکھیں: سب سے زیادہ کون سا ذریعہ استعمال ہوتا ہے، اور اس میں کیا جلتا ہے؟",
+       "en": "Write: which source is used the most, and what burns in it?"
+      },
+      {
+       "ur": "باورچی خانے میں آگ سے بچاؤ کا ایک اصول لکھیں۔",
+       "en": "Write one rule for staying safe from fire in the kitchen."
+      },
+      {
+       "ur": "سوچیں: لکڑی کی جگہ گیس استعمال کرنے سے جنگلات کو کیا فائدہ ہوتا ہے؟ (پچھلا باب یاد کریں۔)",
+       "en": "Think: how does using gas instead of wood help forests? (Remember the previous chapter.)"
+      }
+     ],
+     "model": {
+      "ur": "ہمارے گھر میں گیس کا چولہا اور کبھی کبھی لکڑی کی آگ استعمال ہوتی ہے۔ سب سے زیادہ گیس کا چولہا استعمال ہوتا ہے جس میں گیس جلتی ہے۔ اصول: بچے چولہے کے قریب اکیلے نہ جائیں۔ گیس استعمال کرنے سے لکڑی کم جلتی ہے اور درخت کم کٹتے ہیں۔",
+      "en": "In our home a gas stove and sometimes a wood fire are used. The gas stove, which burns gas, is used the most. Rule: children should not go near the stove alone. Using gas means less wood is burned and fewer trees are cut."
+     }
+    }
+   }
+  },
+  {
+   "t": "teacher",
+   "ur": "بچوں کو حرارت اور روشنی میں فرق اور اُن کا استعمال بتائیں۔",
+   "en": "Tell the children the difference between heat and light, and their uses."
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "جواب ڈھونڈنے کے لیے پیچھے دیکھیں: قدرتی ذرائع صفحہ 67 پر، اور سورج اور پودوں والی بات صفحہ 69 پر ہے۔",
+   "en": "Look back to find the answers: natural sources are on page 67, and the sun and plants are on page 69."
+  },
+  {
+   "for": "vision",
+   "ur": "سوال 3 میں تصویر بنانے کی جگہ مٹی یا آٹے سے گول سورج، ہلال چاند یا ستارہ بنائیں، یا موٹے دھاگے/گوند سے ابھری ہوئی لکیر والی تصویر بنائیں اور نام بول کر بتائیں۔",
+   "en": "In Question 3, instead of drawing, model a round sun, a crescent moon or a star from clay or dough, or make a raised-line picture with thick string or glue, and say the names aloud."
+  },
+  {
+   "for": "motor",
+   "ur": "تصویر بنانا یا لکھنا مشکل ہو تو تیار تصویروں میں سے دو قدرتی ذرائع چن کر چپکائیں، اور سوال 4 اور 5 کے جواب بول کر کسی ساتھی یا استاد کو لکھوائیں۔",
+   "en": "If drawing or writing is hard, choose and paste two natural sources from ready-made pictures, and dictate your answers to Questions 4 and 5 to a buddy or the teacher."
+  },
+  {
+   "for": "teacher",
+   "ur": "سوال 5 میں ہر گھر کا جواب مختلف ہوگا (گیس، لکڑی، اُپلے، کوئلہ، بجلی) — سب جواب عزّت سے قبول کریں اور کسی بچے کے گھر کے ذریعے کا موازنہ یا مذاق نہ ہونے دیں۔ زبانی، تصویری اور اشاروں والے جواب بھی پورے نمبر کے حق دار ہیں۔",
+   "en": "In Question 5 every home's answer will differ (gas, wood, dung cakes, coal, electricity) — accept all answers respectfully and allow no comparing or teasing about any child's home. Oral, drawn and signed answers deserve full credit too."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "حرارت اور روشنی: دہرائی",
+   "en": "Heat and light: revision"
+  },
+  "image": null,
+  "sentences": [
+   {
+    "en": "The sun is a natural source.",
+    "words": [
+     {
+      "ur": "سورج",
+      "sym": "sun"
+     },
+     {
+      "ur": "قدرتی",
+      "sym": "nature"
+     },
+     {
+      "ur": "ذریعہ",
+      "sym": null
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The sun",
+      "sym": "sun"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "a",
+      "sym": null
+     },
+     {
+      "en": "natural",
+      "sym": "nature"
+     },
+     {
+      "en": "source.",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "People make bulbs.",
+    "words": [
+     {
+      "ur": "بلب",
+      "sym": "light bulb"
+     },
+     {
+      "ur": "انسان",
+      "sym": "person"
+     },
+     {
+      "ur": "نے",
+      "sym": null
+     },
+     {
+      "ur": "بنایا ہے۔",
+      "sym": "to make"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "People",
+      "sym": "person"
+     },
+     {
+      "en": "make",
+      "sym": "to make"
+     },
+     {
+      "en": "bulbs.",
+      "sym": "light bulb"
+     }
+    ]
+   },
+   {
+    "en": "The sun makes plants grow.",
+    "words": [
+     {
+      "ur": "سورج",
+      "sym": "sun"
+     },
+     {
+      "ur": "پودوں",
+      "sym": "plant"
+     },
+     {
+      "ur": "کو",
+      "sym": null
+     },
+     {
+      "ur": "بڑھاتا ہے۔",
+      "sym": "to grow"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The sun",
+      "sym": "sun"
+     },
+     {
+      "en": "makes",
+      "sym": null
+     },
+     {
+      "en": "plants",
+      "sym": "plant"
+     },
+     {
+      "en": "grow.",
+      "sym": "to grow"
+     }
+    ]
+   },
+   {
+    "en": "Food cooks on a stove.",
+    "words": [
+     {
+      "ur": "کھانا",
+      "sym": "food"
+     },
+     {
+      "ur": "چولہے",
+      "sym": "stove"
+     },
+     {
+      "ur": "پر",
+      "sym": null
+     },
+     {
+      "ur": "پکتا ہے۔",
+      "sym": "to cook"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Food",
+      "sym": "food"
+     },
+     {
+      "en": "cooks",
+      "sym": "to cook"
+     },
+     {
+      "en": "on",
+      "sym": null
+     },
+     {
+      "en": "a stove.",
+      "sym": "stove"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "ہر چیز کو صحیح خانے میں رکھیں۔",
+    "en": "Put each thing in the right box."
+   },
+   "task": {
+    "kind": "sort",
+    "groups": [
+     {
+      "ur": "قدرتی ذریعہ",
+      "en": "Natural source",
+      "sym": "nature"
+     },
+     {
+      "ur": "انسان کا بنایا ہوا",
+      "en": "Made by people",
+      "sym": "factory"
+     }
+    ],
+    "items": [
+     {
+      "ur": "سورج",
+      "en": "Sun",
+      "sym": "sun",
+      "group": 0
+     },
+     {
+      "ur": "بلب",
+      "en": "Bulb",
+      "sym": "light bulb",
+      "group": 1
+     },
+     {
+      "ur": "ستارے",
+      "en": "Stars",
+      "sym": "star",
+      "group": 0
+     },
+     {
+      "ur": "موم بتّی",
+      "en": "Candle",
+      "sym": "candle",
+      "group": 1
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

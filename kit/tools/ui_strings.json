@@ -1,0 +1,14 @@
+{
+ "praise1": {"ur": "شاباش! بالکل درست۔", "en": "Well done! Exactly right."},
+ "praise2": {"ur": "واہ! بہت خوب۔", "en": "Wow! Very good."},
+ "praise3": {"ur": "زبردست! آپ نے ٹھیک جواب دیا۔", "en": "Great! You answered correctly."},
+ "retry": {"ur": "دوبارہ کوشش کریں۔", "en": "Try again."},
+ "reveal": {"ur": "کوئی بات نہیں۔ درست جواب یہ ہے۔", "en": "No problem. Here is the correct answer."},
+ "alldone": {"ur": "آپ نے یہ سرگرمی مکمل کر لی!", "en": "You finished this activity!"},
+ "orderBad": {"ur": "کچھ چیزیں ابھی اپنی جگہ پر نہیں ہیں۔ دوبارہ کوشش کریں۔", "en": "Some things are not in the right place yet. Try again."},
+ "fact": {"ur": "کیا آپ جانتے ہیں؟", "en": "Do you know?"},
+ "teacher": {"ur": "برائے اساتذہ", "en": "For teachers"},
+ "easyAct": {"ur": "آسان سرگرمی", "en": "Easy activity"},
+ "tTrue": {"ur": "درست", "en": "True"},
+ "tFalse": {"ur": "غلط", "en": "False"}
+}

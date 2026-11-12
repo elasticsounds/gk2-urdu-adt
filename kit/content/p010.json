@@ -1,0 +1,365 @@
+{
+ "n": 10,
+ "printed": "6",
+ "chapter": 1,
+ "kind": "content",
+ "title": {
+  "ur": "صوبہ خیبر پختون خوا",
+  "en": "Khyber Pakhtunkhwa province"
+ },
+ "blocks": [
+  {
+   "t": "fact",
+   "ur": "مالم جبہ اور جھیل سیف الملوک سیاحتی اعتبار سے بہت اہمیت رکھتے ہیں۔",
+   "en": "Malam Jabba and Lake Saif-ul-Malook are very important places for tourism."
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.175,
+    0.188,
+    0.855,
+    0.535
+   ],
+   "alt": {
+    "ur": "بابِ خیبر: پتھروں سے بنا بڑا دروازہ جس کے دونوں طرف گول برج ہیں اور بیچ میں سڑک کے اوپر محراب ہے۔ اوپر پاکستان کا پرچم لہرا رہا ہے۔",
+    "en": "Bab-e-Khyber: a big gateway built of stone, with a round tower on each side and an arch over the road in the middle. The flag of Pakistan is flying on top."
+   },
+   "cap": {
+    "ur": "بابِ خیبر",
+    "en": "Bab-e-Khyber"
+   }
+  },
+  {
+   "t": "p",
+   "ur": "یہاں کے لوگ پشتو، ہندکو، سرائیکی، کھوار اور کوہستانی زبانیں بولتے ہیں۔ مردوں کا لباس شلوار قمیص، پگڑی، چترالی ٹوپی، قراقلی اور پشاوری چپل ہیں۔ عورتیں کڑھائی والی قمیص اور شلوار پہنتی ہیں۔",
+   "en": "The people here speak the Pashto, Hindko, Saraiki, Khowar and Kohistani languages. Men's dress is shalwar qameez, a turban, a Chitrali cap, a karakul cap and Peshawari sandals. Women wear an embroidered qameez and shalwar."
+  },
+  {
+   "t": "p",
+   "ur": "یہاں کے مشہور کھانے پلاؤ اور چپلی کباب ہیں۔ قہوہ بھی شوق سے پیا جاتا ہے۔",
+   "en": "The famous foods here are pulao and chapli kabab. People also love to drink green tea."
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.172,
+    0.597,
+    0.503,
+    0.795
+   ],
+   "alt": {
+    "ur": "پلیٹ میں دو گول چپٹے چپلی کباب جن کے اوپر ٹماٹر کے قتلے ہیں اور ساتھ لیموں کا ٹکڑا رکھا ہے۔",
+    "en": "Two round, flat chapli kababs on a plate, with slices of tomato on top and a piece of lemon beside them."
+   }
+  },
+  {
+   "t": "fact",
+   "ur": "\"اتن\" اور \"خٹک\" یہاں کے مشہور رقص ہیں۔",
+   "en": "\"Attan\" and \"Khattak\" are the famous dances here."
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "خیبر پختون خوا کی تین باتیں: زبان پشتو — لباس چترالی ٹوپی اور پشاوری چپل — کھانا پلاؤ اور چپلی کباب۔ پچھلے صفحے سے یاد کریں: اس کا دارالحکومت پشاور ہے۔",
+   "en": "Three things about Khyber Pakhtunkhwa: the language is Pashto, the dress is the Chitrali cap and Peshawari sandals, and the food is pulao and chapli kabab. Remember from the last page: its capital is Peshawar."
+  },
+  {
+   "for": "vision",
+   "ur": "تصویروں کی وضاحت سنیں۔ بابِ خیبر کی شکل سمجھنے کے لیے دو گلاس کھڑے کریں اور ان کے اوپر ایک کتاب رکھیں: دو برج اور بیچ میں دروازہ۔",
+   "en": "Listen to the picture descriptions. To understand the shape of Bab-e-Khyber, stand two glasses up and lay a book on top of them: two towers with a gate in between."
+  },
+  {
+   "for": "hearing",
+   "ur": "زبانوں کے نام (پشتو، ہندکو، کھوار) لکھے ہوئے کارڈوں پر دکھائیں۔ رقص ’’اتن‘‘ اور ’’خٹک‘‘ کی ویڈیو آواز کے بغیر بھی دیکھی اور سمجھی جا سکتی ہے۔",
+   "en": "Show the names of the languages (Pashto, Hindko, Khowar) written on cards. A video of the 'Attan' and 'Khattak' dances can be watched and understood even without sound."
+  },
+  {
+   "for": "teacher",
+   "ur": "اگر کلاس میں کوئی بچہ پشتو یا ہندکو بولتا ہے تو اس سے ’’سلام‘‘ یا ’’شکریہ‘‘ اپنی زبان میں سکھانے کو کہیں۔ اس سے ہر بچے کی زبان کی عزت بڑھتی ہے۔",
+   "en": "If a child in the class speaks Pashto or Hindko, ask them to teach everyone 'hello' or 'thank you' in their language. This builds respect for every child's language."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "صوبہ خیبر پختون خوا",
+   "en": "Khyber Pakhtunkhwa province"
+  },
+  "image": {
+   "crop": [
+    0.175,
+    0.188,
+    0.855,
+    0.535
+   ],
+   "alt": {
+    "ur": "بابِ خیبر: پتھروں کا بڑا دروازہ جس پر پاکستان کا پرچم ہے۔",
+    "en": "Bab-e-Khyber: a big stone gate with the flag of Pakistan on it."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Khyber Pakhtunkhwa is a province of Pakistan.",
+    "words": [
+     {
+      "ur": "خیبر پختون خوا",
+      "sym": "map"
+     },
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "صوبہ",
+      "sym": "region"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Khyber Pakhtunkhwa",
+      "sym": "map"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "a province",
+      "sym": "region"
+     },
+     {
+      "en": "of",
+      "sym": null
+     },
+     {
+      "en": "Pakistan.",
+      "sym": "Pakistan"
+     }
+    ]
+   },
+   {
+    "en": "There are beautiful mountains here.",
+    "words": [
+     {
+      "ur": "یہاں",
+      "sym": "here"
+     },
+     {
+      "ur": "خوب صورت",
+      "sym": "beautiful"
+     },
+     {
+      "ur": "پہاڑ",
+      "sym": "mountain"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "There are",
+      "sym": null
+     },
+     {
+      "en": "beautiful",
+      "sym": "beautiful"
+     },
+     {
+      "en": "mountains",
+      "sym": "mountain"
+     },
+     {
+      "en": "here.",
+      "sym": "here"
+     }
+    ]
+   },
+   {
+    "en": "People speak the Pashto language.",
+    "words": [
+     {
+      "ur": "لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "پشتو",
+      "sym": "language"
+     },
+     {
+      "ur": "زبان",
+      "sym": "to talk"
+     },
+     {
+      "ur": "بولتے ہیں۔",
+      "sym": "to speak"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "People",
+      "sym": "people"
+     },
+     {
+      "en": "speak",
+      "sym": "to speak"
+     },
+     {
+      "en": "the Pashto",
+      "sym": "to talk"
+     },
+     {
+      "en": "language.",
+      "sym": "language"
+     }
+    ]
+   },
+   {
+    "en": "People eat chapli kabab.",
+    "words": [
+     {
+      "ur": "لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "چپلی کباب",
+      "img": [
+       0.172,
+       0.597,
+       0.503,
+       0.795
+      ]
+     },
+     {
+      "ur": "کھاتے ہیں۔",
+      "sym": "to eat"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "People",
+      "sym": "people"
+     },
+     {
+      "en": "eat",
+      "sym": "to eat"
+     },
+     {
+      "en": "chapli kabab.",
+      "img": [
+       0.172,
+       0.597,
+       0.503,
+       0.795
+      ]
+     }
+    ]
+   },
+   {
+    "en": "People drink green tea.",
+    "words": [
+     {
+      "ur": "لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "قہوہ",
+      "sym": "tea"
+     },
+     {
+      "ur": "پیتے ہیں۔",
+      "sym": "to drink"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "People",
+      "sym": "people"
+     },
+     {
+      "en": "drink",
+      "sym": "to drink"
+     },
+     {
+      "en": "green tea.",
+      "sym": "tea"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "یہ کون سا کھانا ہے؟",
+       "en": "Which food is this?"
+      },
+      "options": [
+       {
+        "ur": "چاول",
+        "en": "Rice",
+        "sym": "rice"
+       },
+       {
+        "ur": "چپلی کباب",
+        "en": "Chapli kabab",
+        "sym": "hamburger"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "یہ چپلی کباب ہے۔ یہ خیبر پختون خوا کا مشہور کھانا ہے۔",
+       "en": "This is chapli kabab. It is a famous food of Khyber Pakhtunkhwa."
+      },
+      "img": [
+       0.172,
+       0.597,
+       0.503,
+       0.795
+      ]
+     },
+     {
+      "q": {
+       "ur": "خیبر پختون خوا میں کیا ہے؟",
+       "en": "What is there in Khyber Pakhtunkhwa?"
+      },
+      "options": [
+       {
+        "ur": "خوب صورت پہاڑ",
+        "en": "Beautiful mountains",
+        "sym": "mountain"
+       },
+       {
+        "ur": "سمندر",
+        "en": "The sea",
+        "sym": "sea"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "خیبر پختون خوا میں خوب صورت پہاڑ اور وادیاں ہیں۔",
+       "en": "Khyber Pakhtunkhwa has beautiful mountains and valleys."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": false
+}

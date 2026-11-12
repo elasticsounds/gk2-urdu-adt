@@ -1,0 +1,839 @@
+{
+ "n": 87,
+ "printed": "83",
+ "chapter": 14,
+ "kind": "exercise",
+ "title": {
+  "ur": "مشق: دوسروں کا احترام",
+  "en": "Exercise: Respecting others"
+ },
+ "blocks": [
+  {
+   "t": "activity",
+   "id": "p087-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "کیا آپ کسی دوسرے شہر/صوبے/ملک گئے ہیں؟ اگر ہاں تو وہاں کے بارے میں اپنے دوستوں کو بتائیں کہ اُن کا لباس، رہن سہن، کھانا پینا اور روز مرّہ کے معمولات کس طرح آپ سے ملتے جلتے اور کس طرح مختلف ہیں۔",
+    "en": "Have you been to another city, province or country? If yes, tell your friends about it: how the people's dress, way of living, food and drink, and daily routines are similar to yours and how they are different."
+   },
+   "prompt": {
+    "ur": "کسی دوسری جگہ کے لوگوں کے بارے میں بتائیں: وہ کن باتوں میں آپ جیسے ہیں اور کن باتوں میں مختلف؟",
+    "en": "Tell us about people from another place: in what ways are they like you, and in what ways are they different?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "کسی ایک جگہ کا نام بتائیں جہاں آپ گئے ہیں (نانی کا گاؤں یا کوئی دوسرا شہر بھی ٹھیک ہے)۔",
+       "en": "Name one place you have been to (your grandmother's village or another town is fine too)."
+      },
+      {
+       "ur": "بتائیں یا تصویر دکھائیں: وہاں لوگ کیا کھاتے ہیں؟",
+       "en": "Say or show a picture: what do people eat there?"
+      },
+      {
+       "ur": "بتائیں: کیا آپ بھی وہی کھاتے ہیں؟ ہاں یا نہیں؟",
+       "en": "Say: do you eat the same food? Yes or no?"
+      }
+     ],
+     "model": {
+      "ur": "میں اپنی نانی کے گاؤں گیا تھا۔ وہاں لوگ مکئی کی روٹی اور ساگ کھاتے ہیں۔ میں بھی روٹی کھاتا ہوں۔",
+      "en": "I went to my grandmother's village. People there eat maize bread and cooked greens. I eat bread too."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے ایک جگہ کا نام بتایا۔",
+       "en": "I named one place."
+      },
+      {
+       "ur": "میں نے ایک ملتی جلتی یا مختلف بات بتائی۔",
+       "en": "I said one thing that is similar or different."
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "اس شہر، صوبے یا ملک کا نام بتائیں جہاں آپ گئے ہیں۔ اگر کہیں نہیں گئے تو کسی ایسے دوست یا ہمسائے کے بارے میں بتائیں جو کسی اور جگہ سے آیا ہو۔",
+       "en": "Name the city, province or country you visited. If you have not been anywhere, tell us about a friend or neighbour who has come from another place."
+      },
+      {
+       "ur": "ان چار باتوں کے بارے میں بتائیں: لباس، رہن سہن، کھانا پینا، روزمرّہ کے معمولات۔",
+       "en": "Talk about these four things: dress, way of living, food and drink, daily routines."
+      },
+      {
+       "ur": "بتائیں: کون سی بات آپ سے ملتی جلتی ہے؟",
+       "en": "Say: which thing is similar to yours?"
+      },
+      {
+       "ur": "بتائیں: کون سی بات آپ سے مختلف ہے؟",
+       "en": "Say: which thing is different from yours?"
+      }
+     ],
+     "model": {
+      "ur": "میں گرمیوں کی چھٹیوں میں سوات گیا تھا۔ وہاں کے لوگ گرم کپڑے اور ٹوپی پہنتے ہیں کیوں کہ وہاں سردی ہوتی ہے۔ وہ بھی ہماری طرح روٹی کھاتے ہیں اور ان کے بچے بھی سکول جاتے ہیں۔ ان کی زبان ہم سے مختلف ہے۔",
+      "en": "In the summer holidays I went to Swat. People there wear warm clothes and caps because it is cold. Like us they eat bread and their children go to school too. Their language is different from ours."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے جگہ کا نام بتایا۔",
+       "en": "I named the place."
+      },
+      {
+       "ur": "میں نے ایک ملتی جلتی بات بتائی۔",
+       "en": "I said one thing that is similar."
+      },
+      {
+       "ur": "میں نے ایک مختلف بات بتائی۔",
+       "en": "I said one thing that is different."
+      },
+      {
+       "ur": "میں نے وہاں کے لوگوں کے بارے میں عزت سے بات کی۔",
+       "en": "I spoke about the people there with respect."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "کاپی میں دو خانے بنائیں: “ملتی جلتی باتیں” اور “مختلف باتیں”۔",
+       "en": "Draw two boxes in your notebook: “Similar things” and “Different things”."
+      },
+      {
+       "ur": "لباس، رہن سہن، کھانے پینے اور روزمرّہ کے معمولات کے بارے میں ہر خانے میں کم از کم دو باتیں لکھیں۔",
+       "en": "Write at least two things in each box about dress, way of living, food and drink, and daily routines."
+      },
+      {
+       "ur": "آخر میں ایک جملہ لکھیں: ہمیں مختلف لوگوں کے ساتھ کیسے پیش آنا چاہیے اور کیوں؟",
+       "en": "At the end write one sentence: how should we treat people who are different from us, and why?"
+      }
+     ],
+     "model": {
+      "ur": "ملتی جلتی باتیں: وہ بھی روٹی کھاتے ہیں؛ ان کے بچے بھی سکول جاتے اور کھیلتے ہیں۔ مختلف باتیں: ان کا لباس اور ان کی زبان ہم سے مختلف ہے۔ ہمیں سب کے ساتھ عزت و احترام سے پیش آنا چاہیے کیوں کہ تمام انسان برابر ہیں۔",
+      "en": "Similar things: they eat bread too; their children also go to school and play. Different things: their dress and their language are different from ours. We should treat everyone with honour and respect because all human beings are equal."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دو ملتی جلتی باتیں لکھیں۔",
+       "en": "I wrote two similar things."
+      },
+      {
+       "ur": "میں نے دو مختلف باتیں لکھیں۔",
+       "en": "I wrote two different things."
+      },
+      {
+       "ur": "میں نے احترام کے بارے میں ایک جملہ لکھا۔",
+       "en": "I wrote one sentence about respect."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "h",
+   "ur": "مشق",
+   "en": "Exercise"
+  },
+  {
+   "t": "activity",
+   "id": "p087-a2",
+   "label": {
+    "ur": "سوال نمبر 1",
+    "en": "Question 1"
+   },
+   "orig": {
+    "ur": "نیچے دیے گئے بیانات میں درست کے سامنے ✓ اور غلط کے سامنے ✗ کا نشان لگائیں۔ لائن میں کھڑے ہوتے ہوئے دھکا دینا۔ دوسروں کا خیال کرنا۔ ہر ایک کی عزّت کرنا اور احترام سے پیش آنا۔ ہر ایک کا مذاق اُڑانا۔",
+    "en": "In the statements given below, put a ✓ next to the right ones and a ✗ next to the wrong ones. Pushing while standing in line. Caring for others. Honouring everyone and treating them with respect. Making fun of everyone."
+   },
+   "prompt": {
+    "ur": "کیا یہ کام درست ہے یا غلط؟",
+    "en": "Is this a right thing to do or a wrong thing?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "درست ✓",
+       "en": "Right ✓",
+       "sym": "correct"
+      },
+      {
+       "ur": "غلط ✗",
+       "en": "Wrong ✗",
+       "sym": "incorrect"
+      }
+     ],
+     "items": [
+      {
+       "ur": "دھکا دینا",
+       "en": "Pushing",
+       "group": 1,
+       "sym": "to push"
+      },
+      {
+       "ur": "دوسروں کا خیال کرنا",
+       "en": "Caring for others",
+       "group": 0,
+       "sym": "to care"
+      },
+      {
+       "ur": "سب کی عزت کرنا",
+       "en": "Respecting everyone",
+       "group": 0,
+       "sym": "respect"
+      },
+      {
+       "ur": "مذاق اُڑانا",
+       "en": "Making fun of others",
+       "group": 1,
+       "sym": "to tease"
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "tf",
+     "questions": [
+      {
+       "q": {
+        "ur": "لائن میں کھڑے ہوتے ہوئے دھکا دینا",
+        "en": "Pushing while standing in line"
+       },
+       "answer": false,
+       "fb": {
+        "ur": "یہ غلط ہے۔ دھکا دینے سے دوسروں کو چوٹ لگ سکتی ہے۔ ہم قطار میں اپنی باری کا انتظار کرتے ہیں۔",
+        "en": "This is wrong. Pushing can hurt others. We wait for our turn in the queue."
+       }
+      },
+      {
+       "q": {
+        "ur": "دوسروں کا خیال کرنا",
+        "en": "Caring for others"
+       },
+       "answer": true,
+       "fb": {
+        "ur": "یہ درست ہے۔ دوسروں کا خیال کرنا اچھی عادت ہے۔",
+        "en": "This is right. Caring for others is a good habit."
+       }
+      },
+      {
+       "q": {
+        "ur": "ہر ایک کی عزّت کرنا اور احترام سے پیش آنا",
+        "en": "Honouring everyone and treating them with respect"
+       },
+       "answer": true,
+       "fb": {
+        "ur": "یہ درست ہے۔ تمام انسان عزت و احترام کے قابل ہیں۔",
+        "en": "This is right. All human beings deserve honour and respect."
+       }
+      },
+      {
+       "q": {
+        "ur": "ہر ایک کا مذاق اُڑانا",
+        "en": "Making fun of everyone"
+       },
+       "answer": false,
+       "fb": {
+        "ur": "یہ غلط ہے۔ مذاق اڑانے سے دوسروں کا دل دکھتا ہے۔",
+        "en": "This is wrong. Making fun of others hurts their feelings."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "لائن میں دھکا دینا کیوں غلط ہے؟",
+        "en": "Why is pushing in a line wrong?"
+       },
+       "options": [
+        {
+         "ur": "کیوں کہ اس سے دوسروں کو چوٹ لگ سکتی ہے اور ان کی باری چھن جاتی ہے",
+         "en": "Because others can get hurt and lose their turn"
+        },
+        {
+         "ur": "کیوں کہ لائن لمبی ہو جاتی ہے",
+         "en": "Because the line gets longer"
+        },
+        {
+         "ur": "یہ غلط نہیں ہے",
+         "en": "It is not wrong"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "قطار میں سب کا حق برابر ہے۔ دھکا دینا دوسروں کی بے عزتی ہے۔",
+        "en": "Everyone has an equal right in the queue. Pushing is disrespectful to others."
+       }
+      },
+      {
+       "q": {
+        "ur": "آپ کا ساتھی بولتے ہوئے اٹکتا ہے اور کچھ بچے ہنس رہے ہیں۔ آپ کیا کریں گے؟",
+        "en": "Your classmate stammers while speaking and some children are laughing. What will you do?"
+       },
+       "options": [
+        {
+         "ur": "میں بھی ہنسوں گا/گی",
+         "en": "Laugh too"
+        },
+        {
+         "ur": "صبر سے اس کی بات سنوں گا/گی اور ہنسنے والوں کو منع کروں گا/گی",
+         "en": "Listen patiently and tell the others not to laugh"
+        },
+        {
+         "ur": "اس کی نقل اتاروں گا/گی",
+         "en": "Copy the way they speak"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "کسی کا مذاق اُڑانا غلط ہے۔ ہر ایک کی بات صبر اور احترام سے سننا درست ہے۔",
+        "en": "Making fun of anyone is wrong. Listening to everyone patiently and respectfully is right."
+       }
+      },
+      {
+       "q": {
+        "ur": "“دوسروں کا خیال کرنا” کی مثال کون سی ہے؟",
+        "en": "Which is an example of “caring for others”?"
+       },
+       "options": [
+        {
+         "ur": "اپنی چیزیں چھپا لینا",
+         "en": "Hiding your things"
+        },
+        {
+         "ur": "اونچی آواز میں شور کرنا",
+         "en": "Making loud noise"
+        },
+        {
+         "ur": "بیمار ساتھی کا حال پوچھنا",
+         "en": "Asking how a sick classmate is"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "دوسروں کی ضرورتوں اور جذبات کا خیال رکھنا احترام ہے۔",
+        "en": "Looking after the needs and feelings of others is respect."
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p087-a3",
+   "label": {
+    "ur": "سوال نمبر 2",
+    "en": "Question 2"
+   },
+   "orig": {
+    "ur": "کوئی سے دو مواقع لکھیں جب آپ نے قطار میں کھڑے ہو کر اپنی باری کا انتظار کیا ہو۔ (i) (ii)",
+    "en": "Write any two occasions when you stood in a queue and waited for your turn. (i) (ii)"
+   },
+   "prompt": {
+    "ur": "آپ نے کب کب قطار میں کھڑے ہو کر اپنی باری کا انتظار کیا؟",
+    "en": "When have you stood in a queue and waited for your turn?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "سکول میں ہم قطار کہاں بناتے ہیں؟",
+        "en": "Where do we make a queue at school?"
+       },
+       "options": [
+        {
+         "ur": "کینٹین پر چیز لیتے وقت",
+         "en": "At the canteen when buying something",
+         "sym": "queue"
+        },
+        {
+         "ur": "کلاس میں بیٹھے ہوئے",
+         "en": "While sitting in class",
+         "sym": "to sit"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "کینٹین پر ہم قطار بنا کر اپنی باری کا انتظار کرتے ہیں۔",
+        "en": "At the canteen we make a queue and wait for our turn."
+       }
+      },
+      {
+       "q": {
+        "ur": "قطار میں ہم کیا کرتے ہیں؟",
+        "en": "What do we do in a queue?"
+       },
+       "options": [
+        {
+         "ur": "دھکا دیتے ہیں",
+         "en": "Push",
+         "sym": "to push"
+        },
+        {
+         "ur": "اپنی باری کا انتظار کرتے ہیں",
+         "en": "Wait for our turn",
+         "sym": "to wait"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "قطار میں ہم آرام سے اپنی باری کا انتظار کرتے ہیں۔",
+        "en": "In a queue we wait calmly for our turn."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "پچھلے صفحے کی تصویریں یاد کریں: دکان، کلاس، سڑک۔",
+       "en": "Remember the pictures on the previous page: the shop, the class, the road."
+      },
+      {
+       "ur": "دو موقعے لکھیں جب آپ نے خود قطار میں انتظار کیا: (i) اور (ii)۔",
+       "en": "Write two occasions when you yourself waited in a queue: (i) and (ii)."
+      }
+     ],
+     "model": {
+      "ur": "(i) سکول کی کینٹین سے چیز خریدتے ہوئے۔ (ii) سکول میں پانی پینے کے لیے نلکے پر۔",
+      "en": "(i) While buying something from the school canteen. (ii) At the tap to drink water at school."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دو موقعے لکھے۔",
+       "en": "I wrote two occasions."
+      },
+      {
+       "ur": "دونوں موقعے میرے اپنے ہیں۔",
+       "en": "Both occasions are my own."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "دو موقعے لکھیں جب آپ نے قطار میں انتظار کیا۔",
+       "en": "Write two occasions when you waited in a queue."
+      },
+      {
+       "ur": "ایک موقع ایسا لکھیں جب قطار نہیں بلکہ بات چیت میں باری کا انتظار کرنا پڑا۔",
+       "en": "Write one occasion when you had to wait for your turn not in a queue but in a conversation."
+      },
+      {
+       "ur": "لکھیں: انتظار کرتے ہوئے آپ کو کیسا لگا، اور اگر سب قطار توڑ دیں تو کیا ہوگا؟",
+       "en": "Write: how did you feel while waiting, and what would happen if everyone broke the queue?"
+      }
+     ],
+     "model": {
+      "ur": "(i) کینٹین پر چیز خریدتے ہوئے۔ (ii) ڈاکٹر کے پاس اپنی باری آنے تک۔ بات چیت میں: جب استانی کسی اور بچے کی بات سن رہی تھیں تو میں نے ہاتھ اٹھا کر انتظار کیا۔ انتظار تھوڑا مشکل لگا، مگر اگر سب قطار توڑ دیں تو دھکم پیل ہوگی اور کمزور لوگوں کو کچھ نہیں ملے گا۔",
+      "en": "(i) While buying something at the canteen. (ii) At the doctor's until my turn came. In conversation: when the teacher was listening to another child, I raised my hand and waited. Waiting felt a little hard, but if everyone broke the queue there would be pushing and shoving and weaker people would get nothing."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے قطار کے دو موقعے لکھے۔",
+       "en": "I wrote two occasions when I waited in a queue."
+      },
+      {
+       "ur": "میں نے بات چیت میں باری کا ایک موقع لکھا۔",
+       "en": "I wrote one occasion when I waited for my turn to speak."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p087-a4",
+   "label": {
+    "ur": "سوال نمبر 3",
+    "en": "Question 3"
+   },
+   "orig": {
+    "ur": "آپ دوسروں کا احترام کیسے کرتے ہیں؟ چند مثالیں دیں۔ (i) (ii) (iii)",
+    "en": "How do you respect others? Give a few examples. (i) (ii) (iii)"
+   },
+   "prompt": {
+    "ur": "آپ دوسروں کا احترام کیسے کرتے ہیں؟",
+    "en": "How do you show respect to others?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "یہ احترام ہے",
+       "en": "This is respect",
+       "sym": "respect"
+      },
+      {
+       "ur": "یہ احترام نہیں",
+       "en": "This is not respect",
+       "sym": "no"
+      }
+     ],
+     "items": [
+      {
+       "ur": "سلام کرنا",
+       "en": "Saying salaam",
+       "group": 0,
+       "sym": "hello"
+      },
+      {
+       "ur": "شکریہ کہنا",
+       "en": "Saying thank you",
+       "group": 0,
+       "sym": "thank you"
+      },
+      {
+       "ur": "چیخ کر بات کرنا",
+       "en": "Shouting when talking",
+       "group": 1,
+       "sym": "to shout"
+      },
+      {
+       "ur": "دوسروں کی بات غور سے سننا",
+       "en": "Listening carefully to others",
+       "group": 0,
+       "sym": "to listen"
+      },
+      {
+       "ur": "مذاق اُڑانا",
+       "en": "Making fun of others",
+       "group": 1,
+       "sym": "to tease"
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "سوچیں: آپ گھر میں بڑوں کا، سکول میں استاد اور ساتھیوں کا احترام کیسے کرتے ہیں؟",
+       "en": "Think: how do you respect elders at home, and your teacher and classmates at school?"
+      },
+      {
+       "ur": "تین مثالیں لکھیں: (i)، (ii) اور (iii)۔",
+       "en": "Write three examples: (i), (ii) and (iii)."
+      }
+     ],
+     "model": {
+      "ur": "(i) میں بڑوں کو سلام کرتا/کرتی ہوں اور ان کا کہنا مانتا/مانتی ہوں۔ (ii) میں دوسروں کی بات غور سے سنتا/سنتی ہوں اور بیچ میں نہیں بولتا/بولتی۔ (iii) میں کسی کا مذاق نہیں اڑاتا/اڑاتی اور اپنی باری کا انتظار کرتا/کرتی ہوں۔",
+      "en": "(i) I greet my elders and do as they say. (ii) I listen carefully to others and do not interrupt. (iii) I do not make fun of anyone and I wait for my turn."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے تین مثالیں لکھیں۔",
+       "en": "I wrote three examples."
+      },
+      {
+       "ur": "میری مثالیں وہ کام ہیں جو میں واقعی کرتا/کرتی ہوں۔",
+       "en": "My examples are things I really do."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "تین مثالیں لکھیں: ایک گھر کی، ایک سکول کی اور ایک محلے یا بازار کی۔",
+       "en": "Write three examples: one from home, one from school and one from the neighbourhood or market."
+      },
+      {
+       "ur": "ایک مثال ایسے شخص کے احترام کی لکھیں جو آپ سے مختلف ہو (مذہب، زبان، لباس یا معذوری میں)۔",
+       "en": "Write one example of respecting someone who is different from you (in religion, language, dress or disability)."
+      },
+      {
+       "ur": "لکھیں: جب کوئی آپ کا احترام کرتا ہے تو آپ کو کیسا لگتا ہے؟",
+       "en": "Write: how do you feel when someone respects you?"
+      }
+     ],
+     "model": {
+      "ur": "گھر میں: میں دادا جان کی بات غور سے سنتا ہوں۔ سکول میں: میں ہاتھ اٹھا کر اپنی باری پر بولتا ہوں۔ محلے میں: میں صفائی کرنے والے چچا کو سلام کرتا ہوں۔ میرا دوست جوزف دوسرے مذہب کا ہے؛ میں اس کے تہوار پر اسے مبارک باد دیتا ہوں۔ جب کوئی میرا احترام کرتا ہے تو مجھے خوشی ہوتی ہے، اس لیے میں بھی سب کا احترام کرتا ہوں۔",
+      "en": "At home: I listen carefully to my grandfather. At school: I raise my hand and speak on my turn. In the neighbourhood: I greet the uncle who cleans the street. My friend Joseph follows another religion; I wish him well on his festival. When someone respects me I feel happy, so I respect everyone too."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے تین جگہوں کی مثالیں لکھیں۔",
+       "en": "I wrote examples from three places."
+      },
+      {
+       "ur": "میں نے اپنے سے مختلف شخص کے احترام کی مثال لکھی۔",
+       "en": "I wrote an example of respecting someone different from me."
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "جواب آپ کی اپنی زندگی میں ہیں۔ یاد کریں: کل آپ نے کہاں انتظار کیا؟ کس کو سلام کیا؟ کس کا شکریہ ادا کیا؟",
+   "en": "The answers are in your own life. Remember: where did you wait yesterday? Whom did you greet? Whom did you thank?"
+  },
+  {
+   "for": "motor",
+   "ur": "لکیروں پر لکھنا مشکل ہو تو جواب بول کر ریکارڈ کریں، کسی ساتھی سے لکھوائیں یا تصویر بنا کر دکھائیں۔ ✓ اور ✗ کے لیے بڑے بٹن استعمال کریں۔",
+   "en": "If writing on the lines is hard, record your answer by speaking, ask a partner to write it, or show it in a drawing. Use the big buttons for ✓ and ✗."
+  },
+  {
+   "for": "cognitive",
+   "ur": "سرگرمی میں صرف ایک چیز کا موازنہ کریں، مثلاً کھانا: “وہاں لوگ کیا کھاتے ہیں؟ میں کیا کھاتا ہوں؟” تصویریں استعمال کریں۔",
+   "en": "In the activity compare just one thing, for example food: “What do people eat there? What do I eat?” Use pictures."
+  },
+  {
+   "for": "teacher",
+   "ur": "ہر بچے نے سفر نہیں کیا ہوتا — انھیں کسی رشتہ دار، ہمسائے یا کہانی/ٹی وی میں دیکھی ہوئی جگہ کے بارے میں بتانے دیں تاکہ کوئی بچہ پیچھے نہ رہے۔ بات چیت کے دوران خود بھی “باری” کا اصول اپنائیں: بولنے والی چھڑی یا گیند استعمال کریں اور اشاروں یا تصویروں سے دیے گئے جواب بھی برابر سراہیں۔",
+   "en": "Not every child has travelled — let them tell about a relative, a neighbour, or a place seen in a story or on TV, so no child is left out. Model turn-taking during the talk yourself: use a talking stick or ball, and praise answers given by signs or pictures equally."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "احترام کرنا",
+   "en": "Showing respect"
+  },
+  "image": null,
+  "sentences": [
+   {
+    "en": "We respect everyone.",
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "respect",
+      "sym": "respect"
+     },
+     {
+      "en": "everyone.",
+      "sym": "everybody"
+     }
+    ],
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "سب کی",
+      "sym": "everybody"
+     },
+     {
+      "ur": "عزت",
+      "sym": "respect"
+     },
+     {
+      "ur": "کرتے ہیں۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "We say salaam.",
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "say salaam.",
+      "sym": "hello"
+     }
+    ],
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "سلام",
+      "sym": "hello"
+     },
+     {
+      "ur": "کرتے ہیں۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "We wait in the queue.",
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "wait",
+      "sym": "to wait"
+     },
+     {
+      "en": "in the queue.",
+      "sym": "queue"
+     }
+    ],
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "قطار میں",
+      "sym": "queue"
+     },
+     {
+      "ur": "انتظار",
+      "sym": "to wait"
+     },
+     {
+      "ur": "کرتے ہیں۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "We do not push.",
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "do not",
+      "sym": "no"
+     },
+     {
+      "en": "push.",
+      "sym": "to push"
+     }
+    ],
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "دھکا",
+      "sym": "to push"
+     },
+     {
+      "ur": "نہیں",
+      "sym": "no"
+     },
+     {
+      "ur": "دیتے۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "We do not make fun of others.",
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "do not",
+      "sym": "no"
+     },
+     {
+      "en": "make fun of",
+      "sym": "to tease"
+     },
+     {
+      "en": "others.",
+      "sym": "people"
+     }
+    ],
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "مذاق",
+      "sym": "to tease"
+     },
+     {
+      "ur": "نہیں",
+      "sym": "no"
+     },
+     {
+      "ur": "اُڑاتے۔",
+      "sym": null
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "ہر کام کو صحیح خانے میں رکھیں۔",
+    "en": "Put each action in the right box."
+   },
+   "task": {
+    "kind": "sort",
+    "groups": [
+     {
+      "ur": "درست",
+      "en": "Right",
+      "sym": "correct"
+     },
+     {
+      "ur": "غلط",
+      "en": "Wrong",
+      "sym": "incorrect"
+     }
+    ],
+    "items": [
+     {
+      "ur": "سلام کرنا",
+      "en": "Saying salaam",
+      "group": 0,
+      "sym": "hello"
+     },
+     {
+      "ur": "دھکا دینا",
+      "en": "Pushing",
+      "group": 1,
+      "sym": "to push"
+     },
+     {
+      "ur": "باری کا انتظار کرنا",
+      "en": "Waiting for your turn",
+      "group": 0,
+      "sym": "to wait"
+     },
+     {
+      "ur": "مذاق اُڑانا",
+      "en": "Making fun of others",
+      "group": 1,
+      "sym": "to tease"
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

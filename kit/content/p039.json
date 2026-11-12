@@ -1,0 +1,105 @@
+{
+  "n": 39,
+  "printed": "35",
+  "chapter": 6,
+  "kind": "content",
+  "title": {"ur": "پانی کا استعمال", "en": "Uses of water"},
+  "blocks": [
+    {"t": "h", "ur": "پانی کا استعمال", "en": "Uses of water"},
+    {"t": "gallery", "items": [
+      {"crop": [0.492, 0.182, 0.806, 0.327],
+       "alt": {"ur": "بوتل سے شیشے کے گلاس میں صاف پانی ڈالا جا رہا ہے۔", "en": "Clean water is being poured from a bottle into a glass."},
+       "cap": {"ur": "پینے کے لیے", "en": "For drinking"}},
+      {"crop": [0.154, 0.182, 0.481, 0.327],
+       "alt": {"ur": "کوئی نلکے کے نیچے ایک گندی پلیٹ دھو رہا ہے۔", "en": "Someone is washing a dirty plate under a tap."},
+       "cap": {"ur": "برتن دھونے کے لیے", "en": "For washing dishes"}},
+      {"crop": [0.492, 0.373, 0.806, 0.511],
+       "alt": {"ur": "پانی سے بھرا کھیت جس میں دور ٹریکٹر چل رہے ہیں۔", "en": "A field is full of water, and tractors are working in the distance."},
+       "cap": {"ur": "کھیتوں کو سیراب کرنے کے لیے", "en": "For watering the fields"}},
+      {"crop": [0.154, 0.373, 0.481, 0.511],
+       "alt": {"ur": "دو ہاتھ صابن والے پانی میں سفید کپڑا دھو رہے ہیں۔", "en": "Two hands are washing a white cloth in soapy water."},
+       "cap": {"ur": "کپڑے دھونے کے لیے", "en": "For washing clothes"}},
+      {"crop": [0.492, 0.559, 0.806, 0.704],
+       "alt": {"ur": "ایک شخص نلکے کے پانی سے اپنا منھ دھو رہا ہے۔", "en": "A person is washing their face with water from a tap."},
+       "cap": {"ur": "منھ ہاتھ دھونے کے لیے", "en": "For washing our face and hands"}},
+      {"crop": [0.154, 0.559, 0.481, 0.704],
+       "alt": {"ur": "باورچی خانے میں کوئی پیالے سے دیگچی میں پانی ڈال رہا ہے۔", "en": "In a kitchen, someone is pouring water from a bowl into a cooking pot."},
+       "cap": {"ur": "کھانا بنانے کے لیے", "en": "For cooking food"}}
+    ]},
+    {"t": "fact", "ur": "پانی کو اُبال اور چھان کر صاف کیا جاتا ہے۔ یہ صاف پانی ہم پینے اور کھانا پکانے کے لیے استعمال کرتے ہیں تاکہ بیماریوں سے محفوظ رہیں۔", "en": "Water is cleaned by boiling and filtering it. We use this clean water for drinking and cooking so that we stay safe from diseases."},
+    {"t": "activity",
+     "id": "p039-a1",
+     "label": {"ur": "آزمائیں", "en": "Try it"},
+     "orig": {"ur": "پانی کا استعمال", "en": "Uses of water"},
+     "prompt": {"ur": "تصویر دیکھیں اور بتائیں: یہاں پانی کس کام آ رہا ہے؟", "en": "Look at the picture and say: what is the water being used for here?"},
+     "levels": {
+       "easy": {"kind": "match", "pairs": [
+         {"a": {"ur": "تصویر 1", "en": "Picture 1", "img": [0.492, 0.182, 0.806, 0.327]}, "b": {"ur": "پینے کے لیے", "en": "For drinking", "sym": "to drink"}},
+         {"a": {"ur": "تصویر 2", "en": "Picture 2", "img": [0.154, 0.373, 0.481, 0.511]}, "b": {"ur": "کپڑے دھونے کے لیے", "en": "For washing clothes", "sym": "wash clothes"}},
+         {"a": {"ur": "تصویر 3", "en": "Picture 3", "img": [0.154, 0.559, 0.481, 0.704]}, "b": {"ur": "کھانا بنانے کے لیے", "en": "For cooking food", "sym": "to cook"}}
+       ]},
+       "moderate": {"kind": "match", "pairs": [
+         {"a": {"ur": "تصویر 1", "en": "Picture 1", "img": [0.492, 0.182, 0.806, 0.327]}, "b": {"ur": "پینے کے لیے", "en": "For drinking"}},
+         {"a": {"ur": "تصویر 2", "en": "Picture 2", "img": [0.154, 0.182, 0.481, 0.327]}, "b": {"ur": "برتن دھونے کے لیے", "en": "For washing dishes"}},
+         {"a": {"ur": "تصویر 3", "en": "Picture 3", "img": [0.492, 0.373, 0.806, 0.511]}, "b": {"ur": "کھیتوں کو سیراب کرنے کے لیے", "en": "For watering the fields"}},
+         {"a": {"ur": "تصویر 4", "en": "Picture 4", "img": [0.154, 0.373, 0.481, 0.511]}, "b": {"ur": "کپڑے دھونے کے لیے", "en": "For washing clothes"}},
+         {"a": {"ur": "تصویر 5", "en": "Picture 5", "img": [0.492, 0.559, 0.806, 0.704]}, "b": {"ur": "منھ ہاتھ دھونے کے لیے", "en": "For washing our face and hands"}},
+         {"a": {"ur": "تصویر 6", "en": "Picture 6", "img": [0.154, 0.559, 0.481, 0.704]}, "b": {"ur": "کھانا بنانے کے لیے", "en": "For cooking food"}}
+       ]},
+       "hard": {"kind": "mcq", "questions": [
+         {"q": {"ur": "پانی کو کیسے صاف کیا جاتا ہے؟", "en": "How is water cleaned?"},
+          "options": [{"ur": "ٹھنڈا کر کے", "en": "By cooling it"}, {"ur": "رنگ ملا کر", "en": "By mixing colour in it"}, {"ur": "اُبال اور چھان کر", "en": "By boiling and filtering it"}],
+          "answer": 2,
+          "fb": {"ur": "پانی کو اُبال اور چھان کر صاف کیا جاتا ہے۔", "en": "Water is cleaned by boiling and filtering it."}},
+         {"q": {"ur": "اُبالا اور چھانا ہوا صاف پانی ہم کن دو کاموں کے لیے استعمال کرتے ہیں؟", "en": "For which two things do we use clean water that has been boiled and filtered?"},
+          "options": [{"ur": "پینے اور کھانا پکانے کے لیے", "en": "For drinking and cooking"}, {"ur": "کپڑے اور برتن دھونے کے لیے", "en": "For washing clothes and dishes"}, {"ur": "کھیتوں کو سیراب کرنے کے لیے", "en": "For watering the fields"}],
+          "answer": 0,
+          "fb": {"ur": "صاف پانی ہم پینے اور کھانا پکانے کے لیے استعمال کرتے ہیں۔", "en": "We use clean water for drinking and cooking."}},
+         {"q": {"ur": "ہم پینے کے لیے صاف پانی کیوں استعمال کرتے ہیں؟", "en": "Why do we use clean water for drinking?"},
+          "options": [{"ur": "تاکہ پانی میٹھا ہو جائے", "en": "So that the water becomes sweet"}, {"ur": "تاکہ بیماریوں سے محفوظ رہیں", "en": "So that we stay safe from diseases"}, {"ur": "تاکہ پانی زیادہ ہو جائے", "en": "So that there is more water"}],
+          "answer": 1,
+          "fb": {"ur": "گندے پانی سے بیماریاں ہو سکتی ہیں۔ صاف پانی ہمیں بیماریوں سے محفوظ رکھتا ہے۔", "en": "Dirty water can cause diseases. Clean water keeps us safe from diseases."}},
+         {"q": {"ur": "کسان کھیت میں پانی کس لیے دیتا ہے؟", "en": "What does a farmer use water in the field for?"},
+          "options": [{"ur": "کھیتوں کو سیراب کرنے کے لیے", "en": "To water the fields"}, {"ur": "برتن دھونے کے لیے", "en": "To wash dishes"}, {"ur": "منھ ہاتھ دھونے کے لیے", "en": "To wash our face and hands"}],
+          "answer": 0,
+          "fb": {"ur": "کھیتوں کو سیراب کرنے کے لیے پانی دیا جاتا ہے تاکہ فصل اُگے۔", "en": "Fields are watered so that crops can grow."}}
+       ]}
+     }}
+  ],
+  "hint": [
+    {"for": "all", "ur": "چھ تصویریں صبح سے رات تک کے کاموں کی طرح سوچیں: منھ ہاتھ دھونا، پانی پینا، کھانا بنانا، برتن دھونا، کپڑے دھونا، اور کھیت کو پانی دینا۔", "en": "Think of the six pictures as things we do from morning to night: washing our face and hands, drinking water, cooking food, washing dishes, washing clothes, and watering the fields."},
+    {"for": "vision", "ur": "ہر استعمال کی اصل چیز ہاتھ میں لیں: گلاس، پلیٹ، کپڑا، دیگچی، صابن۔ چیز کو چھو کر بتائیں کہ اس کے ساتھ پانی کس کام آتا ہے۔", "en": "Hold a real object for each use: a glass, a plate, a cloth, a cooking pot, soap. Touch the object and say what water is used for with it."},
+    {"for": "motor", "ur": "جوڑ ملانے میں تصویر کو گھسیٹنا مشکل ہو تو تصویر کا نمبر بول دیں یا اس کی طرف دیکھ کر اشارہ کریں، ساتھی آپ کے لیے جوڑ ملا دے گا۔", "en": "If dragging the picture to match is hard, say the picture's number or look at it and point, and a partner will make the match for you."},
+    {"for": "teacher", "ur": "بچوں سے ہر استعمال کی اداکاری کروائیں (پانی پینا، برتن دھونا، کپڑے دھونا)؛ باقی بچے پہچانیں۔ اس میں بولنا ضروری نہیں، اس لیے ہر بچہ حصہ لے سکتا ہے۔ اُبلے ہوئے اور چھنے ہوئے پانی کا فرق اصل ململ کے کپڑے سے دکھائیں۔", "en": "Have children act out each use (drinking water, washing dishes, washing clothes) while the others guess. No speech is needed, so every child can join in. Show the difference between boiled water and filtered water using a real muslin cloth."}
+  ],
+  "easy": {
+    "title": {"ur": "پانی کے کام", "en": "What we use water for"},
+    "image": {"crop": [0.492, 0.182, 0.806, 0.327], "alt": {"ur": "بوتل سے گلاس میں صاف پانی ڈالا جا رہا ہے۔", "en": "Clean water is being poured from a bottle into a glass."}},
+    "sentences": [
+      {"en": "We drink water.",
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "drink", "sym": "to drink"}, {"en": "water.", "sym": "water"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "پانی", "sym": "water"}, {"ur": "پیتے ہیں۔", "sym": "to drink"}]},
+      {"en": "We wash our hands with water.",
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "wash", "sym": "to wash"}, {"en": "our hands", "sym": "hands"}, {"en": "with", "sym": null}, {"en": "water.", "sym": "water"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "پانی", "sym": "water"}, {"ur": "سے", "sym": null}, {"ur": "ہاتھ", "sym": "hands"}, {"ur": "دھوتے ہیں۔", "sym": "to wash"}]},
+      {"en": "We wash clothes with water.",
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "wash", "sym": "to wash"}, {"en": "clothes", "sym": "clothes"}, {"en": "with", "sym": null}, {"en": "water.", "sym": "water"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "پانی", "sym": "water"}, {"ur": "سے", "sym": null}, {"ur": "کپڑے", "sym": "clothes"}, {"ur": "دھوتے ہیں۔", "sym": "to wash"}]},
+      {"en": "We cook food with water.",
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "cook", "sym": "to cook"}, {"en": "food", "sym": "food"}, {"en": "with", "sym": null}, {"en": "water.", "sym": "water"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "پانی", "sym": "water"}, {"ur": "سے", "sym": null}, {"ur": "کھانا", "sym": "food"}, {"ur": "پکاتے ہیں۔", "sym": "to cook"}]},
+      {"en": "We drink clean water.",
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "drink", "sym": "to drink"}, {"en": "clean", "sym": "clean"}, {"en": "water.", "sym": "water"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "صاف", "sym": "clean"}, {"ur": "پانی", "sym": "water"}, {"ur": "پیتے ہیں۔", "sym": "to drink"}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "تصویر کو اس کے کام سے ملائیں۔", "en": "Match the picture to its use."},
+      "task": {"kind": "match", "pairs": [
+        {"a": {"ur": "گلاس میں پانی", "en": "Water in a glass", "img": [0.492, 0.182, 0.806, 0.327]}, "b": {"ur": "پینا", "en": "Drinking", "sym": "to drink"}},
+        {"a": {"ur": "پلیٹ اور نلکا", "en": "A plate and a tap", "img": [0.154, 0.182, 0.481, 0.327]}, "b": {"ur": "برتن دھونا", "en": "Washing dishes", "sym": "wash dishes"}},
+        {"a": {"ur": "منھ پر پانی", "en": "Water on the face", "img": [0.492, 0.559, 0.806, 0.704]}, "b": {"ur": "منھ دھونا", "en": "Washing the face", "sym": "wash face"}}
+      ]}
+    }
+  },
+  "print": true
+}

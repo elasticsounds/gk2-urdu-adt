@@ -1,0 +1,546 @@
+{
+ "n": 12,
+ "printed": "8",
+ "chapter": 1,
+ "kind": "content",
+ "title": {
+  "ur": "گلگت بلتستان",
+  "en": "Gilgit-Baltistan"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "گلگت بلتستان",
+   "en": "Gilgit-Baltistan"
+  },
+  {
+   "t": "p",
+   "ur": "گلگت بلتستان پاکستان کے شمال میں واقع ہے۔ اس کا دارالحکومت گلگت ہے۔ گلگت بلتستان میں لوگ شینا، کھوار، بھروشسکی اور بلتی زبانیں بولتے ہیں۔",
+   "en": "Gilgit-Baltistan is in the north of Pakistan. Its capital is Gilgit. In Gilgit-Baltistan, people speak the Shina, Khowar, Burushaski and Balti languages."
+  },
+  {
+   "t": "p",
+   "ur": "یہاں کے مرد عام طور پر سفید شلوار قمیص اور گلگتی اونی ٹوپی پہنتے ہیں۔ عورتیں شلوار قمیص اور ٹوپی پہنتی ہیں۔ یہاں کے لوگ روٹی، مکھّن اور گوشت سے بنی غذا کھاتے ہیں۔",
+   "en": "The men here usually wear white shalwar qameez and the Gilgiti woollen cap. Women wear shalwar qameez and a cap. The people here eat food made from bread, butter and meat."
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.145,
+    0.198,
+    0.517,
+    0.428
+   ],
+   "alt": {
+    "ur": "سیب کے باغ میں دو چھوٹے بچے کھڑے ہیں۔ لڑکے نے سفید شلوار قمیص اور پَر والی سفید اونی گلگتی ٹوپی پہنی ہے؛ بچی نے کڑھائی والی ٹوپی اور سفید دوپٹا لیا ہے۔",
+    "en": "Two small children are standing in an apple orchard. The boy is wearing white shalwar qameez and a white woollen Gilgiti cap with a feather; the girl is wearing an embroidered cap and a white scarf."
+   }
+  },
+  {
+   "t": "fact",
+   "ur": "راکاپوشی گلگت بلتستان کی مشہور پہاڑی چوٹی ہے۔",
+   "en": "Rakaposhi is a famous mountain peak of Gilgit-Baltistan."
+  },
+  {
+   "t": "activity",
+   "id": "p012-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "پاکستان کے مختلف علاقوں کی ثقافت پر مبنی تصاویر جمع کریں، ہم جماعتوں کو دکھائیں اور ان کے بارے میں بات چیت کریں۔",
+    "en": "Collect pictures showing the culture of different areas of Pakistan, show them to your classmates and talk about them."
+   },
+   "prompt": {
+    "ur": "پاکستان کے الگ الگ علاقوں کی ثقافت (زبان، لباس، کھانا) کو پہچانیں اور اس کے بارے میں بات کریں۔",
+    "en": "Get to know the culture (language, dress, food) of the different areas of Pakistan and talk about it."
+   },
+   "levels": {
+    "easy": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "اجرک",
+        "en": "Ajrak",
+        "sym": "shawl"
+       },
+       "b": {
+        "ur": "سندھ",
+        "en": "Sindh"
+       }
+      },
+      {
+       "a": {
+        "ur": "لسّی",
+        "en": "Lassi",
+        "sym": "milkshake"
+       },
+       "b": {
+        "ur": "پنجاب",
+        "en": "Punjab"
+       }
+      },
+      {
+       "a": {
+        "ur": "چپلی کباب",
+        "en": "Chapli kabab",
+        "sym": "hamburger"
+       },
+       "b": {
+        "ur": "خیبر پختون خوا",
+        "en": "Khyber Pakhtunkhwa"
+       }
+      },
+      {
+       "a": {
+        "ur": "خشک میوہ",
+        "en": "Dry fruit",
+        "sym": "nuts"
+       },
+       "b": {
+        "ur": "بلوچستان",
+        "en": "Balochistan"
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "do",
+     "steps": [
+      {
+       "ur": "گھر والوں کی مدد سے پرانے اخباروں، رسالوں یا کیلنڈروں سے مختلف علاقوں کے لباس، کھانوں اور مشہور جگہوں کی تصویریں جمع کریں۔",
+       "en": "With your family's help, collect pictures of the dress, foods and famous places of different areas from old newspapers, magazines or calendars."
+      },
+      {
+       "ur": "ہر تصویر کے ساتھ علاقے کا نام لکھیں یا کسی سے لکھوائیں۔",
+       "en": "Write the name of the area beside each picture, or ask someone to write it for you."
+      },
+      {
+       "ur": "تصویریں اپنے ہم جماعتوں کو دکھائیں۔",
+       "en": "Show the pictures to your classmates."
+      },
+      {
+       "ur": "ہر تصویر کے بارے میں ایک بات بتائیں: یہ کہاں کی ہے اور اس میں کیا ہے؟",
+       "en": "Say one thing about each picture: where is it from, and what is in it?"
+      }
+     ],
+     "model": {
+      "ur": "یہ تصویر اجرک کی ہے۔ اجرک صوبہ سندھ کا لباس ہے۔ یہ تصویر چپلی کباب کی ہے۔ یہ خیبر پختون خوا کا مشہور کھانا ہے۔",
+      "en": "This is a picture of an ajrak. The ajrak is the dress of Sindh. This is a picture of chapli kabab. It is a famous food of Khyber Pakhtunkhwa."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے کم از کم تین تصویریں جمع کیں۔",
+       "en": "I collected at least three pictures."
+      },
+      {
+       "ur": "میں نے اپنی تصویریں ہم جماعتوں کو دکھائیں۔",
+       "en": "I showed my pictures to my classmates."
+      },
+      {
+       "ur": "میں نے ہر تصویر کے بارے میں ایک بات بتائی۔",
+       "en": "I said one thing about each picture."
+      },
+      {
+       "ur": "میں نے دوسروں کی بات توجہ سے سنی۔",
+       "en": "I listened carefully when others were speaking."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "کوئی سے دو علاقے چنیں، مثلاً سندھ اور گلگت بلتستان۔",
+       "en": "Choose any two areas, for example Sindh and Gilgit-Baltistan."
+      },
+      {
+       "ur": "دونوں کی ایک ملتی جلتی بات بتائیں۔",
+       "en": "Say one thing that is alike in both."
+      },
+      {
+       "ur": "دونوں کا ایک فرق بتائیں (زبان، لباس یا کھانے میں)۔",
+       "en": "Say one thing that is different (in language, dress or food)."
+      },
+      {
+       "ur": "اب اپنے علاقے کے بارے میں بتائیں: آپ کے گھر میں کون سی زبان بولی جاتی ہے اور کون سا کھانا پسند کیا جاتا ہے؟",
+       "en": "Now talk about your own area: which language is spoken in your home, and which food do people like?"
+      }
+     ],
+     "model": {
+      "ur": "سندھ اور گلگت بلتستان دونوں جگہ لوگ شلوار قمیص پہنتے ہیں۔ فرق یہ ہے کہ سندھ میں سندھی ٹوپی اور اجرک پہنی جاتی ہے جب کہ گلگت بلتستان میں اونی ٹوپی پہنی جاتی ہے۔",
+      "en": "In both Sindh and Gilgit-Baltistan, people wear shalwar qameez. The difference is that in Sindh people wear the Sindhi cap and the ajrak, while in Gilgit-Baltistan people wear a woollen cap."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے ایک ملتی جلتی بات بتائی۔",
+       "en": "I said one thing that is alike."
+      },
+      {
+       "ur": "میں نے ایک فرق بتایا۔",
+       "en": "I said one difference."
+      },
+      {
+       "ur": "میں نے اپنے علاقے کے بارے میں بتایا۔",
+       "en": "I talked about my own area."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p012-a2",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "اپنے اساتذہ کی راہنمائی میں گروپ میں دیے گئے صوبوں اور پاکستان کے زیرِ انتظام علاقوں کو چارٹ پیپر پر ٹریس (Trace) کر کے ان کے ٹکڑے (Cutout) بنائیں۔ اب ان ٹکڑوں (Cutout) کو آپس میں ملاتے ہوئے پاکستان کا نقشہ مکمل کریں۔ پنجاب، سندھ، خیبر پختون خوا، بلوچستان، آزاد جموں و کشمیر، گلگت بلتستان",
+    "en": "With your teachers' help, work in a group. Trace the provinces and Pakistan-administered areas given here on chart paper and make cutouts of them. Now join these cutouts together to complete the map of Pakistan. Punjab, Sindh, Khyber Pakhtunkhwa, Balochistan, Azad Jammu and Kashmir, Gilgit-Baltistan."
+   },
+   "prompt": {
+    "ur": "اگلے صفحے پر نقشے کے چھ رنگین ٹکڑے ہیں۔ اپنے گروپ کے ساتھ ان کے ٹکڑے بنائیں اور جوڑ کر پاکستان کا نقشہ مکمل کریں۔",
+    "en": "On the next page there are six coloured pieces of the map. With your group, make cutouts of them and join them together to complete the map of Pakistan."
+   },
+   "task": {
+    "kind": "open",
+    "mode": "do",
+    "steps": [
+     {
+      "ur": "اگلے صفحے کے ہر رنگین ٹکڑے پر پتلا کاغذ رکھیں اور پنسل سے اس کی شکل اتاریں (ٹریس کریں)۔",
+      "en": "Place thin paper over each coloured piece on the next page and trace its shape with a pencil."
+     },
+     {
+      "ur": "شکل کو چارٹ پیپر پر بنائیں اور استاد کی مدد سے قینچی سے کاٹ لیں۔",
+      "en": "Draw the shape on chart paper and, with your teacher's help, cut it out with scissors."
+     },
+     {
+      "ur": "ہر ٹکڑے پر اس کا نام لکھیں: پنجاب، سندھ، خیبر پختون خوا، بلوچستان، آزاد جموں و کشمیر، گلگت بلتستان۔",
+      "en": "Write its name on each piece: Punjab, Sindh, Khyber Pakhtunkhwa, Balochistan, Azad Jammu and Kashmir, Gilgit-Baltistan."
+     },
+     {
+      "ur": "ٹکڑوں کو پہیلی (پزل) کی طرح جوڑیں۔ مدد کے لیے صفحہ 2 کا نقشہ دیکھیں۔",
+      "en": "Join the pieces together like a puzzle. Look at the map on page 2 for help."
+     },
+     {
+      "ur": "مکمل نقشہ چارٹ پر چپکائیں اور کلاس میں لگائیں۔",
+      "en": "Stick the finished map on a chart and put it up in the classroom."
+     }
+    ],
+    "checklist": [
+     {
+      "ur": "ہمارے گروپ نے چھ ٹکڑے بنائے۔",
+      "en": "Our group made six pieces."
+     },
+     {
+      "ur": "ہم نے ہر ٹکڑے پر نام لکھا۔",
+      "en": "We wrote a name on every piece."
+     },
+     {
+      "ur": "ہم نے ٹکڑے جوڑ کر پاکستان کا نقشہ مکمل کیا۔",
+      "en": "We joined the pieces and completed the map of Pakistan."
+     },
+     {
+      "ur": "گروپ کے ہر بچے نے کوئی کام کیا۔",
+      "en": "Every child in the group did some of the work."
+     }
+    ]
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "’’شمال‘‘ کا مطلب ہے نقشے میں سب سے اوپر۔ گلگت بلتستان پاکستان کے نقشے میں سب سے اوپر ہے، جہاں اونچے برفانی پہاڑ ہیں۔",
+   "en": "'North' means the very top of the map. Gilgit-Baltistan is at the very top of Pakistan's map, where there are high snowy mountains."
+  },
+  {
+   "for": "motor",
+   "ur": "اگر قینچی چلانا یا شکل اتارنا مشکل ہو تو گروپ میں دوسرا کام چنیں: ٹکڑوں کو جوڑنے کی جگہ بتانا، نام بولنا یا گوند لگانا۔ بڑے اور موٹے گتے کے ٹکڑے پکڑنے میں آسان ہوتے ہیں۔",
+   "en": "If using scissors or tracing is hard for you, choose another job in the group: showing where the pieces go, saying the names or putting on the glue. Big pieces made of thick card are easier to hold."
+  },
+  {
+   "for": "vision",
+   "ur": "ہر ٹکڑا الگ کھردری چیز سے بنوائیں (ریگ مال، کپڑا، گتّا) تاکہ آپ چھو کر صوبے پہچان سکیں اور نقشہ جوڑ سکیں۔",
+   "en": "Ask someone to make each piece from a different rough material (sandpaper, cloth, card) so that you can tell the provinces apart by touch and join the map together."
+  },
+  {
+   "for": "teacher",
+   "ur": "گروپ ایسے بنائیں کہ ہر بچے کا ایک کردار ہو: شکل اتارنے والا، کاٹنے والا، نام لکھنے والا، جوڑنے والا، بتانے والا۔ تصویریں جمع کرنے کی سرگرمی میں جن بچوں کے پاس تصویریں نہ ہوں وہ اس کتاب کی تصویریں استعمال کر سکتے ہیں یا خود بنا سکتے ہیں۔",
+   "en": "Make the groups so that every child has a role: one traces, one cuts, one writes the names, one joins the pieces and one presents. In the picture-collecting activity, children who have no pictures can use the pictures in this book or draw their own."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "گلگت بلتستان",
+   "en": "Gilgit-Baltistan"
+  },
+  "image": {
+   "crop": [
+    0.145,
+    0.198,
+    0.517,
+    0.428
+   ],
+   "alt": {
+    "ur": "گلگت بلتستان کے دو بچے؛ لڑکے نے سفید اونی ٹوپی پہنی ہے۔",
+    "en": "Two children from Gilgit-Baltistan; the boy is wearing a white woollen cap."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Gilgit-Baltistan is in the north of Pakistan.",
+    "words": [
+     {
+      "ur": "گلگت بلتستان",
+      "sym": "map"
+     },
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "کے",
+      "sym": null
+     },
+     {
+      "ur": "شمال",
+      "sym": "north"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Gilgit-Baltistan",
+      "sym": "map"
+     },
+     {
+      "en": "is in",
+      "sym": null
+     },
+     {
+      "en": "the north",
+      "sym": "north"
+     },
+     {
+      "en": "of",
+      "sym": null
+     },
+     {
+      "en": "Pakistan.",
+      "sym": "Pakistan"
+     }
+    ]
+   },
+   {
+    "en": "There are high mountains here.",
+    "words": [
+     {
+      "ur": "یہاں",
+      "sym": "here"
+     },
+     {
+      "ur": "اونچے",
+      "sym": "high"
+     },
+     {
+      "ur": "پہاڑ",
+      "sym": "mountain"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "There are",
+      "sym": null
+     },
+     {
+      "en": "high",
+      "sym": "high"
+     },
+     {
+      "en": "mountains",
+      "sym": "mountain"
+     },
+     {
+      "en": "here.",
+      "sym": "here"
+     }
+    ]
+   },
+   {
+    "en": "Men wear a woollen cap.",
+    "words": [
+     {
+      "ur": "مرد",
+      "sym": "man"
+     },
+     {
+      "ur": "اونی",
+      "sym": "wool"
+     },
+     {
+      "ur": "ٹوپی",
+      "sym": "cap"
+     },
+     {
+      "ur": "پہنتے ہیں۔",
+      "sym": "to wear"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Men",
+      "sym": "man"
+     },
+     {
+      "en": "wear",
+      "sym": "to wear"
+     },
+     {
+      "en": "a woollen",
+      "sym": "wool"
+     },
+     {
+      "en": "cap.",
+      "sym": "cap"
+     }
+    ]
+   },
+   {
+    "en": "People eat bread, butter and meat.",
+    "words": [
+     {
+      "ur": "لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "روٹی،",
+      "sym": "bread"
+     },
+     {
+      "ur": "مکھّن",
+      "sym": "butter"
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "گوشت",
+      "sym": "meat"
+     },
+     {
+      "ur": "کھاتے ہیں۔",
+      "sym": "to eat"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "People",
+      "sym": "people"
+     },
+     {
+      "en": "eat",
+      "sym": "to eat"
+     },
+     {
+      "en": "bread,",
+      "sym": "bread"
+     },
+     {
+      "en": "butter",
+      "sym": "butter"
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "meat.",
+      "sym": "meat"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "گلگت بلتستان کے مرد سر پر کیا پہنتے ہیں؟",
+       "en": "What do the men of Gilgit-Baltistan wear on their heads?"
+      },
+      "options": [
+       {
+        "ur": "اونی ٹوپی",
+        "en": "A woollen cap",
+        "sym": "cap"
+       },
+       {
+        "ur": "ہیلمٹ",
+        "en": "A helmet",
+        "sym": "helmet"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "گلگت بلتستان کے مرد گلگتی اونی ٹوپی پہنتے ہیں۔",
+       "en": "The men of Gilgit-Baltistan wear the Gilgiti woollen cap."
+      },
+      "img": [
+       0.145,
+       0.198,
+       0.517,
+       0.428
+      ]
+     },
+     {
+      "q": {
+       "ur": "گلگت بلتستان میں کیا ہے؟",
+       "en": "What is there in Gilgit-Baltistan?"
+      },
+      "options": [
+       {
+        "ur": "سمندر",
+        "en": "The sea",
+        "sym": "sea"
+       },
+       {
+        "ur": "اونچے پہاڑ",
+        "en": "High mountains",
+        "sym": "mountain"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "گلگت بلتستان میں راکاپوشی جیسی اونچی پہاڑی چوٹیاں ہیں۔",
+       "en": "Gilgit-Baltistan has high mountain peaks such as Rakaposhi."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

@@ -1,0 +1,658 @@
+{
+ "n": 65,
+ "printed": "61",
+ "chapter": 9,
+ "kind": "exercise",
+ "title": {
+  "ur": "مشق: دودھ، مرغی اور روٹی",
+  "en": "Exercise: Milk, hens and roti"
+ },
+ "blocks": [
+  {
+   "t": "activity",
+   "id": "p065-a1",
+   "label": {
+    "ur": "سوال نمبر 4",
+    "en": "Question 4"
+   },
+   "orig": {
+    "ur": "سوال نمبر 4۔ دودھ سے بنی کون سی چیز آپ شوق سے کھاتے ہیں اور کیوں؟",
+    "en": "Question 4. Which thing made from milk do you love to eat, and why?"
+   },
+   "prompt": {
+    "ur": "دودھ سے بنی اپنی پسندیدہ چیز کے بارے میں بتائیں۔",
+    "en": "Tell us about your favourite thing made from milk."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "ان میں سے کون سی چیز دودھ سے بنتی ہے؟",
+        "en": "Which of these is made from milk?"
+       },
+       "options": [
+        {
+         "ur": "دہی",
+         "en": "Yoghurt",
+         "sym": "yogurt"
+        },
+        {
+         "ur": "روٹی",
+         "en": "Roti",
+         "sym": "bread"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "دہی دودھ سے بنتا ہے۔ روٹی آٹے سے بنتی ہے۔",
+        "en": "Yoghurt is made from milk. Roti is made from flour."
+       }
+      },
+      {
+       "q": {
+        "ur": "ان میں سے کون سی چیز دودھ سے بنتی ہے؟",
+        "en": "Which of these is made from milk?"
+       },
+       "options": [
+        {
+         "ur": "گڑ",
+         "en": "Jaggery",
+         "sym": "sugar"
+        },
+        {
+         "ur": "مکھن",
+         "en": "Butter",
+         "sym": "butter"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "مکھن دودھ سے بنتا ہے۔ گڑ گنّے کے رس سے بنتا ہے۔",
+        "en": "Butter is made from milk. Jaggery is made from sugarcane juice."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "دودھ سے بنی چیزیں یاد کریں: دہی، مکھّن، پنیر، گھی۔",
+       "en": "Remember the things made from milk: yoghurt, butter, cheese and ghee."
+      },
+      {
+       "ur": "اپنی پسندیدہ چیز چنیں۔",
+       "en": "Choose your favourite one."
+      },
+      {
+       "ur": "لکھیں یا بتائیں کہ آپ کو وہ کیوں پسند ہے۔",
+       "en": "Write or say why you like it."
+      }
+     ],
+     "model": {
+      "ur": "مجھے دہی بہت پسند ہے کیونکہ یہ مزے دار اور ٹھنڈا ہوتا ہے اور صحت کے لیے اچھا ہے۔",
+      "en": "I like yoghurt very much because it is tasty and cool, and it is good for my health."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دودھ سے بنی ایک چیز کا نام بتایا۔",
+       "en": "I named one thing made from milk."
+      },
+      {
+       "ur": "میں نے پسند کی وجہ بتائی۔",
+       "en": "I gave the reason I like it."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "دودھ سے بنی اپنی پسندیدہ چیز کا نام اور پسند کی وجہ لکھیں۔",
+       "en": "Write the name of your favourite thing made from milk and why you like it."
+      },
+      {
+       "ur": "بتائیں کہ آپ کے گھر میں وہ کس کھانے کے ساتھ کھائی جاتی ہے۔",
+       "en": "Say which food it is eaten with in your home."
+      },
+      {
+       "ur": "دودھ سے بنی دو اور چیزوں کے نام لکھیں۔",
+       "en": "Write the names of two more things made from milk."
+      }
+     ],
+     "model": {
+      "ur": "مجھے مکھّن پسند ہے کیونکہ یہ نرم اور ذائقے دار ہے۔ ہم اسے ناشتے میں پراٹھے کے ساتھ کھاتے ہیں۔ دودھ سے دہی اور پنیر بھی بنتے ہیں۔",
+      "en": "I like butter because it is soft and tasty. We eat it at breakfast with paratha. Yoghurt and cheese are also made from milk."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے چیز اور وجہ لکھی۔",
+       "en": "I wrote the thing and the reason."
+      },
+      {
+       "ur": "میں نے دو اور چیزوں کے نام لکھے۔",
+       "en": "I wrote the names of two more things."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p065-a2",
+   "label": {
+    "ur": "سوال نمبر 5",
+    "en": "Question 5"
+   },
+   "orig": {
+    "ur": "سوال نمبر 5۔ مرغی سے ہم کیا حاصل کرتے ہیں؟ (i) ______ (ii) ______",
+    "en": "Question 5. What do we get from the hen? (i) ______ (ii) ______"
+   },
+   "prompt": {
+    "ur": "سوچیں: مرغی ہمیں کیا دیتی ہے؟",
+    "en": "Think: what does the hen give us?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "مرغی ہمیں کیا دیتی ہے؟",
+        "en": "What does the hen give us?"
+       },
+       "options": [
+        {
+         "ur": "دودھ",
+         "en": "Milk",
+         "sym": "milk"
+        },
+        {
+         "ur": "انڈے",
+         "en": "Eggs",
+         "sym": "egg"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "مرغی انڈے دیتی ہے۔ دودھ گائے اور بھینس سے ملتا ہے۔",
+        "en": "The hen lays eggs. Milk comes from cows and buffaloes."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "سوچیں: ناشتے میں مرغی کی کون سی چیز کھائی جاتی ہے؟",
+       "en": "Think: what do we get from the hen and eat at breakfast?"
+      },
+      {
+       "ur": "دو چیزوں کے نام لکھیں یا بتائیں۔",
+       "en": "Write or say the names of two things."
+      }
+     ],
+     "model": {
+      "ur": "(i) انڈے (ii) گوشت",
+      "en": "(i) Eggs (ii) Meat"
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دو چیزوں کے نام لکھے۔",
+       "en": "I wrote the names of two things."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "مرغی سے",
+       "en": "From the hen"
+      },
+      {
+       "ur": "گائے اور بھینس سے",
+       "en": "From the cow and buffalo"
+      }
+     ],
+     "items": [
+      {
+       "ur": "انڈے",
+       "en": "Eggs",
+       "group": 0
+      },
+      {
+       "ur": "دودھ",
+       "en": "Milk",
+       "group": 1
+      },
+      {
+       "ur": "دہی",
+       "en": "Yoghurt",
+       "group": 1
+      },
+      {
+       "ur": "چوزے",
+       "en": "Chicks",
+       "group": 0
+      },
+      {
+       "ur": "مکھّن",
+       "en": "Butter",
+       "group": 1
+      },
+      {
+       "ur": "گھی",
+       "en": "Ghee",
+       "group": 1
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p065-a3",
+   "label": {
+    "ur": "سوال نمبر 6",
+    "en": "Question 6"
+   },
+   "orig": {
+    "ur": "سوال نمبر 6۔ ذرا غور کریں کہ گھر میں استعمال ہونے والی روٹی کس فصل سے بنتی ہے؟",
+    "en": "Question 6. Think carefully: which crop is the roti we eat at home made from?"
+   },
+   "prompt": {
+    "ur": "روٹی کی تصویر دیکھیں اور صحیح فصل چنیں۔",
+    "en": "Look at the picture of the roti and choose the right crop."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "روٹی کس فصل سے بنتی ہے؟",
+        "en": "Which crop is roti made from?"
+       },
+       "img": [
+        0.158,
+        0.59,
+        0.371,
+        0.702
+       ],
+       "options": [
+        {
+         "ur": "گندم",
+         "en": "Wheat",
+         "sym": "wheat"
+        },
+        {
+         "ur": "کپاس",
+         "en": "Cotton",
+         "sym": "cotton"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "روٹی گندم کے آٹے سے بنتی ہے۔",
+        "en": "Roti is made from wheat flour."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "گھر میں استعمال ہونے والی روٹی کس فصل سے بنتی ہے؟",
+        "en": "Which crop is the roti we eat at home made from?"
+       },
+       "img": [
+        0.158,
+        0.59,
+        0.371,
+        0.702
+       ],
+       "options": [
+        {
+         "ur": "گنّا",
+         "en": "Sugarcane"
+        },
+        {
+         "ur": "کپاس",
+         "en": "Cotton"
+        },
+        {
+         "ur": "گندم",
+         "en": "Wheat"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "کسان گندم اُگاتا ہے، گندم سے آٹا بنتا ہے اور آٹے سے روٹی بنائی جاتی ہے۔",
+        "en": "The farmer grows wheat, flour is made from wheat, and roti is made from flour."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "order",
+     "items": [
+      {
+       "ur": "کسان گندم اُگاتا ہے۔",
+       "en": "The farmer grows wheat."
+      },
+      {
+       "ur": "گندم سے آٹا بنتا ہے۔",
+       "en": "Flour is made from wheat."
+      },
+      {
+       "ur": "آٹا گوندھا جاتا ہے۔",
+       "en": "The flour is kneaded into dough."
+      },
+      {
+       "ur": "توے یا تنور پر روٹی پکائی جاتی ہے۔",
+       "en": "The roti is cooked on a griddle or in a tandoor."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "teacher",
+   "ur": "بچوں کو مختلف فصلوں کی تصاویر اور ان کے بیج دکھائیں۔ ان فصلوں کی اہمیت بھی بیان کریں۔",
+   "en": "Show children pictures of different crops and their seeds. Also explain the importance of these crops."
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "سوال 4 میں کوئی جواب غلط نہیں؛ اپنی پسند بتائیں اور \"کیونکہ\" لگا کر وجہ بتائیں۔ سوال 6 کے لیے صفحہ 56 کی تصویریں یاد کریں۔",
+   "en": "In Question 4 no answer is wrong; say what you like and give a reason using \"because\". For Question 6, remember the pictures on page 56."
+  },
+  {
+   "for": "motor",
+   "ur": "لمبا جواب لکھنا مشکل ہو تو بول کر بتائیں اور کوئی بڑا لکھ دے، یا آواز ریکارڈ کر لیں۔",
+   "en": "If writing a long answer is hard, say it aloud and let a grown-up write it, or record your voice."
+  },
+  {
+   "for": "hearing",
+   "ur": "سوال سمجھنے کے لیے تصویریں یا اصلی چیزیں استعمال کریں: دہی کا پیالہ، انڈا، روٹی۔ جواب اشارے سے یا تصویر چن کر بھی دیا جا سکتا ہے۔",
+   "en": "Use pictures or real objects to understand the questions: a bowl of yoghurt, an egg, a roti. Answers can also be given by sign or by choosing a picture."
+  },
+  {
+   "for": "teacher",
+   "ur": "کچھ بچے دودھ کی چیزیں یا انڈے نہیں کھاتے (الرجی یا گھر کا طریقہ)۔ ان سے پوچھیں کہ گھر والے کیا پسند کرتے ہیں۔ جواب کے لیے تصویر، ایک لفظ یا پورا جملہ، سب قبول کریں۔",
+   "en": "Some children do not eat dairy or eggs (allergy or family practice). Ask them what their family members like. Accept a drawing, a single word or a full sentence as an answer."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "ہمارا کھانا کہاں سے آتا ہے؟",
+   "en": "Where does our food come from?"
+  },
+  "image": {
+   "crop": [
+    0.158,
+    0.59,
+    0.371,
+    0.702
+   ],
+   "alt": {
+    "ur": "ٹوکری میں رکھی ہوئی روٹیاں۔",
+    "en": "There are rotis in a basket."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Roti is made from wheat.",
+    "words": [
+     {
+      "ur": "روٹی",
+      "img": [
+       0.158,
+       0.59,
+       0.371,
+       0.702
+      ]
+     },
+     {
+      "ur": "گندم",
+      "sym": "wheat"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "بنتی",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Roti",
+      "img": [
+       0.158,
+       0.59,
+       0.371,
+       0.702
+      ]
+     },
+     {
+      "en": "is made",
+      "sym": "to make"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "wheat.",
+      "sym": "wheat"
+     }
+    ]
+   },
+   {
+    "en": "Yoghurt is made from milk.",
+    "words": [
+     {
+      "ur": "دہی",
+      "sym": "yogurt"
+     },
+     {
+      "ur": "دودھ",
+      "sym": "milk"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "بنتا",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Yoghurt",
+      "sym": "yogurt"
+     },
+     {
+      "en": "is made",
+      "sym": "to make"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "milk.",
+      "sym": "milk"
+     }
+    ]
+   },
+   {
+    "en": "The hen lays eggs.",
+    "words": [
+     {
+      "ur": "مرغی",
+      "sym": "hen"
+     },
+     {
+      "ur": "انڈے",
+      "sym": "egg"
+     },
+     {
+      "ur": "دیتی",
+      "sym": "to give"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "hen",
+      "sym": "hen"
+     },
+     {
+      "en": "lays",
+      "sym": "to give"
+     },
+     {
+      "en": "eggs.",
+      "sym": "egg"
+     }
+    ]
+   },
+   {
+    "en": "The farmer works hard for us.",
+    "words": [
+     {
+      "ur": "کسان",
+      "sym": "farmer"
+     },
+     {
+      "ur": "ہمارے لیے",
+      "sym": "we"
+     },
+     {
+      "ur": "محنت",
+      "sym": "to work"
+     },
+     {
+      "ur": "کرتا",
+      "sym": null
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "farmer",
+      "sym": "farmer"
+     },
+     {
+      "en": "works hard",
+      "sym": "to work"
+     },
+     {
+      "en": "for us.",
+      "sym": "we"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "انڈے کون دیتا ہے؟",
+       "en": "Who lays eggs?"
+      },
+      "options": [
+       {
+        "ur": "مرغی",
+        "en": "Hen",
+        "sym": "hen"
+       },
+       {
+        "ur": "گائے",
+        "en": "Cow",
+        "sym": "cow"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "مرغی انڈے دیتی ہے۔",
+       "en": "The hen lays eggs."
+      }
+     },
+     {
+      "q": {
+       "ur": "روٹی کس سے بنتی ہے؟",
+       "en": "What is roti made from?"
+      },
+      "img": [
+       0.158,
+       0.59,
+       0.371,
+       0.702
+      ],
+      "options": [
+       {
+        "ur": "دودھ",
+        "en": "Milk",
+        "sym": "milk"
+       },
+       {
+        "ur": "گندم",
+        "en": "Wheat",
+        "sym": "wheat"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "روٹی گندم کے آٹے سے بنتی ہے۔",
+       "en": "Roti is made from wheat flour."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

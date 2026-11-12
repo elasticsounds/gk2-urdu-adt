@@ -1,0 +1,604 @@
+{
+ "n": 46,
+ "printed": "42",
+ "chapter": 7,
+ "kind": "content",
+ "title": {
+  "ur": "پودے کے مختلف حصّے اور افعال",
+  "en": "The parts of a plant and what they do"
+ },
+ "blocks": [
+  {
+   "t": "p",
+   "ur": "ہماری زندگی میں پودوں کی بہت اہمیت ہے۔ یہ ہمیں سانس لینے کے لیے آکسیجن اور کھانے کے لیے پھل وغیرہ دیتے ہیں۔",
+   "en": "Plants are very important in our lives. They give us oxygen to breathe, and fruit and other things to eat."
+  },
+  {
+   "t": "p",
+   "ur": "جس طرح انسان کے جسم کے مختلف اعضا ہیں اسی طرح پودے کے بھی مختلف حصّے ہیں۔ ہر حصّہ الگ الگ کام سرانجام دیتا ہے۔ یہ حصّے جڑ، تنا، پتّے اور پُھول ہیں۔",
+   "en": "Just as the human body has different parts, a plant has different parts too. Each part does its own job. These parts are the root, the stem, the leaves and the flower."
+  },
+  {
+   "t": "h",
+   "ur": "پودے کے مختلف حصّے اور افعال",
+   "en": "The parts of a plant and what they do"
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.43,
+    0.318,
+    0.632,
+    0.84
+   ],
+   "alt": {
+    "ur": "سورج مکھی کے پودے کی تصویر۔ سب سے اوپر پیلا پُھول ہے، بیچ میں سبز تنا اور سبز پتّے ہیں، اور سب سے نیچے زمین کے اندر بھوری جڑیں پھیلی ہوئی ہیں۔",
+    "en": "This is a picture of a sunflower plant. At the top is a yellow flower, in the middle are a green stem and green leaves, and at the bottom brown roots spread out under the ground."
+   }
+  },
+  {
+   "t": "p",
+   "ur": "میں پُھول ہوں: میں پودے کی خُوب صورتی میں اضافہ کرتا ہوں۔ میں پودے کا پھل اور بیج بناتا ہوں۔",
+   "en": "I am the flower: I make the plant more beautiful. I make the plant's fruit and seeds."
+  },
+  {
+   "t": "p",
+   "ur": "میں پتّا ہوں: میں پانی، ہوا اور روشنی کے ساتھ مل کر پودے کی خوراک بناتا ہوں۔",
+   "en": "I am the leaf: together with water, air and light, I make the plant's food."
+  },
+  {
+   "t": "p",
+   "ur": "میں تنا ہوں: میں جڑ سے حاصل ہونے والے پانی کو ٹہنیوں اور پتّوں تک پہنچاتا ہوں۔",
+   "en": "I am the stem: I carry the water that comes from the root to the branches and leaves."
+  },
+  {
+   "t": "p",
+   "ur": "میں جڑ ہوں: میں زمین کے اندر رہتی ہوں۔ زمین میں پودے کو مضبوطی سے گاڑے رکھتی ہوں اور زمین سے پودے کے لیے پانی جذب کر کے تنے تک پہنچاتی ہوں۔",
+   "en": "I am the root: I live under the ground. I hold the plant firmly in the soil. I soak up water from the soil for the plant and send it up to the stem."
+  },
+  {
+   "t": "fact",
+   "ur": "پودوں کے زندہ رہنے اور بڑھنے کے لیے مٹی، پانی، ہوا اور سورج کی روشنی ضروری ہے۔",
+   "en": "Plants need soil, water, air and sunlight to stay alive and grow."
+  },
+  {
+   "t": "activity",
+   "id": "p046-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "پودے کے مختلف حصّے اور افعال",
+    "en": "The parts of a plant and what they do"
+   },
+   "prompt": {
+    "ur": "پودے کا ہر حصّہ اپنا کام بتا رہا ہے۔ ہر حصّے کو اس کے کام سے ملائیں۔",
+    "en": "Each part of the plant is telling us its job. Match each part to its job."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "یہ پودے کا کون سا حصّہ ہے؟",
+        "en": "Which part of the plant is this?"
+       },
+       "img": [
+        0.455,
+        0.312,
+        0.602,
+        0.425
+       ],
+       "options": [
+        {
+         "ur": "پُھول",
+         "en": "Flower",
+         "sym": "flower"
+        },
+        {
+         "ur": "جڑ",
+         "en": "Root",
+         "sym": "root"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "یہ پُھول ہے۔ پُھول پودے کے سب سے اوپر ہوتا ہے۔",
+        "en": "This is the flower. The flower is at the top of the plant."
+       }
+      },
+      {
+       "q": {
+        "ur": "یہ پودے کا کون سا حصّہ ہے؟",
+        "en": "Which part of the plant is this?"
+       },
+       "img": [
+        0.43,
+        0.715,
+        0.645,
+        0.845
+       ],
+       "options": [
+        {
+         "ur": "پتّا",
+         "en": "Leaf",
+         "sym": "leaf"
+        },
+        {
+         "ur": "جڑ",
+         "en": "Root",
+         "sym": "root"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "یہ جڑ ہے۔ جڑ زمین کے اندر رہتی ہے۔",
+        "en": "This is the root. The root lives under the ground."
+       }
+      },
+      {
+       "q": {
+        "ur": "زمین سے پانی کون جذب کرتا ہے؟",
+        "en": "Which part soaks up water from the soil?"
+       },
+       "options": [
+        {
+         "ur": "جڑ",
+         "en": "Root",
+         "sym": "root"
+        },
+        {
+         "ur": "پُھول",
+         "en": "Flower",
+         "sym": "flower"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "جڑ زمین سے پانی جذب کرتی ہے۔",
+        "en": "The root soaks up water from the soil."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "پُھول",
+        "en": "Flower",
+        "img": [
+         0.455,
+         0.312,
+         0.602,
+         0.425
+        ]
+       },
+       "b": {
+        "ur": "پودے کا پھل اور بیج بناتا ہے",
+        "en": "makes the plant's fruit and seeds"
+       }
+      },
+      {
+       "a": {
+        "ur": "پتّا",
+        "en": "Leaf",
+        "img": [
+         0.395,
+         0.508,
+         0.5,
+         0.572
+        ]
+       },
+       "b": {
+        "ur": "پودے کی خوراک بناتا ہے",
+        "en": "makes the plant's food"
+       }
+      },
+      {
+       "a": {
+        "ur": "تنا",
+        "en": "Stem",
+        "sym": "stem"
+       },
+       "b": {
+        "ur": "پانی کو ٹہنیوں اور پتّوں تک پہنچاتا ہے",
+        "en": "carries water to the branches and leaves"
+       }
+      },
+      {
+       "a": {
+        "ur": "جڑ",
+        "en": "Root",
+        "img": [
+         0.43,
+         0.715,
+         0.645,
+         0.845
+        ]
+       },
+       "b": {
+        "ur": "زمین سے پانی جذب کرتی ہے",
+        "en": "soaks up water from the soil"
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "پودے کی خوراک کون سا حصّہ بناتا ہے؟",
+        "en": "Which part makes the plant's food?"
+       },
+       "options": [
+        {
+         "ur": "جڑ",
+         "en": "Root"
+        },
+        {
+         "ur": "تنا",
+         "en": "Stem"
+        },
+        {
+         "ur": "پتّا",
+         "en": "Leaf"
+        },
+        {
+         "ur": "پُھول",
+         "en": "Flower"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "پتّا پانی، ہوا اور روشنی کے ساتھ مل کر پودے کی خوراک بناتا ہے۔",
+        "en": "The leaf makes the plant's food together with water, air and light."
+       }
+      },
+      {
+       "q": {
+        "ur": "پانی جڑ سے پتّوں تک کس راستے سے جاتا ہے؟",
+        "en": "Which way does water travel from the root to the leaves?"
+       },
+       "options": [
+        {
+         "ur": "تنے سے",
+         "en": "Through the stem"
+        },
+        {
+         "ur": "پُھول سے",
+         "en": "Through the flower"
+        },
+        {
+         "ur": "بیج سے",
+         "en": "Through the seed"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "تنا جڑ سے ملنے والا پانی ٹہنیوں اور پتّوں تک پہنچاتا ہے۔",
+        "en": "The stem carries the water that comes from the root to the branches and leaves."
+       }
+      },
+      {
+       "q": {
+        "ur": "اگر پودے کی جڑ کاٹ دی جائے تو کیا ہو گا؟",
+        "en": "What will happen if the plant's root is cut off?"
+       },
+       "options": [
+        {
+         "ur": "پودا اور تیزی سے بڑھے گا",
+         "en": "The plant will grow faster"
+        },
+        {
+         "ur": "پودے کو پانی نہیں ملے گا اور وہ گر جائے گا",
+         "en": "The plant will get no water and will fall over"
+        },
+        {
+         "ur": "کچھ نہیں ہو گا",
+         "en": "Nothing will happen"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "جڑ پودے کو زمین میں مضبوطی سے گاڑے رکھتی ہے اور پانی جذب کرتی ہے۔ جڑ کے بغیر پودا کھڑا نہیں رہ سکتا اور سوکھ جاتا ہے۔",
+        "en": "The root holds the plant firmly in the soil and soaks up water. Without its root the plant cannot stand up, and it dries out."
+       }
+      },
+      {
+       "q": {
+        "ur": "پھل اور بیج کون سا حصّہ بناتا ہے؟",
+        "en": "Which part makes the fruit and seeds?"
+       },
+       "options": [
+        {
+         "ur": "پتّا",
+         "en": "Leaf"
+        },
+        {
+         "ur": "پُھول",
+         "en": "Flower"
+        },
+        {
+         "ur": "جڑ",
+         "en": "Root"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "پُھول پودے کا پھل اور بیج بناتا ہے۔",
+        "en": "The flower makes the plant's fruit and seeds."
+       }
+      },
+      {
+       "q": {
+        "ur": "پودے کو زندہ رہنے کے لیے ان میں سے کس چیز کی ضرورت نہیں؟",
+        "en": "Which of these does a plant NOT need to stay alive?"
+       },
+       "options": [
+        {
+         "ur": "پانی",
+         "en": "Water"
+        },
+        {
+         "ur": "سورج کی روشنی",
+         "en": "Sunlight"
+        },
+        {
+         "ur": "ہوا",
+         "en": "Air"
+        },
+        {
+         "ur": "کھلونے",
+         "en": "Toys"
+        }
+       ],
+       "answer": 3,
+       "fb": {
+        "ur": "پودوں کو مٹی، پانی، ہوا اور سورج کی روشنی چاہیے۔ کھلونوں کی ضرورت نہیں۔",
+        "en": "Plants need soil, water, air and sunlight. They do not need toys."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "تصویر کو نیچے سے اوپر دیکھیں: جڑ ← تنا ← پتّا ← پُھول۔ یہی وہ راستہ ہے جس سے پانی اوپر جاتا ہے۔",
+   "en": "Look at the picture from bottom to top: root, then stem, then leaf, then flower. This is the same path that water takes on its way up."
+  },
+  {
+   "for": "all",
+   "ur": "اپنے جسم سے یاد رکھیں: پاؤں = جڑ، ٹانگیں اور کمر = تنا، ہاتھ = پتّے، چہرہ = پُھول۔ کھڑے ہو کر ہر حصّہ چھوئیں اور نام بولیں۔",
+   "en": "Remember with your body: your feet are the root, your legs and back are the stem, your hands are the leaves and your face is the flower. Stand up, touch each part and say its name."
+  },
+  {
+   "for": "vision",
+   "ur": "ایک اصلی پودا (جڑ سمیت) ہاتھ میں لیں۔ باریک دھاگوں جیسی جڑیں، سخت سیدھا تنا، چپٹے پتّے اور نرم پُھول چھو کر پہچانیں۔",
+   "en": "Hold a real plant with its roots. Feel and get to know the thread-like roots, the hard straight stem, the flat leaves and the soft flower."
+  },
+  {
+   "for": "teacher",
+   "ur": "چار بچوں کو پُھول، پتّا، تنا اور جڑ کا کردار دیں؛ ہر بچہ اپنا جملہ \"میں … ہوں\" بولے یا اشارے سے دکھائے۔ جو بچہ بول نہ سکے وہ اپنے حصّے کا کارڈ اٹھا کر دکھا سکتا ہے۔",
+   "en": "Give four children the roles of flower, leaf, stem and root; each child says their \"I am the …\" line or shows it with a gesture. A child who cannot speak can hold up the card for their part."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "پودے کے حصّے",
+   "en": "Parts of a plant"
+  },
+  "image": {
+   "crop": [
+    0.43,
+    0.318,
+    0.632,
+    0.84
+   ],
+   "alt": {
+    "ur": "سورج مکھی کا پودا: اوپر پُھول، بیچ میں تنا اور پتّے، نیچے جڑ۔",
+    "en": "A sunflower plant has a flower at the top, a stem and leaves in the middle, and a root at the bottom."
+   }
+  },
+  "sentences": [
+   {
+    "en": "A plant has four parts.",
+    "words_en": [{"en": "A plant", "sym": "plant"}, {"en": "has", "sym": null}, {"en": "four", "sym": "four"}, {"en": "parts.", "sym": "part"}],
+    "words": [
+     {
+      "ur": "پودے",
+      "sym": "plant"
+     },
+     {
+      "ur": "کے",
+      "sym": null
+     },
+     {
+      "ur": "چار",
+      "sym": "four"
+     },
+     {
+      "ur": "حصّے",
+      "sym": "part"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "The root drinks water.",
+    "words_en": [{"en": "The root", "img": [0.43, 0.715, 0.645, 0.845]}, {"en": "drinks", "sym": "to drink"}, {"en": "water.", "sym": "water"}],
+    "words": [
+     {
+      "ur": "جڑ",
+      "img": [
+       0.43,
+       0.715,
+       0.645,
+       0.845
+      ]
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "پیتی",
+      "sym": "to drink"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "The stem takes water up.",
+    "words_en": [{"en": "The stem", "sym": "stem"}, {"en": "takes", "sym": "to carry"}, {"en": "water", "sym": "water"}, {"en": "up.", "sym": "up"}],
+    "words": [
+     {
+      "ur": "تنا",
+      "sym": "stem"
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "اوپر",
+      "sym": "up"
+     },
+     {
+      "ur": "لے جاتا",
+      "sym": "to carry"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "The leaf makes food.",
+    "words_en": [{"en": "The leaf", "sym": "leaf"}, {"en": "makes", "sym": "to make"}, {"en": "food.", "sym": "food"}],
+    "words": [
+     {
+      "ur": "پتّا",
+      "sym": "leaf"
+     },
+     {
+      "ur": "خوراک",
+      "sym": "food"
+     },
+     {
+      "ur": "بناتا",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "The flower makes seeds.",
+    "words_en": [{"en": "The flower", "img": [0.455, 0.312, 0.602, 0.425]}, {"en": "makes", "sym": "to make"}, {"en": "seeds.", "sym": "seed"}],
+    "words": [
+     {
+      "ur": "پُھول",
+      "img": [
+       0.455,
+       0.312,
+       0.602,
+       0.425
+      ]
+     },
+     {
+      "ur": "بیج",
+      "sym": "seed"
+     },
+     {
+      "ur": "بناتا",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "تصویر کو اس کے نام سے ملائیں۔",
+    "en": "Match the picture to its name."
+   },
+   "task": {
+    "kind": "match",
+    "pairs": [
+     {
+      "a": {
+       "ur": "پُھول",
+       "en": "Flower",
+       "img": [
+        0.455,
+        0.312,
+        0.602,
+        0.425
+       ]
+      },
+      "b": {
+       "ur": "پُھول",
+       "en": "Flower",
+       "sym": "flower"
+      }
+     },
+     {
+      "a": {
+       "ur": "جڑ",
+       "en": "Root",
+       "img": [
+        0.43,
+        0.715,
+        0.645,
+        0.845
+       ]
+      },
+      "b": {
+       "ur": "جڑ",
+       "en": "Root",
+       "sym": "root"
+      }
+     },
+     {
+      "a": {
+       "ur": "پتّا",
+       "en": "Leaf",
+       "img": [
+        0.395,
+        0.508,
+        0.5,
+        0.572
+       ]
+      },
+      "b": {
+       "ur": "پتّا",
+       "en": "Leaf",
+       "sym": "leaf"
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

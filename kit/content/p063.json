@@ -1,0 +1,526 @@
+{
+ "n": 63,
+ "printed": "59",
+ "chapter": 9,
+ "kind": "content",
+ "title": {
+  "ur": "مویشیوں سے گوشت اور چمڑا؛ کپاس سے لباس",
+  "en": "Meat and leather from livestock; clothes from cotton"
+ },
+ "blocks": [
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.515,
+      0.09,
+      0.826,
+      0.268
+     ],
+     "alt": {
+      "ur": "ایک قصاب اپنی دکان پر گوشت کاٹ رہا ہے۔ اس کے پیچھے گوشت لٹکا ہوا ہے۔",
+      "en": "A butcher is cutting meat at his shop, and meat is hanging behind him."
+     },
+     "cap": {
+      "ur": "مویشیوں کا گوشت کھایا جاتا ہے۔",
+      "en": "The meat of livestock is eaten."
+     }
+    },
+    {
+     "crop": [
+      0.185,
+      0.09,
+      0.502,
+      0.268
+     ],
+     "alt": {
+      "ur": "کارخانے میں جانوروں کی کھالیں قطار میں لٹکی ہوئی ہیں۔",
+      "en": "Animal skins are hanging in rows in a factory."
+     },
+     "cap": {
+      "ur": "مویشیوں کی کھال چمڑا بنانے کے لیے استعمال کی جاتی ہے۔",
+      "en": "The skin of livestock is used to make leather."
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p063-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "نیچے دیے گئے عمل کو تصاویر لگا کر مکمل کریں۔ کپاس ← دھاگا ← کپڑا ← لباس",
+    "en": "Complete the process given below by pasting pictures. Cotton, then thread, then cloth, then clothes."
+   },
+   "prompt": {
+    "ur": "کپاس سے لباس بننے کا عمل تصویروں سے مکمل کریں۔",
+    "en": "Use pictures to show how cotton becomes clothes."
+   },
+   "task": {
+    "kind": "open",
+    "mode": "draw",
+    "steps": [
+     {
+      "ur": "پہلے دائرے میں کپاس کی تصویر دیکھیں۔",
+      "en": "Look at the picture of cotton in the first circle."
+     },
+     {
+      "ur": "دوسرے دائرے میں دھاگے کی تصویر بنائیں یا اصلی دھاگا چپکائیں۔",
+      "en": "In the second circle, draw thread or stick on real thread."
+     },
+     {
+      "ur": "تیسرے دائرے میں کپڑے کی تصویر بنائیں یا کپڑے کا ٹکڑا چپکائیں۔",
+      "en": "In the third circle, draw cloth or stick on a piece of cloth."
+     },
+     {
+      "ur": "چوتھے دائرے میں لباس، جیسے قمیص، کی تصویر بنائیں۔",
+      "en": "In the fourth circle, draw clothes, such as a shirt."
+     },
+     {
+      "ur": "تیروں پر انگلی پھیر کر پورا عمل بول کر سنائیں۔",
+      "en": "Trace the arrows with your finger and say the whole process aloud."
+     }
+    ],
+    "model": {
+     "ur": "کپاس سے دھاگا بنتا ہے، دھاگے سے کپڑا بنتا ہے اور کپڑے سے لباس بنتا ہے۔",
+     "en": "Thread is made from cotton, cloth is made from thread, and clothes are made from cloth."
+    },
+    "checklist": [
+     {
+      "ur": "میں نے دھاگے، کپڑے اور لباس کی تصویر لگائی۔",
+      "en": "I added pictures of thread, cloth and clothes."
+     },
+     {
+      "ur": "میں نے عمل ترتیب سے سنایا۔",
+      "en": "I said the process in order."
+     }
+    ]
+   }
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.308,
+    0.331,
+    0.545,
+    0.502
+   ],
+   "alt": {
+    "ur": "کپاس کے پودے پر کھلا ہوا سفید، نرم کپاس کا پھول۔",
+    "en": "An open, soft, white cotton boll is growing on a cotton plant."
+   },
+   "cap": {
+    "ur": "کپاس",
+    "en": "Cotton"
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p063-a2",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "کپاس ← دھاگا ← کپڑا ← لباس",
+    "en": "Cotton, then thread, then cloth, then clothes."
+   },
+   "prompt": {
+    "ur": "کپاس سے لباس تک کے قدم صحیح ترتیب میں لگائیں۔",
+    "en": "Put the steps from cotton to clothes in the right order."
+   },
+   "levels": {
+    "easy": {
+     "kind": "order",
+     "items": [
+      {
+       "ur": "کپاس",
+       "en": "Cotton",
+       "img": [
+        0.308,
+        0.331,
+        0.545,
+        0.502
+       ]
+      },
+      {
+       "ur": "دھاگا",
+       "en": "Thread",
+       "sym": "thread"
+      },
+      {
+       "ur": "لباس",
+       "en": "Clothes",
+       "sym": "clothes"
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "order",
+     "items": [
+      {
+       "ur": "کپاس",
+       "en": "Cotton",
+       "img": [
+        0.308,
+        0.331,
+        0.545,
+        0.502
+       ]
+      },
+      {
+       "ur": "دھاگا",
+       "en": "Thread",
+       "sym": "thread"
+      },
+      {
+       "ur": "کپڑا",
+       "en": "Cloth",
+       "sym": "cloth"
+      },
+      {
+       "ur": "لباس",
+       "en": "Clothes",
+       "sym": "clothes"
+      }
+     ]
+    },
+    "hard": {
+     "kind": "order",
+     "items": [
+      {
+       "ur": "کسان کپاس اُگاتا ہے۔",
+       "en": "The farmer grows cotton."
+      },
+      {
+       "ur": "کپاس سے روئی بنتی ہے۔",
+       "en": "Cotton wool is made from cotton."
+      },
+      {
+       "ur": "روئی سے دھاگا بنتا ہے۔",
+       "en": "Thread is made from cotton wool."
+      },
+      {
+       "ur": "دھاگے سے فیکٹری میں کپڑا بنتا ہے۔",
+       "en": "Cloth is made from thread in a factory."
+      },
+      {
+       "ur": "کپڑے سے لباس سیا جاتا ہے۔",
+       "en": "Clothes are sewn from cloth."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "teacher",
+   "ur": "ڈرائینگ، تصاویر یا اصلی مواد لگا کر سرگرمی مکمل کریں۔",
+   "en": "Complete the activity by using drawings, pictures or real materials."
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "تیروں کے ساتھ ساتھ چلیں: کپاس ← دھاگا ← کپڑا ← لباس۔ اپنی قمیص کو دیکھیں اور سوچیں کہ یہ بھی کبھی کھیت میں کپاس تھی۔",
+   "en": "Follow the arrows: cotton, then thread, then cloth, then clothes. Look at your shirt and think: it was once cotton in a field too."
+  },
+  {
+   "for": "vision",
+   "ur": "دائروں کی جگہ چار ڈبے یا پلیٹیں رکھیں۔ ان میں اصلی روئی، دھاگا، کپڑے کا ٹکڑا اور ایک چھوٹی قمیص یا رومال رکھیں اور ترتیب سے چھوئیں۔",
+   "en": "Instead of circles, use four boxes or plates. Put real cotton wool, thread, a piece of cloth and a small shirt or handkerchief in them, and touch them in order."
+  },
+  {
+   "for": "motor",
+   "ur": "تصویر بنانا یا چپکانا مشکل ہو تو ساتھی کو بتائیں کہ کون سی چیز کس دائرے میں جائے گی، یا چیزیں ہاتھ سے سرکا کر رکھیں۔",
+   "en": "If drawing or pasting is hard, tell a buddy which thing goes in which circle, or slide the objects into place by hand."
+  },
+  {
+   "for": "teacher",
+   "ur": "گوشت اور کھال کی تصویریں کچھ بچوں کو عجیب لگ سکتی ہیں؛ نرمی سے بتائیں کہ جوتے، بیگ اور بیلٹ چمڑے سے بنتے ہیں۔ سرگرمی میں تصویر، اصلی چیز یا زبانی جواب سب قبول کریں۔",
+   "en": "The pictures of meat and skins may feel strange to some children; explain gently that shoes, bags and belts are made of leather. In the activity, accept drawings, real objects or spoken answers."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "کپاس سے لباس",
+   "en": "From cotton to clothes"
+  },
+  "image": {
+   "crop": [
+    0.308,
+    0.331,
+    0.545,
+    0.502
+   ],
+   "alt": {
+    "ur": "سفید کپاس کا پھول۔",
+    "en": "This is a white cotton boll."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Cotton grows in the field.",
+    "words": [
+     {
+      "ur": "کپاس",
+      "img": [
+       0.308,
+       0.331,
+       0.545,
+       0.502
+      ]
+     },
+     {
+      "ur": "کھیت",
+      "sym": "field"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "اُگتی",
+      "sym": "to grow"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Cotton",
+      "img": [
+       0.308,
+       0.331,
+       0.545,
+       0.502
+      ]
+     },
+     {
+      "en": "grows",
+      "sym": "to grow"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "field.",
+      "sym": "field"
+     }
+    ]
+   },
+   {
+    "en": "Thread is made from cotton.",
+    "words": [
+     {
+      "ur": "کپاس",
+      "img": [
+       0.308,
+       0.331,
+       0.545,
+       0.502
+      ]
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "دھاگا",
+      "sym": "thread"
+     },
+     {
+      "ur": "بنتا",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Thread",
+      "sym": "thread"
+     },
+     {
+      "en": "is made",
+      "sym": "to make"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "cotton.",
+      "img": [
+       0.308,
+       0.331,
+       0.545,
+       0.502
+      ]
+     }
+    ]
+   },
+   {
+    "en": "Cloth is made from thread.",
+    "words": [
+     {
+      "ur": "دھاگے",
+      "sym": "thread"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "کپڑا",
+      "sym": "cloth"
+     },
+     {
+      "ur": "بنتا",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Cloth",
+      "sym": "cloth"
+     },
+     {
+      "en": "is made",
+      "sym": "to make"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "thread.",
+      "sym": "thread"
+     }
+    ]
+   },
+   {
+    "en": "We wear clothes.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "لباس",
+      "sym": "clothes"
+     },
+     {
+      "ur": "پہنتے",
+      "sym": "to wear"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "wear",
+      "sym": "to wear"
+     },
+     {
+      "en": "clothes.",
+      "sym": "clothes"
+     }
+    ]
+   },
+   {
+    "en": "Farm animals give us meat.",
+    "words": [
+     {
+      "ur": "مویشیوں",
+      "sym": "cow"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "گوشت",
+      "sym": "meat"
+     },
+     {
+      "ur": "ملتا",
+      "sym": "to get"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Farm animals",
+      "sym": "cow"
+     },
+     {
+      "en": "give us",
+      "sym": "to get"
+     },
+     {
+      "en": "meat.",
+      "sym": "meat"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "ترتیب سے لگائیں۔",
+    "en": "Put these in order."
+   },
+   "task": {
+    "kind": "order",
+    "items": [
+     {
+      "ur": "کپاس",
+      "en": "Cotton",
+      "img": [
+       0.308,
+       0.331,
+       0.545,
+       0.502
+      ]
+     },
+     {
+      "ur": "دھاگا",
+      "en": "Thread",
+      "sym": "thread"
+     },
+     {
+      "ur": "لباس",
+      "en": "Clothes",
+      "sym": "clothes"
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

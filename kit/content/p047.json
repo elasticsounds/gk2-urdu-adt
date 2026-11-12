@@ -1,0 +1,646 @@
+{
+ "n": 47,
+ "printed": "43",
+ "chapter": 7,
+ "kind": "content",
+ "title": {
+  "ur": "پودے کی نشوونما اور پتّوں کی اشکال",
+  "en": "How plants grow and the shapes of leaves"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "پودے کی نشوونما",
+   "en": "How a plant grows"
+  },
+  {
+   "t": "activity",
+   "id": "p047-a1",
+   "label": {
+    "ur": "پراجیکٹ",
+    "en": "Project"
+   },
+   "orig": {
+    "ur": "پراجیکٹ: دو گملے لیں جن میں پودے لگے ہوں۔ ایک گملا باہر صحن میں رکھ دیں جہاں اُسے روشنی، پانی اور ہوا ملتی رہے جب کہ دوسرے پودے کو کمرے کے اندر رکھیں جہاں اُسے روشنی نہ ملے۔ ہر تین دن کے بعد دونوں پودوں کا مشاہدہ کریں اور حاصل شدہ نتائج دیے گئے جدول میں لکھیں۔ (جدول: مشاہدہ — 3 دن بعد — 6 دن بعد — 9 دن بعد — نتیجہ؛ گملا نمبر 1 صحن میں رکھا ہوا؛ گملا نمبر 2 کمرے میں رکھا ہوا)",
+    "en": "Project: Take two pots that have plants growing in them. Put one pot outside in the courtyard where it keeps getting light, water and air, while you keep the other plant inside a room where it gets no light. Observe both plants every three days and write the results in the given table. The table has columns for observation after 3 days, after 6 days and after 9 days, and for the result. It has one row for pot number 1, kept in the courtyard, and one row for pot number 2, kept in the room."
+   },
+   "prompt": {
+    "ur": "دو پودوں کا تجربہ کریں: ایک کو روشنی ملے، دوسرے کو نہ ملے۔ دیکھیں کیا ہوتا ہے!",
+    "en": "Do an experiment with two plants: one gets light, the other does not. See what happens!"
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "کون سا پودا ہرا بھرا رہے گا؟",
+        "en": "Which plant will stay green and healthy?"
+       },
+       "options": [
+        {
+         "ur": "صحن والا پودا جسے دھوپ ملتی ہے",
+         "en": "The plant in the courtyard that gets sunshine",
+         "sym": "sun"
+        },
+        {
+         "ur": "اندھیرے کمرے والا پودا",
+         "en": "The plant in the dark room",
+         "sym": "dark"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "صحن والے پودے کو روشنی، پانی اور ہوا ملتی ہے، اس لیے وہ ہرا بھرا رہتا ہے۔",
+        "en": "The plant in the courtyard gets light, water and air, so it stays green and healthy."
+       }
+      },
+      {
+       "q": {
+        "ur": "پودے کو بڑھنے کے لیے کیا چاہیے؟",
+        "en": "What does a plant need to grow?"
+       },
+       "options": [
+        {
+         "ur": "ٹی وی",
+         "en": "Television",
+         "sym": "television"
+        },
+        {
+         "ur": "پانی",
+         "en": "Water",
+         "sym": "water"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "پودے کو پانی چاہیے۔ پانی کے بغیر پودا سوکھ جاتا ہے۔",
+        "en": "A plant needs water. Without water a plant dries up."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "do",
+     "steps": [
+      {
+       "ur": "دو گملے لیں جن میں ایک جیسے پودے لگے ہوں۔ ایک پر 1 اور دوسرے پر 2 لکھیں۔",
+       "en": "Take two pots with the same kind of plant in them. Write 1 on one pot and 2 on the other."
+      },
+      {
+       "ur": "گملا نمبر 1 صحن میں رکھیں جہاں اسے روشنی، پانی اور ہوا ملے۔",
+       "en": "Put pot number 1 in the courtyard where it gets light, water and air."
+      },
+      {
+       "ur": "گملا نمبر 2 کمرے کے اندر رکھیں جہاں اسے روشنی نہ ملے۔",
+       "en": "Put pot number 2 inside a room where it gets no light."
+      },
+      {
+       "ur": "3، 6 اور 9 دن بعد دونوں پودوں کو دیکھیں: پتّوں کا رنگ کیسا ہے؟ پودا سیدھا ہے یا جھکا ہوا؟",
+       "en": "After 3, 6 and 9 days look at both plants: what colour are the leaves? Is the plant straight or drooping?"
+      },
+      {
+       "ur": "جو دیکھا وہ جدول میں لکھیں یا تصویر بنائیں۔ آخر میں نتیجہ لکھیں۔",
+       "en": "Write what you saw in the table, or draw it. At the end write the result."
+      }
+     ],
+     "model": {
+      "ur": "گملا نمبر 1 (صحن میں): 3، 6 اور 9 دن بعد پودا ہرا بھرا اور سیدھا رہا اور بڑھتا رہا۔ گملا نمبر 2 (کمرے میں): پتّے آہستہ آہستہ پیلے پڑ گئے اور پودا کمزور ہو کر جھک گیا۔ نتیجہ: پودے کی نشوونما کے لیے روشنی، پانی اور ہوا ضروری ہیں۔",
+      "en": "Pot number 1, in the courtyard: after 3, 6 and 9 days the plant stayed green and upright and kept growing. Pot number 2, in the room: the leaves slowly turned yellow and the plant became weak and drooped. Result: a plant needs light, water and air to grow."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دونوں گملے صحیح جگہ رکھے۔",
+       "en": "I put both pots in the right places."
+      },
+      {
+       "ur": "میں نے 3، 6 اور 9 دن بعد پودوں کو دیکھا۔",
+       "en": "I looked at the plants after 3, 6 and 9 days."
+      },
+      {
+       "ur": "میں نے جدول بھرا اور نتیجہ بتایا۔",
+       "en": "I filled in the table and said the result."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "تجربہ مکمل کریں اور جدول بھریں۔",
+       "en": "Finish the experiment and fill in the table."
+      },
+      {
+       "ur": "لکھیں: کمرے والے پودے کے پتّے پیلے کیوں ہوئے؟",
+       "en": "Write: why did the leaves of the plant in the room turn yellow?"
+      },
+      {
+       "ur": "سوچیں: اگر صحن والے پودے کو پانی نہ دیا جائے تو کیا ہو گا؟",
+       "en": "Think: what will happen if the plant in the courtyard is not given water?"
+      }
+     ],
+     "model": {
+      "ur": "کمرے والے پودے کو روشنی نہیں ملی۔ پتّے روشنی، پانی اور ہوا کے ساتھ مل کر خوراک بناتے ہیں، اس لیے روشنی کے بغیر پودا خوراک نہیں بنا سکا اور کمزور ہو گیا۔ اگر صحن والے پودے کو پانی نہ ملے تو وہ بھی سوکھ جائے گا، کیونکہ پودے کو مٹی، پانی، ہوا اور روشنی سب چاہییں۔",
+      "en": "The plant in the room got no light. Leaves make food together with light, water and air, so without light the plant could not make food and became weak. If the plant in the courtyard gets no water it will dry up too, because a plant needs all of these: soil, water, air and light."
+     }
+    }
+   }
+  },
+  {
+   "t": "h",
+   "ur": "پتّوں کی اشکال",
+   "en": "Shapes of leaves"
+  },
+  {
+   "t": "p",
+   "ur": "پتّے مختلف اشکال کے ہوتے ہیں۔ نیچے دی گئی تصویروں کو غور سے دیکھیں اور دیے گئے الفاظ کی مدد سے پتّوں کی اشکال (چوڑا، بیضوی، چھوٹا، لمبوترا) کے نام بتائیں۔",
+   "en": "Leaves come in different shapes. Look carefully at the pictures below and use the given words to name the shapes of the leaves: broad, oval, small, long and narrow."
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.581,
+      0.651,
+      0.847,
+      0.779
+     ],
+     "alt": {
+      "ur": "ایک بہت چوڑا، گہرا سبز پتّا جس کے کناروں میں لمبے کٹاؤ ہیں۔",
+      "en": "This is a very broad, dark green leaf with long slits in its edges."
+     }
+    },
+    {
+     "crop": [
+      0.314,
+      0.651,
+      0.577,
+      0.779
+     ],
+     "alt": {
+      "ur": "ایک چوڑا سبز پتّا جو نیچے سے گول اور اوپر سے نوکیلا ہے؛ اس کے کنارے دندانے دار ہیں۔",
+      "en": "This is a broad green leaf, round at the bottom and pointed at the top, with jagged edges like the teeth of a saw."
+     }
+    },
+    {
+     "crop": [
+      0.128,
+      0.651,
+      0.31,
+      0.779
+     ],
+     "alt": {
+      "ur": "ایک ہموار سبز پتّا جس کی شکل انڈے جیسی (بیضوی) ہے۔",
+      "en": "This is a smooth green leaf with an oval shape, like an egg."
+     }
+    },
+    {
+     "crop": [
+      0.375,
+      0.779,
+      0.847,
+      0.873
+     ],
+     "alt": {
+      "ur": "ایک لمبی ٹہنی جس پر دونوں طرف لمبے پتلے سبز پتّے لگے ہیں۔",
+      "en": "This is a long twig with long, narrow green leaves on both sides."
+     }
+    },
+    {
+     "crop": [
+      0.128,
+      0.779,
+      0.37,
+      0.873
+     ],
+     "alt": {
+      "ur": "ایک ننھی ٹہنی جس پر تین چھوٹے ہلکے سبز پتّے ہیں۔",
+      "en": "This is a tiny twig with three small, light green leaves."
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p047-a2",
+   "label": {
+    "ur": "پتّوں کی اشکال",
+    "en": "Shapes of leaves"
+   },
+   "orig": {
+    "ur": "نیچے دی گئی تصویروں کو غور سے دیکھیں اور دیے گئے الفاظ کی مدد سے پتّوں کی اشکال (چوڑا، بیضوی، چھوٹا، لمبوترا) کے نام بتائیں۔",
+    "en": "Look carefully at the pictures below and use the given words to name the shapes of the leaves: broad, oval, small, long and narrow."
+   },
+   "prompt": {
+    "ur": "ہر پتّے کو غور سے دیکھیں۔ پھر اسے اس کی شکل کے نام سے ملائیں۔",
+    "en": "Look carefully at each leaf. Then match it to the name of its shape."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "یہ پتّا کیسا ہے؟",
+        "en": "What is this leaf like?"
+       },
+       "img": [
+        0.581,
+        0.651,
+        0.847,
+        0.779
+       ],
+       "options": [
+        {
+         "ur": "چوڑا",
+         "en": "Broad",
+         "sym": "wide"
+        },
+        {
+         "ur": "چھوٹا",
+         "en": "Small",
+         "sym": "small"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "یہ پتّا بہت چوڑا ہے۔",
+        "en": "This leaf is very broad."
+       }
+      },
+      {
+       "q": {
+        "ur": "یہ پتّے کیسے ہیں؟",
+        "en": "What are these leaves like?"
+       },
+       "img": [
+        0.128,
+        0.779,
+        0.37,
+        0.873
+       ],
+       "options": [
+        {
+         "ur": "چوڑے",
+         "en": "Broad",
+         "sym": "wide"
+        },
+        {
+         "ur": "چھوٹے",
+         "en": "Small",
+         "sym": "small"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "یہ پتّے بہت چھوٹے ہیں۔",
+        "en": "These leaves are very small."
+       }
+      },
+      {
+       "q": {
+        "ur": "یہ پتّے کیسے ہیں؟",
+        "en": "What are these leaves like?"
+       },
+       "img": [
+        0.375,
+        0.779,
+        0.847,
+        0.873
+       ],
+       "options": [
+        {
+         "ur": "لمبوترے (لمبے)",
+         "en": "Long and narrow",
+         "sym": "long"
+        },
+        {
+         "ur": "گول",
+         "en": "Round",
+         "sym": "circle"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "یہ پتّے لمبے اور پتلے ہیں۔ انھیں لمبوترا کہتے ہیں۔",
+        "en": "These leaves are long and thin. We call this shape long and narrow."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "پہلا پتّا",
+        "en": "First leaf",
+        "img": [
+         0.581,
+         0.651,
+         0.847,
+         0.779
+        ]
+       },
+       "b": {
+        "ur": "چوڑا",
+        "en": "Broad"
+       }
+      },
+      {
+       "a": {
+        "ur": "دوسرا پتّا",
+        "en": "Second leaf",
+        "img": [
+         0.128,
+         0.651,
+         0.31,
+         0.779
+        ]
+       },
+       "b": {
+        "ur": "بیضوی",
+        "en": "Oval"
+       }
+      },
+      {
+       "a": {
+        "ur": "تیسرا پتّا",
+        "en": "Third leaf",
+        "img": [
+         0.128,
+         0.779,
+         0.37,
+         0.873
+        ]
+       },
+       "b": {
+        "ur": "چھوٹا",
+        "en": "Small"
+       }
+      },
+      {
+       "a": {
+        "ur": "چوتھا پتّا",
+        "en": "Fourth leaf",
+        "img": [
+         0.375,
+         0.779,
+         0.847,
+         0.873
+        ]
+       },
+       "b": {
+        "ur": "لمبوترا",
+        "en": "Long and narrow"
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "دندانے دار کناروں والا پتّا (اوپر کی قطار کا درمیانی پتّا) دیکھیں۔ اس کے لیے کون سا لفظ ٹھیک لگتا ہے؟ کیوں؟",
+       "en": "Look at the leaf with jagged edges, the middle leaf in the top row. Which word seems right for it? Why?"
+      },
+      {
+       "ur": "اپنے گھر یا سکول کے باغ سے ہر شکل کا ایک پتّا ڈھونڈیں: چوڑا، بیضوی، چھوٹا، لمبوترا۔",
+       "en": "Find one leaf of each shape in your home or school garden: broad, oval, small, long and narrow."
+      },
+      {
+       "ur": "بتائیں: ہر پتّا کس پودے یا درخت کا ہے؟",
+       "en": "Say which plant or tree each leaf comes from."
+      }
+     ],
+     "model": {
+      "ur": "دندانے دار پتّا چوڑا ہے اور اس کی شکل کچھ کچھ بیضوی ہے، اس لیے اسے چوڑا بیضوی پتّا کہہ سکتے ہیں۔ مثالیں: کیلے کا پتّا چوڑا ہوتا ہے، امرود کا پتّا بیضوی، نیم کے پتّے چھوٹے اور سفیدے کا پتّا لمبوترا ہوتا ہے۔",
+      "en": "The leaf with jagged edges is broad and a little bit oval, so we can call it a broad oval leaf. Examples: a banana leaf is broad, a guava leaf is oval, neem leaves are small and a eucalyptus leaf is long and narrow."
+     }
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "ہاتھوں سے شکل بنائیں: چوڑا = دونوں ہاتھ کھول کر پھیلائیں، بیضوی = ہاتھوں سے انڈا بنائیں، چھوٹا = دو انگلیاں قریب لائیں، لمبوترا = ہاتھ دور دور لے جائیں۔",
+   "en": "Make the shapes with your hands: for broad, spread both hands wide; for oval, make an egg with your hands; for small, bring two fingers close together; for long and narrow, move your hands far apart."
+  },
+  {
+   "for": "vision",
+   "ur": "اصلی پتّے چھو کر ان کی شکل پہچانیں۔ پتّے کے کنارے پر انگلی پھیریں: کیا وہ چوڑا ہے، انڈے جیسا، چھوٹا یا لمبا پتلا؟",
+   "en": "Touch real leaves to find out their shape. Run a finger round the edge of the leaf: is it broad, egg-like, small, or long and thin?"
+  },
+  {
+   "for": "motor",
+   "ur": "جدول میں لکھنا مشکل ہو تو ہر تیسرے دن پودوں کی تصویر کھنچوائیں یا اپنا مشاہدہ بول کر کسی ساتھی سے لکھوائیں۔",
+   "en": "If writing in the table is hard, have a photo of the plants taken every third day, or say your observation aloud and let a partner write it."
+  },
+  {
+   "for": "teacher",
+   "ur": "پراجیکٹ کو جوڑیوں میں کروائیں: ایک بچہ پانی دے، دوسرا دیکھ کر بتائے۔ جدول میں لکھنے کی جگہ ہنستا چہرہ (پودا ٹھیک ہے) یا اداس چہرہ (پودا مرجھا گیا) بنانے کی اجازت دیں۔ تجربے کے بعد کمرے والے پودے کو بھی دھوپ میں رکھ دیں تاکہ وہ ٹھیک ہو جائے۔",
+   "en": "Do the project in pairs: one child waters the plant, and the other looks and says what they see. Instead of writing in the table, let children draw a smiling face if the plant is fine or a sad face if the plant has wilted. After the experiment put the indoor plant in the sun too so that it recovers."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "پودے کو کیا چاہیے؟",
+   "en": "What does a plant need?"
+  },
+  "image": {
+   "crop": [
+    0.581,
+    0.651,
+    0.847,
+    0.779
+   ],
+   "alt": {
+    "ur": "ایک بڑا چوڑا سبز پتّا۔",
+    "en": "This is a big, broad green leaf."
+   }
+  },
+  "sentences": [
+   {
+    "en": "A plant needs light.",
+    "words_en": [{"en": "A plant", "sym": "plant"}, {"en": "needs", "sym": "to need"}, {"en": "light.", "sym": "sun"}],
+    "words": [
+     {
+      "ur": "پودے",
+      "sym": "plant"
+     },
+     {
+      "ur": "کو",
+      "sym": null
+     },
+     {
+      "ur": "روشنی",
+      "sym": "sun"
+     },
+     {
+      "ur": "چاہیے۔",
+      "sym": "to need"
+     }
+    ]
+   },
+   {
+    "en": "A plant needs water.",
+    "words_en": [{"en": "A plant", "sym": "plant"}, {"en": "needs", "sym": "to need"}, {"en": "water.", "sym": "water"}],
+    "words": [
+     {
+      "ur": "پودے",
+      "sym": "plant"
+     },
+     {
+      "ur": "کو",
+      "sym": null
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "چاہیے۔",
+      "sym": "to need"
+     }
+    ]
+   },
+   {
+    "en": "A plant needs air.",
+    "words_en": [{"en": "A plant", "sym": "plant"}, {"en": "needs", "sym": "to need"}, {"en": "air.", "sym": "air"}],
+    "words": [
+     {
+      "ur": "پودے",
+      "sym": "plant"
+     },
+     {
+      "ur": "کو",
+      "sym": null
+     },
+     {
+      "ur": "ہوا",
+      "sym": "air"
+     },
+     {
+      "ur": "چاہیے۔",
+      "sym": "to need"
+     }
+    ]
+   },
+   {
+    "en": "Some leaves are big.",
+    "words_en": [{"en": "Some", "sym": "some"}, {"en": "leaves", "img": [0.581, 0.651, 0.847, 0.779]}, {"en": "are", "sym": null}, {"en": "big.", "sym": "big"}],
+    "words": [
+     {
+      "ur": "کچھ",
+      "sym": "some"
+     },
+     {
+      "ur": "پتّے",
+      "img": [
+       0.581,
+       0.651,
+       0.847,
+       0.779
+      ]
+     },
+     {
+      "ur": "بڑے",
+      "sym": "big"
+     },
+     {
+      "ur": "ہوتے",
+      "sym": null
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "Some leaves are small.",
+    "words_en": [{"en": "Some", "sym": "some"}, {"en": "leaves", "img": [0.128, 0.779, 0.37, 0.873]}, {"en": "are", "sym": null}, {"en": "small.", "sym": "small"}],
+    "words": [
+     {
+      "ur": "کچھ",
+      "sym": "some"
+     },
+     {
+      "ur": "پتّے",
+      "img": [
+       0.128,
+       0.779,
+       0.37,
+       0.873
+      ]
+     },
+     {
+      "ur": "چھوٹے",
+      "sym": "small"
+     },
+     {
+      "ur": "ہوتے",
+      "sym": null
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "پودے کو کیا چاہیے؟ ہر چیز کو صحیح خانے میں رکھیں۔",
+    "en": "What does a plant need? Put each thing in the right box."
+   },
+   "task": {
+    "kind": "sort",
+    "groups": [
+     {
+      "ur": "پودے کو چاہیے",
+      "en": "A plant needs it",
+      "sym": "plant"
+     },
+     {
+      "ur": "پودے کو نہیں چاہیے",
+      "en": "A plant does not need it",
+      "sym": "no"
+     }
+    ],
+    "items": [
+     {
+      "ur": "پانی",
+      "en": "Water",
+      "sym": "water",
+      "group": 0
+     },
+     {
+      "ur": "جوتے",
+      "en": "Shoes",
+      "sym": "shoes",
+      "group": 1
+     },
+     {
+      "ur": "دھوپ",
+      "en": "Sunshine",
+      "sym": "sun",
+      "group": 0
+     },
+     {
+      "ur": "گیند",
+      "en": "Ball",
+      "sym": "ball",
+      "group": 1
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

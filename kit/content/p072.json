@@ -1,0 +1,751 @@
+{
+ "n": 72,
+ "printed": "68",
+ "chapter": 11,
+ "kind": "content",
+ "title": {
+  "ur": "روشنی اور حرارت کے ذرائع",
+  "en": "Sources of light and heat"
+ },
+ "blocks": [
+  {
+   "t": "p",
+   "ur": "روشنی اور حرارت کے کچھ ذرائع ہیں جو ہم ضرورت کے وقت استعمال کرتے ہیں۔",
+   "en": "There are some sources of light and heat that we use when we need them."
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.503,
+      0.145,
+      0.827,
+      0.328
+     ],
+     "alt": {
+      "ur": "لکڑیاں جل رہی ہیں اور ان سے پیلے شعلے اور دھواں اٹھ رہا ہے۔",
+      "en": "Pieces of wood are burning, with yellow flames and smoke rising."
+     },
+     "cap": {
+      "ur": "لکڑی جلا کر",
+      "en": "By burning wood"
+     }
+    },
+    {
+     "crop": [
+      0.166,
+      0.145,
+      0.491,
+      0.328
+     ],
+     "alt": {
+      "ur": "اندھیرے میں ایک موم بتّی جل رہی ہے اور اس کا شعلہ روشنی دے رہا ہے۔",
+      "en": "A candle is burning in the dark and its flame is giving light."
+     },
+     "cap": {
+      "ur": "موم بتّی",
+      "en": "Candle"
+     }
+    },
+    {
+     "crop": [
+      0.503,
+      0.37,
+      0.829,
+      0.556
+     ],
+     "alt": {
+      "ur": "گیس کے چولہے کا برنر جل رہا ہے اور اس سے نیلے شعلے نکل رہے ہیں۔",
+      "en": "The burner of a gas stove is lit, with blue flames coming out."
+     },
+     "cap": {
+      "ur": "گیس",
+      "en": "Gas"
+     }
+    },
+    {
+     "crop": [
+      0.164,
+      0.37,
+      0.491,
+      0.556
+     ],
+     "alt": {
+      "ur": "رات کو سڑک کے کنارے بجلی کے کھمبوں کی بتّیاں جل رہی ہیں اور سڑک روشن ہے۔",
+      "en": "At night the electric street lamps along a road are on and the road is lit up."
+     },
+     "cap": {
+      "ur": "بجلی",
+      "en": "Electricity"
+     }
+    }
+   ]
+  },
+  {
+   "t": "fact",
+   "ur": "قدیم زمانے کے انسان نے پتھروں کو آپس میں رگڑ کر آگ دریافت کی۔",
+   "en": "In ancient times people discovered fire by rubbing stones together."
+  },
+  {
+   "t": "h",
+   "ur": "حرارت اور روشنی کا استعمال",
+   "en": "Uses of heat and light"
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.416,
+    0.64,
+    0.882,
+    0.884
+   ],
+   "alt": {
+    "ur": "سردیوں میں ایک گھرانہ کمرے میں بیٹھا ہے۔ انگیٹھی میں آگ جل رہی ہے اور ایک بچہ اس کے پاس ہاتھ سینک رہا ہے۔ چھت پر دو بلب روشن ہیں۔ ابّو اخبار پڑھ رہے ہیں، امّی سویٹر بُن رہی ہیں اور بچوں نے گرم ٹوپیاں اور مفلر پہنے ہیں۔",
+    "en": "In winter a family is sitting in a room. A fire is burning in the fireplace and a child is warming his hands near it. Two bulbs are lit on the ceiling. Father is reading a newspaper, Mother is knitting a sweater, and the children are wearing warm caps and scarves."
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p072-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "اپنے دونوں ہاتھوں کو آپس میں رگڑیں اور مشاہدہ کریں کہ دیر تک ہاتھ رگڑنے سے کیا ہوتا ہے؟",
+    "en": "Rub both your hands together and observe what happens when you rub your hands for a long time."
+   },
+   "prompt": {
+    "ur": "اپنی ہتھیلیاں آپس میں تیز تیز رگڑیں اور محسوس کریں کہ کیا ہوتا ہے۔",
+    "en": "Rub your palms together quickly and feel what happens."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "دونوں ہاتھ تیز تیز رگڑیں۔ ہاتھ کیسے ہو گئے؟",
+        "en": "Rub both hands together quickly. How do your hands feel now?"
+       },
+       "options": [
+        {
+         "ur": "گرم",
+         "en": "Warm",
+         "sym": "hot"
+        },
+        {
+         "ur": "ٹھنڈے",
+         "en": "Cold",
+         "sym": "cold"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "ہاتھ رگڑنے سے حرارت پیدا ہوتی ہے، اس لیے ہاتھ گرم ہو جاتے ہیں۔",
+        "en": "Rubbing your hands makes heat, so your hands become warm."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "do",
+     "steps": [
+      {
+       "ur": "دونوں ہتھیلیاں آپس میں ملائیں۔",
+       "en": "Put both palms together."
+      },
+      {
+       "ur": "بیس تک گنتے ہوئے انھیں تیز تیز رگڑیں۔",
+       "en": "Rub them quickly while counting to twenty."
+      },
+      {
+       "ur": "اب ہتھیلیاں اپنے گالوں پر رکھیں۔ کیا محسوس ہوا؟",
+       "en": "Now put your palms on your cheeks. What do you feel?"
+      },
+      {
+       "ur": "اپنے ساتھی کو بتائیں کہ دیر تک رگڑنے سے کیا ہوا۔",
+       "en": "Tell your partner what happened when you rubbed for a long time."
+      }
+     ],
+     "model": {
+      "ur": "دیر تک ہاتھ رگڑنے سے ہاتھ گرم ہو جاتے ہیں، کیوں کہ رگڑنے سے حرارت پیدا ہوتی ہے۔",
+      "en": "Rubbing your hands for a long time makes them warm, because rubbing makes heat."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے ہاتھ رگڑے (یا ساتھی نے میرے ہاتھ پر ہاتھ رگڑا)۔",
+       "en": "I rubbed my hands (or a partner rubbed a hand on mine)."
+      },
+      {
+       "ur": "میں نے حرارت محسوس کی۔",
+       "en": "I felt the heat."
+      },
+      {
+       "ur": "میں نے بتایا کہ کیا ہوا۔",
+       "en": "I said what happened."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "پہلے ہاتھ آہستہ اور تھوڑی دیر رگڑیں، پھر تیز اور زیادہ دیر۔ کس بار ہاتھ زیادہ گرم ہوئے؟",
+       "en": "First rub your hands slowly for a short time, then fast for a longer time. Which time did they get warmer?"
+      },
+      {
+       "ur": "لکھیں: ہاتھ کیوں گرم ہوئے؟",
+       "en": "Write: why did your hands become warm?"
+      },
+      {
+       "ur": "”کیا آپ جانتے ہیں؟“ والی بات دوبارہ پڑھیں اور لکھیں کہ قدیم انسان اور آپ کے تجربے میں کیا بات ایک جیسی ہے۔",
+       "en": "Read the \"Do you know?\" fact again and write what is the same about the ancient people's discovery and your own experiment."
+      }
+     ],
+     "model": {
+      "ur": "تیز اور دیر تک رگڑنے سے ہاتھ زیادہ گرم ہوئے۔ رگڑنے سے حرارت پیدا ہوتی ہے۔ قدیم زمانے کے انسان نے بھی پتھروں کو آپس میں رگڑ کر حرارت پیدا کی اور آگ دریافت کی۔",
+      "en": "Rubbing fast and for longer made my hands warmer. Rubbing makes heat. People in ancient times also made heat by rubbing stones together, and they discovered fire."
+     }
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p072-a2",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "روشنی اور حرارت کے کچھ ذرائع ہیں جو ہم ضرورت کے وقت استعمال کرتے ہیں۔",
+    "en": "There are some sources of light and heat that we use when we need them."
+   },
+   "prompt": {
+    "ur": "روشنی اور حرارت کے ذرائع پہچانیں۔",
+    "en": "Recognise the sources of light and heat."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "کمرے میں حرارت کہاں سے آ رہی ہے؟",
+        "en": "Where is the heat in the room coming from?"
+       },
+       "options": [
+        {
+         "ur": "انگیٹھی کی آگ سے",
+         "en": "The fire in the fireplace",
+         "sym": "fire"
+        },
+        {
+         "ur": "کھڑکی سے",
+         "en": "The window",
+         "sym": "window"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "انگیٹھی میں آگ جل رہی ہے۔ آگ ہمیں حرارت دیتی ہے۔",
+        "en": "A fire is burning in the fireplace. Fire gives us heat."
+       },
+       "img": [
+        0.416,
+        0.64,
+        0.882,
+        0.884
+       ]
+      },
+      {
+       "q": {
+        "ur": "کمرے میں روشنی کون دے رہا ہے؟",
+        "en": "What is giving light in the room?"
+       },
+       "options": [
+        {
+         "ur": "کرسی",
+         "en": "The chair",
+         "sym": "chair"
+        },
+        {
+         "ur": "بلب",
+         "en": "The bulbs",
+         "sym": "light bulb"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "چھت پر لگے بلب کمرے کو روشن کر رہے ہیں۔",
+        "en": "The bulbs on the ceiling are lighting the room."
+       },
+       "img": [
+        0.416,
+        0.64,
+        0.882,
+        0.884
+       ]
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "تصویر 1",
+        "en": "Picture 1",
+        "img": [
+         0.503,
+         0.145,
+         0.827,
+         0.328
+        ]
+       },
+       "b": {
+        "ur": "لکڑی جلا کر",
+        "en": "By burning wood"
+       }
+      },
+      {
+       "a": {
+        "ur": "تصویر 2",
+        "en": "Picture 2",
+        "img": [
+         0.166,
+         0.145,
+         0.491,
+         0.328
+        ]
+       },
+       "b": {
+        "ur": "موم بتّی",
+        "en": "Candle"
+       }
+      },
+      {
+       "a": {
+        "ur": "تصویر 3",
+        "en": "Picture 3",
+        "img": [
+         0.503,
+         0.37,
+         0.829,
+         0.556
+        ]
+       },
+       "b": {
+        "ur": "گیس",
+        "en": "Gas"
+       }
+      },
+      {
+       "a": {
+        "ur": "تصویر 4",
+        "en": "Picture 4",
+        "img": [
+         0.164,
+         0.37,
+         0.491,
+         0.556
+        ]
+       },
+       "b": {
+        "ur": "بجلی",
+        "en": "Electricity"
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "بجلی چلی جائے تو رات کو کمرہ روشن کرنے کے لیے کیا جلائیں گے؟",
+        "en": "If the electricity goes off at night, what will you light to brighten the room?"
+       },
+       "options": [
+        {
+         "ur": "پنکھا",
+         "en": "A fan"
+        },
+        {
+         "ur": "موم بتّی",
+         "en": "A candle"
+        },
+        {
+         "ur": "ریڈیو",
+         "en": "A radio"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "موم بتّی روشنی کا ذریعہ ہے جو ہم ضرورت کے وقت استعمال کرتے ہیں۔ اسے ہمیشہ کسی بڑے کی مدد سے جلائیں۔",
+        "en": "A candle is a source of light that we use when we need it. Always light it with a grown-up's help."
+       }
+      },
+      {
+       "q": {
+        "ur": "تصویر میں بچے انگیٹھی کے پاس کیوں بیٹھے ہیں؟",
+        "en": "Why are the children in the picture sitting near the fireplace?"
+       },
+       "options": [
+        {
+         "ur": "کیوں کہ سردی ہے اور آگ حرارت دیتی ہے",
+         "en": "Because it is cold and the fire gives heat"
+        },
+        {
+         "ur": "کیوں کہ وہاں اندھیرا ہے",
+         "en": "Because it is dark there"
+        },
+        {
+         "ur": "کیوں کہ وہاں پانی ہے",
+         "en": "Because there is water there"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "سردیوں میں ہم اپنے آپ کو گرم رکھنے کے لیے آگ کی حرارت استعمال کرتے ہیں۔",
+        "en": "In winter we use the heat of a fire to keep ourselves warm."
+       },
+       "img": [
+        0.416,
+        0.64,
+        0.882,
+        0.884
+       ]
+      },
+      {
+       "q": {
+        "ur": "قدیم زمانے کے انسان نے آگ کیسے دریافت کی؟",
+        "en": "How did people in ancient times discover fire?"
+       },
+       "options": [
+        {
+         "ur": "ماچس جلا کر",
+         "en": "By striking a match"
+        },
+        {
+         "ur": "بجلی کا بٹن دبا کر",
+         "en": "By pressing an electric switch"
+        },
+        {
+         "ur": "پتھروں کو آپس میں رگڑ کر",
+         "en": "By rubbing stones together"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "قدیم زمانے کے انسان نے پتھروں کو آپس میں رگڑ کر آگ دریافت کی۔",
+        "en": "People in ancient times discovered fire by rubbing stones together."
+       }
+      },
+      {
+       "q": {
+        "ur": "ان میں سے کون سا ذریعہ روشنی اور حرارت دونوں دیتا ہے؟",
+        "en": "Which of these gives both light and heat?"
+       },
+       "options": [
+        {
+         "ur": "جلتی ہوئی لکڑی",
+         "en": "Burning wood"
+        },
+        {
+         "ur": "ٹھنڈا پانی",
+         "en": "Cold water"
+        },
+        {
+         "ur": "برف",
+         "en": "Ice"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "لکڑی کے جلنے سے روشنی اور حرارت دونوں حاصل ہوتی ہیں۔",
+        "en": "Burning wood gives both light and heat."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "چار تصویریں، چار ذرائع: لکڑی کی آگ، موم بتّی، گیس اور بجلی۔ سوچیں: ان میں سے کون کون سے آپ کے گھر میں ہیں؟",
+   "en": "Four pictures, four sources: a wood fire, a candle, gas and electricity. Think: which of these are in your home?"
+  },
+  {
+   "for": "all",
+   "ur": "آگ، موم بتّی اور چولہے کو کبھی اکیلے نہ جلائیں اور نہ چھوئیں۔ ہمیشہ کسی بڑے کے ساتھ رہیں۔",
+   "en": "Never light or touch a fire, candle or stove on your own. Always have a grown-up with you."
+  },
+  {
+   "for": "motor",
+   "ur": "اگر ہاتھ رگڑنا مشکل ہو تو ایک ہاتھ اپنے بازو یا ٹانگ پر رگڑیں، یا کوئی ساتھی اپنی ہتھیلی آپ کی ہتھیلی پر رگڑے۔ حرارت اسی طرح محسوس ہوگی۔",
+   "en": "If rubbing both hands is hard, rub one hand on your arm or leg, or let a partner rub their palm on yours. You will feel the heat just the same."
+  },
+  {
+   "for": "teacher",
+   "ur": "ہاتھ رگڑنے کی سرگرمی نابینا اور سماعت سے محروم بچوں کے لیے بھی یکساں موزوں ہے — سب سے کروائیں اور ہر بچے سے اس کے اپنے طریقے (بول کر، اشارے سے، چہرے کے کارڈ سے) جواب لیں۔ جلتی موم بتّی صرف خود دکھائیں اور بچوں کو فاصلے پر رکھیں۔",
+   "en": "The hand-rubbing activity suits blind and deaf children just as well, so do it with everyone and take each child's answer in their own way (by speaking, by signing or with a face card). Only you should show the lit candle, and keep the children at a distance."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "روشنی اور حرارت کے ذرائع",
+   "en": "Sources of light and heat"
+  },
+  "image": {
+   "crop": [
+    0.503,
+    0.145,
+    0.827,
+    0.328
+   ],
+   "alt": {
+    "ur": "لکڑیاں جل رہی ہیں۔",
+    "en": "Wood is burning."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Fire gives heat.",
+    "words": [
+     {
+      "ur": "آگ",
+      "sym": "fire"
+     },
+     {
+      "ur": "حرارت",
+      "sym": "heat"
+     },
+     {
+      "ur": "دیتی ہے۔",
+      "sym": "to give"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Fire",
+      "sym": "fire"
+     },
+     {
+      "en": "gives",
+      "sym": "to give"
+     },
+     {
+      "en": "heat.",
+      "sym": "heat"
+     }
+    ]
+   },
+   {
+    "en": "Fire also gives light.",
+    "words": [
+     {
+      "ur": "آگ",
+      "sym": "fire"
+     },
+     {
+      "ur": "روشنی",
+      "sym": "light"
+     },
+     {
+      "ur": "بھی",
+      "sym": null
+     },
+     {
+      "ur": "دیتی ہے۔",
+      "sym": "to give"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Fire",
+      "sym": "fire"
+     },
+     {
+      "en": "also",
+      "sym": null
+     },
+     {
+      "en": "gives",
+      "sym": "to give"
+     },
+     {
+      "en": "light.",
+      "sym": "light"
+     }
+    ]
+   },
+   {
+    "en": "A candle gives light.",
+    "words": [
+     {
+      "ur": "موم بتّی",
+      "sym": "candle"
+     },
+     {
+      "ur": "روشنی",
+      "sym": "light"
+     },
+     {
+      "ur": "دیتی ہے۔",
+      "sym": "to give"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "A",
+      "sym": null
+     },
+     {
+      "en": "candle",
+      "sym": "candle"
+     },
+     {
+      "en": "gives",
+      "sym": "to give"
+     },
+     {
+      "en": "light.",
+      "sym": "light"
+     }
+    ]
+   },
+   {
+    "en": "A bulb lights up with electricity.",
+    "words": [
+     {
+      "ur": "بلب",
+      "sym": "light bulb"
+     },
+     {
+      "ur": "بجلی",
+      "sym": "electricity"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "جلتا ہے۔",
+      "sym": "to switch on"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "A",
+      "sym": null
+     },
+     {
+      "en": "bulb",
+      "sym": "light bulb"
+     },
+     {
+      "en": "lights up",
+      "sym": "to switch on"
+     },
+     {
+      "en": "with",
+      "sym": null
+     },
+     {
+      "en": "electricity.",
+      "sym": "electricity"
+     }
+    ]
+   },
+   {
+    "en": "Rubbing hands makes them warm.",
+    "words": [
+     {
+      "ur": "ہاتھ",
+      "sym": "hand"
+     },
+     {
+      "ur": "رگڑنے",
+      "sym": "to rub"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "گرم",
+      "sym": "hot"
+     },
+     {
+      "ur": "ہوتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Rubbing",
+      "sym": "to rub"
+     },
+     {
+      "en": "hands",
+      "sym": "hand"
+     },
+     {
+      "en": "makes them",
+      "sym": null
+     },
+     {
+      "en": "warm.",
+      "sym": "hot"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح تصویر چنیں۔",
+    "en": "Choose the right picture."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "اندھیرے میں روشنی کون دیتا ہے؟",
+       "en": "What gives light in the dark?"
+      },
+      "options": [
+       {
+        "ur": "موم بتّی",
+        "en": "A candle",
+        "img": [
+         0.166,
+         0.145,
+         0.491,
+         0.328
+        ]
+       },
+       {
+        "ur": "پتھر",
+        "en": "A stone",
+        "sym": "stone"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "موم بتّی اندھیرے میں روشنی دیتی ہے۔",
+       "en": "A candle gives light in the dark."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

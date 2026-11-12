@@ -1,0 +1,166 @@
+{
+  "n": 36,
+  "printed": "32",
+  "chapter": 5,
+  "kind": "exercise",
+  "title": {"ur": "مشق: چیزیں کس سے بنی ہیں؟", "en": "Exercise: What are things made from?"},
+  "blocks": [
+    {
+      "t": "activity",
+      "id": "p036-a1",
+      "label": {"ur": "سوال نمبر 3", "en": "Question 3"},
+      "orig": {"ur": "دی گئی تصاویر کو غور سے دیکھیں اور ان کے نیچے لکھیں کہ یہ کن مادی اشیا سے بنائی گئی ہیں۔", "en": "Look carefully at the pictures and write under each one which material it is made from."},
+      "prompt": {"ur": "ہر تصویر کو غور سے دیکھیں۔ یہ چیز کس مادے سے بنی ہے؟", "en": "Look carefully at each picture. Which material is this thing made from?"},
+      "levels": {
+        "easy": {"kind": "mcq", "questions": [
+          {"q": {"ur": "یہ میز کس چیز سے بنی ہے؟", "en": "What is this table made from?"},
+           "img": [0.697, 0.21, 0.855, 0.305],
+           "options": [{"ur": "لکڑی", "en": "Wood", "sym": "wood"}, {"ur": "پانی", "en": "Water", "sym": "water"}],
+           "answer": 0,
+           "fb": {"ur": "میز لکڑی سے بنی ہے۔ لکڑی درختوں سے ملتی ہے۔", "en": "The table is made from wood. Wood comes from trees."}},
+          {"q": {"ur": "یہ انگوٹھی کس چیز سے بنی ہے؟", "en": "What is this ring made from?"},
+           "img": [0.34, 0.205, 0.49, 0.31],
+           "options": [{"ur": "مٹی", "en": "Clay", "sym": "mud"}, {"ur": "سونا", "en": "Gold", "sym": "gold"}],
+           "answer": 1,
+           "fb": {"ur": "انگوٹھی سونے سے بنی ہے اور اس میں قیمتی پتھر جڑا ہے۔", "en": "The ring is made from gold and it has a precious stone set in it."}}
+        ]},
+        "moderate": {"kind": "match", "pairs": [
+          {"a": {"ur": "میز", "en": "Table", "img": [0.697, 0.21, 0.855, 0.305]}, "b": {"ur": "لکڑی", "en": "Wood"}},
+          {"a": {"ur": "گلاس", "en": "Tumbler", "img": [0.52, 0.198, 0.665, 0.31]}, "b": {"ur": "شیشہ", "en": "Glass"}},
+          {"a": {"ur": "انگوٹھی", "en": "Ring", "img": [0.34, 0.205, 0.49, 0.31]}, "b": {"ur": "سونا اور قیمتی پتھر", "en": "Gold and a precious stone"}},
+          {"a": {"ur": "پنکھا", "en": "Fan", "img": [0.149, 0.21, 0.314, 0.31]}, "b": {"ur": "لوہا", "en": "Iron"}}
+        ]},
+        "hard": {"kind": "mcq", "questions": [
+          {"q": {"ur": "میز کس مادی شے سے بنائی گئی ہے؟", "en": "Which material is the table made from?"},
+           "img": [0.697, 0.21, 0.855, 0.305],
+           "options": [{"ur": "لوہا", "en": "Iron"}, {"ur": "شیشہ", "en": "Glass"}, {"ur": "لکڑی", "en": "Wood"}, {"ur": "مٹی", "en": "Clay"}],
+           "answer": 2,
+           "fb": {"ur": "میز لکڑی سے بنتی ہے اور لکڑی جنگل کے درختوں سے ملتی ہے۔", "en": "A table is made from wood, and wood comes from the trees of the forest."}},
+          {"q": {"ur": "گلاس کس مادی شے سے بنایا گیا ہے؟", "en": "Which material is the tumbler made from?"},
+           "img": [0.52, 0.198, 0.665, 0.31],
+           "options": [{"ur": "شیشہ", "en": "Glass"}, {"ur": "لکڑی", "en": "Wood"}, {"ur": "سونا", "en": "Gold"}, {"ur": "مٹی", "en": "Clay"}],
+           "answer": 0,
+           "fb": {"ur": "یہ گلاس شیشے سے بنا ہے۔ شیشہ ریت سے بنتا ہے۔", "en": "This tumbler is made from glass. Glass is made from sand."}},
+          {"q": {"ur": "انگوٹھی کس مادی شے سے بنائی گئی ہے؟", "en": "Which material is the ring made from?"},
+           "img": [0.34, 0.205, 0.49, 0.31],
+           "options": [{"ur": "لوہا", "en": "Iron"}, {"ur": "سونا", "en": "Gold"}, {"ur": "لکڑی", "en": "Wood"}, {"ur": "شیشہ", "en": "Glass"}],
+           "answer": 1,
+           "fb": {"ur": "زیورات میں سونا، چاندی اور قیمتی پتھر استعمال ہوتے ہیں۔", "en": "Gold, silver and precious stones are used in jewellery."}},
+          {"q": {"ur": "پنکھا کس مادی شے سے بنایا گیا ہے؟", "en": "Which material is the fan made from?"},
+           "img": [0.149, 0.21, 0.314, 0.31],
+           "options": [{"ur": "مٹی", "en": "Clay"}, {"ur": "شیشہ", "en": "Glass"}, {"ur": "سونا", "en": "Gold"}, {"ur": "لوہا", "en": "Iron"}],
+           "answer": 3,
+           "fb": {"ur": "چھت کا پنکھا لوہے (دھات) سے بنتا ہے۔ لوہا ایک معدن ہے جو زمین سے ملتا ہے۔", "en": "A ceiling fan is made from iron, which is a metal. Iron is a mineral that comes from the ground."}}
+        ]}
+      }
+    },
+    {"t": "gallery", "items": [
+      {"crop": [0.697, 0.21, 0.855, 0.305], "alt": {"ur": "گہرے بھورے رنگ کی لکڑی کی میز جس میں خانے بنے ہیں۔", "en": "This is a dark brown wooden table with shelves in it."}},
+      {"crop": [0.52, 0.198, 0.665, 0.31], "alt": {"ur": "نیلے شیشے کا ایک گلاس۔", "en": "This is a tumbler made of blue glass."}},
+      {"crop": [0.34, 0.205, 0.49, 0.31], "alt": {"ur": "سونے کی انگوٹھی جس میں چمکتے پتھر جڑے ہیں۔", "en": "This is a gold ring set with sparkling stones."}},
+      {"crop": [0.149, 0.21, 0.314, 0.31], "alt": {"ur": "چھت کا پنکھا جس کے تین سیاہ پَر ہیں۔", "en": "This is a ceiling fan with three black blades."}}
+    ]},
+    {
+      "t": "activity",
+      "id": "p036-a2",
+      "label": {"ur": "سوال نمبر 4", "en": "Question 4"},
+      "orig": {"ur": "لوہے سے بنی ہوئی تین چیزوں کے نام لکھیں۔\n(i) ـــــ\n(ii) ـــــ\n(iii) ـــــ", "en": "Write the names of three things made of iron.\n(i)\n(ii)\n(iii)"},
+      "prompt": {"ur": "لوہے سے بنی ہوئی تین چیزوں کے نام بتائیں۔", "en": "Name three things that are made of iron."},
+      "levels": {
+        "easy": {"kind": "mcq", "questions": [
+          {"q": {"ur": "کون سی چیز لوہے سے بنی ہے؟", "en": "Which thing is made of iron?"},
+           "options": [{"ur": "کیل", "en": "Nail", "sym": "nail"}, {"ur": "روٹی", "en": "Bread", "sym": "bread"}],
+           "answer": 0,
+           "fb": {"ur": "کیل لوہے سے بنتی ہے۔", "en": "A nail is made of iron."}},
+          {"q": {"ur": "کون سی چیز لوہے سے بنی ہے؟", "en": "Which thing is made of iron?"},
+           "options": [{"ur": "کاپی", "en": "Notebook", "sym": "notebook"}, {"ur": "تالا", "en": "Lock", "sym": "padlock"}],
+           "answer": 1,
+           "fb": {"ur": "تالا لوہے سے بنتا ہے۔ کاپی کاغذ سے بنتی ہے۔", "en": "A lock is made of iron. A notebook is made of paper."}}
+        ]},
+        "moderate": {"kind": "open", "mode": "write",
+          "model": {"ur": "(i) نلکا (ii) کیل (iii) تالا۔ (ہتھوڑا، چابی، قینچی اور گیٹ بھی صحیح جواب ہیں۔)", "en": "(i) hand pump (ii) nail (iii) lock. (Hammer, key, scissors and gate are also right answers.)"},
+          "checklist": [
+            {"ur": "میں نے تین چیزوں کے نام بتائے۔", "en": "I named three things."},
+            {"ur": "تینوں چیزیں لوہے سے بنی ہیں۔", "en": "All three things are made of iron."}
+          ]},
+        "hard": {"kind": "sort",
+          "groups": [{"ur": "لوہے سے بنی ہے", "en": "Made of iron"}, {"ur": "لوہے سے نہیں بنی", "en": "Not made of iron"}],
+          "items": [
+            {"ur": "نلکا", "en": "Hand pump", "group": 0},
+            {"ur": "گھڑا", "en": "Clay water pot", "group": 1},
+            {"ur": "کیل", "en": "Nail", "group": 0},
+            {"ur": "پنسل", "en": "Pencil", "group": 1},
+            {"ur": "ہتھوڑا", "en": "Hammer", "group": 0},
+            {"ur": "کاغذ", "en": "Paper", "group": 1},
+            {"ur": "تالا", "en": "Lock", "group": 0},
+            {"ur": "شیشے کا گلاس", "en": "Glass tumbler", "group": 1}
+          ]}
+      }
+    },
+    {
+      "t": "activity",
+      "id": "p036-a3",
+      "label": {"ur": "سوال نمبر 5", "en": "Question 5"},
+      "orig": {"ur": "درخت ہمارے لیے کیوں ضروری ہیں؟ کوئی سی دو وجوہات بتائیں۔\n(i) ـــــ\n(ii) ـــــ", "en": "Why are trees important for us? Give any two reasons.\n(i)\n(ii)"},
+      "prompt": {"ur": "سوچیں: درخت ہمیں کیا کیا دیتے ہیں؟ دو وجوہات بتائیں۔", "en": "Think: what do trees give us? Give two reasons."},
+      "levels": {
+        "easy": {"kind": "tf", "questions": [
+          {"q": {"ur": "درختوں سے ہمیں پھل ملتے ہیں۔", "en": "We get fruit from trees."}, "answer": true,
+           "fb": {"ur": "جی ہاں۔ آم، امرود اور کینو درختوں پر لگتے ہیں۔ پودوں سے ہم خوراک حاصل کرتے ہیں۔", "en": "Yes. Mangoes, guavas and oranges grow on trees. We get food from plants."}},
+          {"q": {"ur": "درختوں سے ہمیں لکڑی ملتی ہے۔", "en": "We get wood from trees."}, "answer": true,
+           "fb": {"ur": "جی ہاں۔ جنگل کے درختوں سے لکڑی ملتی ہے جس سے میز، کرسی اور دروازے بنتے ہیں۔", "en": "Yes. We get wood from the trees of the forest, and tables, chairs and doors are made from it."}},
+          {"q": {"ur": "درخت ہمارے کسی کام نہیں آتے۔", "en": "Trees are of no use to us."}, "answer": false,
+           "fb": {"ur": "درخت بہت کام آتے ہیں: پھل، لکڑی، سایہ اور صاف ہوا دیتے ہیں۔", "en": "Trees are very useful: they give fruit, wood, shade and clean air."}}
+        ]},
+        "moderate": {"kind": "open", "mode": "write",
+          "model": {"ur": "(i) درختوں سے ہمیں خوراک (پھل) ملتی ہے۔\n(ii) درختوں سے ہمیں لکڑی ملتی ہے۔\n(یہ بھی صحیح ہے: درخت سایہ دیتے ہیں اور ہوا کو صاف رکھتے ہیں۔)", "en": "(i) We get food (fruit) from trees.\n(ii) We get wood from trees.\n(This is also right: trees give shade and keep the air clean.)"},
+          "checklist": [
+            {"ur": "میں نے دو وجوہات بتائیں۔", "en": "I gave two reasons."},
+            {"ur": "دونوں وجوہات الگ الگ ہیں۔", "en": "The two reasons are different."}
+          ]},
+        "hard": {"kind": "open", "mode": "talk",
+          "steps": [
+            {"ur": "درخت ضروری ہونے کی دو وجوہات بتائیں۔", "en": "Give two reasons why trees are important."},
+            {"ur": "اب سوچیں: اگر سارے درخت کاٹ دیے جائیں تو کیا ہوگا؟", "en": "Now think: what would happen if all the trees were cut down?"},
+            {"ur": "بتائیں کہ آپ درختوں کی حفاظت کے لیے کیا کر سکتے ہیں۔", "en": "Say what you can do to protect trees."}
+          ],
+          "model": {"ur": "درخت ہمیں پھل اور لکڑی دیتے ہیں۔ اگر درخت نہ رہیں تو پھل، لکڑی اور سایہ نہیں ملے گا اور پرندوں کے گھر ختم ہو جائیں گے۔ میں پودا لگا سکتا/سکتی ہوں، اسے پانی دے سکتا/سکتی ہوں اور کاغذ ضائع نہیں کروں گا/گی۔", "en": "Trees give us fruit and wood. If there were no trees, we would get no fruit, wood or shade, and the birds would lose their homes. I can plant a young plant and water it, and I will not waste paper."}}
+      }
+    },
+    {"t": "teacher", "ur": "بچوں کو قدرتی اور مادّی وسائل کے متعلق مزید بتائیں۔ قدرتی وسائل کو احتیاط سے استعمال کرنے کی اہمیت بیان کریں۔", "en": "Tell the children more about natural and material resources. Explain why it is important to use natural resources carefully."}
+  ],
+  "hint": [
+    {"for": "all", "ur": "سوال 3 کے لیے سوچیں کہ یہ چیز چھونے میں کیسی ہوگی: سخت اور ٹھنڈی (لوہا)، چمک دار پیلی (سونا)، آر پار نظر آنے والی (شیشہ) یا بھوری اور ریشے دار (لکڑی)۔ سوال 4 کے لیے صفحہ 30 کی نلکے والی تصویر یاد کریں۔", "en": "For Question 3, think how the thing would feel if you touched it: hard and cold (iron), shiny and yellow (gold), see-through (glass) or brown and grainy (wood). For Question 4, remember the picture of the hand pump on page 30."},
+    {"for": "vision", "ur": "تصویروں کی جگہ اصل چیزیں ہاتھ میں دیں: لکڑی کا ڈیسک، شیشے کا گلاس (احتیاط سے)، دھات کی چابی اور انگوٹھی یا چوڑی۔ چھو کر، وزن محسوس کر کے اور ہلکا بجا کر مادہ پہچانیں۔", "en": "Instead of pictures, give real things to hold: a wooden desk, a glass tumbler (with care), a metal key and a ring or bangle. The child can find out the material by touching it, feeling its weight and tapping it gently."},
+    {"for": "motor", "ur": "خالی جگہوں میں لکھنے کی جگہ بچہ جواب بول سکتا ہے یا کمرے میں لوہے کی چیزوں (کنڈی، کیل، کھڑکی کی سلاخ) کی طرف اشارہ کر سکتا ہے؛ ساتھی یا استاد لکھ دے۔", "en": "Instead of writing in the blanks, the child can say the answers or point to iron things in the room (a door latch, a nail, a window bar). A partner or the teacher can write them down."},
+    {"for": "teacher", "ur": "قدرتی وسائل کی حفاظت کو روزمرہ کاموں سے جوڑیں: نلکا بند کرنا، کاغذ کے دونوں طرف لکھنا، پودے کو پانی دینا۔ ہر بچے کو — چاہے وہ بول کر، اشارے سے یا تصویر سے بتائے — ایک ”میں یہ کروں گا/گی“ وعدہ کرنے دیں۔", "en": "Link caring for natural resources to everyday jobs: turning off the tap, writing on both sides of the paper, watering a plant. Let every child make one “I will do this” promise, whether by speaking, by signs or with a picture."}
+  ],
+  "easy": {
+    "title": {"ur": "درخت ہمارے دوست ہیں", "en": "Trees are our friends"},
+    "image": {"crop": [0.697, 0.21, 0.855, 0.305], "alt": {"ur": "لکڑی کی میز۔", "en": "This is a wooden table."}},
+    "sentences": [
+      {"en": "A table is made of wood.",
+       "words": [{"ur": "میز", "img": [0.697, 0.21, 0.855, 0.305]}, {"ur": "لکڑی", "sym": "wood"}, {"ur": "سے", "sym": null}, {"ur": "بنتی ہے۔", "sym": "to make"}],
+       "words_en": [{"en": "A table", "img": [0.697, 0.21, 0.855, 0.305]}, {"en": "is made", "sym": "to make"}, {"en": "of", "sym": null}, {"en": "wood.", "sym": "wood"}]},
+      {"en": "Wood comes from trees.",
+       "words": [{"ur": "لکڑی", "sym": "wood"}, {"ur": "درخت", "sym": "tree"}, {"ur": "سے", "sym": null}, {"ur": "ملتی ہے۔", "sym": "to get"}],
+       "words_en": [{"en": "Wood", "sym": "wood"}, {"en": "comes from", "sym": "to get"}, {"en": "trees.", "sym": "tree"}]},
+      {"en": "Trees give us fruit.",
+       "words": [{"ur": "درخت", "sym": "tree"}, {"ur": "ہمیں", "sym": "us"}, {"ur": "پھل", "sym": "fruit"}, {"ur": "دیتے ہیں۔", "sym": "to give"}],
+       "words_en": [{"en": "Trees", "sym": "tree"}, {"en": "give", "sym": "to give"}, {"en": "us", "sym": "us"}, {"en": "fruit.", "sym": "fruit"}]},
+      {"en": "We take care of trees.",
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "درختوں", "sym": "trees"}, {"ur": "کا", "sym": null}, {"ur": "خیال رکھتے ہیں۔", "sym": "to take care"}],
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "take care of", "sym": "to take care"}, {"en": "trees.", "sym": "trees"}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "صحیح تصویر چنیں۔", "en": "Choose the right picture."},
+      "task": {"kind": "mcq", "questions": [
+        {"q": {"ur": "لکڑی کہاں سے ملتی ہے؟", "en": "Where does wood come from?"},
+         "options": [{"ur": "سمندر سے", "en": "From the sea", "sym": "sea"}, {"ur": "درخت سے", "en": "From trees", "sym": "tree"}],
+         "answer": 1,
+         "fb": {"ur": "لکڑی درختوں سے ملتی ہے۔ اس لیے درخت بہت ضروری ہیں۔", "en": "Wood comes from trees. That is why trees are very important."}}
+      ]}
+    }
+  },
+  "print": true
+}

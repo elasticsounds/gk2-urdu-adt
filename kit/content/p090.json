@@ -1,0 +1,156 @@
+{
+  "n": 90,
+  "printed": "86",
+  "chapter": 15,
+  "kind": "exercise",
+  "title": {"ur": "عفو و درگزر: اہم نکات اور مشق", "en": "Forgiveness: key points and exercise"},
+  "blocks": [
+    {"t": "h", "ur": "اہم نکات:", "en": "Key points:"},
+    {"t": "list", "items": [
+      {"ur": "ہمیں کسی کا دل نہیں دکھانا چاہیے۔", "en": "We should not hurt anyone's feelings."},
+      {"ur": "اگر ہم سے غلطی سے کسی کی دل آزاری ہو جائے تو ہمیں معافی مانگ لینی چاہیے۔", "en": "If we hurt someone's feelings by mistake, we should say sorry."},
+      {"ur": "اگر کوئی ہماری دل آزاری کرے تو بہتر ہے کہ ہم اس کو معاف کر دیں۔", "en": "If someone hurts our feelings, it is better that we forgive them."},
+      {"ur": "کسی کا مذاق نہیں اڑانا چاہیے۔", "en": "We should not make fun of anyone."},
+      {"ur": "دوسروں سے خوش اخلاقی سے پیش آنا چاہیے۔", "en": "We should treat others with good manners."}
+    ]},
+    {"t": "teacher", "ur": "حضرت مُحَمَّدٌ رَّسُوْلُ اللہِ خَاتَمُ النَّبِیّٖنَ صَلَّی اللہُ عَلَیْہِ وَعَلٰی آلِہٖ وَاَصْحَابِہٖ وَسَلَّمَ کی حیاتِ طیّبہ سے عفو و درگزر کا کوئی واقعہ بیان کریں۔", "en": "Tell a story of forgiveness from the blessed life of Hazrat Muhammad, the Messenger of Allah and the Last of the Prophets (peace and blessings be upon him, his family and his companions)."},
+    {"t": "h", "ur": "مشق", "en": "Exercise"},
+    {"t": "activity",
+     "id": "p090-a1",
+     "label": {"ur": "سوال نمبر 1", "en": "Question 1"},
+     "orig": {"ur": "سوال نمبر 1۔ کیا ندا نے پہلے دن کلاس میں سارہ کے ساتھ اچھا سلوک کیا؟", "en": "Question 1. Did Nida treat Sara well in class on the first day?"},
+     "prompt": {"ur": "سارہ اور ندا کی کہانی یاد کریں اور جواب دیں۔", "en": "Remember the story of Sara and Nida and answer."},
+     "levels": {
+       "easy": {"kind": "mcq", "questions": [
+         {"q": {"ur": "کیا ندا نے پہلے دن سارہ کے ساتھ اچھا سلوک کیا؟", "en": "Did Nida treat Sara well on the first day?"},
+          "options": [{"ur": "جی ہاں", "en": "Yes", "sym": "yes"}, {"ur": "جی نہیں", "en": "No", "sym": "no"}],
+          "answer": 1,
+          "fb": {"ur": "جی نہیں۔ ندا سارہ کو بُرے ناموں سے پکارتی رہی اور اُس پر ہنستی رہی۔", "en": "No. Nida kept calling Sara bad names and laughing at her."}}
+       ]},
+       "moderate": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "پہلے ”جی ہاں“ یا ”جی نہیں“ لکھیں۔", "en": "First write \"yes\" or \"no\"."},
+           {"ur": "پھر لکھیں کہ ندا نے کیا کیا تھا۔", "en": "Then write what Nida did."}
+         ],
+         "model": {"ur": "جی نہیں۔ ندا نے پہلے دن سارہ کے ساتھ اچھا سلوک نہیں کیا۔ وہ اُسے بُرے ناموں سے پکارتی رہی اور اُس پر ہنستی رہی۔", "en": "No. Nida did not treat Sara well on the first day. She kept calling her bad names and laughing at her."},
+         "checklist": [
+           {"ur": "میں نے ”جی نہیں“ لکھا۔", "en": "I wrote \"no\"."},
+           {"ur": "میں نے بتایا کہ ندا نے کیا کیا۔", "en": "I said what Nida did."}
+         ]},
+       "hard": {"kind": "tf", "questions": [
+         {"q": {"ur": "ندا نے پہلے دن سارہ کو بُرے ناموں سے پکارا۔", "en": "On the first day Nida called Sara bad names."}, "answer": true,
+          "fb": {"ur": "درست۔ ندا کو شرارت سوجھی اور وہ سارہ کو بُرے ناموں سے پکارتی رہی۔", "en": "True. Nida thought of mischief and kept calling Sara bad names."}},
+         {"q": {"ur": "ندا کی باتوں سے سارہ خوش ہوئی۔", "en": "Nida's words made Sara happy."}, "answer": false,
+          "fb": {"ur": "غلط۔ سارہ کو بہت دُکھ ہوا اور اُس کی آنکھوں میں آنسو آ گئے۔", "en": "False. Sara felt very hurt and tears came to her eyes."}},
+         {"q": {"ur": "سارہ نے بدلے میں ندا کو بُرا بھلا کہا۔", "en": "Sara said bad things back to Nida."}, "answer": false,
+          "fb": {"ur": "غلط۔ سارہ چپ چاپ بیٹھی رہی اور اگلے دن اُس نے ندا کو سلام کیا۔", "en": "False. Sara sat quietly, and the next day she greeted Nida."}},
+         {"q": {"ur": "دوسرے دن سارہ نے ندا کو اپنی پنسل دی۔", "en": "On the second day Sara gave Nida her pencil."}, "answer": true,
+          "fb": {"ur": "درست۔ ندا کو پنسل نہ ملی تو سارہ نے اپنی پنسل اُس کی طرف بڑھائی۔", "en": "True. When Nida could not find a pencil, Sara held out her own."}},
+         {"q": {"ur": "آخر میں ندا نے سارہ سے معافی مانگی۔", "en": "In the end Nida said sorry to Sara."}, "answer": true,
+          "fb": {"ur": "درست۔ ندا شرمندہ ہوئی اور اُس نے معافی مانگی۔ سارہ نے اُسے معاف کر دیا۔", "en": "True. Nida felt ashamed and said sorry. Sara forgave her."}}
+       ]}
+     }},
+    {"t": "activity",
+     "id": "p090-a2",
+     "label": {"ur": "سوال نمبر 2", "en": "Question 2"},
+     "orig": {"ur": "سوال نمبر 2۔ اگر آپ سارہ کی جگہ ہوتے تو آپ کیا کرتے؟", "en": "Question 2. If you were in Sara's place, what would you do?"},
+     "prompt": {"ur": "سوچیں: اگر کوئی آپ کو تنگ کرے اور پھر اُسے مدد کی ضرورت ہو، تو آپ کیا کریں گے؟", "en": "Think: if someone teased you and then needed help, what would you do?"},
+     "levels": {
+       "easy": {"kind": "mcq", "questions": [
+         {"q": {"ur": "ندا کو پنسل چاہیے۔ اچھا کام کون سا ہے؟", "en": "Nida needs a pencil. Which is the good thing to do?"},
+          "options": [{"ur": "پنسل دے کر مدد کرنا", "en": "Help by giving a pencil", "sym": "to help"}, {"ur": "اُس پر ہنسنا", "en": "Laugh at her", "sym": "to mock"}],
+          "answer": 0,
+          "fb": {"ur": "مدد کرنا اچھا کام ہے۔ سارہ نے بھی یہی کیا۔", "en": "Helping is the good thing to do. That is what Sara did too."}}
+       ]},
+       "moderate": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "سوچیں کہ سارہ نے کیا کیا تھا۔", "en": "Think about what Sara did."},
+           {"ur": "لکھیں کہ آپ کیا کرتے۔", "en": "Write what you would do."}
+         ],
+         "model": {"ur": "اگر میں سارہ کی جگہ ہوتا تو میں بھی ندا کی مدد کرتا اور اُسے معاف کر دیتا۔", "en": "If I were in Sara's place, I too would help Nida and forgive her."},
+         "checklist": [
+           {"ur": "میں نے اپنی بات لکھی یا بتائی۔", "en": "I wrote or told my own answer."},
+           {"ur": "میرا جواب کسی کا دل نہیں دُکھاتا۔", "en": "My answer does not hurt anyone."}
+         ]},
+       "hard": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "لکھیں کہ آپ سارہ کی جگہ کیا کرتے۔", "en": "Write what you would do in Sara's place."},
+           {"ur": "لکھیں کہ آپ ایسا کیوں کرتے۔", "en": "Write why you would do that."},
+           {"ur": "لکھیں کہ جب کوئی تنگ کرے تو کس بڑے کو بتانا چاہیے۔", "en": "Write which grown-up you should tell when someone teases you."}
+         ],
+         "model": {"ur": "میں ندا کو پنسل دیتا اور اُسے معاف کر دیتا کیونکہ معاف کرنے سے دوستی ہوتی ہے۔ اگر کوئی مجھے بار بار تنگ کرے تو میں اپنی اُستانی یا امّی ابّو کو بتاؤں گا۔", "en": "I would give Nida a pencil and forgive her, because forgiving makes friendship. If someone teases me again and again, I will tell my teacher or my parents."},
+         "checklist": [
+           {"ur": "میں نے بتایا کہ میں کیا کرتا۔", "en": "I said what I would do."},
+           {"ur": "میں نے وجہ بتائی۔", "en": "I gave a reason."},
+           {"ur": "میں نے بتایا کہ کس بڑے سے مدد لوں گا۔", "en": "I said which grown-up I would ask for help."}
+         ]}
+     }},
+    {"t": "activity",
+     "id": "p090-a3",
+     "label": {"ur": "سوال نمبر 3", "en": "Question 3"},
+     "orig": {"ur": "سوال نمبر 3۔ آپ نے کبھی کسی کو غلطی پر معاف کیا ہے؟ معاف کرنے کے بعد کیسا محسوس ہوا؟", "en": "Question 3. Have you ever forgiven someone for a mistake? How did you feel after forgiving?"},
+     "prompt": {"ur": "اپنی بات بتائیں: آپ نے کب کسی کو معاف کیا؟ پھر آپ کو کیسا لگا؟", "en": "Tell your own story: when did you forgive someone? How did you feel then?"},
+     "levels": {
+       "easy": {"kind": "mcq", "questions": [
+         {"q": {"ur": "معاف کرنے کے بعد دل کیسا ہوتا ہے؟", "en": "How does the heart feel after forgiving?"},
+          "options": [{"ur": "ناراض", "en": "Angry", "sym": "angry"}, {"ur": "خوش", "en": "Happy", "sym": "happy"}],
+          "answer": 1,
+          "fb": {"ur": "معاف کرنے سے دل ہلکا اور خوش ہو جاتا ہے۔", "en": "Forgiving makes the heart light and happy."}}
+       ]},
+       "moderate": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "لکھیں: آپ نے کس کو معاف کیا؟", "en": "Write: whom did you forgive?"},
+           {"ur": "لکھیں: اُس سے کیا غلطی ہوئی تھی؟", "en": "Write: what mistake had they made?"},
+           {"ur": "لکھیں: معاف کرنے کے بعد آپ کو کیسا لگا؟", "en": "Write: how did you feel after forgiving?"}
+         ],
+         "model": {"ur": "جی ہاں۔ میری بہن سے میری کاپی پر پانی گر گیا تھا۔ اُس نے معافی مانگی تو میں نے اُسے معاف کر دیا۔ معاف کرنے کے بعد مجھے خوشی محسوس ہوئی۔", "en": "Yes. My sister spilled water on my notebook. She said sorry and I forgave her. After forgiving I felt happy."},
+         "checklist": [
+           {"ur": "میں نے اپنا واقعہ لکھا یا سنایا۔", "en": "I wrote or told my story."},
+           {"ur": "میں نے بتایا کہ مجھے کیسا محسوس ہوا۔", "en": "I said how I felt."}
+         ]},
+       "hard": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "اپنا واقعہ تین یا چار جملوں میں لکھیں۔", "en": "Write your story in three or four sentences."},
+           {"ur": "لکھیں کہ معاف کرنے سے پہلے اور بعد میں آپ کو کیسا لگا۔", "en": "Write how you felt before and after forgiving."},
+           {"ur": "لکھیں کہ اگر آپ معاف نہ کرتے تو کیا ہوتا۔", "en": "Write what would have happened if you had not forgiven."}
+         ],
+         "model": {"ur": "میرے دوست نے کھیل میں مجھے دھکا دے دیا تھا۔ پہلے مجھے غصّہ آیا۔ اُس نے معافی مانگی تو میں نے معاف کر دیا اور میرا دل ہلکا ہو گیا۔ اگر میں معاف نہ کرتا تو ہماری دوستی ٹوٹ جاتی۔", "en": "My friend pushed me during a game. At first I was angry. He said sorry, I forgave him and my heart felt light. If I had not forgiven him, our friendship would have broken."},
+         "checklist": [
+           {"ur": "میں نے پہلے اور بعد کا احساس بتایا۔", "en": "I described my feeling before and after."},
+           {"ur": "میں نے بتایا کہ معاف نہ کرنے سے کیا ہوتا۔", "en": "I said what would happen without forgiving."}
+         ]}
+     }}
+  ],
+  "hint": [
+    {"for": "all", "ur": "پانچ اہم نکات کو انگلیوں پر گنیں: دل نہ دُکھائیں، معافی مانگیں، معاف کریں، مذاق نہ اڑائیں، خوش اخلاق رہیں۔", "en": "Count the five key points on your fingers: do not hurt, say sorry, forgive, do not make fun, be polite."},
+    {"for": "motor", "ur": "جواب لکھنا مشکل ہو تو بول کر بتائیں؛ کوئی ساتھی یا بڑا آپ کی بات لکھ دے۔ سکرین پر ”آسان“ سطح میں صرف ایک بٹن دبانا ہوتا ہے۔", "en": "If writing is hard, say your answer aloud and let a buddy or adult write it down. On screen the \"easy\" level needs only one tap."},
+    {"for": "cognitive", "ur": "سوال 1 کے لیے پچھلے صفحے کی تصویر دوبارہ دیکھیں: ندا ہنس رہی ہے۔ کیا یہ اچھا سلوک ہے؟", "en": "For Question 1, look again at the picture on the previous page: Nida is laughing. Is that good behaviour?"},
+    {"for": "teacher", "ur": "سوال 2 اور 3 کے کئی درست جواب ہو سکتے ہیں؛ ہر مہربان جواب قبول کریں۔ جواب زبانی، اشاروں، تصویر یا ایک لفظ میں بھی لیا جا سکتا ہے۔ احساسات کے لیے خوش، اُداس اور ناراض چہروں کے کارڈ دیں تاکہ بچہ کارڈ اُٹھا کر بتا سکے۔", "en": "Questions 2 and 3 have many right answers; accept every kind answer. Answers may be oral, signed, drawn or a single word. Provide happy, sad and angry face cards so a child can hold one up to show a feeling."}
+  ],
+  "easy": {
+    "title": {"ur": "اچھی باتیں", "en": "Good things to do"},
+    "image": null,
+    "sentences": [
+      {"en": "We do not hurt anyone's feelings.", "words_en": [{"en": "We", "sym": "we"}, {"en": "do not", "sym": "no"}, {"en": "hurt", "sym": "to hurt"}, {"en": "anyone's", "sym": null}, {"en": "feelings.", "sym": "heart"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "کسی کا", "sym": null}, {"ur": "دل", "sym": "heart"}, {"ur": "نہیں", "sym": "no"}, {"ur": "دُکھاتے۔", "sym": "to hurt"}]},
+      {"en": "We say sorry for a mistake.", "words_en": [{"en": "We", "sym": "we"}, {"en": "say sorry", "sym": "sorry"}, {"en": "for", "sym": null}, {"en": "a mistake.", "sym": "mistake"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "غلطی", "sym": "mistake"}, {"ur": "پر", "sym": null}, {"ur": "معافی", "sym": "sorry"}, {"ur": "مانگتے", "sym": "to ask"}, {"ur": "ہیں۔", "sym": null}]},
+      {"en": "We forgive others.", "words_en": [{"en": "We", "sym": "we"}, {"en": "forgive", "sym": "to forgive"}, {"en": "others.", "sym": "people"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "دوسروں", "sym": "people"}, {"ur": "کو", "sym": null}, {"ur": "معاف", "sym": "to forgive"}, {"ur": "کرتے", "sym": null}, {"ur": "ہیں۔", "sym": null}]},
+      {"en": "We do not make fun of anyone.", "words_en": [{"en": "We", "sym": "we"}, {"en": "do not", "sym": "no"}, {"en": "make fun", "sym": "to mock"}, {"en": "of anyone.", "sym": null}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "کسی کا", "sym": null}, {"ur": "مذاق", "sym": "to mock"}, {"ur": "نہیں", "sym": "no"}, {"ur": "اڑاتے۔", "sym": null}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "ہر کام کو صحیح خانے میں رکھیں۔", "en": "Put each action in the right box."},
+      "task": {"kind": "sort",
+        "groups": [{"ur": "اچھا کام", "en": "Good action"}, {"ur": "بُرا کام", "en": "Bad action"}],
+        "items": [
+          {"ur": "معافی مانگنا", "en": "Saying sorry", "sym": "sorry", "group": 0},
+          {"ur": "مذاق اڑانا", "en": "Making fun", "sym": "to mock", "group": 1},
+          {"ur": "معاف کرنا", "en": "Forgiving", "sym": "to forgive", "group": 0},
+          {"ur": "دھکا دینا", "en": "Pushing", "sym": "to push", "group": 1}
+        ]}
+    }
+  },
+  "print": true
+}

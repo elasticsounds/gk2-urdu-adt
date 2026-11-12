@@ -1,0 +1,570 @@
+{
+ "n": 81,
+ "printed": "77",
+ "chapter": 13,
+ "kind": "content",
+ "title": {
+  "ur": "مختلف پیشے",
+  "en": "Different professions"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "مختلف پیشے",
+   "en": "Different professions"
+  },
+  {
+   "t": "p",
+   "ur": "دی گئی تصاویر کو دیکھیں کہ لوگ روزی کمانے کے لیے کون سا پیشہ اپناتے ہیں؟",
+   "en": "Look at the given pictures to see which professions people take up to earn a living."
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.503,
+      0.243,
+      0.823,
+      0.405
+     ],
+     "alt": {
+      "ur": "وردی پہنے دو خواتین پائلٹ ہوائی جہاز کے کاک پٹ میں بٹنوں اور میٹروں کے سامنے بیٹھی ہیں۔",
+      "en": "Two women pilots in uniform sit in an aeroplane cockpit in front of buttons and dials."
+     },
+     "cap": {
+      "ur": "پائلٹ",
+      "en": "Pilot"
+     }
+    },
+    {
+     "crop": [
+      0.147,
+      0.243,
+      0.469,
+      0.405
+     ],
+     "alt": {
+      "ur": "دھوبی گھاٹ پر ایک آدمی پانی میں کھڑا ہو کر کپڑے کو پتھر پر پٹخ کر دھو رہا ہے۔",
+      "en": "At an open-air washing place, a man stands in the water and washes a cloth by beating it on a stone."
+     },
+     "cap": {
+      "ur": "دھوبی",
+      "en": "Washerman"
+     }
+    },
+    {
+     "crop": [
+      0.503,
+      0.466,
+      0.823,
+      0.631
+     ],
+     "alt": {
+      "ur": "کلاس روم میں استاد تختۂ سیاہ کے پاس کھڑے پڑھا رہے ہیں اور بچے ڈیسکوں پر بیٹھے ہیں۔",
+      "en": "In a classroom a teacher stands by the blackboard teaching while children sit at desks."
+     },
+     "cap": {
+      "ur": "اُستاد",
+      "en": "Teacher"
+     }
+    },
+    {
+     "crop": [
+      0.15,
+      0.466,
+      0.471,
+      0.631
+     ],
+     "alt": {
+      "ur": "وردی، ٹوپی اور ماسک پہنے ٹریفک پولیس کا سپاہی سفید دستانے والا ہاتھ اٹھا کر موٹر سائیکلوں کو روک رہا ہے۔",
+      "en": "A traffic policeman in uniform, cap and mask raises a white-gloved hand to stop the motorcycles."
+     },
+     "cap": {
+      "ur": "پولیس",
+      "en": "Police"
+     }
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "ur": "ان تمام لوگوں کا ہماری روزمرّہ زندگی میں اہم کردار ہے اور ہمیں ان کا شکر گزار ہونا چاہیے۔",
+   "en": "All these people have an important role in our daily life and we should be thankful to them."
+  },
+  {
+   "t": "activity",
+   "id": "p081-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "آپ بڑے ہو کر کیا بننا پسند کریں گے اور کیوں؟",
+    "en": "What would you like to become when you grow up, and why?"
+   },
+   "prompt": {
+    "ur": "آپ بڑے ہو کر کیا بننا چاہتے ہیں؟ اور کیوں؟",
+    "en": "What do you want to be when you grow up? And why?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "تصویر 1",
+        "en": "Picture 1",
+        "img": [
+         0.503,
+         0.243,
+         0.823,
+         0.405
+        ]
+       },
+       "b": {
+        "ur": "پائلٹ",
+        "en": "Pilot"
+       }
+      },
+      {
+       "a": {
+        "ur": "تصویر 2",
+        "en": "Picture 2",
+        "img": [
+         0.147,
+         0.243,
+         0.469,
+         0.405
+        ]
+       },
+       "b": {
+        "ur": "دھوبی",
+        "en": "Washerman"
+       }
+      },
+      {
+       "a": {
+        "ur": "تصویر 3",
+        "en": "Picture 3",
+        "img": [
+         0.503,
+         0.466,
+         0.823,
+         0.631
+        ]
+       },
+       "b": {
+        "ur": "اُستاد",
+        "en": "Teacher"
+       }
+      },
+      {
+       "a": {
+        "ur": "تصویر 4",
+        "en": "Picture 4",
+        "img": [
+         0.15,
+         0.466,
+         0.471,
+         0.631
+        ]
+       },
+       "b": {
+        "ur": "پولیس",
+        "en": "Police"
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "سوچیں: آپ کو کون سا پیشہ سب سے زیادہ پسند ہے؟",
+       "en": "Think: which profession do you like best?"
+      },
+      {
+       "ur": "بتائیں: “میں بڑا/بڑی ہو کر ___ بنوں گا/گی۔”",
+       "en": "Say: “When I grow up I will be a ___.”"
+      },
+      {
+       "ur": "بتائیں: “کیوں کہ ___۔” اس پیشے سے آپ کس کی مدد کریں گے؟",
+       "en": "Say: “Because ___.” Who will you help through this profession?"
+      }
+     ],
+     "model": {
+      "ur": "میں بڑی ہو کر استانی بنوں گی کیوں کہ مجھے بچوں کو پڑھانا اچھا لگتا ہے۔",
+      "en": "When I grow up I will be a teacher because I like teaching children."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے اپنے پسندیدہ پیشے کا نام بتایا۔",
+       "en": "I named my favourite profession."
+      },
+      {
+       "ur": "میں نے وجہ بتائی۔",
+       "en": "I gave a reason."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "اپنے پسندیدہ پیشے کا نام لکھیں اور اس کی تصویر بنائیں۔",
+       "en": "Write the name of your favourite profession and draw a picture of it."
+      },
+      {
+       "ur": "دو وجوہات لکھیں کہ آپ کو یہ پیشہ کیوں پسند ہے۔",
+       "en": "Write two reasons why you like this profession."
+      },
+      {
+       "ur": "لکھیں: اس پیشے سے آپ دوسروں کی مدد کیسے کریں گے؟",
+       "en": "Write: how will you help others through this profession?"
+      },
+      {
+       "ur": "لکھیں: یہ پیشہ اپنانے کے لیے آپ کو ابھی سے کیا کرنا ہوگا؟",
+       "en": "Write: what must you start doing now to take up this profession?"
+      }
+     ],
+     "model": {
+      "ur": "میں بڑا ہو کر پائلٹ بنوں گا۔ مجھے ہوائی جہاز پسند ہیں اور میں مختلف جگہیں دیکھنا چاہتا ہوں۔ میں لوگوں کو جلدی اور حفاظت سے ایک شہر سے دوسرے شہر پہنچاؤں گا۔ اس کے لیے مجھے دل لگا کر پڑھنا ہوگا۔",
+      "en": "When I grow up I will be a pilot. I like aeroplanes and I want to see different places. I will take people quickly and safely from one city to another. For this I must study hard."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دو وجوہات لکھیں۔",
+       "en": "I wrote two reasons."
+      },
+      {
+       "ur": "میں نے لکھا کہ میں دوسروں کی مدد کیسے کروں گا/گی۔",
+       "en": "I wrote how I will help others."
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "ہر تصویر میں لباس اور جگہ دیکھیں: وردی، کاک پٹ، تختۂ سیاہ، دھوبی گھاٹ۔ ان سے پیشہ پہچاننا آسان ہو جاتا ہے۔",
+   "en": "In each photo look at the clothes and the place: uniform, cockpit, blackboard, washing place. These make it easy to recognise the profession."
+  },
+  {
+   "for": "vision",
+   "ur": "چاروں تصویروں کی تفصیل سنیں۔ آوازوں سے پیشہ پہچاننے کا کھیل کھیلیں: جہاز کی آواز، سیٹی، کپڑے دھونے کی آواز، گھنٹی۔",
+   "en": "Listen to the descriptions of all four photos. Play a game of recognising professions by sound: an aeroplane, a whistle, clothes being washed, a school bell."
+  },
+  {
+   "for": "cognitive",
+   "ur": "دو میں سے چنیں: “کیا آپ ڈاکٹر بننا چاہتے ہیں یا استاد؟” تصویری کارڈ کی طرف اشارہ کرنا بھی جواب ہے۔",
+   "en": "Choose between two: “Do you want to be a doctor or a teacher?” Pointing to a picture card is also an answer."
+  },
+  {
+   "for": "teacher",
+   "ur": "ہر بچے کو باری دیں کہ وہ بول کر، اشارے سے، تصویر بنا کر یا اداکاری سے اپنا پسندیدہ پیشہ بتائے۔ لڑکوں اور لڑکیوں، اور معذور بچوں، سب کو ہر پیشے کے لیے حوصلہ دیں — تصویر میں پائلٹ خواتین ہیں۔",
+   "en": "Give every child a turn to share a favourite profession by speaking, signing, drawing or miming. Encourage boys, girls and children with disabilities towards every profession — the pilots in the photo are women."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "مختلف پیشے",
+   "en": "Different professions"
+  },
+  "image": {
+   "crop": [
+    0.503,
+    0.466,
+    0.823,
+    0.631
+   ],
+   "alt": {
+    "ur": "استاد کلاس میں بچوں کو پڑھا رہے ہیں۔",
+    "en": "A teacher is teaching children in class."
+   }
+  },
+  "sentences": [
+   {
+    "en": "The teacher teaches us.",
+    "words": [
+     {
+      "ur": "استاد",
+      "img": [
+       0.503,
+       0.466,
+       0.823,
+       0.631
+      ]
+     },
+     {
+      "ur": "ہمیں",
+      "sym": "we"
+     },
+     {
+      "ur": "پڑھاتا ہے۔",
+      "sym": "to teach"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The teacher",
+      "img": [
+       0.503,
+       0.466,
+       0.823,
+       0.631
+      ]
+     },
+     {
+      "en": "teaches",
+      "sym": "to teach"
+     },
+     {
+      "en": "us.",
+      "sym": "we"
+     }
+    ]
+   },
+   {
+    "en": "The pilot flies the aeroplane.",
+    "words": [
+     {
+      "ur": "پائلٹ",
+      "img": [
+       0.503,
+       0.243,
+       0.823,
+       0.405
+      ]
+     },
+     {
+      "ur": "جہاز",
+      "sym": "airplane"
+     },
+     {
+      "ur": "اڑاتا ہے۔",
+      "sym": "to fly"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The pilot",
+      "img": [
+       0.503,
+       0.243,
+       0.823,
+       0.405
+      ]
+     },
+     {
+      "en": "flies",
+      "sym": "to fly"
+     },
+     {
+      "en": "the aeroplane.",
+      "sym": "airplane"
+     }
+    ]
+   },
+   {
+    "en": "The police protect us.",
+    "words": [
+     {
+      "ur": "پولیس",
+      "img": [
+       0.15,
+       0.466,
+       0.471,
+       0.631
+      ]
+     },
+     {
+      "ur": "ہماری",
+      "sym": "our"
+     },
+     {
+      "ur": "حفاظت",
+      "sym": "to protect"
+     },
+     {
+      "ur": "کرتی ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The police",
+      "img": [
+       0.15,
+       0.466,
+       0.471,
+       0.631
+      ]
+     },
+     {
+      "en": "protect",
+      "sym": "to protect"
+     },
+     {
+      "en": "us.",
+      "sym": "we"
+     }
+    ]
+   },
+   {
+    "en": "The washerman washes clothes.",
+    "words": [
+     {
+      "ur": "دھوبی",
+      "img": [
+       0.147,
+       0.243,
+       0.469,
+       0.405
+      ]
+     },
+     {
+      "ur": "کپڑے",
+      "sym": "clothes"
+     },
+     {
+      "ur": "دھوتا ہے۔",
+      "sym": "to wash"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The washerman",
+      "img": [
+       0.147,
+       0.243,
+       0.469,
+       0.405
+      ]
+     },
+     {
+      "en": "washes",
+      "sym": "to wash"
+     },
+     {
+      "en": "clothes.",
+      "sym": "clothes"
+     }
+    ]
+   },
+   {
+    "en": "We say thank you to them.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "ان کا",
+      "sym": null
+     },
+     {
+      "ur": "شکریہ",
+      "sym": "thank you"
+     },
+     {
+      "ur": "ادا کرتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "say",
+      "sym": "to say"
+     },
+     {
+      "en": "thank you",
+      "sym": "thank you"
+     },
+     {
+      "en": "to them.",
+      "sym": null
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "تصویر دیکھیں اور صحیح نام چنیں۔",
+    "en": "Look at the picture and choose the right name."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "یہ کون ہے؟",
+       "en": "Who is this?"
+      },
+      "options": [
+       {
+        "ur": "پولیس",
+        "en": "Police",
+        "sym": "police"
+       },
+       {
+        "ur": "استاد",
+        "en": "Teacher",
+        "sym": "teacher"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "یہ پولیس کا سپاہی ہے۔ وہ سڑک پر ٹریفک روک رہا ہے۔",
+       "en": "This is a policeman. He is stopping traffic on the road."
+      },
+      "img": [
+       0.15,
+       0.466,
+       0.471,
+       0.631
+      ]
+     },
+     {
+      "q": {
+       "ur": "یہ کون ہیں؟",
+       "en": "Who are they?"
+      },
+      "options": [
+       {
+        "ur": "دھوبی",
+        "en": "Washerman",
+        "sym": "to wash"
+       },
+       {
+        "ur": "پائلٹ",
+        "en": "Pilot",
+        "sym": "pilot"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "یہ پائلٹ ہیں۔ وہ ہوائی جہاز چلاتی ہیں۔",
+       "en": "These are pilots. They fly aeroplanes."
+      },
+      "img": [
+       0.503,
+       0.243,
+       0.823,
+       0.405
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

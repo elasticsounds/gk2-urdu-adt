@@ -1,0 +1,979 @@
+{
+ "n": 64,
+ "printed": "60",
+ "chapter": 9,
+ "kind": "exercise",
+ "title": {
+  "ur": "مشق: زراعت اور مویشی",
+  "en": "Exercise: Agriculture and livestock"
+ },
+ "blocks": [
+  {
+   "ur": "مشق",
+   "en": "Exercise",
+   "t": "h"
+  },
+  {
+   "t": "activity",
+   "id": "p064-a1",
+   "label": {
+    "ur": "سوال نمبر 1",
+    "en": "Question 1"
+   },
+   "orig": {
+    "ur": "سوال نمبر 1۔ مندرجہ ذیل اشیا کن فصلوں سے بنی ہیں؟ بسکٹ ______ جرسی ______ شکّر ______",
+    "en": "Question 1. Which crops are the following things made from? Biscuits ______ Sweater ______ Brown sugar ______"
+   },
+   "prompt": {
+    "ur": "تصویر دیکھیں اور بتائیں کہ یہ چیز کس فصل سے بنی ہے۔",
+    "en": "Look at the picture and say which crop the thing is made from."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "بسکٹ کس فصل سے بنے ہیں؟",
+        "en": "Which crop are biscuits made from?"
+       },
+       "img": [
+        0.545,
+        0.215,
+        0.845,
+        0.35
+       ],
+       "options": [
+        {
+         "ur": "گندم",
+         "en": "Wheat",
+         "sym": "wheat"
+        },
+        {
+         "ur": "کپاس",
+         "en": "Cotton",
+         "sym": "cotton"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "بسکٹ آٹے سے بنتے ہیں اور آٹا گندم سے بنتا ہے۔",
+        "en": "Biscuits are made from flour, and flour is made from wheat."
+       }
+      },
+      {
+       "q": {
+        "ur": "جرسی کس فصل سے بنی ہے؟",
+        "en": "Which crop is the sweater made from?"
+       },
+       "img": [
+        0.262,
+        0.222,
+        0.446,
+        0.35
+       ],
+       "options": [
+        {
+         "ur": "گنّا",
+         "en": "Sugarcane",
+         "sym": "sugar cane"
+        },
+        {
+         "ur": "کپاس",
+         "en": "Cotton",
+         "sym": "cotton"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "جرسی دھاگے سے بُنی جاتی ہے۔ کتاب کے مطابق دھاگا کپاس کی روئی سے بنتا ہے۔",
+        "en": "A sweater is knitted from thread. According to the book, thread is made from cotton wool."
+       }
+      },
+      {
+       "q": {
+        "ur": "شکّر کس فصل سے بنی ہے؟",
+        "en": "Which crop is brown sugar made from?"
+       },
+       "img": [
+        0.373,
+        0.455,
+        0.679,
+        0.592
+       ],
+       "options": [
+        {
+         "ur": "گنّا",
+         "en": "Sugarcane",
+         "sym": "sugar cane"
+        },
+        {
+         "ur": "گندم",
+         "en": "Wheat",
+         "sym": "wheat"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "شکّر گنّے کے رس سے بنتی ہے، جیسے گڑ اور چینی۔",
+        "en": "Brown sugar is made from sugarcane juice, just like jaggery and sugar."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "بسکٹ کس فصل سے بنے ہیں؟",
+        "en": "Which crop are biscuits made from?"
+       },
+       "img": [
+        0.545,
+        0.215,
+        0.845,
+        0.35
+       ],
+       "options": [
+        {
+         "ur": "کپاس",
+         "en": "Cotton"
+        },
+        {
+         "ur": "گندم",
+         "en": "Wheat"
+        },
+        {
+         "ur": "گنّا",
+         "en": "Sugarcane"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "بسکٹ آٹے سے بنتے ہیں اور آٹا گندم سے بنتا ہے۔",
+        "en": "Biscuits are made from flour, and flour is made from wheat."
+       }
+      },
+      {
+       "q": {
+        "ur": "جرسی کس فصل سے بنی ہے؟",
+        "en": "Which crop is the sweater made from?"
+       },
+       "img": [
+        0.262,
+        0.222,
+        0.446,
+        0.35
+       ],
+       "options": [
+        {
+         "ur": "کپاس",
+         "en": "Cotton"
+        },
+        {
+         "ur": "گنّا",
+         "en": "Sugarcane"
+        },
+        {
+         "ur": "گندم",
+         "en": "Wheat"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "جرسی دھاگے سے بُنی جاتی ہے۔ کتاب کے مطابق دھاگا کپاس کی روئی سے بنتا ہے۔",
+        "en": "A sweater is knitted from thread. According to the book, thread is made from cotton wool."
+       }
+      },
+      {
+       "q": {
+        "ur": "شکّر کس فصل سے بنی ہے؟",
+        "en": "Which crop is brown sugar made from?"
+       },
+       "img": [
+        0.373,
+        0.455,
+        0.679,
+        0.592
+       ],
+       "options": [
+        {
+         "ur": "گندم",
+         "en": "Wheat"
+        },
+        {
+         "ur": "کپاس",
+         "en": "Cotton"
+        },
+        {
+         "ur": "گنّا",
+         "en": "Sugarcane"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "شکّر گنّے کے رس سے بنتی ہے، جیسے گڑ اور چینی۔",
+        "en": "Brown sugar is made from sugarcane juice, just like jaggery and sugar."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "بسکٹ کس فصل سے بنے ہیں؟",
+        "en": "Which crop are biscuits made from?"
+       },
+       "img": [
+        0.545,
+        0.215,
+        0.845,
+        0.35
+       ],
+       "options": [
+        {
+         "ur": "گندم",
+         "en": "Wheat"
+        },
+        {
+         "ur": "چاول",
+         "en": "Rice"
+        },
+        {
+         "ur": "کپاس",
+         "en": "Cotton"
+        },
+        {
+         "ur": "گنّا",
+         "en": "Sugarcane"
+        },
+        {
+         "ur": "مکئی",
+         "en": "Maize"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "بسکٹ آٹے سے بنتے ہیں اور آٹا گندم سے بنتا ہے۔",
+        "en": "Biscuits are made from flour, and flour is made from wheat."
+       }
+      },
+      {
+       "q": {
+        "ur": "جرسی کس فصل سے بنی ہے؟",
+        "en": "Which crop is the sweater made from?"
+       },
+       "img": [
+        0.262,
+        0.222,
+        0.446,
+        0.35
+       ],
+       "options": [
+        {
+         "ur": "گندم",
+         "en": "Wheat"
+        },
+        {
+         "ur": "چاول",
+         "en": "Rice"
+        },
+        {
+         "ur": "کپاس",
+         "en": "Cotton"
+        },
+        {
+         "ur": "گنّا",
+         "en": "Sugarcane"
+        },
+        {
+         "ur": "مکئی",
+         "en": "Maize"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "جرسی دھاگے سے بُنی جاتی ہے۔ کتاب کے مطابق دھاگا کپاس کی روئی سے بنتا ہے۔",
+        "en": "A sweater is knitted from thread. According to the book, thread is made from cotton wool."
+       }
+      },
+      {
+       "q": {
+        "ur": "شکّر کس فصل سے بنی ہے؟",
+        "en": "Which crop is brown sugar made from?"
+       },
+       "img": [
+        0.373,
+        0.455,
+        0.679,
+        0.592
+       ],
+       "options": [
+        {
+         "ur": "گندم",
+         "en": "Wheat"
+        },
+        {
+         "ur": "چاول",
+         "en": "Rice"
+        },
+        {
+         "ur": "کپاس",
+         "en": "Cotton"
+        },
+        {
+         "ur": "گنّا",
+         "en": "Sugarcane"
+        },
+        {
+         "ur": "مکئی",
+         "en": "Maize"
+        }
+       ],
+       "answer": 3,
+       "fb": {
+        "ur": "شکّر گنّے کے رس سے بنتی ہے، جیسے گڑ اور چینی۔",
+        "en": "Brown sugar is made from sugarcane juice, just like jaggery and sugar."
+       }
+      },
+      {
+       "q": {
+        "ur": "روٹی کس فصل سے بنتی ہے؟",
+        "en": "Which crop is roti made from?"
+       },
+       "options": [
+        {
+         "ur": "گندم",
+         "en": "Wheat"
+        },
+        {
+         "ur": "چاول",
+         "en": "Rice"
+        },
+        {
+         "ur": "کپاس",
+         "en": "Cotton"
+        },
+        {
+         "ur": "گنّا",
+         "en": "Sugarcane"
+        },
+        {
+         "ur": "مکئی",
+         "en": "Maize"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "گندم سے آٹا بنتا ہے اور آٹے سے روٹی بنائی جاتی ہے۔",
+        "en": "Flour is made from wheat, and roti is made from flour."
+       }
+      },
+      {
+       "q": {
+        "ur": "چینی اور گڑ کس فصل سے بنتے ہیں؟",
+        "en": "Which crop are sugar and jaggery made from?"
+       },
+       "options": [
+        {
+         "ur": "گندم",
+         "en": "Wheat"
+        },
+        {
+         "ur": "چاول",
+         "en": "Rice"
+        },
+        {
+         "ur": "کپاس",
+         "en": "Cotton"
+        },
+        {
+         "ur": "گنّا",
+         "en": "Sugarcane"
+        },
+        {
+         "ur": "مکئی",
+         "en": "Maize"
+        }
+       ],
+       "answer": 3,
+       "fb": {
+        "ur": "گنّے کے رس سے گڑ اور چینی بنتی ہے۔",
+        "en": "Jaggery and sugar are made from sugarcane juice."
+       }
+      },
+      {
+       "q": {
+        "ur": "آپ کی قمیص کا کپڑا کس فصل سے بنا ہے؟",
+        "en": "Which crop is the cloth of your shirt made from?"
+       },
+       "options": [
+        {
+         "ur": "گندم",
+         "en": "Wheat"
+        },
+        {
+         "ur": "چاول",
+         "en": "Rice"
+        },
+        {
+         "ur": "کپاس",
+         "en": "Cotton"
+        },
+        {
+         "ur": "گنّا",
+         "en": "Sugarcane"
+        },
+        {
+         "ur": "مکئی",
+         "en": "Maize"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "کپاس سے روئی، روئی سے دھاگا اور دھاگے سے کپڑا بنتا ہے۔",
+        "en": "Cotton wool is made from cotton, thread from cotton wool, and cloth from thread."
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p064-a2",
+   "label": {
+    "ur": "سوال نمبر 2",
+    "en": "Question 2"
+   },
+   "orig": {
+    "ur": "سوال نمبر 2۔ مویشیوں سے حاصل ہونے والی کوئی سی تین چیزوں کے نام لکھیں۔ (i) ______ (ii) ______ (iii) ______",
+    "en": "Question 2. Write the names of any three things obtained from livestock. (i) ______ (ii) ______ (iii) ______"
+   },
+   "prompt": {
+    "ur": "سوچیں: گائے اور بھینس جیسے مویشیوں سے ہمیں کیا کیا ملتا ہے؟",
+    "en": "Think: what do we get from livestock like cows and buffaloes?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "مویشیوں سے",
+       "en": "From livestock",
+       "sym": "cow"
+      },
+      {
+       "ur": "فصلوں سے",
+       "en": "From crops",
+       "sym": "wheat"
+      }
+     ],
+     "items": [
+      {
+       "ur": "دودھ",
+       "en": "Milk",
+       "sym": "milk",
+       "group": 0
+      },
+      {
+       "ur": "آٹا",
+       "en": "Flour",
+       "sym": "flour",
+       "group": 1
+      },
+      {
+       "ur": "گوشت",
+       "en": "Meat",
+       "sym": "meat",
+       "group": 0
+      },
+      {
+       "ur": "چینی",
+       "en": "Sugar",
+       "sym": "sugar",
+       "group": 1
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "صفحہ 58 اور 59 کی تصویریں دوبارہ دیکھیں۔",
+       "en": "Look again at the pictures on pages 58 and 59."
+      },
+      {
+       "ur": "مویشیوں سے ملنے والی تین چیزوں کے نام لکھیں یا بتائیں۔",
+       "en": "Write or say the names of three things we get from livestock."
+      }
+     ],
+     "model": {
+      "ur": "(i) دودھ (ii) گوشت (iii) کھال (چمڑا)",
+      "en": "(i) Milk (ii) Meat (iii) Skin (leather)"
+     },
+     "checklist": [
+      {
+       "ur": "میں نے تین چیزوں کے نام لکھے۔",
+       "en": "I wrote the names of three things."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "مویشیوں سے ملنے والی تین چیزوں کے نام لکھیں۔",
+       "en": "Write the names of three things we get from livestock."
+      },
+      {
+       "ur": "ہر چیز کے ساتھ لکھیں کہ وہ کس کام آتی ہے یا اس سے کیا بنتا ہے۔",
+       "en": "Next to each thing, write what it is used for or what is made from it."
+      }
+     ],
+     "model": {
+      "ur": "دودھ: اس سے دہی، مکھّن، پنیر اور گھی بنتا ہے۔ گوشت: کھایا جاتا ہے۔ کھال: اس سے چمڑا بنتا ہے جس سے جوتے اور بیگ بنتے ہیں۔",
+      "en": "Milk: yoghurt, butter, cheese and ghee are made from it. Meat: it is eaten. Skin: leather is made from it, and shoes and bags are made from leather."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے تین چیزیں لکھیں۔",
+       "en": "I wrote three things."
+      },
+      {
+       "ur": "میں نے ہر چیز کا استعمال لکھا۔",
+       "en": "I wrote what each thing is used for."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p064-a3",
+   "label": {
+    "ur": "سوال نمبر 3",
+    "en": "Question 3"
+   },
+   "orig": {
+    "ur": "سوال نمبر 3۔ پاکستان کی کوئی سی دو اہم فصلوں کے نام لکھیں۔ (i) ______ (ii) ______",
+    "en": "Question 3. Write the names of any two important crops of Pakistan. (i) ______ (ii) ______"
+   },
+   "prompt": {
+    "ur": "پاکستان کی اہم فصلوں کے نام یاد کریں۔",
+    "en": "Remember the names of Pakistan's important crops."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "ان میں سے فصل کون سی ہے؟",
+        "en": "Which of these is a crop?"
+       },
+       "options": [
+        {
+         "ur": "گندم",
+         "en": "Wheat",
+         "sym": "wheat"
+        },
+        {
+         "ur": "دودھ",
+         "en": "Milk",
+         "sym": "milk"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "گندم ایک فصل ہے۔ یہ کھیت میں اُگتی ہے۔",
+        "en": "Wheat is a crop. It grows in a field."
+       }
+      },
+      {
+       "q": {
+        "ur": "ان میں سے فصل کون سی ہے؟",
+        "en": "Which of these is a crop?"
+       },
+       "options": [
+        {
+         "ur": "گائے",
+         "en": "Cow",
+         "sym": "cow"
+        },
+        {
+         "ur": "کپاس",
+         "en": "Cotton",
+         "sym": "cotton"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "کپاس ایک اہم فصل ہے۔",
+        "en": "Cotton is an important crop."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "صفحہ 56 کی پہلی سطریں دوبارہ پڑھیں۔",
+       "en": "Read the first lines of page 56 again."
+      },
+      {
+       "ur": "دو اہم فصلوں کے نام لکھیں یا بتائیں۔",
+       "en": "Write or say the names of two important crops."
+      }
+     ],
+     "model": {
+      "ur": "(i) گندم (ii) کپاس۔ چاول، گنّا اور مکئی بھی صحیح جواب ہیں۔",
+      "en": "(i) Wheat (ii) Cotton. Rice, sugarcane and maize are also correct answers."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دو فصلوں کے نام لکھے۔",
+       "en": "I wrote the names of two crops."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "پاکستان کی پانچوں اہم فصلوں کے نام لکھیں۔",
+       "en": "Write the names of all five important crops of Pakistan."
+      },
+      {
+       "ur": "ان میں سے تین فصلوں سے بننے والی ایک ایک چیز لکھیں۔",
+       "en": "For three of these crops, write one thing made from each."
+      }
+     ],
+     "model": {
+      "ur": "گندم، چاول، کپاس، گنّا، مکئی۔ گندم سے آٹا، کپاس سے روئی، گنّے سے چینی بنتی ہے۔",
+      "en": "Wheat, rice, cotton, sugarcane, maize. Flour is made from wheat, cotton wool from cotton, sugar from sugarcane."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے پانچ فصلیں لکھیں۔",
+       "en": "I wrote five crops."
+      },
+      {
+       "ur": "میں نے تین چیزیں لکھیں جو ان سے بنتی ہیں۔",
+       "en": "I wrote three things made from them."
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "سوال 1 کے لیے الٹا سوچیں: بسکٹ ← آٹا ← ؟۔ جرسی ← دھاگا ← روئی ← ؟۔ شکّر ← رس ← ؟۔ جواب صفحہ 56 سے 58 پر ہیں۔",
+   "en": "For Question 1, think backwards. Biscuits come from flour, and flour comes from which crop? A sweater comes from thread, thread comes from cotton wool, and cotton wool comes from which crop? Brown sugar comes from juice, and the juice comes from which crop? The answers are on pages 56 to 58."
+  },
+  {
+   "for": "vision",
+   "ur": "تین تصویریں یہ ہیں: پلیٹ میں بسکٹ، ایک سرمئی جرسی (سویٹر)، اور پیالے میں بھوری شکّر۔ آپ اصلی بسکٹ، جرسی اور شکّر چھو کر جواب زبانی دے سکتے ہیں۔",
+   "en": "The three pictures are: biscuits on a plate, a grey sweater, and brown sugar in a bowl. You can touch a real biscuit, a sweater and some brown sugar, and answer aloud."
+  },
+  {
+   "for": "motor",
+   "ur": "لکیر پر لکھنا مشکل ہو تو فصل کے نام کا کارڈ تصویر کے نیچے رکھ دیں یا بول کر بتائیں۔",
+   "en": "If writing on the line is hard, place a card with the crop's name under the picture or say it aloud."
+  },
+  {
+   "for": "teacher",
+   "ur": "جرسی اصل میں اون سے بھی بنتی ہے (جو بھیڑ سے ملتی ہے)۔ کتاب کے سبق کے مطابق متوقع جواب \"کپاس\" ہے؛ اگر کوئی بچہ \"اون\" کہے تو اس کی تعریف کریں اور فرق سمجھائیں۔",
+   "en": "In fact, a sweater can also be made from wool, which comes from sheep. By the book's lesson the expected answer is \"cotton\"; if a child says \"wool\", praise them and explain the difference."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "فصلیں اور مویشی: دہرائی",
+   "en": "Crops and livestock: revision"
+  },
+  "image": {
+   "crop": [
+    0.545,
+    0.215,
+    0.845,
+    0.35
+   ],
+   "alt": {
+    "ur": "پلیٹ میں بسکٹ۔",
+    "en": "There are biscuits on a plate."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Roti and biscuits are made from wheat.",
+    "words": [
+     {
+      "ur": "گندم",
+      "sym": "wheat"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "روٹی",
+      "sym": "bread"
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "بسکٹ",
+      "sym": "biscuit"
+     },
+     {
+      "ur": "بنتے",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Roti",
+      "sym": "bread"
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "biscuits",
+      "sym": "biscuit"
+     },
+     {
+      "en": "are made",
+      "sym": "to make"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "wheat.",
+      "sym": "wheat"
+     }
+    ]
+   },
+   {
+    "en": "Cloth is made from cotton.",
+    "words": [
+     {
+      "ur": "کپاس",
+      "sym": "cotton"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "کپڑا",
+      "sym": "cloth"
+     },
+     {
+      "ur": "بنتا",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Cloth",
+      "sym": "cloth"
+     },
+     {
+      "en": "is made",
+      "sym": "to make"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "cotton.",
+      "sym": "cotton"
+     }
+    ]
+   },
+   {
+    "en": "Sugar is made from sugarcane.",
+    "words": [
+     {
+      "ur": "گنّے",
+      "sym": "sugar cane"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "چینی",
+      "sym": "sugar"
+     },
+     {
+      "ur": "بنتی",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Sugar",
+      "sym": "sugar"
+     },
+     {
+      "en": "is made",
+      "sym": "to make"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "sugarcane.",
+      "sym": "sugar cane"
+     }
+    ]
+   },
+   {
+    "en": "We get milk from the cow.",
+    "words": [
+     {
+      "ur": "گائے",
+      "sym": "cow"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "دودھ",
+      "sym": "milk"
+     },
+     {
+      "ur": "ملتا",
+      "sym": "to get"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "get",
+      "sym": "to get"
+     },
+     {
+      "en": "milk",
+      "sym": "milk"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "cow.",
+      "sym": "cow"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "چیز کو اس کی فصل سے ملائیں۔",
+    "en": "Match the thing to its crop."
+   },
+   "task": {
+    "kind": "match",
+    "pairs": [
+     {
+      "a": {
+       "ur": "بسکٹ",
+       "en": "Biscuits",
+       "img": [
+        0.545,
+        0.215,
+        0.845,
+        0.35
+       ]
+      },
+      "b": {
+       "ur": "گندم",
+       "en": "Wheat",
+       "sym": "wheat"
+      }
+     },
+     {
+      "a": {
+       "ur": "جرسی",
+       "en": "Sweater",
+       "img": [
+        0.262,
+        0.222,
+        0.446,
+        0.35
+       ]
+      },
+      "b": {
+       "ur": "کپاس",
+       "en": "Cotton",
+       "sym": "cotton"
+      }
+     },
+     {
+      "a": {
+       "ur": "شکّر",
+       "en": "Brown sugar",
+       "img": [
+        0.373,
+        0.455,
+        0.679,
+        0.592
+       ]
+      },
+      "b": {
+       "ur": "گنّا",
+       "en": "Sugarcane",
+       "sym": "sugar cane"
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

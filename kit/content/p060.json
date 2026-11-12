@@ -1,0 +1,626 @@
+{
+ "n": 60,
+ "printed": "56",
+ "chapter": 9,
+ "kind": "content",
+ "title": {
+  "ur": "فصلوں سے بنائی گئیں مصنوعات: گندم اور کپاس",
+  "en": "Products made from crops: wheat and cotton"
+ },
+ "blocks": [
+  {
+   "ur": "پاکستان ایک زرعی ملک ہے۔ اس کی اہم فصلوں میں گندم، چاول، کپاس، گنّا اور مکئی شامل ہیں۔",
+   "en": "Pakistan is an agricultural country. Its important crops include wheat, rice, cotton, sugarcane and maize.",
+   "t": "p"
+  },
+  {
+   "ur": "زیادہ تر آبادی دیہات میں رہتی ہے جو زراعت کے پیشہ سے منسلک ہے۔ بہت سے لوگ مویشی بھی پالتے ہیں۔",
+   "en": "Most of the people live in villages and work in farming. Many people also keep livestock.",
+   "t": "p"
+  },
+  {
+   "ur": "فصلوں سے بنائی گئیں مصنوعات",
+   "en": "Products made from crops",
+   "t": "h"
+  },
+  {
+   "ur": "گندم",
+   "en": "Wheat",
+   "t": "h"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.508,
+      0.239,
+      0.832,
+      0.381
+     ],
+     "alt": {
+      "ur": "دو کسان سنہری گندم کے کھیت میں بیٹھ کر فصل کاٹ رہے ہیں۔",
+      "en": "Two farmers sitting in a golden field of wheat and cutting the crop."
+     },
+     "cap": {
+      "ur": "کسان گندم اُگاتا ہے۔",
+      "en": "The farmer grows wheat."
+     }
+    },
+    {
+     "crop": [
+      0.172,
+      0.239,
+      0.496,
+      0.381
+     ],
+     "alt": {
+      "ur": "ایک آدمی آٹے کی چکی میں کھڑا ہے۔ اس کے پاس آٹے کی بوریاں اور پیسنے کی مشین ہے۔",
+      "en": "A man standing in a flour mill, with sacks of flour and a grinding machine beside him."
+     },
+     "cap": {
+      "ur": "گندم سے آٹا بنتا ہے۔",
+      "en": "Flour is made from wheat."
+     }
+    },
+    {
+     "crop": [
+      0.172,
+      0.417,
+      0.832,
+      0.616
+     ],
+     "alt": {
+      "ur": "تنور پر کچھ آدمی آٹے سے روٹیاں بنا رہے ہیں۔ سامنے پکی ہوئی گرم روٹیوں کا ڈھیر رکھا ہے۔",
+      "en": "Some men at a tandoor oven are making rotis from dough. In front of them is a pile of hot, freshly baked rotis."
+     },
+     "cap": {
+      "ur": "آٹے سے روٹی بنائی جاتی ہے۔",
+      "en": "Roti is made from flour."
+     }
+    }
+   ]
+  },
+  {
+   "ur": "کپاس",
+   "en": "Cotton",
+   "t": "h"
+  },
+  {
+   "ur": "کپاس ایک اہم فصل ہے۔",
+   "en": "Cotton is an important crop.",
+   "t": "p"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.541,
+      0.701,
+      0.84,
+      0.866
+     ],
+     "alt": {
+      "ur": "ایک عورت کپاس کے پودے سے سفید کپاس چن رہی ہے۔",
+      "en": "A woman picking white cotton from a cotton plant."
+     },
+     "cap": {
+      "ur": "کسان کپاس اُگاتا ہے۔",
+      "en": "The farmer grows cotton."
+     }
+    },
+    {
+     "crop": [
+      0.173,
+      0.701,
+      0.522,
+      0.866
+     ],
+     "alt": {
+      "ur": "دو آدمی سفید روئی کے بہت بڑے ڈھیر میں کام کر رہے ہیں۔",
+      "en": "Two men working in a very big heap of white cotton wool."
+     },
+     "cap": {
+      "ur": "کپاس سے روئی بنتی ہے۔",
+      "en": "Cotton wool is made from cotton."
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p060-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "کسان گندم اُگاتا ہے۔ گندم سے آٹا بنتا ہے۔ آٹے سے روٹی بنائی جاتی ہے۔",
+    "en": "The farmer grows wheat. Flour is made from wheat. Roti is made from flour."
+   },
+   "prompt": {
+    "ur": "روٹی کیسے بنتی ہے؟ کھیت سے دسترخوان تک کا سفر ترتیب سے لگائیں۔",
+    "en": "How is roti made? Put the journey from the field to the table in the right order."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "گندم سے کیا بنتا ہے؟",
+        "en": "What is made from wheat?"
+       },
+       "img": [
+        0.508,
+        0.239,
+        0.832,
+        0.381
+       ],
+       "options": [
+        {
+         "ur": "آٹا",
+         "en": "Flour",
+         "sym": "flour"
+        },
+        {
+         "ur": "روئی",
+         "en": "Cotton wool",
+         "sym": "cotton"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "گندم سے آٹا بنتا ہے۔",
+        "en": "Flour is made from wheat."
+       }
+      },
+      {
+       "q": {
+        "ur": "آٹے سے کیا بنتا ہے؟",
+        "en": "What is made from flour?"
+       },
+       "img": [
+        0.172,
+        0.239,
+        0.496,
+        0.381
+       ],
+       "options": [
+        {
+         "ur": "کپڑا",
+         "en": "Cloth",
+         "sym": "cloth"
+        },
+        {
+         "ur": "روٹی",
+         "en": "Roti",
+         "sym": "bread"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "آٹے سے روٹی بنائی جاتی ہے۔",
+        "en": "Roti is made from flour."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "order",
+     "items": [
+      {
+       "ur": "کسان گندم اُگاتا ہے۔",
+       "en": "The farmer grows wheat.",
+       "img": [
+        0.508,
+        0.239,
+        0.832,
+        0.381
+       ]
+      },
+      {
+       "ur": "گندم سے آٹا بنتا ہے۔",
+       "en": "Flour is made from wheat.",
+       "img": [
+        0.172,
+        0.239,
+        0.496,
+        0.381
+       ]
+      },
+      {
+       "ur": "آٹے سے روٹی بنائی جاتی ہے۔",
+       "en": "Roti is made from flour.",
+       "img": [
+        0.172,
+        0.417,
+        0.832,
+        0.616
+       ]
+      }
+     ]
+    },
+    "hard": {
+     "kind": "fill",
+     "questions": [
+      {
+       "q": {
+        "ur": "پاکستان ایک ___ ملک ہے۔",
+        "en": "Pakistan is an ___ country."
+       },
+       "options": [
+        {
+         "ur": "صنعتی",
+         "en": "industrial"
+        },
+        {
+         "ur": "زرعی",
+         "en": "agricultural"
+        },
+        {
+         "ur": "چھوٹا",
+         "en": "small"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "پاکستان ایک زرعی ملک ہے، یعنی یہاں بہت کھیتی باڑی ہوتی ہے۔",
+        "en": "Pakistan is an agricultural country. This means that a lot of farming is done here."
+       }
+      },
+      {
+       "q": {
+        "ur": "زیادہ تر آبادی ___ میں رہتی ہے۔",
+        "en": "Most of the people live in ___."
+       },
+       "options": [
+        {
+         "ur": "دیہات",
+         "en": "villages"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "the mountains"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "the desert"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "زیادہ تر آبادی دیہات میں رہتی ہے اور زراعت کا کام کرتی ہے۔",
+        "en": "Most of the people live in villages and work in farming."
+       }
+      },
+      {
+       "q": {
+        "ur": "گندم سے ___ بنتا ہے۔",
+        "en": "___ is made from wheat."
+       },
+       "options": [
+        {
+         "ur": "دھاگا",
+         "en": "Thread"
+        },
+        {
+         "ur": "گڑ",
+         "en": "Jaggery"
+        },
+        {
+         "ur": "آٹا",
+         "en": "Flour"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "گندم سے آٹا بنتا ہے۔",
+        "en": "Flour is made from wheat."
+       }
+      },
+      {
+       "q": {
+        "ur": "کپاس سے ___ بنتی ہے۔",
+        "en": "___ is made from cotton."
+       },
+       "options": [
+        {
+         "ur": "روئی",
+         "en": "Cotton wool"
+        },
+        {
+         "ur": "روٹی",
+         "en": "Roti"
+        },
+        {
+         "ur": "چینی",
+         "en": "Sugar"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "کپاس سے روئی بنتی ہے۔ روئی اور روٹی کے لفظ ملتے جلتے ہیں، دھیان سے پڑھیں۔",
+        "en": "Cotton wool is made from cotton. Roti is made from flour, not from cotton, so read each word carefully."
+       }
+      },
+      {
+       "q": {
+        "ur": "پاکستان کی اہم فصلوں میں گندم، چاول، کپاس، گنّا اور ___ شامل ہیں۔",
+        "en": "Pakistan's important crops include wheat, rice, cotton, sugarcane and ___."
+       },
+       "options": [
+        {
+         "ur": "آم",
+         "en": "mango"
+        },
+        {
+         "ur": "مکئی",
+         "en": "maize"
+        },
+        {
+         "ur": "چائے",
+         "en": "tea"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "پانچ اہم فصلیں: گندم، چاول، کپاس، گنّا اور مکئی۔",
+        "en": "The five important crops are wheat, rice, cotton, sugarcane and maize."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "تصویروں کو دائیں سے بائیں کہانی کی طرح دیکھیں: کھیت ← چکی ← تنور۔ پانچ فصلیں انگلیوں پر گنیں: گندم، چاول، کپاس، گنّا، مکئی۔",
+   "en": "On the printed page, look at the pictures from right to left like a story: first the field, then the mill, then the tandoor. Count the five crops on your fingers: wheat, rice, cotton, sugarcane, maize."
+  },
+  {
+   "for": "vision",
+   "ur": "گندم کے دانے، آٹا اور روٹی کا ٹکڑا ہاتھ میں لے کر محسوس کریں۔ اسی طرح کپاس کا پھول یا روئی چھو کر دیکھیں کہ وہ کتنی نرم ہے۔",
+   "en": "Hold some grains of wheat, some flour and a piece of roti in your hand and feel them. In the same way, touch a cotton boll or some cotton wool and feel how soft it is."
+  },
+  {
+   "for": "hearing",
+   "ur": "\"روئی\" اور \"روٹی\" کے ہونٹوں کی حرکت ملتی جلتی ہے۔ دونوں لفظ لکھ کر اور چیز دکھا کر فرق واضح کریں۔",
+   "en": "Some words look the same on the lips, like \"flour\" and \"flower\". Make the difference clear by writing both words and showing the real things."
+  },
+  {
+   "for": "teacher",
+   "ur": "تین کارڈ بنائیں (گندم، آٹا، روٹی) اور بچوں سے ترتیب لگوائیں۔ بچے کارڈ رکھ کر، اشارے سے یا بول کر جواب دے سکتے ہیں۔",
+   "en": "Make three cards (wheat, flour, roti) and ask the children to put them in order. Children can answer by placing the cards, by pointing or by speaking."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "گندم سے روٹی",
+   "en": "From wheat to roti"
+  },
+  "image": {
+   "crop": [
+    0.508,
+    0.239,
+    0.832,
+    0.381
+   ],
+   "alt": {
+    "ur": "کسان گندم کے کھیت میں فصل کاٹ رہے ہیں۔",
+    "en": "Farmers cutting the crop in a wheat field."
+   }
+  },
+  "sentences": [
+   {
+    "en": "The farmer grows wheat.",
+    "words": [
+     {
+      "ur": "کسان",
+      "sym": "farmer"
+     },
+     {
+      "ur": "گندم",
+      "sym": "wheat"
+     },
+     {
+      "ur": "اُگاتا",
+      "sym": "to grow"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The farmer",
+      "sym": "farmer"
+     },
+     {
+      "en": "grows",
+      "sym": "to grow"
+     },
+     {
+      "en": "wheat.",
+      "sym": "wheat"
+     }
+    ]
+   },
+   {
+    "en": "Flour is made from wheat.",
+    "words": [
+     {
+      "ur": "گندم",
+      "sym": "wheat"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "آٹا",
+      "sym": "flour"
+     },
+     {
+      "ur": "بنتا",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Flour",
+      "sym": "flour"
+     },
+     {
+      "en": "is made from",
+      "sym": "to make"
+     },
+     {
+      "en": "wheat.",
+      "sym": "wheat"
+     }
+    ]
+   },
+   {
+    "en": "Roti is made from flour.",
+    "words": [
+     {
+      "ur": "آٹے",
+      "sym": "flour"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "روٹی",
+      "sym": "bread"
+     },
+     {
+      "ur": "بنتی",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Roti",
+      "sym": "bread"
+     },
+     {
+      "en": "is made from",
+      "sym": "to make"
+     },
+     {
+      "en": "flour.",
+      "sym": "flour"
+     }
+    ]
+   },
+   {
+    "en": "We eat roti.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "روٹی",
+      "sym": "bread"
+     },
+     {
+      "ur": "کھاتے",
+      "sym": "to eat"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "eat",
+      "sym": "to eat"
+     },
+     {
+      "en": "roti.",
+      "sym": "bread"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "روٹی کس سے بنتی ہے؟",
+       "en": "What is roti made from?"
+      },
+      "options": [
+       {
+        "ur": "آٹا",
+        "en": "Flour",
+        "sym": "flour"
+       },
+       {
+        "ur": "پانی",
+        "en": "Water",
+        "sym": "water"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "روٹی آٹے سے بنتی ہے۔ آٹا گندم سے بنتا ہے۔",
+       "en": "Roti is made from flour. Flour is made from wheat."
+      }
+     },
+     {
+      "q": {
+       "ur": "گندم کون اُگاتا ہے؟",
+       "en": "Who grows wheat?"
+      },
+      "options": [
+       {
+        "ur": "استاد",
+        "en": "A teacher",
+        "sym": "teacher"
+       },
+       {
+        "ur": "کسان",
+        "en": "A farmer",
+        "sym": "farmer"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "کسان گندم اُگاتا ہے۔",
+       "en": "The farmer grows wheat."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

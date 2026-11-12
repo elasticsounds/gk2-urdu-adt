@@ -1,0 +1,631 @@
+{
+ "n": 18,
+ "printed": "14",
+ "chapter": 2,
+ "kind": "content",
+ "title": {
+  "ur": "شہر اور دیہات کے لوگوں کے مشترکہ پیشے",
+  "en": "Common occupations of people in cities and villages"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "شہر اور دیہات کے لوگوں کے مشترکہ پیشے",
+   "en": "Common occupations of people in cities and villages"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.521,
+      0.165,
+      0.851,
+      0.355
+     ],
+     "alt": {
+      "ur": "ایک ڈاکٹر صاحبہ کانوں میں سٹیتھوسکوپ لگائے ایک مریضہ کا بلڈ پریشر دیکھ رہی ہیں۔",
+      "en": "A woman doctor with a stethoscope in her ears is checking a woman patient's blood pressure."
+     },
+     "cap": {
+      "ur": "ڈاکٹر",
+      "en": "Doctor"
+     }
+    },
+    {
+     "crop": [
+      0.173,
+      0.165,
+      0.503,
+      0.355
+     ],
+     "alt": {
+      "ur": "ایک درزی سلائی مشین پر رنگین کپڑا سی رہا ہے۔",
+      "en": "A tailor is sewing colourful cloth on a sewing machine."
+     },
+     "cap": {
+      "ur": "درزی",
+      "en": "Tailor"
+     }
+    },
+    {
+     "crop": [
+      0.521,
+      0.408,
+      0.851,
+      0.6
+     ],
+     "alt": {
+      "ur": "ایک حجّام اپنی دکان میں کرسی پر بیٹھے آدمی کے بال کاٹ رہا ہے۔",
+      "en": "A barber in his shop is cutting the hair of a man sitting in a chair."
+     },
+     "cap": {
+      "ur": "حجّام",
+      "en": "Barber"
+     }
+    },
+    {
+     "crop": [
+      0.173,
+      0.417,
+      0.503,
+      0.6
+     ],
+     "alt": {
+      "ur": "ایک ترکھان لکڑی پر خوب صورت نقش و نگار بنا رہا ہے؛ پاس ہی لکڑی کا نقشین فرنیچر رکھا ہے۔",
+      "en": "A carpenter is carving beautiful patterns into wood; carved wooden furniture stands nearby."
+     },
+     "cap": {
+      "ur": "ترکھان",
+      "en": "Carpenter"
+     }
+    },
+    {
+     "crop": [
+      0.521,
+      0.65,
+      0.851,
+      0.842
+     ],
+     "alt": {
+      "ur": "ایک موٹر مکینک لال گاڑی کے نیچے لیٹ کر اسے ٹھیک کر رہا ہے۔",
+      "en": "A motor mechanic is lying under a red car, repairing it."
+     },
+     "cap": {
+      "ur": "موٹر مکینک",
+      "en": "Motor mechanic"
+     }
+    },
+    {
+     "crop": [
+      0.173,
+      0.65,
+      0.503,
+      0.842
+     ],
+     "alt": {
+      "ur": "سفید داڑھی والا ایک بزرگ موچی زمین پر بیٹھا جوتے کی مرمت کر رہا ہے۔",
+      "en": "An elderly cobbler with a white beard is sitting on the ground mending a shoe."
+     },
+     "cap": {
+      "ur": "موچی",
+      "en": "Cobbler"
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p018-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "(یہ مشق کتاب میں نہیں ہے۔ یہ اس صفحے کے سبق کو دہرانے کے لیے بنائی گئی ہے۔)",
+    "en": "This practice is not in the book. It has been added to revise the lesson on this page."
+   },
+   "prompt": {
+    "ur": "یہ لوگ شہر میں بھی کام کرتے ہیں اور دیہات میں بھی۔ ہر پیشے کو اس کے کام سے ملائیں۔",
+    "en": "These people work in cities and in villages too. Match each occupation with the work it does."
+   },
+   "levels": {
+    "easy": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "ڈاکٹر",
+        "en": "Doctor",
+        "img": [
+         0.521,
+         0.165,
+         0.851,
+         0.355
+        ]
+       },
+       "b": {
+        "ur": "علاج کرتا ہے",
+        "en": "Treats sick people",
+        "sym": "medicine"
+       }
+      },
+      {
+       "a": {
+        "ur": "درزی",
+        "en": "Tailor",
+        "img": [
+         0.173,
+         0.165,
+         0.503,
+         0.355
+        ]
+       },
+       "b": {
+        "ur": "کپڑے سیتا ہے",
+        "en": "Sews clothes",
+        "sym": "clothes"
+       }
+      },
+      {
+       "a": {
+        "ur": "موچی",
+        "en": "Cobbler",
+        "img": [
+         0.173,
+         0.65,
+         0.503,
+         0.842
+        ]
+       },
+       "b": {
+        "ur": "جوتے ٹھیک کرتا ہے",
+        "en": "Mends shoes",
+        "sym": "shoes"
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "ڈاکٹر",
+        "en": "Doctor"
+       },
+       "b": {
+        "ur": "بیماروں کا علاج کرتا ہے",
+        "en": "Treats sick people"
+       }
+      },
+      {
+       "a": {
+        "ur": "درزی",
+        "en": "Tailor"
+       },
+       "b": {
+        "ur": "کپڑے سیتا ہے",
+        "en": "Sews clothes"
+       }
+      },
+      {
+       "a": {
+        "ur": "حجّام",
+        "en": "Barber"
+       },
+       "b": {
+        "ur": "بال کاٹتا ہے",
+        "en": "Cuts hair"
+       }
+      },
+      {
+       "a": {
+        "ur": "ترکھان",
+        "en": "Carpenter"
+       },
+       "b": {
+        "ur": "لکڑی کی چیزیں بناتا ہے",
+        "en": "Makes things out of wood"
+       }
+      },
+      {
+       "a": {
+        "ur": "موٹر مکینک",
+        "en": "Motor mechanic"
+       },
+       "b": {
+        "ur": "گاڑیاں ٹھیک کرتا ہے",
+        "en": "Repairs vehicles"
+       }
+      },
+      {
+       "a": {
+        "ur": "موچی",
+        "en": "Cobbler"
+       },
+       "b": {
+        "ur": "جوتے مرمت کرتا ہے",
+        "en": "Mends shoes"
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "آپ کی کرسی کی ٹانگ ٹوٹ گئی ہے۔ آپ کس کے پاس جائیں گے؟",
+        "en": "The leg of your chair has broken. Who will you go to?"
+       },
+       "options": [
+        {
+         "ur": "حجّام",
+         "en": "Barber"
+        },
+        {
+         "ur": "ترکھان",
+         "en": "Carpenter"
+        },
+        {
+         "ur": "موچی",
+         "en": "Cobbler"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "ترکھان لکڑی کا کام کرتا ہے، وہ کرسی ٹھیک کر دے گا۔",
+        "en": "The carpenter works with wood; he will fix the chair."
+       }
+      },
+      {
+       "q": {
+        "ur": "ابّو کی موٹر سائیکل سٹارٹ نہیں ہو رہی۔ کون مدد کرے گا؟",
+        "en": "Dad's motorbike will not start. Who will help?"
+       },
+       "options": [
+        {
+         "ur": "موٹر مکینک",
+         "en": "Motor mechanic"
+        },
+        {
+         "ur": "درزی",
+         "en": "Tailor"
+        },
+        {
+         "ur": "ڈاکٹر",
+         "en": "Doctor"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "موٹر مکینک گاڑیاں اور موٹر سائیکلیں ٹھیک کرتا ہے۔",
+        "en": "The motor mechanic repairs cars and motorbikes."
+       }
+      },
+      {
+       "q": {
+        "ur": "عید کے نئے کپڑے کون سیے گا؟",
+        "en": "Who will sew the new clothes for Eid?"
+       },
+       "options": [
+        {
+         "ur": "موچی",
+         "en": "Cobbler"
+        },
+        {
+         "ur": "حجّام",
+         "en": "Barber"
+        },
+        {
+         "ur": "درزی",
+         "en": "Tailor"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "درزی سلائی مشین سے کپڑے سیتا ہے۔",
+        "en": "The tailor sews clothes with a sewing machine."
+       }
+      },
+      {
+       "q": {
+        "ur": "ان پیشوں کو \"مشترکہ\" کیوں کہا گیا ہے؟",
+        "en": "Why are these occupations called \"common\"?"
+       },
+       "options": [
+        {
+         "ur": "کیونکہ یہ صرف شہر میں ہوتے ہیں",
+         "en": "Because they are found only in cities"
+        },
+        {
+         "ur": "کیونکہ یہ شہر اور دیہات دونوں میں ہوتے ہیں",
+         "en": "Because they are found in both cities and villages"
+        },
+        {
+         "ur": "کیونکہ یہ صرف دیہات میں ہوتے ہیں",
+         "en": "Because they are found only in villages"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "مشترکہ کا مطلب ہے \"دونوں میں ایک جیسا\"۔ ڈاکٹر، درزی، موچی وغیرہ کی ضرورت ہر جگہ ہوتی ہے۔",
+        "en": "\"Common\" means \"the same in both\". Doctors, tailors, cobblers and other such workers are needed everywhere."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "ہر تصویر میں دیکھیں کہ اس شخص کے ہاتھ میں کون سا اوزار ہے: سلائی مشین، سٹیتھوسکوپ، قینچی، لکڑی، گاڑی کے اوزار، جوتا۔ اوزار سے پیشہ یاد رہتا ہے۔",
+   "en": "In each picture, look at the tool in the person's hands: a sewing machine, a stethoscope, scissors, wood, car tools, a shoe. The tool helps you remember the occupation."
+  },
+  {
+   "for": "vision",
+   "ur": "اصل چیزیں چھو کر پیشہ پہچانیں: کپڑا اور دھاگا (درزی)، جوتا (موچی)، لکڑی کا ٹکڑا (ترکھان)، کنگھی (حجّام)، کھلونا سٹیتھوسکوپ (ڈاکٹر)، پانا (مکینک)۔",
+   "en": "Recognise each occupation by touching real objects: cloth and thread for the tailor, a shoe for the cobbler, a piece of wood for the carpenter, a comb for the barber, a toy stethoscope for the doctor and a spanner for the mechanic."
+  },
+  {
+   "for": "hearing",
+   "ur": "ہر پیشے کا اشارہ بنائیں: سلائی کرنا، قینچی چلانا، ہتھوڑی مارنا، نبض دیکھنا۔ بچے اشارہ دیکھ کر تصویر پہچانیں۔",
+   "en": "Make a gesture for each occupation: sewing, snipping with scissors, hammering, feeling a pulse. Children look at the gesture and find the picture."
+  },
+  {
+   "for": "teacher",
+   "ur": "بچوں کو بتائیں کہ ہر پیشہ قابلِ عزّت ہے اور مرد اور عورتیں دونوں یہ کام کر سکتے ہیں۔ پوچھیں کہ ان کے محلّے میں ان میں سے کون کون کام کرتا ہے۔",
+   "en": "Tell the children that every occupation deserves respect and that both men and women can do these jobs. Ask which of these people work in their own neighbourhood."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "لوگوں کے پیشے",
+   "en": "People's jobs"
+  },
+  "image": {
+   "crop": [
+    0.521,
+    0.165,
+    0.851,
+    0.355
+   ],
+   "alt": {
+    "ur": "ڈاکٹر مریضہ کو دیکھ رہی ہیں۔",
+    "en": "A doctor is examining a patient."
+   }
+  },
+  "sentences": [
+   {
+    "en": "The doctor treats us.",
+    "words": [
+     {
+      "ur": "ڈاکٹر",
+      "sym": "doctor"
+     },
+     {
+      "ur": "ہمارا",
+      "sym": "our"
+     },
+     {
+      "ur": "علاج",
+      "sym": "medicine"
+     },
+     {
+      "ur": "کرتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "doctor",
+      "sym": "doctor"
+     },
+     {
+      "en": "treats",
+      "sym": "medicine"
+     },
+     {
+      "en": "us.",
+      "sym": "our"
+     }
+    ]
+   },
+   {
+    "en": "The tailor sews clothes.",
+    "words": [
+     {
+      "ur": "درزی",
+      "sym": "tailor"
+     },
+     {
+      "ur": "کپڑے",
+      "sym": "clothes"
+     },
+     {
+      "ur": "سیتا ہے۔",
+      "sym": "to sew"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "tailor",
+      "sym": "tailor"
+     },
+     {
+      "en": "sews",
+      "sym": "to sew"
+     },
+     {
+      "en": "clothes.",
+      "sym": "clothes"
+     }
+    ]
+   },
+   {
+    "en": "The cobbler mends shoes.",
+    "words": [
+     {
+      "ur": "موچی",
+      "sym": "shoemaker"
+     },
+     {
+      "ur": "جوتے",
+      "sym": "shoes"
+     },
+     {
+      "ur": "ٹھیک کرتا ہے۔",
+      "sym": "to repair"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "cobbler",
+      "sym": "shoemaker"
+     },
+     {
+      "en": "mends",
+      "sym": "to repair"
+     },
+     {
+      "en": "shoes.",
+      "sym": "shoes"
+     }
+    ]
+   },
+   {
+    "en": "These people work in cities and villages.",
+    "words": [
+     {
+      "ur": "یہ لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "شہر",
+      "sym": "city"
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "دیہات",
+      "sym": "village"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "کام کرتے ہیں۔",
+      "sym": "to work"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "These people",
+      "sym": "people"
+     },
+     {
+      "en": "work",
+      "sym": "to work"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "cities",
+      "sym": "city"
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "villages.",
+      "sym": "village"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "تصویر کو اس کے کام سے ملائیں۔",
+    "en": "Match the picture with the work."
+   },
+   "task": {
+    "kind": "match",
+    "pairs": [
+     {
+      "a": {
+       "ur": "ڈاکٹر",
+       "en": "Doctor",
+       "img": [
+        0.521,
+        0.165,
+        0.851,
+        0.355
+       ]
+      },
+      "b": {
+       "ur": "علاج",
+       "en": "Treatment",
+       "sym": "medicine"
+      }
+     },
+     {
+      "a": {
+       "ur": "درزی",
+       "en": "Tailor",
+       "img": [
+        0.173,
+        0.165,
+        0.503,
+        0.355
+       ]
+      },
+      "b": {
+       "ur": "کپڑے",
+       "en": "Clothes",
+       "sym": "clothes"
+      }
+     },
+     {
+      "a": {
+       "ur": "موچی",
+       "en": "Cobbler",
+       "img": [
+        0.173,
+        0.65,
+        0.503,
+        0.842
+       ]
+      },
+      "b": {
+       "ur": "جوتے",
+       "en": "Shoes",
+       "sym": "shoes"
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

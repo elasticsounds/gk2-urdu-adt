@@ -1,0 +1,123 @@
+{
+  "n": 26,
+  "printed": "22",
+  "chapter": 4,
+  "kind": "content",
+  "title": {"ur": "عید الفطر", "en": "Eid-ul-Fitr"},
+  "blocks": [
+    {"t": "h", "ur": "عید الفطر", "en": "Eid-ul-Fitr"},
+    {"t": "p", "ur": "مسلمان عید الفطر رمضان المبارک کے روزے مکمل ہونے کے بعد یکم شوّال کو مناتے ہیں۔ اس دن مسلمان عید کی نماز پڑھنے کے بعد اپنے رشتہ داروں اور دوستوں کو مل کر عید کی مبارک باد دیتے ہیں۔ اُن کے گھر جاتے ہیں اور بچوں کو عیدی دیتے ہیں۔", "en": "Muslims celebrate Eid-ul-Fitr on the 1st of Shawwal, after the fasts of the holy month of Ramadan are complete. On this day, after offering the Eid prayer, Muslims meet their relatives and friends and wish them a happy Eid. They visit their homes and give Eidi to the children."},
+    {"t": "p", "ur": "غریب مسلمانوں کو اس خوشی میں شریک کرنے کے لیے نماز عید سے پہلے صدقۂ فطر (فِطرانہ) دیا جاتا ہے۔", "en": "So that poor Muslims can share in this happiness, Sadaqat-ul-Fitr (Fitrana) is given before the Eid prayer."},
+    {"t": "img", "crop": [0.16, 0.305, 0.855, 0.672],
+     "alt": {"ur": "چاند رات کا رنگ برنگی جھنڈیوں سے سجا بازار: دو لڑکے ہاتھ ملا کر عید مبارک کہہ رہے ہیں، ایک آدمی بانہیں پھیلا کر مہمان کا استقبال کر رہا ہے اور تین لڑکیاں نئے کپڑوں میں کھڑی ہیں۔ آسمان پر نیا چاند ہے۔", "en": "On the night before Eid, in a bazaar decorated with colourful bunting, two boys shake hands and say Eid Mubarak, a man opens his arms to welcome a guest, three girls stand in new clothes, and the new moon is in the sky."}},
+    {
+      "t": "activity",
+      "id": "p026-a1",
+      "label": {"ur": "ذرا سوچیے!", "en": "Think about it!"},
+      "orig": {"ur": "عید الفطر والے دن آپ کیا کھانا پسند کرتے ہیں؟", "en": "What do you like to eat on the day of Eid-ul-Fitr?"},
+      "prompt": {"ur": "سوچیں اور بتائیں: عید الفطر (یا اپنے تہوار) کے دن آپ کو کون سی چیز کھانا سب سے زیادہ پسند ہے؟", "en": "Think and tell us: what do you like to eat most on Eid-ul-Fitr (or on your own festival)?"},
+      "task": {"kind": "open", "mode": "talk",
+        "steps": [
+          {"ur": "آنکھیں بند کر کے تہوار کا دن یاد کریں۔", "en": "Close your eyes and remember the festival day."},
+          {"ur": "اپنے پسندیدہ کھانے کا نام بتائیں، یا اس کی تصویر بنائیں۔", "en": "Say the name of your favourite food, or draw it."},
+          {"ur": "اپنے ساتھی سے پوچھیں کہ اسے کیا پسند ہے۔", "en": "Ask your partner what they like."}
+        ],
+        "model": {"ur": "مجھے عید الفطر کے دن سویّاں اور شیر خُرما کھانا پسند ہے۔", "en": "On Eid-ul-Fitr I like to eat sweet vermicelli and sheer khurma."}}
+    },
+    {
+      "t": "activity",
+      "id": "p026-a2",
+      "label": {"ur": "سرگرمی", "en": "Activity"},
+      "orig": {"ur": "اپنے دوستوں اور سکول کے سٹاف کے لیے عید کارڈ بنائیں۔", "en": "Make Eid cards for your friends and the school staff."},
+      "prompt": {"ur": "آئیے ایک خوب صورت عید کارڈ بنائیں اور کسی کو خوش کریں!", "en": "Let us make a beautiful Eid card and make someone happy!"},
+      "task": {"kind": "open", "mode": "draw",
+        "steps": [
+          {"ur": "ایک کاغذ کو درمیان سے موڑ کر کارڈ بنائیں۔", "en": "Fold a sheet of paper in half to make a card."},
+          {"ur": "باہر چاند، ستارہ، پھول یا مسجد بنائیں اور رنگ بھریں۔", "en": "On the front, draw a moon, a star, a flower or a mosque and colour it in."},
+          {"ur": "اندر لکھیں: ”عید مبارک“ اور اپنا نام۔", "en": "Inside, write “Eid Mubarak” and your name."},
+          {"ur": "کارڈ اپنے دوست، استاد یا سکول کے کسی اور فرد کو دیں۔", "en": "Give the card to your friend, your teacher or someone else at school."}
+        ],
+        "checklist": [
+          {"ur": "میں نے کارڈ پر تصویر بنائی۔", "en": "I drew a picture on the card."},
+          {"ur": "میں نے ”عید مبارک“ لکھا (یا کسی سے لکھوایا)۔", "en": "I wrote “Eid Mubarak” (or asked someone to write it)."},
+          {"ur": "میں نے کارڈ کسی کو دیا۔", "en": "I gave the card to someone."}
+        ]}
+    },
+    {
+      "t": "activity",
+      "id": "p026-a3",
+      "label": {"ur": "آزمائیں", "en": "Try it"},
+      "orig": {"ur": "(اضافی مشق — یہ کتاب میں چھپی ہوئی نہیں ہے)", "en": "(Extra practice — not printed in the book)"},
+      "prompt": {"ur": "عید الفطر کیسے منائی جاتی ہے؟ دیکھیں آپ کو کتنا یاد ہے۔", "en": "How is Eid-ul-Fitr celebrated? See how much you remember."},
+      "levels": {
+        "easy": {"kind": "mcq", "questions": [
+          {"q": {"ur": "عید کے دن بچوں کو کیا ملتا ہے؟", "en": "What do children get on Eid day?"},
+           "options": [{"ur": "عیدی", "en": "Eidi", "sym": "money"}, {"ur": "ہوم ورک", "en": "Homework", "sym": "homework"}],
+           "answer": 0,
+           "fb": {"ur": "عید کے دن بڑے بچوں کو عیدی دیتے ہیں۔", "en": "On Eid day, grown-ups give Eidi to children."}},
+          {"q": {"ur": "عید کے دن مسلمان صبح کیا پڑھتے ہیں؟", "en": "What do Muslims do on Eid morning?"},
+           "options": [{"ur": "اخبار", "en": "Read a newspaper", "sym": "newspaper"}, {"ur": "عید کی نماز", "en": "Offer the Eid prayer", "sym": "to pray"}],
+           "answer": 1,
+           "fb": {"ur": "مسلمان عید کی نماز پڑھتے ہیں، پھر سب کو عید مبارک کہتے ہیں۔", "en": "Muslims offer the Eid prayer, and then say Eid Mubarak to everyone."}}
+        ]},
+        "moderate": {"kind": "order", "items": [
+          {"ur": "رمضان المبارک کے روزے مکمل ہوتے ہیں۔", "en": "The fasts of Ramadan are completed."},
+          {"ur": "نماز عید سے پہلے فطرانہ دیا جاتا ہے۔", "en": "Fitrana is given before the Eid prayer."},
+          {"ur": "مسلمان عید کی نماز پڑھتے ہیں۔", "en": "Muslims offer the Eid prayer."},
+          {"ur": "رشتہ داروں اور دوستوں کو عید کی مبارک باد دیتے ہیں اور بچوں کو عیدی دیتے ہیں۔", "en": "They wish their relatives and friends a happy Eid and give Eidi to children."}
+        ]},
+        "hard": {"kind": "mcq", "questions": [
+          {"q": {"ur": "عید الفطر کس تاریخ کو منائی جاتی ہے؟", "en": "On which date is Eid-ul-Fitr celebrated?"},
+           "options": [{"ur": "10 ذوالحجہ", "en": "10th of Zil-Hajj"}, {"ur": "12 ربیع الاوّل", "en": "12th of Rabi-ul-Awwal"}, {"ur": "یکم شوّال", "en": "1st of Shawwal"}],
+           "answer": 2,
+           "fb": {"ur": "عید الفطر رمضان کے روزے مکمل ہونے کے بعد یکم شوّال کو منائی جاتی ہے۔", "en": "Eid-ul-Fitr is celebrated on the 1st of Shawwal, after the fasts of Ramadan are complete."}},
+          {"q": {"ur": "فطرانہ کیوں دیا جاتا ہے؟", "en": "Why is Fitrana given?"},
+           "options": [{"ur": "تاکہ غریب مسلمان بھی عید کی خوشی میں شریک ہو سکیں", "en": "So that poor Muslims can also share in the joy of Eid"}, {"ur": "تاکہ بازار سج جائیں", "en": "So that the bazaars are decorated"}, {"ur": "تاکہ سکول کھل جائیں", "en": "So that schools open"}],
+           "answer": 0,
+           "fb": {"ur": "فطرانہ غریب مسلمانوں کو عید کی خوشی میں شریک کرنے کے لیے دیا جاتا ہے۔", "en": "Fitrana is given so that poor Muslims can share in the joy of Eid."}},
+          {"q": {"ur": "فطرانہ کب دیا جاتا ہے؟", "en": "When is Fitrana given?"},
+           "options": [{"ur": "عید کے ایک ہفتے بعد", "en": "A week after Eid"}, {"ur": "نماز عید سے پہلے", "en": "Before the Eid prayer"}, {"ur": "رمضان سے پہلے", "en": "Before Ramadan"}],
+           "answer": 1,
+           "fb": {"ur": "فطرانہ نماز عید سے پہلے دیا جاتا ہے۔", "en": "Fitrana is given before the Eid prayer."}}
+        ]}
+      }
+    }
+  ],
+  "hint": [
+    {"for": "all", "ur": "تصویر میں دیکھیں: لوگ ہاتھ ملا رہے ہیں اور مسکرا رہے ہیں۔ عید کا مطلب ہے مل کر خوش ہونا۔ ترتیب یاد رکھیں: روزے ← فطرانہ ← نماز ← مبارک باد اور عیدی۔", "en": "Look at the picture: people are shaking hands and smiling. Eid means being happy together. Remember the order: first the fasts, then Fitrana, then the prayer, then greetings and Eidi."},
+    {"for": "vision", "ur": "عید کارڈ پر گوند سے چاند ستارہ بنا کر اس پر دال، ریت یا اون چپکائیں تاکہ اسے چھو کر محسوس کیا جا سکے۔", "en": "On the Eid card, draw the moon and star with glue and stick lentils, sand or wool on them, so that they can be felt by touch."},
+    {"for": "motor", "ur": "اگر کاٹنا یا لکھنا مشکل ہو تو موٹے کریون، انگلیوں کے رنگ یا اسٹیکر استعمال کریں؛ ساتھی کاغذ موڑنے اور ”عید مبارک“ لکھنے میں مدد کر سکتا ہے۔", "en": "If cutting or writing is hard, use thick crayons, finger paints or stickers. A partner can help to fold the paper and write “Eid Mubarak”."},
+    {"for": "teacher", "ur": "”ذرا سوچیے“ میں جو بچے عید نہیں مناتے انھیں اپنے تہوار کے کھانے کے بارے میں بتانے دیں۔ کارڈ ”عید مبارک“ کے علاوہ کسی بھی تہوار کی مبارک باد کا ہو سکتا ہے۔ جواب بول کر، اشارے سے یا تصویر سے قبول کریں۔", "en": "In “Think about it!”, let children who do not celebrate Eid talk about the food of their own festival. The card can carry greetings for any festival, not only “Eid Mubarak”. Accept answers that are spoken, signed or drawn."}
+  ],
+  "easy": {
+    "title": {"ur": "عید الفطر", "en": "Eid-ul-Fitr"},
+    "image": {"crop": [0.16, 0.305, 0.855, 0.672], "alt": {"ur": "سجے ہوئے بازار میں لوگ ایک دوسرے کو عید مبارک کہہ رہے ہیں۔", "en": "People are saying Eid Mubarak to each other in a decorated bazaar."}},
+    "sentences": [
+      {"en": "Eid comes after Ramadan.",
+       "words": [{"ur": "رمضان", "sym": "Ramadan"}, {"ur": "کے بعد", "sym": "after"}, {"ur": "عید", "sym": "celebration"}, {"ur": "آتی ہے۔", "sym": "to come"}],
+       "words_en": [{"en": "Eid", "sym": "celebration"}, {"en": "comes", "sym": "to come"}, {"en": "after", "sym": "after"}, {"en": "Ramadan.", "sym": "Ramadan"}]},
+      {"en": "Muslims offer the Eid prayer.",
+       "words": [{"ur": "مسلمان", "sym": "Muslim"}, {"ur": "عید", "sym": "celebration"}, {"ur": "کی", "sym": null}, {"ur": "نماز", "sym": "to pray"}, {"ur": "پڑھتے ہیں۔", "sym": null}],
+       "words_en": [{"en": "Muslims", "sym": "Muslim"}, {"en": "offer", "sym": null}, {"en": "the", "sym": null}, {"en": "Eid", "sym": "celebration"}, {"en": "prayer.", "sym": "to pray"}]},
+      {"en": "Everyone hugs each other.",
+       "words": [{"ur": "سب", "sym": "everybody"}, {"ur": "گلے ملتے ہیں۔", "sym": "to hug"}],
+       "words_en": [{"en": "Everyone", "sym": "everybody"}, {"en": "hugs each other.", "sym": "to hug"}]},
+      {"en": "Children get Eidi.",
+       "words": [{"ur": "بچوں", "sym": "children"}, {"ur": "کو", "sym": null}, {"ur": "عیدی", "sym": "money"}, {"ur": "ملتی ہے۔", "sym": "to receive"}],
+       "words_en": [{"en": "Children", "sym": "children"}, {"en": "get", "sym": "to receive"}, {"en": "Eidi.", "sym": "money"}]},
+      {"en": "We give Fitrana to the poor.",
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "غریبوں", "sym": "poor"}, {"ur": "کو", "sym": null}, {"ur": "فطرانہ", "sym": "donation"}, {"ur": "دیتے ہیں۔", "sym": "to give"}],
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "give", "sym": "to give"}, {"en": "Fitrana", "sym": "donation"}, {"en": "to", "sym": null}, {"en": "the poor.", "sym": "poor"}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "صحیح تصویر چنیں۔", "en": "Choose the right picture."},
+      "task": {"kind": "mcq", "questions": [
+        {"q": {"ur": "عید کے دن ہم دوستوں سے کیسے ملتے ہیں؟", "en": "How do we greet our friends on Eid day?"},
+         "options": [{"ur": "لڑ کر", "en": "By fighting", "sym": "to fight"}, {"ur": "گلے مل کر", "en": "With a hug", "sym": "to hug"}],
+         "answer": 1,
+         "fb": {"ur": "عید کے دن ہم گلے مل کر ”عید مبارک“ کہتے ہیں۔", "en": "On Eid day we hug and say “Eid Mubarak”."}}
+      ]}
+    }
+  },
+  "print": true
+}

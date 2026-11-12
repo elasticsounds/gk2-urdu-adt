@@ -1,0 +1,98 @@
+{
+  "n": 41,
+  "printed": "37",
+  "chapter": 6,
+  "kind": "content",
+  "title": {"ur": "زیرِ زمین پانی: کنواں، نلکا اور ٹیوب ویل", "en": "Underground water: well, hand pump and tube well"},
+  "blocks": [
+    {"t": "p", "ur": "ہم کنوؤں، نلکا (ہینڈ پمپ) اور ٹیوب ویل کے ذریعے زیرِ زمین پانی حاصل کرتے ہیں۔", "en": "We get underground water from wells, hand pumps and tube wells."},
+    {"t": "gallery", "items": [
+      {"crop": [0.493, 0.193, 0.852, 0.398],
+       "alt": {"ur": "پتھروں سے بنا گول کنواں؛ اس کے اوپر لکڑی کے ڈنڈے سے رسّی کے ساتھ لکڑی کی بالٹی لٹک رہی ہے۔", "en": "A round well is built of stones, and a wooden bucket hangs on a rope from a wooden beam above it."},
+       "cap": {"ur": "کنواں", "en": "Well"}},
+      {"crop": [0.122, 0.193, 0.482, 0.398],
+       "alt": {"ur": "ٹیوب ویل کے موٹے پائپ سے پانی تیزی سے ایک حوض میں گر رہا ہے۔", "en": "Water is gushing from the thick pipe of a tube well into a tank."},
+       "cap": {"ur": "ٹیوب ویل", "en": "Tube well"}},
+      {"crop": [0.127, 0.452, 0.858, 0.764],
+       "alt": {"ur": "گھاس کے میدان میں سبز رنگ کا لوہے کا نلکا (ہینڈ پمپ) جس کا لمبا ہینڈل ہے؛ اس کے سامنے لکڑی کی بالٹی رکھی ہے۔", "en": "A green iron hand pump with a long handle stands in a grassy field, and a wooden bucket sits in front of it."},
+       "cap": {"ur": "نلکا / ہینڈ پمپ", "en": "Hand pump"}}
+    ]},
+    {"t": "activity",
+     "id": "p041-a1",
+     "label": {"ur": "سرگرمی", "en": "Activity"},
+     "orig": {"ur": "اپنے ٹیچر کی مدد سے گروپ میں پوسٹر بنائیں جس سے پانی احتیاط سے استعمال کرنے کی اہمیت واضح ہو۔", "en": "With your teacher's help, make a poster in a group that shows the importance of using water carefully."},
+     "prompt": {"ur": "آئیں، پانی بچانے کا پوسٹر بنائیں!", "en": "Come on, let's make a poster about saving water!"},
+     "levels": {
+       "easy": {"kind": "sort",
+         "groups": [{"ur": "پانی بچانا", "en": "Saving water", "sym": "good"}, {"ur": "پانی ضائع کرنا", "en": "Wasting water", "sym": "bad"}],
+         "items": [
+           {"ur": "نلکا بند کرنا", "en": "Turning the tap off", "sym": "turn off tap", "group": 0},
+           {"ur": "نلکا کھلا چھوڑنا", "en": "Leaving the tap running", "sym": "tap", "group": 1},
+           {"ur": "بالٹی سے نہانا", "en": "Having a bath with a bucket", "sym": "bucket", "group": 0},
+           {"ur": "پانی سے کھیلنا اور گرانا", "en": "Playing with water and spilling it", "sym": "to spill", "group": 1}
+         ]},
+       "moderate": {"kind": "open", "mode": "do",
+         "steps": [
+           {"ur": "اپنے گروپ کے ساتھ بیٹھیں اور سوچیں: ہم پانی کیسے بچا سکتے ہیں؟", "en": "Sit with your group and think: how can we save water?"},
+           {"ur": "چارٹ کے اوپر بڑا سا لکھیں: ”پانی احتیاط سے استعمال کریں“۔", "en": "At the top of the chart write in big letters: \"Use water carefully\"."},
+           {"ur": "دو یا تین تصویریں بنائیں یا چپکائیں، جیسے بند نلکا، بالٹی، پودے کو پانی۔", "en": "Draw or stick on two or three pictures, such as a tap turned off, a bucket, or a plant being watered."},
+           {"ur": "رنگ بھریں اور پوسٹر کلاس میں لگائیں۔", "en": "Colour it in and put the poster up in class."},
+           {"ur": "کلاس کو بتائیں کہ آپ کا پوسٹر کیا کہتا ہے۔", "en": "Tell the class what your poster says."}
+         ],
+         "model": {"ur": "پوسٹر کا پیغام: ”پانی زندگی ہے۔ نلکا بند رکھیں۔ پانی ضائع نہ کریں۔“ ساتھ بند نلکے اور پانی کے قطرے کی تصویر۔", "en": "Poster message: \"Water is life. Keep the tap turned off. Do not waste water.\" Beside it is a picture of a tap turned off and a drop of water."},
+         "checklist": [
+           {"ur": "ہمارے پوسٹر پر پانی بچانے کا پیغام ہے۔", "en": "Our poster has a message about saving water."},
+           {"ur": "ہمارے پوسٹر پر تصویریں ہیں۔", "en": "Our poster has pictures."},
+           {"ur": "گروپ کے ہر بچے نے کوئی نہ کوئی کام کیا۔", "en": "Every child in the group did some part of the work."}
+         ]},
+       "hard": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "اپنے پوسٹر کے لیے ایک چھوٹا سا نعرہ خود بنائیں۔", "en": "Make up a short slogan of your own for your poster."},
+           {"ur": "پانی احتیاط سے استعمال کرنے کے تین طریقے لکھیں۔", "en": "Write three ways of using water carefully."},
+           {"ur": "لکھیں: ہمیں پانی کیوں بچانا چاہیے؟", "en": "Write: why should we save water?"}
+         ],
+         "model": {"ur": "نعرہ: ”قطرہ قطرہ بچائیں، زندگی بچائیں۔“ طریقے: 1۔ دانت صاف کرتے وقت نلکا بند رکھیں۔ 2۔ بالٹی اور مگ سے نہائیں۔ 3۔ ٹپکتا نلکا ٹھیک کروائیں۔ پانی اس لیے بچانا چاہیے کہ جان دار پانی کے بغیر زندہ نہیں رہ سکتے اور کچھ علاقوں میں پانی کی کمی ہے۔", "en": "Slogan: \"Save every drop, save life.\" Ways: 1. Keep the tap turned off while brushing your teeth. 2. Have a bath with a bucket and mug. 3. Get a dripping tap repaired. We should save water because living things cannot live without water and some areas are short of water."},
+         "checklist": [
+           {"ur": "میں نے اپنا نعرہ لکھا۔", "en": "I wrote my own slogan."},
+           {"ur": "میں نے تین طریقے لکھے۔", "en": "I wrote three ways."},
+           {"ur": "میں نے وجہ بتائی۔", "en": "I gave a reason."}
+         ]}
+     }}
+  ],
+  "hint": [
+    {"for": "all", "ur": "تینوں تصویروں میں ایک بات ایک جیسی ہے: پانی زمین کے نیچے سے اوپر آ رہا ہے۔ کنویں سے بالٹی کھینچ کر، نلکے سے ہینڈل چلا کر، اور ٹیوب ویل سے موٹر چلا کر۔", "en": "One thing is the same in all three pictures: water is coming up from under the ground. From a well by pulling up a bucket, from a hand pump by working the handle, and from a tube well by running a motor."},
+    {"for": "vision", "ur": "اگر قریب کوئی نلکا (ہینڈ پمپ) ہو تو اس کا ہینڈل پکڑ کر اوپر نیچے کریں اور پانی کے آنے کی آواز سنیں۔ پوسٹر پر اُبھری ہوئی چیزیں چپکائیں (روئی کے قطرے، دھاگے کا نلکا)۔", "en": "If there is a hand pump nearby, hold its handle, move it up and down and listen for the water coming. Stick raised things onto the poster, such as cotton-wool drops and a tap made of string."},
+    {"for": "motor", "ur": "پوسٹر میں ہر بچے کا کام الگ ہو سکتا ہے: کوئی خیال بتائے، کوئی تصویر چنے، کوئی رنگ کا انتخاب کرے، کوئی چپکائے۔ موٹے مارکر اور بڑی تصویریں استعمال کریں۔", "en": "Each child can have a different job on the poster: one gives ideas, one chooses pictures, one picks the colours, and one sticks things on. Use thick markers and large pictures."},
+    {"for": "teacher", "ur": "گروپ ملے جلے بنائیں اور ہر بچے کو واضح کردار دیں تاکہ معذور بچے صرف دیکھنے والے نہ رہیں۔ پوسٹر پر الفاظ کے ساتھ تصویریں یا علامتیں بھی ہوں تاکہ جو بچے پڑھ نہیں سکتے وہ بھی پیغام سمجھیں۔", "en": "Make mixed groups and give each child a clear role so that children with disabilities are not just onlookers. Put pictures or symbols beside the words on the poster so that children who cannot read also understand the message."}
+  ],
+  "easy": {
+    "title": {"ur": "زمین کے نیچے کا پانی", "en": "Water under the ground"},
+    "image": {"crop": [0.127, 0.452, 0.858, 0.764], "alt": {"ur": "گھاس کے میدان میں سبز رنگ کا نلکا اور اس کے سامنے بالٹی۔", "en": "A green hand pump stands in a grassy field with a bucket in front of it."}},
+    "sentences": [
+      {"en": "There is water under the ground.",
+       "words_en": [{"en": "There is", "sym": null}, {"en": "water", "sym": "water"}, {"en": "under", "sym": "under"}, {"en": "the ground.", "sym": "ground"}],
+       "words": [{"ur": "زمین", "sym": "ground"}, {"ur": "کے نیچے", "sym": "under"}, {"ur": "پانی", "sym": "water"}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "This is a hand pump.",
+       "words_en": [{"en": "This", "sym": "this"}, {"en": "is", "sym": null}, {"en": "a hand pump.", "img": [0.48, 0.452, 0.858, 0.764]}],
+       "words": [{"ur": "یہ", "sym": "this"}, {"ur": "نلکا", "img": [0.48, 0.452, 0.858, 0.764]}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "Water comes from the hand pump.",
+       "words_en": [{"en": "Water", "sym": "water"}, {"en": "comes", "sym": "to come"}, {"en": "from", "sym": null}, {"en": "the hand pump.", "sym": "water pump"}],
+       "words": [{"ur": "نلکے", "sym": "water pump"}, {"ur": "سے", "sym": null}, {"ur": "پانی", "sym": "water"}, {"ur": "آتا ہے۔", "sym": "to come"}]},
+      {"en": "Water comes from the well too.",
+       "words_en": [{"en": "Water", "sym": "water"}, {"en": "comes", "sym": "to come"}, {"en": "from", "sym": null}, {"en": "the well", "img": [0.493, 0.193, 0.852, 0.398]}, {"en": "too.", "sym": null}],
+       "words": [{"ur": "کنویں", "img": [0.493, 0.193, 0.852, 0.398]}, {"ur": "سے", "sym": null}, {"ur": "بھی", "sym": null}, {"ur": "پانی", "sym": "water"}, {"ur": "آتا ہے۔", "sym": "to come"}]},
+      {"en": "We save water.",
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "save", "sym": "to save"}, {"en": "water.", "sym": "water"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "پانی", "sym": "water"}, {"ur": "بچاتے ہیں۔", "sym": "to save"}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "تصویر کو اس کے نام سے ملائیں۔", "en": "Match the picture to its name."},
+      "task": {"kind": "match", "pairs": [
+        {"a": {"ur": "تصویر 1", "en": "Picture 1", "img": [0.493, 0.193, 0.852, 0.398]}, "b": {"ur": "کنواں", "en": "Well"}},
+        {"a": {"ur": "تصویر 2", "en": "Picture 2", "img": [0.48, 0.452, 0.858, 0.764]}, "b": {"ur": "نلکا", "en": "Hand pump"}},
+        {"a": {"ur": "تصویر 3", "en": "Picture 3", "img": [0.122, 0.193, 0.482, 0.398]}, "b": {"ur": "ٹیوب ویل", "en": "Tube well"}}
+      ]}
+    }
+  },
+  "print": true
+}

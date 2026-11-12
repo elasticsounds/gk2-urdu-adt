@@ -1,0 +1,574 @@
+{
+ "n": 15,
+ "printed": "11",
+ "chapter": 2,
+ "kind": "opener",
+ "title": {
+  "ur": "دیہات اور شہر",
+  "en": "Villages and cities"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "باب 02: دیہات اور شہر",
+   "en": "Chapter 2: Villages and cities"
+  },
+  {
+   "t": "h",
+   "ur": "حاصلاتِ تعلّم",
+   "en": "Learning outcomes"
+  },
+  {
+   "t": "p",
+   "ur": "اس باب کے اختتام پر آپ اس قابل ہو جائیں گے کہ:",
+   "en": "By the end of this chapter you will be able to:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "پہچان سکیں کہ پاکستان کے لوگ دیہات اور شہروں میں رہتے ہیں۔",
+     "en": "Recognise that the people of Pakistan live in villages and cities."
+    },
+    {
+     "ur": "دیہات کی اہم خصوصیات (عمارتیں، سہولیات، ماحول اور پیشے) کی شناخت کر سکیں۔",
+     "en": "Identify the main features of villages (buildings, facilities, environment and occupations)."
+    },
+    {
+     "ur": "شہر کی نمایاں خصوصیات کی نشان دہی کریں۔",
+     "en": "Point out the main features of a city."
+    },
+    {
+     "ur": "دیہاتی اور شہری زندگی کا موازنہ کر سکیں۔",
+     "en": "Compare village life and city life."
+    },
+    {
+     "ur": "شہر اور دیہات کے لوگوں کے مشترکہ پیشوں کے بارے میں جان سکیں۔",
+     "en": "Learn about the occupations that people in cities and villages have in common."
+    }
+   ]
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.102,
+      0.4,
+      0.452,
+      0.535
+     ],
+     "alt": {
+      "ur": "ایک گاؤں: مٹی کے کچّے گھر، درخت اور کھلے صحن میں بندھی ہوئی گائیں بھینسیں۔",
+      "en": "A village: mud houses, trees, and cows and buffaloes tied in an open yard."
+     }
+    },
+    {
+     "crop": [
+      0.102,
+      0.54,
+      0.452,
+      0.735
+     ],
+     "alt": {
+      "ur": "ایک شہر: اوپر نیچے گھومتی ہوئی چوڑی سڑکیں اور پُل، جن پر بہت سی گاڑیاں چل رہی ہیں، اور آس پاس بہت سی عمارتیں۔",
+      "en": "A city: wide roads and bridges curving over and under each other, with many vehicles on them and many buildings all around."
+     }
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "ur": "پاکستان کی زیادہ تر آبادی دیہات پر مشتمل ہے۔ دیہات میں گھر عام طور پر کھلے اور کچّے ہوتے ہیں اور یہاں کا ماحول صاف سُتھرا ہوتا ہے۔ صحت اور تعلیم کی سہولیات کم ہوتی ہیں۔",
+   "en": "Most of Pakistan's people live in villages. In villages, houses are usually open and made of mud, and the environment is clean. There are few health and education facilities."
+  },
+  {
+   "t": "p",
+   "ur": "شہر میں عمارتیں اونچی اور پکّی ہوتی ہیں اور یہاں کا ماحول کارخانوں اور ٹریفک کے شور و غل کی وجہ سے صاف نہیں ہوتا۔ شہروں میں صحت اور تعلیم کی بہترین سہولیات موجود ہوتی ہیں۔",
+   "en": "In a city, buildings are tall and solid, and the environment is not clean because of the factories and the noise of traffic. Cities have the best health and education facilities."
+  },
+  {
+   "t": "activity",
+   "id": "p015-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "(یہ مشق کتاب میں نہیں ہے۔ یہ اس صفحے کے سبق کو دہرانے کے لیے بنائی گئی ہے۔)",
+    "en": "This practice is not in the book. It has been added to revise the lesson on this page."
+   },
+   "prompt": {
+    "ur": "اوپر کا پیراگراف پڑھیں یا سنیں۔ پھر بتائیں: یہ بات دیہات کی ہے یا شہر کی؟",
+    "en": "Read or listen to the paragraphs above. Then say: is this about the village or the city?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "دیہات",
+       "en": "Village"
+      },
+      {
+       "ur": "شہر",
+       "en": "City"
+      }
+     ],
+     "items": [
+      {
+       "ur": "کچّے گھر",
+       "en": "Mud houses",
+       "group": 0,
+       "img": [
+        0.102,
+        0.4,
+        0.452,
+        0.535
+       ]
+      },
+      {
+       "ur": "اونچی عمارتیں",
+       "en": "Tall buildings",
+       "group": 1,
+       "sym": "skyscraper"
+      },
+      {
+       "ur": "صاف سُتھرا ماحول",
+       "en": "Clean environment",
+       "group": 0,
+       "sym": "clean"
+      },
+      {
+       "ur": "ٹریفک کا شور",
+       "en": "Traffic noise",
+       "group": 1,
+       "img": [
+        0.102,
+        0.54,
+        0.452,
+        0.735
+       ]
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "دیہات",
+       "en": "Village"
+      },
+      {
+       "ur": "شہر",
+       "en": "City"
+      }
+     ],
+     "items": [
+      {
+       "ur": "گھر کھلے اور کچّے ہوتے ہیں",
+       "en": "Houses are open and made of mud",
+       "group": 0
+      },
+      {
+       "ur": "عمارتیں اونچی اور پکّی ہوتی ہیں",
+       "en": "Buildings are tall and solid",
+       "group": 1
+      },
+      {
+       "ur": "ماحول صاف سُتھرا ہوتا ہے",
+       "en": "The environment is clean",
+       "group": 0
+      },
+      {
+       "ur": "کارخانوں اور ٹریفک کا شور و غل ہوتا ہے",
+       "en": "There is noise from factories and traffic",
+       "group": 1
+      },
+      {
+       "ur": "صحت اور تعلیم کی سہولیات کم ہوتی ہیں",
+       "en": "Health and education facilities are few",
+       "group": 0
+      },
+      {
+       "ur": "صحت اور تعلیم کی بہترین سہولیات ہوتی ہیں",
+       "en": "Health and education facilities are the best",
+       "group": 1
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "پاکستان کی زیادہ تر آبادی کہاں رہتی ہے؟",
+        "en": "Where do most of Pakistan's people live?"
+       },
+       "options": [
+        {
+         "ur": "شہروں میں",
+         "en": "In cities"
+        },
+        {
+         "ur": "دیہات میں",
+         "en": "In villages"
+        },
+        {
+         "ur": "پہاڑوں پر",
+         "en": "On mountains"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "کتاب بتاتی ہے کہ پاکستان کی زیادہ تر آبادی دیہات پر مشتمل ہے۔",
+        "en": "The book says that most of Pakistan's people live in villages."
+       }
+      },
+      {
+       "q": {
+        "ur": "شہر کا ماحول صاف کیوں نہیں ہوتا؟",
+        "en": "Why is the environment in a city not clean?"
+       },
+       "options": [
+        {
+         "ur": "کارخانوں اور ٹریفک کی وجہ سے",
+         "en": "Because of factories and traffic"
+        },
+        {
+         "ur": "کھیتوں کی وجہ سے",
+         "en": "Because of fields"
+        },
+        {
+         "ur": "کچّے گھروں کی وجہ سے",
+         "en": "Because of mud houses"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "شہر میں کارخانے اور بہت سی گاڑیاں ہوتی ہیں، اس لیے ماحول صاف نہیں رہتا۔",
+        "en": "A city has factories and many vehicles, so the environment does not stay clean."
+       }
+      },
+      {
+       "q": {
+        "ur": "ایک بیمار بچے کو بہترین ہسپتال کہاں آسانی سے ملے گا؟",
+        "en": "Where will a sick child find the best hospital more easily?"
+       },
+       "options": [
+        {
+         "ur": "دیہات میں",
+         "en": "In a village"
+        },
+        {
+         "ur": "جنگل میں",
+         "en": "In a forest"
+        },
+        {
+         "ur": "شہر میں",
+         "en": "In a city"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "شہروں میں صحت اور تعلیم کی بہترین سہولیات موجود ہوتی ہیں۔",
+        "en": "Cities have the best health and education facilities."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "پہلے دونوں تصویریں دیکھیں: اوپر گاؤں ہے، نیچے شہر ہے۔ سوچیں، آپ کا اپنا گھر ان میں سے کس جیسی جگہ پر ہے؟",
+   "en": "Look at the two pictures first: the village is on top, the city below. Think: which of these places is your own home like?"
+  },
+  {
+   "for": "vision",
+   "ur": "یاد رکھنے کا طریقہ: دیہات = کچّے گھر، کھلی جگہ، خاموشی۔ شہر = اونچی پکّی عمارتیں، گاڑیوں کا شور۔ مٹی اور اینٹ کو ہاتھ سے چھو کر \"کچّا\" اور \"پکّا\" کا فرق محسوس کریں۔",
+   "en": "A way to remember: a village has mud houses, open space and quiet. A city has tall, solid buildings and the noise of vehicles. Touch some clay and a brick to feel the difference between a mud house and a solid house."
+  },
+  {
+   "for": "teacher",
+   "ur": "حاصلاتِ تعلّم ایک ایک کر کے آسان لفظوں میں سنائیں۔ بچوں سے پوچھیں کہ کون گاؤں میں رہتا ہے اور کون شہر میں؛ جو بچے بول نہ سکیں وہ تصویر کی طرف اشارہ کر کے جواب دیں۔",
+   "en": "Read the learning outcomes one at a time in simple words. Ask the children who lives in a village and who lives in a city; children who cannot speak can answer by pointing to a picture."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "دیہات اور شہر",
+   "en": "Village and city"
+  },
+  "image": {
+   "crop": [
+    0.102,
+    0.4,
+    0.452,
+    0.535
+   ],
+   "alt": {
+    "ur": "ایک گاؤں جس میں کچّے گھر اور گائیں ہیں۔",
+    "en": "A village with mud houses and cows."
+   }
+  },
+  "sentences": [
+   {
+    "en": "People live in villages.",
+    "words": [
+     {
+      "ur": "لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "دیہات",
+      "sym": "village"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "رہتے ہیں۔",
+      "sym": "to live"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "People",
+      "sym": "people"
+     },
+     {
+      "en": "live",
+      "sym": "to live"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "villages.",
+      "sym": "village"
+     }
+    ]
+   },
+   {
+    "en": "People also live in cities.",
+    "words": [
+     {
+      "ur": "لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "شہر",
+      "sym": "city"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "بھی",
+      "sym": "also"
+     },
+     {
+      "ur": "رہتے ہیں۔",
+      "sym": "to live"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "People",
+      "sym": "people"
+     },
+     {
+      "en": "also",
+      "sym": "also"
+     },
+     {
+      "en": "live",
+      "sym": "to live"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "cities.",
+      "sym": "city"
+     }
+    ]
+   },
+   {
+    "en": "Village houses are made of mud.",
+    "words": [
+     {
+      "ur": "دیہات",
+      "sym": "village"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "گھر",
+      "sym": "house"
+     },
+     {
+      "ur": "کچّے",
+      "sym": "mud"
+     },
+     {
+      "ur": "ہوتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Village",
+      "sym": "village"
+     },
+     {
+      "en": "houses",
+      "sym": "house"
+     },
+     {
+      "en": "are",
+      "sym": null
+     },
+     {
+      "en": "made of",
+      "sym": null
+     },
+     {
+      "en": "mud.",
+      "sym": "mud"
+     }
+    ]
+   },
+   {
+    "en": "City buildings are tall.",
+    "words": [
+     {
+      "ur": "شہر",
+      "sym": "city"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "عمارتیں",
+      "sym": "building"
+     },
+     {
+      "ur": "اونچی",
+      "sym": "tall"
+     },
+     {
+      "ur": "ہوتی ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "City",
+      "sym": "city"
+     },
+     {
+      "en": "buildings",
+      "sym": "building"
+     },
+     {
+      "en": "are",
+      "sym": null
+     },
+     {
+      "en": "tall.",
+      "sym": "tall"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "تصویر دیکھ کر جواب چنیں۔",
+    "en": "Look at the pictures and choose the answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "اونچی عمارتیں کہاں ہوتی ہیں؟",
+       "en": "Where are there tall buildings?"
+      },
+      "options": [
+       {
+        "ur": "دیہات",
+        "en": "Village",
+        "img": [
+         0.102,
+         0.4,
+         0.452,
+         0.535
+        ]
+       },
+       {
+        "ur": "شہر",
+        "en": "City",
+        "img": [
+         0.102,
+         0.54,
+         0.452,
+         0.735
+        ]
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "اونچی عمارتیں شہر میں ہوتی ہیں۔",
+       "en": "Tall buildings are in the city."
+      }
+     },
+     {
+      "q": {
+       "ur": "کچّے گھر کہاں ہوتے ہیں؟",
+       "en": "Where are there mud houses?"
+      },
+      "options": [
+       {
+        "ur": "دیہات",
+        "en": "Village",
+        "img": [
+         0.102,
+         0.4,
+         0.452,
+         0.535
+        ]
+       },
+       {
+        "ur": "شہر",
+        "en": "City",
+        "img": [
+         0.102,
+         0.54,
+         0.452,
+         0.735
+        ]
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "کچّے گھر دیہات میں ہوتے ہیں۔",
+       "en": "Mud houses are in the village."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

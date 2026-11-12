@@ -1,0 +1,538 @@
+{
+ "n": 48,
+ "printed": "44",
+ "chapter": 7,
+ "kind": "content",
+ "title": {
+  "ur": "کھائی جانے والی جڑیں",
+  "en": "Roots that we eat"
+ },
+ "blocks": [
+  {
+   "t": "activity",
+   "id": "p048-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "طلبہ مختلف قسم کے پتّے جمع کر کے چارٹ پر رکھ کر ان کا خاکہ بنائیں اور اُس میں رنگ بھریں۔",
+    "en": "Students should collect different kinds of leaves, put them on chart paper, draw their outlines and colour them in."
+   },
+   "prompt": {
+    "ur": "الگ الگ شکل کے پتّے جمع کریں، چارٹ پر رکھ کر ان کا خاکہ بنائیں اور رنگ بھریں۔",
+    "en": "Collect leaves of different shapes, put them on chart paper, draw round them and colour them in."
+   },
+   "task": {
+    "kind": "open",
+    "mode": "draw",
+    "steps": [
+     {
+      "ur": "زمین پر گرے ہوئے 3 یا 4 الگ الگ شکل کے پتّے جمع کریں۔ پودے سے پتّے نہ توڑیں۔",
+      "en": "Collect 3 or 4 leaves of different shapes that have fallen on the ground. Do not pull leaves off a plant."
+     },
+     {
+      "ur": "ایک پتّا چارٹ پر رکھیں اور ایک ہاتھ سے دبا کر رکھیں۔",
+      "en": "Put one leaf on the chart and hold it down with one hand."
+     },
+     {
+      "ur": "پنسل کو پتّے کے کنارے کے ساتھ ساتھ گھمائیں۔ خاکہ بن گیا!",
+      "en": "Move the pencil all the way round the edge of the leaf. The outline is made!"
+     },
+     {
+      "ur": "خاکے میں رنگ بھریں اور نیچے شکل کا نام لکھیں: چوڑا، بیضوی، چھوٹا یا لمبوترا۔",
+      "en": "Colour in the outline and write the name of the shape below it: broad, oval, small, or long and narrow."
+     }
+    ],
+    "checklist": [
+     {
+      "ur": "میں نے الگ الگ شکل کے پتّے جمع کیے۔",
+      "en": "I collected leaves of different shapes."
+     },
+     {
+      "ur": "میں نے ہر پتّے کا خاکہ بنایا۔",
+      "en": "I drew the outline of each leaf."
+     },
+     {
+      "ur": "میں نے رنگ بھرا اور شکل کا نام بتایا۔",
+      "en": "I coloured it in and said the name of the shape."
+     }
+    ]
+   }
+  },
+  {
+   "t": "h",
+   "ur": "کھائی جانے والی جڑیں",
+   "en": "Roots that we eat"
+  },
+  {
+   "t": "p",
+   "ur": "کچھ پودوں کی جڑیں ہم کھاتے ہیں۔",
+   "en": "We eat the roots of some plants."
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.509,
+      0.345,
+      0.844,
+      0.495
+     ],
+     "alt": {
+      "ur": "بہت سی گلابی بھوری، لمبوتری شکر قندیوں کا ڈھیر۔",
+      "en": "This is a heap of many long, pinkish-brown sweet potatoes."
+     },
+     "cap": {
+      "ur": "شکر قندی",
+      "en": "Sweet potato"
+     }
+    },
+    {
+     "crop": [
+      0.165,
+      0.345,
+      0.5,
+      0.495
+     ],
+     "alt": {
+      "ur": "دو گول شلجم جو اوپر سے جامنی اور نیچے سے سفید ہیں؛ ان پر سبز ڈنڈیاں لگی ہیں۔",
+      "en": "These are two round turnips, purple on top and white below, with green stalks on them."
+     },
+     "cap": {
+      "ur": "شلجم",
+      "en": "Turnip"
+     }
+    },
+    {
+     "crop": [
+      0.512,
+      0.55,
+      0.841,
+      0.702
+     ],
+     "alt": {
+      "ur": "تین لمبی نارنجی گاجریں جن کے ساتھ سبز پتّے ہیں۔",
+      "en": "These are three long orange carrots with green leaves."
+     },
+     "cap": {
+      "ur": "گاجر",
+      "en": "Carrot"
+     }
+    },
+    {
+     "crop": [
+      0.17,
+      0.55,
+      0.5,
+      0.702
+     ],
+     "alt": {
+      "ur": "بہت سی لمبی سفید مُولیاں جن کے اوپر سبز پتّے لگے ہیں۔",
+      "en": "These are many long white radishes with green leaves on top."
+     },
+     "cap": {
+      "ur": "مُولی",
+      "en": "Radish"
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p048-a2",
+   "label": {
+    "ur": "سوچیں اور بتائیں",
+    "en": "Think and say"
+   },
+   "orig": {
+    "ur": "کیا آپ کچھ اور کھائی جانے والی جڑوں کے نام بتا سکتے ہیں؟",
+    "en": "Can you name some other roots that we eat?"
+   },
+   "prompt": {
+    "ur": "ہم کون کون سی جڑیں کھاتے ہیں؟ سوچیں اور بتائیں۔",
+    "en": "Which roots do we eat? Think and say."
+   },
+   "levels": {
+    "easy": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "تصویر 1",
+        "en": "Picture 1",
+        "img": [
+         0.512,
+         0.55,
+         0.841,
+         0.702
+        ]
+       },
+       "b": {
+        "ur": "گاجر",
+        "en": "Carrot"
+       }
+      },
+      {
+       "a": {
+        "ur": "تصویر 2",
+        "en": "Picture 2",
+        "img": [
+         0.17,
+         0.55,
+         0.5,
+         0.702
+        ]
+       },
+       "b": {
+        "ur": "مُولی",
+        "en": "Radish"
+       }
+      },
+      {
+       "a": {
+        "ur": "تصویر 3",
+        "en": "Picture 3",
+        "img": [
+         0.165,
+         0.345,
+         0.5,
+         0.495
+        ]
+       },
+       "b": {
+        "ur": "شلجم",
+        "en": "Turnip"
+       }
+      },
+      {
+       "a": {
+        "ur": "تصویر 4",
+        "en": "Picture 4",
+        "img": [
+         0.509,
+         0.345,
+         0.844,
+         0.495
+        ]
+       },
+       "b": {
+        "ur": "شکر قندی",
+        "en": "Sweet potato"
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "سوچیں: آپ کے گھر میں کون سی سبزیاں پکتی ہیں جو زمین کے اندر اُگتی ہیں؟",
+       "en": "Think: which vegetables that are cooked in your home grow under the ground?"
+      },
+      {
+       "ur": "کتاب میں دی گئی چار جڑوں (شکر قندی، شلجم، گاجر، مُولی) کے علاوہ ایک یا دو نام لکھیں یا بتائیں۔",
+       "en": "Write or say one or two names other than the four roots given in the book (sweet potato, turnip, carrot, radish)."
+      }
+     ],
+     "model": {
+      "ur": "چقندر بھی ایک جڑ ہے جو ہم کھاتے ہیں۔",
+      "en": "Beetroot is also a root that we eat."
+     }
+    },
+    "hard": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "جڑ ہے",
+       "en": "It is a root"
+      },
+      {
+       "ur": "جڑ نہیں ہے",
+       "en": "It is not a root"
+      }
+     ],
+     "items": [
+      {
+       "ur": "گاجر",
+       "en": "Carrot",
+       "group": 0
+      },
+      {
+       "ur": "سیب",
+       "en": "Apple",
+       "group": 1
+      },
+      {
+       "ur": "مُولی",
+       "en": "Radish",
+       "group": 0
+      },
+      {
+       "ur": "پالک",
+       "en": "Spinach",
+       "group": 1
+      },
+      {
+       "ur": "شلجم",
+       "en": "Turnip",
+       "group": 0
+      },
+      {
+       "ur": "ٹماٹر",
+       "en": "Tomato",
+       "group": 1
+      },
+      {
+       "ur": "شکر قندی",
+       "en": "Sweet potato",
+       "group": 0
+      },
+      {
+       "ur": "چقندر",
+       "en": "Beetroot",
+       "group": 0
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "یاد رکھنے کا طریقہ: جڑ زمین کے اندر اُگتی ہے۔ گاجر، مُولی، شلجم اور شکر قندی کو زمین کھود کر نکالا جاتا ہے۔",
+   "en": "A way to remember: a root grows under the ground. Carrots, radishes, turnips and sweet potatoes are dug out of the soil."
+  },
+  {
+   "for": "vision",
+   "ur": "اصلی گاجر، مُولی اور شلجم ہاتھ میں لیں۔ ان کی شکل چھو کر اور خوشبو سونگھ کر پہچانیں: گاجر اور مُولی لمبی ہیں، شلجم گول ہے۔",
+   "en": "Hold a real carrot, radish and turnip. Get to know them by feeling their shape and smelling them: the carrot and the radish are long, and the turnip is round."
+  },
+  {
+   "for": "motor",
+   "ur": "اگر پتّے کے گرد پنسل گھمانا مشکل ہو تو پتّے کو کاغذ کے نیچے رکھیں اور اوپر موٹا مومی رنگ رگڑیں، یا کوئی ساتھی پتّا پکڑ کر رکھے۔",
+   "en": "If moving a pencil round the leaf is hard, put the leaf under the paper and rub a thick crayon over it, or let a partner hold the leaf still."
+  },
+  {
+   "for": "teacher",
+   "ur": "جماعت میں اصلی گاجر، مُولی اور شلجم (پتّوں سمیت) لائیں تاکہ بچے دیکھ سکیں کہ کھانے والا حصّہ پتّوں کے نیچے، یعنی جڑ ہے۔ پتّے جمع کرتے وقت وہیل چیئر استعمال کرنے والے یا کم نظر والے بچوں کو ساتھی کے ساتھ جوڑیں، اور ہر بچے کو کم از کم ایک پتّا خود چننے دیں۔",
+   "en": "Bring real carrots, radishes and turnips, with their leaves, to class so that children can see that the part we eat is below the leaves: it is the root. When collecting leaves, pair children who use a wheelchair or have low vision with a buddy, and let every child choose at least one leaf themselves."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "ہم جڑیں کھاتے ہیں",
+   "en": "We eat roots"
+  },
+  "image": {
+   "crop": [
+    0.512,
+    0.55,
+    0.841,
+    0.702
+   ],
+   "alt": {
+    "ur": "تین نارنجی گاجریں۔",
+    "en": "These are three orange carrots."
+   }
+  },
+  "sentences": [
+   {
+    "en": "We eat some roots.",
+    "words_en": [{"en": "We", "sym": "we"}, {"en": "eat", "sym": "to eat"}, {"en": "some", "sym": "some"}, {"en": "roots.", "sym": "root"}],
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "کچھ",
+      "sym": "some"
+     },
+     {
+      "ur": "جڑیں",
+      "sym": "root"
+     },
+     {
+      "ur": "کھاتے",
+      "sym": "to eat"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "A carrot is a root.",
+    "words_en": [{"en": "A carrot", "img": [0.512, 0.55, 0.841, 0.702]}, {"en": "is", "sym": null}, {"en": "a root.", "sym": "root"}],
+    "words": [
+     {
+      "ur": "گاجر",
+      "img": [
+       0.512,
+       0.55,
+       0.841,
+       0.702
+      ]
+     },
+     {
+      "ur": "جڑ",
+      "sym": "root"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "A radish is a root.",
+    "words_en": [{"en": "A radish", "img": [0.17, 0.55, 0.5, 0.702]}, {"en": "is", "sym": null}, {"en": "a root.", "sym": "root"}],
+    "words": [
+     {
+      "ur": "مُولی",
+      "img": [
+       0.17,
+       0.55,
+       0.5,
+       0.702
+      ]
+     },
+     {
+      "ur": "جڑ",
+      "sym": "root"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "A turnip is a root.",
+    "words_en": [{"en": "A turnip", "img": [0.165, 0.345, 0.5, 0.495]}, {"en": "is", "sym": null}, {"en": "a root.", "sym": "root"}],
+    "words": [
+     {
+      "ur": "شلجم",
+      "img": [
+       0.165,
+       0.345,
+       0.5,
+       0.495
+      ]
+     },
+     {
+      "ur": "جڑ",
+      "sym": "root"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "Roots grow under the ground.",
+    "words_en": [{"en": "Roots", "sym": "root"}, {"en": "grow", "sym": "to grow"}, {"en": "under", "sym": "inside"}, {"en": "the ground.", "sym": "soil"}],
+    "words": [
+     {
+      "ur": "جڑ",
+      "sym": "root"
+     },
+     {
+      "ur": "زمین",
+      "sym": "soil"
+     },
+     {
+      "ur": "کے",
+      "sym": null
+     },
+     {
+      "ur": "اندر",
+      "sym": "inside"
+     },
+     {
+      "ur": "اُگتی",
+      "sym": "to grow"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "جڑ کون سی ہے؟ صحیح تصویر چنیں۔",
+    "en": "Which one is a root? Choose the right picture."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "ان میں سے جڑ کون سی ہے؟",
+       "en": "Which of these is a root?"
+      },
+      "options": [
+       {
+        "ur": "گاجر",
+        "en": "Carrot",
+        "img": [
+         0.512,
+         0.55,
+         0.841,
+         0.702
+        ]
+       },
+       {
+        "ur": "سیب",
+        "en": "Apple",
+        "sym": "apple"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "گاجر ایک جڑ ہے۔ سیب ایک پھل ہے۔",
+       "en": "A carrot is a root. An apple is a fruit."
+      }
+     },
+     {
+      "q": {
+       "ur": "ان میں سے جڑ کون سی ہے؟",
+       "en": "Which of these is a root?"
+      },
+      "options": [
+       {
+        "ur": "کیلا",
+        "en": "Banana",
+        "sym": "banana"
+       },
+       {
+        "ur": "مُولی",
+        "en": "Radish",
+        "img": [
+         0.17,
+         0.55,
+         0.5,
+         0.702
+        ]
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "مُولی ایک جڑ ہے۔ کیلا ایک پھل ہے۔",
+       "en": "A radish is a root. A banana is a fruit."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

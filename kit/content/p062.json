@@ -1,0 +1,588 @@
+{
+ "n": 62,
+ "printed": "58",
+ "chapter": 9,
+ "kind": "content",
+ "title": {
+  "ur": "گڑ، چینی اور مویشی",
+  "en": "Jaggery, sugar and livestock"
+ },
+ "blocks": [
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.514,
+      0.118,
+      0.843,
+      0.31
+     ],
+     "alt": {
+      "ur": "سنہرے بھورے رنگ کے گڑ کے ٹکڑوں کا ڈھیر۔",
+      "en": "There is a pile of golden-brown pieces of jaggery."
+     }
+    },
+    {
+     "crop": [
+      0.176,
+      0.12,
+      0.505,
+      0.31
+     ],
+     "alt": {
+      "ur": "سفید چینی کے دانے اور ڈلیاں، ساتھ لکڑی کا چمچ چینی سے بھرا ہے۔",
+      "en": "There are white sugar grains and cubes, and a wooden spoon full of sugar."
+     }
+    }
+   ]
+  },
+  {
+   "ur": "گنّے کے رس سے گڑ اور چینی بنتی ہے۔",
+   "en": "Jaggery and sugar are made from sugarcane juice.",
+   "t": "p"
+  },
+  {
+   "ur": "مویشی",
+   "en": "Livestock",
+   "t": "h"
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.173,
+    0.401,
+    0.842,
+    0.605
+   ],
+   "alt": {
+    "ur": "باڑے میں کالے اور بھورے رنگ کی کئی گائیں لکڑی کی کھرلی سے ہرا چارا کھا رہی ہیں۔",
+    "en": "In a cattle shed several black and brown cows are eating green fodder from a wooden trough."
+   },
+   "cap": {
+    "ur": "کسان مویشی پالتا ہے۔",
+    "en": "The farmer keeps livestock."
+   }
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.522,
+      0.67,
+      0.845,
+      0.843
+     ],
+     "alt": {
+      "ur": "پگڑی پہنے ایک کسان بیٹھ کر گائے کا دودھ بالٹی میں دوہ رہا ہے۔",
+      "en": "A farmer wearing a turban is sitting and milking a cow into a bucket."
+     },
+     "cap": {
+      "ur": "بھینس اور گائے سے دودھ حاصل ہوتا ہے۔",
+      "en": "We get milk from buffaloes and cows."
+     }
+    },
+    {
+     "crop": [
+      0.168,
+      0.67,
+      0.508,
+      0.843
+     ],
+     "alt": {
+      "ur": "میز پر دودھ کی بوتل اور جگ، دہی کا پیالہ، مکھن اور پنیر کے ٹکڑے رکھے ہیں۔",
+      "en": "On a table are a bottle and a jug of milk, a bowl of yoghurt, and pieces of butter and cheese."
+     },
+     "cap": {
+      "ur": "دودھ سے دہی، مکھّن، پنیر اور گھی بنتا ہے۔",
+      "en": "Yoghurt, butter, cheese and ghee are made from milk."
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p062-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "گنّے کے رس سے گڑ اور چینی بنتی ہے۔ دودھ سے دہی، مکھّن، پنیر اور گھی بنتا ہے۔",
+    "en": "Jaggery and sugar are made from sugarcane juice. Yoghurt, butter, cheese and ghee are made from milk."
+   },
+   "prompt": {
+    "ur": "ہر چیز کو صحیح خانے میں رکھیں: یہ گنّے کے رس سے بنتی ہے یا دودھ سے؟",
+    "en": "Put each thing in the right box: is it made from sugarcane juice or from milk?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "گنّے کے رس سے",
+       "en": "From sugarcane juice",
+       "sym": "sugar cane"
+      },
+      {
+       "ur": "دودھ سے",
+       "en": "From milk",
+       "sym": "milk"
+      }
+     ],
+     "items": [
+      {
+       "ur": "گڑ",
+       "en": "Jaggery",
+       "img": [
+        0.514,
+        0.118,
+        0.843,
+        0.31
+       ],
+       "group": 0
+      },
+      {
+       "ur": "دہی",
+       "en": "Yoghurt",
+       "sym": "yogurt",
+       "group": 1
+      },
+      {
+       "ur": "چینی",
+       "en": "Sugar",
+       "img": [
+        0.176,
+        0.12,
+        0.505,
+        0.31
+       ],
+       "group": 0
+      },
+      {
+       "ur": "مکھن",
+       "en": "Butter",
+       "sym": "butter",
+       "group": 1
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "گنّے کے رس سے",
+       "en": "From sugarcane juice"
+      },
+      {
+       "ur": "دودھ سے",
+       "en": "From milk"
+      }
+     ],
+     "items": [
+      {
+       "ur": "گڑ",
+       "en": "Jaggery",
+       "group": 0
+      },
+      {
+       "ur": "دہی",
+       "en": "Yoghurt",
+       "group": 1
+      },
+      {
+       "ur": "پنیر",
+       "en": "Cheese",
+       "group": 1
+      },
+      {
+       "ur": "چینی",
+       "en": "Sugar",
+       "group": 0
+      },
+      {
+       "ur": "مکھّن",
+       "en": "Butter",
+       "group": 1
+      },
+      {
+       "ur": "گھی",
+       "en": "Ghee",
+       "group": 1
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "دودھ کن مویشیوں سے حاصل ہوتا ہے؟",
+        "en": "Which livestock do we get milk from?"
+       },
+       "options": [
+        {
+         "ur": "مرغی اور بطخ",
+         "en": "Hen and duck"
+        },
+        {
+         "ur": "بھینس اور گائے",
+         "en": "Buffalo and cow"
+        },
+        {
+         "ur": "گھوڑا اور اونٹ",
+         "en": "Horse and camel"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "کتاب کے مطابق بھینس اور گائے سے دودھ حاصل ہوتا ہے۔",
+        "en": "According to the book, we get milk from buffaloes and cows."
+       }
+      },
+      {
+       "q": {
+        "ur": "ان میں سے کون سی چیز دودھ سے نہیں بنتی؟",
+        "en": "Which of these is NOT made from milk?"
+       },
+       "options": [
+        {
+         "ur": "دہی",
+         "en": "Yoghurt"
+        },
+        {
+         "ur": "پنیر",
+         "en": "Cheese"
+        },
+        {
+         "ur": "گڑ",
+         "en": "Jaggery"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "گڑ گنّے کے رس سے بنتا ہے۔ دہی اور پنیر دودھ سے بنتے ہیں۔",
+        "en": "Jaggery is made from sugarcane juice. Yoghurt and cheese are made from milk."
+       }
+      },
+      {
+       "q": {
+        "ur": "چینی بنانے کے لیے سب سے پہلے کیا چاہیے؟",
+        "en": "What is needed first of all to make sugar?"
+       },
+       "options": [
+        {
+         "ur": "گنّا",
+         "en": "Sugarcane"
+        },
+        {
+         "ur": "گندم",
+         "en": "Wheat"
+        },
+        {
+         "ur": "کپاس",
+         "en": "Cotton"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "کسان گنّا اُگاتا ہے، گنّے سے رس نکلتا ہے اور رس سے چینی بنتی ہے۔",
+        "en": "The farmer grows sugarcane, juice is squeezed out of it, and sugar is made from the juice."
+       }
+      },
+      {
+       "q": {
+        "ur": "کسان مویشی کیوں پالتا ہے؟",
+        "en": "Why does the farmer keep livestock?"
+       },
+       "options": [
+        {
+         "ur": "صرف کھیلنے کے لیے",
+         "en": "Only to play with"
+        },
+        {
+         "ur": "دودھ اور دوسری چیزیں حاصل کرنے کے لیے",
+         "en": "To get milk and other things"
+        },
+        {
+         "ur": "کپڑا بنانے کے لیے",
+         "en": "To make cloth"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "مویشیوں سے ہمیں دودھ ملتا ہے جس سے دہی، مکھن، پنیر اور گھی بنتا ہے۔",
+        "en": "From livestock we get milk, from which yoghurt, butter, cheese and ghee are made."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "آج گھر میں دیکھیں: چائے میں چینی اور دودھ دونوں ہوتے ہیں۔ چینی گنّے سے آئی اور دودھ گائے یا بھینس سے۔",
+   "en": "Look at home today: tea has both sugar and milk. The sugar came from sugarcane and the milk from a cow or buffalo."
+  },
+  {
+   "for": "vision",
+   "ur": "گڑ اور چینی کو چکھ کر اور چھو کر پہچانیں: گڑ نرم اور چپچپا ڈلا ہے، چینی باریک دانے ہیں۔ دہی اور مکھن کو بھی خوشبو اور ذائقے سے پہچانیں۔",
+   "en": "Recognise jaggery and sugar by taste and touch: jaggery is a soft, sticky lump and sugar is fine grains. Recognise yoghurt and butter by smell and taste too."
+  },
+  {
+   "for": "cognitive",
+   "ur": "دو گروہ بنائیں اور ایک ایک چیز رکھیں: \"میٹھا — گنّے سے\" اور \"دودھ والی چیزیں — گائے سے\"۔ ہر بار پورا جملہ دہرائیں۔",
+   "en": "Make two groups and place one thing at a time: \"sweet things come from sugarcane\" and \"milk things come from the cow\". Repeat the full sentence each time."
+  },
+  {
+   "for": "teacher",
+   "ur": "اگر ممکن ہو تو تھوڑا گڑ، چینی، دہی اور مکھن کلاس میں لائیں۔ پہلے والدین سے الرجی کے بارے میں پوچھ لیں۔ بچے چکھ کر، اشارہ کر کے یا تصویر چن کر جواب دیں۔",
+   "en": "If possible bring a little jaggery, sugar, yoghurt and butter to class. Ask parents about allergies first. Children can answer by tasting, pointing or choosing a picture."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "مویشی اور دودھ",
+   "en": "Livestock and milk"
+  },
+  "image": {
+   "crop": [
+    0.522,
+    0.67,
+    0.845,
+    0.843
+   ],
+   "alt": {
+    "ur": "کسان گائے کا دودھ دوہ رہا ہے۔",
+    "en": "A farmer is milking a cow."
+   }
+  },
+  "sentences": [
+   {
+    "en": "The farmer keeps farm animals.",
+    "words": [
+     {
+      "ur": "کسان",
+      "sym": "farmer"
+     },
+     {
+      "ur": "مویشی",
+      "sym": "cow"
+     },
+     {
+      "ur": "پالتا",
+      "sym": "to take care"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "farmer",
+      "sym": "farmer"
+     },
+     {
+      "en": "keeps",
+      "sym": "to take care"
+     },
+     {
+      "en": "farm animals.",
+      "sym": "cow"
+     }
+    ]
+   },
+   {
+    "en": "The cow gives milk.",
+    "words": [
+     {
+      "ur": "گائے",
+      "sym": "cow"
+     },
+     {
+      "ur": "دودھ",
+      "sym": "milk"
+     },
+     {
+      "ur": "دیتی",
+      "sym": "to give"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "cow",
+      "sym": "cow"
+     },
+     {
+      "en": "gives",
+      "sym": "to give"
+     },
+     {
+      "en": "milk.",
+      "sym": "milk"
+     }
+    ]
+   },
+   {
+    "en": "Yoghurt is made from milk.",
+    "words": [
+     {
+      "ur": "دودھ",
+      "sym": "milk"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "دہی",
+      "sym": "yogurt"
+     },
+     {
+      "ur": "بنتا",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Yoghurt",
+      "sym": "yogurt"
+     },
+     {
+      "en": "is made",
+      "sym": "to make"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "milk.",
+      "sym": "milk"
+     }
+    ]
+   },
+   {
+    "en": "Sugar is made from sugarcane.",
+    "words": [
+     {
+      "ur": "گنّے",
+      "sym": "sugar cane"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "چینی",
+      "sym": "sugar"
+     },
+     {
+      "ur": "بنتی",
+      "sym": "to make"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Sugar",
+      "sym": "sugar"
+     },
+     {
+      "en": "is made",
+      "sym": "to make"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "sugarcane.",
+      "sym": "sugar cane"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "دودھ سے کیا بنتا ہے؟",
+       "en": "What is made from milk?"
+      },
+      "options": [
+       {
+        "ur": "دہی",
+        "en": "Yoghurt",
+        "sym": "yogurt"
+       },
+       {
+        "ur": "روٹی",
+        "en": "Roti",
+        "sym": "bread"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "دودھ سے دہی بنتا ہے۔",
+       "en": "Yoghurt is made from milk."
+      }
+     },
+     {
+      "q": {
+       "ur": "دودھ کون دیتا ہے؟",
+       "en": "Who gives milk?"
+      },
+      "options": [
+       {
+        "ur": "مرغی",
+        "en": "Hen",
+        "sym": "hen"
+       },
+       {
+        "ur": "گائے",
+        "en": "Cow",
+        "sym": "cow"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "گائے اور بھینس دودھ دیتی ہیں۔",
+       "en": "Cows and buffaloes give milk."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

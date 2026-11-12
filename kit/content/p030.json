@@ -1,0 +1,533 @@
+{
+ "n": 30,
+ "printed": "26",
+ "chapter": 5,
+ "kind": "opener",
+ "title": {
+  "ur": "قدرتی ماحول اور وسائل",
+  "en": "Natural environment and resources"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "05 قدرتی ماحول اور وسائل",
+   "en": "Chapter 5: Natural environment and resources"
+  },
+  {
+   "t": "h",
+   "ur": "حاصلاتِ تعلّم",
+   "en": "Learning outcomes"
+  },
+  {
+   "t": "p",
+   "ur": "اس باب کے اختتام پر آپ اس قابل ہو جائیں گے کہ:",
+   "en": "By the end of this chapter you will be able to:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "شناخت کر سکیں کہ قدرتی ماحول جان دار اور بے جان اشیا پر مشتمل ہے۔",
+     "en": "Recognise that the natural environment is made up of living and non-living things."
+    },
+    {
+     "ur": "جان سکیں کہ انسانی زندگی کے لیے قدرتی وسائل جیسے زمین، ہوا، پانی اور سورج وغیرہ بہت ضروری ہیں۔",
+     "en": "Know that natural resources such as land, air, water and the sun are very important for human life."
+    },
+    {
+     "ur": "قدرتی اور انسان کی بنائی ہوئی مادی اشیا میں فرق جان سکیں۔",
+     "en": "Know the difference between natural things and things made by people."
+    },
+    {
+     "ur": "شناخت کر سکیں کہ لوگ قدرتی وسائل کو استعمال کرتے ہوئے انسانی ضروریات کی اشیا بناتے ہیں۔",
+     "en": "Recognise that people use natural resources to make the things that humans need."
+    }
+   ]
+  },
+  {
+   "t": "h",
+   "ur": "جان دار اور بے جان",
+   "en": "Living and non-living"
+  },
+  {
+   "t": "p",
+   "ur": "پیارے بچو! ہماری زمین پانی اور خشکی پر مشتمل ہے، جہاں جان دار اور بے جان اشیا پائی جاتی ہیں مثلاً ہرے بھرے کھیت، پہاڑ، جانور اور انسان وغیرہ۔",
+   "en": "Dear children! Our Earth is made up of water and land, where living and non-living things are found, for example green fields, mountains, animals and human beings."
+  },
+  {
+   "t": "p",
+   "ur": "جان دار اور بے جان اشیا ایک دوسرے کے لیے بہت اہم ہیں۔ مثلاً پودوں سے ہم خوراک حاصل کرتے ہیں اور پینے کے لیے پانی کا استعمال کرتے ہیں۔ تمام جان دار اور بے جان اشیا مل کر ماحول بناتے ہیں۔",
+   "en": "Living and non-living things are very important for one another. For example, we get food from plants and we use water for drinking. All living and non-living things together make up the environment."
+  },
+  {
+   "t": "p",
+   "ur": "تمام جان داروں کو زندہ رہنے کے لیے ہوا، کھانے کے لیے خوراک اور پانی کی ضرورت ہوتی ہے۔ جان دار بڑھتے، پھلتے پھولتے اور حرکت کرتے ہیں جب کہ بے جان نہ تو بڑھتے ہیں، نہ حرکت کرتے ہیں اور نہ ہی اُن کی افزائشِ نسل ہوتی ہے۔",
+   "en": "All living things need air to stay alive, and food and water to eat and drink. Living things grow, thrive and move, but non-living things do not grow, do not move and do not have young ones."
+  },
+  {
+   "t": "activity",
+   "id": "p030-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "(اضافی مشق — یہ کتاب میں چھپی ہوئی نہیں ہے)",
+    "en": "(Extra practice — not printed in the book)"
+   },
+   "prompt": {
+    "ur": "کون سی چیز جان دار ہے اور کون سی بے جان؟ ہر چیز کو صحیح خانے میں رکھیں۔",
+    "en": "Which thing is living and which is non-living? Put each thing in the right box."
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "جان دار",
+       "en": "Living"
+      },
+      {
+       "ur": "بے جان",
+       "en": "Non-living"
+      }
+     ],
+     "items": [
+      {
+       "ur": "بلی",
+       "en": "Cat",
+       "sym": "cat",
+       "group": 0
+      },
+      {
+       "ur": "پتھر",
+       "en": "Stone",
+       "sym": "stone",
+       "group": 1
+      },
+      {
+       "ur": "درخت",
+       "en": "Tree",
+       "sym": "tree",
+       "group": 0
+      },
+      {
+       "ur": "کرسی",
+       "en": "Chair",
+       "sym": "chair",
+       "group": 1
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "جان دار",
+       "en": "Living"
+      },
+      {
+       "ur": "بے جان",
+       "en": "Non-living"
+      }
+     ],
+     "items": [
+      {
+       "ur": "انسان",
+       "en": "Human being",
+       "sym": "person",
+       "group": 0
+      },
+      {
+       "ur": "پہاڑ",
+       "en": "Mountain",
+       "sym": "mountain",
+       "group": 1
+      },
+      {
+       "ur": "جانور",
+       "en": "Animal",
+       "sym": "animal",
+       "group": 0
+      },
+      {
+       "ur": "پانی",
+       "en": "Water",
+       "sym": "water",
+       "group": 1
+      },
+      {
+       "ur": "پودا",
+       "en": "Plant",
+       "sym": "plant",
+       "group": 0
+      },
+      {
+       "ur": "پتھر",
+       "en": "Stone",
+       "sym": "stone",
+       "group": 1
+      },
+      {
+       "ur": "پرندہ",
+       "en": "Bird",
+       "sym": "bird",
+       "group": 0
+      },
+      {
+       "ur": "ہوا",
+       "en": "Air",
+       "sym": "wind",
+       "group": 1
+      }
+     ]
+    },
+    "hard": {
+     "kind": "tf",
+     "questions": [
+      {
+       "q": {
+        "ur": "تمام جان داروں کو زندہ رہنے کے لیے ہوا، خوراک اور پانی کی ضرورت ہوتی ہے۔",
+        "en": "All living things need air, food and water to stay alive."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "جی ہاں۔ ہوا، خوراک اور پانی کے بغیر جان دار زندہ نہیں رہ سکتے۔",
+        "en": "Yes. Living things cannot stay alive without air, food and water."
+       }
+      },
+      {
+       "q": {
+        "ur": "بے جان چیزیں خود بڑھتی ہیں۔",
+        "en": "Non-living things grow by themselves."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "بے جان چیزیں نہ بڑھتی ہیں، نہ حرکت کرتی ہیں اور نہ ان کی افزائشِ نسل ہوتی ہے۔",
+        "en": "Non-living things do not grow, do not move and do not have young ones."
+       }
+      },
+      {
+       "q": {
+        "ur": "پودا جان دار ہے کیوں کہ وہ بڑھتا اور پھلتا پھولتا ہے۔",
+        "en": "A plant is living because it grows and thrives."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "جی ہاں۔ پودا چلتا نہیں مگر بڑھتا ہے، اسے پانی اور ہوا چاہیے، اور اس کے بیج سے نئے پودے اُگتے ہیں۔",
+        "en": "Yes. A plant does not walk, but it grows, needs water and air, and new plants grow from its seeds."
+       }
+      },
+      {
+       "q": {
+        "ur": "جان دار اور بے جان اشیا کا ایک دوسرے سے کوئی تعلق نہیں۔",
+        "en": "Living and non-living things have nothing to do with one another."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "دونوں ایک دوسرے کے لیے بہت اہم ہیں؛ مثلاً ہم (جان دار) پینے کے لیے پانی (بے جان) استعمال کرتے ہیں۔ سب مل کر ماحول بناتے ہیں۔",
+        "en": "Both are very important for one another. For example, we (living) use water (non-living) for drinking. Together they all make up the environment."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "جان دار کو پہچاننے کے لیے تین سوال پوچھیں: کیا یہ بڑھتا ہے؟ کیا اسے خوراک، پانی اور ہوا چاہیے؟ کیا اس کے بچے (یا بیج) ہوتے ہیں؟ اگر ہاں تو یہ جان دار ہے۔",
+   "en": "To spot a living thing, ask three questions: Does it grow? Does it need food, water and air? Does it have babies (or seeds)? If the answer is yes, it is living."
+  },
+  {
+   "for": "vision",
+   "ur": "اصل چیزیں ہاتھ میں لے کر محسوس کریں: ایک پتّا یا گملے کا پودا (جان دار) اور ایک پتھر یا پنسل (بے جان)۔ اپنی سانس کو ہاتھ پر محسوس کریں — آپ بھی جان دار ہیں!",
+   "en": "Hold real things in your hands and feel them: a leaf or a plant in a pot (living) and a stone or a pencil (non-living). Feel your breath on your hand. You are living too!"
+  },
+  {
+   "for": "cognitive",
+   "ur": "صرف دو لفظ یاد رکھیں: ”جان دار = سانس لیتا اور بڑھتا ہے“، ”بے جان = نہیں بڑھتا“۔ ہر چیز کے لیے انگوٹھا اوپر (جان دار) یا نیچے (بے جان) کریں۔",
+   "en": "Remember just two things: a living thing breathes and grows; a non-living thing does not grow. For each thing, show a thumbs up for living or a thumbs down for non-living."
+  },
+  {
+   "for": "teacher",
+   "ur": "بچوں کو کھڑکی سے باہر یا صحن میں لے جا کر جان دار اور بے جان چیزیں دکھائیں۔ جو بچے چل نہیں سکتے ان کے پاس چیزیں (پتّا، پتھر، پانی کی بوتل) لے آئیں۔ جواب اشارے سے بھی قبول کریں۔",
+   "en": "Take the children to the window or out into the courtyard and show them living and non-living things. Bring things (a leaf, a stone, a bottle of water) to children who cannot walk. Accept answers given by pointing as well."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "جان دار اور بے جان",
+   "en": "Living and non-living"
+  },
+  "image": null,
+  "sentences": [
+   {
+    "en": "Animals and plants are living things.",
+    "words": [
+     {
+      "ur": "جانور",
+      "sym": "animal"
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "پودے",
+      "sym": "plant"
+     },
+     {
+      "ur": "جان دار",
+      "sym": "alive"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Animals",
+      "sym": "animal"
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "plants",
+      "sym": "plant"
+     },
+     {
+      "en": "are",
+      "sym": null
+     },
+     {
+      "en": "living things.",
+      "sym": "alive"
+     }
+    ]
+   },
+   {
+    "en": "Living things eat and grow.",
+    "words": [
+     {
+      "ur": "جان دار",
+      "sym": "alive"
+     },
+     {
+      "ur": "کھاتے",
+      "sym": "to eat"
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "بڑھتے",
+      "sym": "to grow"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Living things",
+      "sym": "alive"
+     },
+     {
+      "en": "eat",
+      "sym": "to eat"
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "grow.",
+      "sym": "to grow"
+     }
+    ]
+   },
+   {
+    "en": "Stones and mountains are non-living.",
+    "words": [
+     {
+      "ur": "پتھر",
+      "sym": "stone"
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "پہاڑ",
+      "sym": "mountain"
+     },
+     {
+      "ur": "بے جان",
+      "sym": "object"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Stones",
+      "sym": "stone"
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "mountains",
+      "sym": "mountain"
+     },
+     {
+      "en": "are",
+      "sym": null
+     },
+     {
+      "en": "non-living.",
+      "sym": "object"
+     }
+    ]
+   },
+   {
+    "en": "Non-living things do not grow.",
+    "words": [
+     {
+      "ur": "بے جان",
+      "sym": "object"
+     },
+     {
+      "ur": "چیزیں",
+      "sym": "thing"
+     },
+     {
+      "ur": "نہیں",
+      "sym": "no"
+     },
+     {
+      "ur": "بڑھتیں۔",
+      "sym": "to grow"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Non-living",
+      "sym": "object"
+     },
+     {
+      "en": "things",
+      "sym": "thing"
+     },
+     {
+      "en": "do not",
+      "sym": "no"
+     },
+     {
+      "en": "grow.",
+      "sym": "to grow"
+     }
+    ]
+   },
+   {
+    "en": "Together they all make the environment.",
+    "words": [
+     {
+      "ur": "سب",
+      "sym": "all"
+     },
+     {
+      "ur": "مل کر",
+      "sym": "together"
+     },
+     {
+      "ur": "ماحول",
+      "sym": "nature"
+     },
+     {
+      "ur": "بناتے ہیں۔",
+      "sym": "to make"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Together",
+      "sym": "together"
+     },
+     {
+      "en": "they all",
+      "sym": "all"
+     },
+     {
+      "en": "make",
+      "sym": "to make"
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "environment.",
+      "sym": "nature"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "ہر تصویر کو صحیح خانے میں رکھیں۔",
+    "en": "Put each picture in the right box."
+   },
+   "task": {
+    "kind": "sort",
+    "groups": [
+     {
+      "ur": "جان دار",
+      "en": "Living"
+     },
+     {
+      "ur": "بے جان",
+      "en": "Non-living"
+     }
+    ],
+    "items": [
+     {
+      "ur": "بکری",
+      "en": "Goat",
+      "sym": "goat",
+      "group": 0
+     },
+     {
+      "ur": "گیند",
+      "en": "Ball",
+      "sym": "ball",
+      "group": 1
+     },
+     {
+      "ur": "پھول",
+      "en": "Flower",
+      "sym": "flower",
+      "group": 0
+     },
+     {
+      "ur": "میز",
+      "en": "Table",
+      "sym": "table",
+      "group": 1
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

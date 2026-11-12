@@ -1,0 +1,165 @@
+<title>Upscaling Comparison</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;700&display=swap">
+<style>
+/* layout: one band per picture, four equal tiles (2x2 on phones); a full-screen viewer flips between versions at the same zoom */
+:root{
+  --bg:#f3f5f4; --surface:#ffffff; --ink:#17201d; --ink2:#55625d; --line:#d5dcd8; --accent:#0b6e69; --accent-ink:#ffffff; --chip:#e3ecea; --viewer:#0e1211;
+  --display:'Space Grotesk',system-ui,sans-serif; --body:'Inter',system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){ --bg:#111615; --surface:#1a211f; --ink:#e9efec; --ink2:#a3b0ab; --line:#2e3936; --accent:#5fd3cb; --accent-ink:#06201e; --chip:#24302d; --viewer:#060808; color-scheme:dark } }
+:root[data-theme="dark"]{ --bg:#111615; --surface:#1a211f; --ink:#e9efec; --ink2:#a3b0ab; --line:#2e3936; --accent:#5fd3cb; --accent-ink:#06201e; --chip:#24302d; --viewer:#060808; color-scheme:dark }
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5}
+.wrap{max-width:1500px;margin:0 auto;padding-block:1.5rem 3rem;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:1.6rem}
+h1{font-family:var(--display);font-size:1.7rem;margin:0;text-wrap:balance}
+h2{font-family:var(--display);font-size:1.15rem;margin:0;text-wrap:balance}
+p{margin:0;max-width:68ch;color:var(--ink2)}
+header{display:flex;flex-direction:column;gap:.5rem}
+.legend{display:flex;flex-wrap:wrap;gap:.4rem .5rem;font-size:.82rem}
+.legend span{background:var(--chip);border-radius:999px;padding:.15rem .65rem}
+.legend b{font-weight:600}
+section{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:1rem;display:flex;flex-direction:column;gap:.8rem}
+.sec-h{display:flex;flex-wrap:wrap;align-items:baseline;gap:.3rem .8rem}
+.sec-h small{color:var(--ink2);font-variant-numeric:tabular-nums}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,230px),1fr));gap:.7rem}
+@media (max-width:560px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.tile .kind{font-size:.72rem;color:var(--ink2)}
+.legend{flex-direction:column;gap:.25rem}
+.legend span{background:none;padding:0;border-radius:0}
+.tile{all:unset;box-sizing:border-box;display:flex;flex-direction:column;gap:.35rem;cursor:zoom-in;border-radius:10px;min-width:0}
+.tile:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.tile .frame{border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--bg);line-height:0}
+.tile img{width:100%;height:auto;display:block}
+.tile .name{font-weight:600;font-size:.88rem}
+.tile .dim{font-size:.76rem;color:var(--ink2);font-variant-numeric:tabular-nums}
+.tile.err .frame{display:grid;place-items:center;aspect-ratio:3/2;color:var(--ink2);font-size:.8rem;line-height:1.4;padding:.6rem;text-align:center}
+/* viewer */
+#viewer{position:fixed;inset:0;z-index:50;background:var(--viewer);color:#fff;display:flex;flex-direction:column}
+#viewer .bar{display:flex;flex-wrap:wrap;align-items:center;gap:.4rem;padding:calc(.5rem + env(safe-area-inset-top,0px)) max(12px,env(safe-area-inset-right,0px)) .5rem max(12px,env(safe-area-inset-left,0px));background:rgba(255,255,255,.06)}
+#viewer .ttl{flex:1 1 12rem;min-width:0;font-size:.85rem;opacity:.85;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#viewer button{font:inherit;font-size:.85rem;font-weight:600;color:#fff;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.22);border-radius:8px;padding:.45rem .7rem;min-height:40px;cursor:pointer}
+#viewer button[aria-pressed="true"]{background:#fff;color:#111;border-color:#fff}
+#viewer button:focus-visible{outline:3px solid #7fe3db;outline-offset:2px}
+#viewer .tabs{display:flex;flex-wrap:wrap;gap:.35rem;padding:.5rem max(12px,env(safe-area-inset-right,0px)) .5rem max(12px,env(safe-area-inset-left,0px))}
+#stage{flex:1;position:relative;overflow:hidden;touch-action:none;cursor:grab}
+#stage.drag{cursor:grabbing}
+#stage img{position:absolute;left:0;top:0;transform-origin:0 0;max-width:none;user-select:none;-webkit-user-drag:none;will-change:transform}
+#viewer .hint{font-size:.75rem;opacity:.7;text-align:center;padding:.4rem max(12px,env(safe-area-inset-right,0px)) calc(.5rem + env(safe-area-inset-bottom,0px)) max(12px,env(safe-area-inset-left,0px))}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Upscaling comparison</h1>
+    <p>Six pictures from pages 6, 9, 12 and 27 of the Class 2 General Knowledge book, each shown as the original scan and through eight upscalers. Tap any picture to open it full-screen, zoom in, and flip between versions at the same spot.</p>
+    <div class="legend">
+      <span><b>Keeps the pixels:</b> Real-ESRGAN, Topaz (two modes), Recraft Crisp and Crystal enlarge and sharpen what is there.</span>
+      <span><b>Restores with a diffusion model:</b> Clarity adds texture while trying to stay close to the scan. (SUPIR was also tried but the hosted model failed on every picture.)</span>
+      <span><b>Redraws:</b> GPT Image 2.5 Flare and Nano Banana 2 regenerate the whole picture.</span>
+    </div>
+  </header>
+  <div id="list"></div>
+</div>
+
+<div id="viewer" hidden role="dialog" aria-modal="true" aria-label="Picture viewer">
+  <div class="bar">
+    <div class="ttl" id="v-ttl"></div>
+    <button type="button" id="z-out" aria-label="Zoom out">−</button>
+    <button type="button" id="z-fit">Fit</button>
+    <button type="button" id="z-in" aria-label="Zoom in">+</button>
+    <button type="button" id="v-close">Close</button>
+  </div>
+  <div class="tabs" id="v-tabs"></div>
+  <div id="stage"><img id="v-img" alt=""></div>
+  <div class="hint">Pinch or scroll to zoom · drag to move · ← → switch version · Esc closes</div>
+</div>
+
+<script>
+const DATA = __MANIFEST__;
+const NAMES = { orig: 'Original scan', esrgan: 'Real-ESRGAN', topaz: 'Topaz (Low Resolution)', topaztext: 'Topaz (Text Refine)', recraft: 'Recraft Crisp', crystal: 'Crystal', clarity: 'Clarity', supir: 'SUPIR', gpt: 'GPT Image 2.5 Flare', banana: 'Nano Banana 2' };
+const KIND = { orig: 'as in the book now', esrgan: 'keeps pixels · $0.002', topaz: 'keeps pixels · $0.05', topaztext: 'keeps pixels · $0.05', recraft: 'keeps pixels · $0.006', crystal: 'keeps pixels · $0.05', clarity: 'diffusion · about $0.02', supir: 'diffusion · about $0.41', gpt: 'redraws · $0.13', banana: 'redraws · $0.10' };
+const ORDER = ['orig', 'esrgan', 'topaz', 'topaztext', 'recraft', 'crystal', 'clarity', 'gpt', 'banana'];
+const list = document.getElementById('list');
+list.style.cssText = 'display:flex;flex-direction:column;gap:1.2rem';
+DATA.forEach((p, pi) => {
+  const sec = document.createElement('section');
+  sec.innerHTML = `<div class="sec-h"><h2></h2><small></small></div><div class="grid"></div>`;
+  sec.querySelector('h2').textContent = p.label;
+  sec.querySelector('small').textContent = `Book page ${p.page} · scanned at ${p.native[0]}×${p.native[1]} px`;
+  const grid = sec.querySelector('.grid');
+  ORDER.forEach((k) => {
+    const v = p.v[k];
+    const b = document.createElement(v && v.file ? 'button' : 'div');
+    b.className = 'tile' + (v && v.file ? '' : ' err');
+    if (v && v.file) {
+      b.type = 'button'; b.setAttribute('aria-label', `${NAMES[k]}: open ${p.label} full-screen`);
+      b.innerHTML = `<div class="frame"><img loading="lazy" alt=""></div><div class="name"></div><div class="kind"></div><div class="dim"></div>`;
+      b.querySelector('.kind').textContent = KIND[k] || '';
+      b.querySelector('img').src = 'img/' + v.file;
+      b.querySelector('.dim').textContent = `${v.size[0]}×${v.size[1]} px`;
+      b.addEventListener('click', () => openViewer(pi, k));
+    } else {
+      b.innerHTML = `<div class="frame">No result: the model returned an error</div><div class="name"></div><div class="dim">–</div>`;
+    }
+    b.querySelector('.name').textContent = NAMES[k];
+    grid.append(b);
+  });
+  list.append(sec);
+});
+
+/* ---- viewer: one transform shared by all versions, in "fit box" units so the spot stays put when switching ---- */
+const viewer = document.getElementById('viewer'), stage = document.getElementById('stage'), img = document.getElementById('v-img'), tabs = document.getElementById('v-tabs');
+let cur = { p: 0, k: 'orig' }, z = 1, cx = 0.5, cy = 0.5, lastFocus = null; // z = zoom relative to fit; cx,cy = picture point (0..1) at stage centre
+function avail(p) { return ORDER.filter((k) => DATA[p].v[k] && DATA[p].v[k].file); }
+function layout() {
+  const v = DATA[cur.p].v[cur.k]; if (!v) return;
+  const W = stage.clientWidth, H = stage.clientHeight, iw = v.size[0], ih = v.size[1];
+  const fit = Math.min(W / iw, H / ih), s = fit * z;
+  img.style.width = iw + 'px'; img.style.height = ih + 'px';
+  img.style.transform = `translate(${W / 2 - cx * iw * s}px, ${H / 2 - cy * ih * s}px) scale(${s})`;
+  img.style.imageRendering = s > 3 ? 'pixelated' : 'auto';
+}
+function show(k) {
+  cur.k = k; const v = DATA[cur.p].v[k];
+  img.src = 'img/' + v.file;
+  document.getElementById('v-ttl').textContent = `${DATA[cur.p].label} · ${NAMES[k]} · ${v.size[0]}×${v.size[1]} px`;
+  [...tabs.children].forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.k === k)));
+  layout();
+}
+function openViewer(p, k) {
+  lastFocus = document.activeElement; cur.p = p; z = 1; cx = cy = 0.5; tabs.innerHTML = '';
+  avail(p).forEach((kk) => { const b = document.createElement('button'); b.type = 'button'; b.dataset.k = kk; b.textContent = NAMES[kk]; b.addEventListener('click', () => show(kk)); tabs.append(b); });
+  viewer.hidden = false; document.body.style.overflow = 'hidden'; show(k); document.getElementById('v-close').focus();
+}
+function closeViewer() { viewer.hidden = true; document.body.style.overflow = ''; if (lastFocus) lastFocus.focus(); }
+function zoomAt(f, px, py) {
+  const v = DATA[cur.p].v[cur.k], W = stage.clientWidth, H = stage.clientHeight, iw = v.size[0], ih = v.size[1];
+  const fit = Math.min(W / iw, H / ih), s0 = fit * z, nz = Math.min(24, Math.max(1, z * f)), s1 = fit * nz;
+  const ix = cx + (px - W / 2) / (iw * s0), iy = cy + (py - H / 2) / (ih * s0); // picture point under the pointer
+  z = nz; cx = ix - (px - W / 2) / (iw * s1); cy = iy - (py - H / 2) / (ih * s1); clamp(); layout();
+}
+function clamp() { cx = Math.min(1, Math.max(0, cx)); cy = Math.min(1, Math.max(0, cy)); if (z === 1) cx = cy = 0.5; }
+function step(d) { const a = avail(cur.p); show(a[(a.indexOf(cur.k) + d + a.length) % a.length]); }
+document.getElementById('v-close').addEventListener('click', closeViewer);
+document.getElementById('z-in').addEventListener('click', () => zoomAt(1.6, stage.clientWidth / 2, stage.clientHeight / 2));
+document.getElementById('z-out').addEventListener('click', () => zoomAt(1 / 1.6, stage.clientWidth / 2, stage.clientHeight / 2));
+document.getElementById('z-fit').addEventListener('click', () => { z = 1; clamp(); layout(); });
+stage.addEventListener('wheel', (e) => { e.preventDefault(); const r = stage.getBoundingClientRect(); zoomAt(e.deltaY < 0 ? 1.2 : 1 / 1.2, e.clientX - r.left, e.clientY - r.top); }, { passive: false });
+const pts = new Map(); let pinch = 0;
+stage.addEventListener('pointerdown', (e) => { stage.setPointerCapture(e.pointerId); pts.set(e.pointerId, { x: e.clientX, y: e.clientY }); stage.classList.add('drag'); if (pts.size === 2) { const [a, b] = [...pts.values()]; pinch = Math.hypot(a.x - b.x, a.y - b.y); } });
+stage.addEventListener('pointermove', (e) => {
+  const o = pts.get(e.pointerId); if (!o) return; const n = { x: e.clientX, y: e.clientY };
+  if (pts.size === 1) {
+    const v = DATA[cur.p].v[cur.k], s = Math.min(stage.clientWidth / v.size[0], stage.clientHeight / v.size[1]) * z;
+    cx -= (n.x - o.x) / (v.size[0] * s); cy -= (n.y - o.y) / (v.size[1] * s); clamp(); layout();
+  }
+  pts.set(e.pointerId, n);
+  if (pts.size === 2) {
+    const [a, b] = [...pts.values()], d = Math.hypot(a.x - b.x, a.y - b.y), r = stage.getBoundingClientRect();
+    if (pinch > 0) zoomAt(d / pinch, (a.x + b.x) / 2 - r.left, (a.y + b.y) / 2 - r.top); pinch = d;
+  }
+});
+['pointerup', 'pointercancel'].forEach((t) => stage.addEventListener(t, (e) => { pts.delete(e.pointerId); pinch = 0; if (!pts.size) stage.classList.remove('drag'); }));
+stage.addEventListener('dblclick', (e) => { const r = stage.getBoundingClientRect(); zoomAt(z > 1.5 ? 1 / z : 3, e.clientX - r.left, e.clientY - r.top); });
+document.addEventListener('keydown', (e) => { if (viewer.hidden) return; if (e.key === 'Escape') closeViewer(); else if (e.key === 'ArrowRight') step(1); else if (e.key === 'ArrowLeft') step(-1); else if (e.key === '+' || e.key === '=') zoomAt(1.6, stage.clientWidth / 2, stage.clientHeight / 2); else if (e.key === '-') zoomAt(1 / 1.6, stage.clientWidth / 2, stage.clientHeight / 2); });
+window.addEventListener('resize', () => { if (!viewer.hidden) layout(); });
+</script>

@@ -1,0 +1,718 @@
+{
+ "n": 19,
+ "printed": "15",
+ "chapter": 2,
+ "kind": "exercise",
+ "title": {
+  "ur": "مشق: دیہات اور شہر (سوال 1 تا 3)",
+  "en": "Exercise: Villages and cities (Questions 1–3)"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "مشق",
+   "en": "Exercise"
+  },
+  {
+   "t": "activity",
+   "id": "p019-a1",
+   "label": {
+    "ur": "سوال نمبر 1",
+    "en": "Question 1"
+   },
+   "orig": {
+    "ur": "مندرجہ ذیل اشیا کو اس کے متعلقہ پیشوں سے ملائیں۔ آپ کس کے پاس جائیں گے؟ گوشت لینے — جوتا مرمت کروانے — کپڑے سلوانے — علاج کروانے۔ (ڈاکٹر، قصائی، موچی، درزی)",
+    "en": "Match each of the following with the right occupation. Who will you go to? To buy meat — to have a shoe mended — to have clothes sewn — to get treatment. (Doctor, butcher, cobbler, tailor)"
+   },
+   "prompt": {
+    "ur": "آپ کس کے پاس جائیں گے؟ ہر کام کو صحیح شخص سے ملائیں۔",
+    "en": "Who will you go to? Match each task with the right person."
+   },
+   "levels": {
+    "easy": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "جوتا مرمت کروانے",
+        "en": "To have a shoe mended",
+        "sym": "shoes"
+       },
+       "b": {
+        "ur": "موچی",
+        "en": "Cobbler",
+        "sym": "shoemaker"
+       }
+      },
+      {
+       "a": {
+        "ur": "کپڑے سلوانے",
+        "en": "To have clothes sewn",
+        "sym": "clothes"
+       },
+       "b": {
+        "ur": "درزی",
+        "en": "Tailor",
+        "sym": "tailor"
+       }
+      },
+      {
+       "a": {
+        "ur": "علاج کروانے",
+        "en": "To get treatment",
+        "sym": "sick"
+       },
+       "b": {
+        "ur": "ڈاکٹر",
+        "en": "Doctor",
+        "sym": "doctor"
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "گوشت لینے",
+        "en": "To buy meat"
+       },
+       "b": {
+        "ur": "قصائی",
+        "en": "Butcher"
+       }
+      },
+      {
+       "a": {
+        "ur": "جوتا مرمت کروانے",
+        "en": "To have a shoe mended"
+       },
+       "b": {
+        "ur": "موچی",
+        "en": "Cobbler"
+       }
+      },
+      {
+       "a": {
+        "ur": "کپڑے سلوانے",
+        "en": "To have clothes sewn"
+       },
+       "b": {
+        "ur": "درزی",
+        "en": "Tailor"
+       }
+      },
+      {
+       "a": {
+        "ur": "علاج کروانے",
+        "en": "To get treatment"
+       },
+       "b": {
+        "ur": "ڈاکٹر",
+        "en": "Doctor"
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "گوشت لینے",
+        "en": "To buy meat"
+       },
+       "b": {
+        "ur": "قصائی",
+        "en": "Butcher"
+       }
+      },
+      {
+       "a": {
+        "ur": "جوتا مرمت کروانے",
+        "en": "To have a shoe mended"
+       },
+       "b": {
+        "ur": "موچی",
+        "en": "Cobbler"
+       }
+      },
+      {
+       "a": {
+        "ur": "کپڑے سلوانے",
+        "en": "To have clothes sewn"
+       },
+       "b": {
+        "ur": "درزی",
+        "en": "Tailor"
+       }
+      },
+      {
+       "a": {
+        "ur": "علاج کروانے",
+        "en": "To get treatment"
+       },
+       "b": {
+        "ur": "ڈاکٹر",
+        "en": "Doctor"
+       }
+      },
+      {
+       "a": {
+        "ur": "بال کٹوانے",
+        "en": "To have a haircut"
+       },
+       "b": {
+        "ur": "حجّام",
+        "en": "Barber"
+       }
+      },
+      {
+       "a": {
+        "ur": "گاڑی ٹھیک کروانے",
+        "en": "To have a car repaired"
+       },
+       "b": {
+        "ur": "موٹر مکینک",
+        "en": "Motor mechanic"
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p019-a2",
+   "label": {
+    "ur": "سوال نمبر 2",
+    "en": "Question 2"
+   },
+   "orig": {
+    "ur": "شہری اور دیہاتی زندگی میں فرق بتائیں اور لائن لگا کر ملائیں۔ (شہر — دیہات) خالص ہوا، ائیرپورٹ، کسان، گاڑیوں کا دھواں، چشمے اور کنوئیں، شور و غل، چھوٹے اور کچّے مکان، بڑی سڑکیں",
+    "en": "Say how city life and village life are different, and match by drawing lines. (City — Village) Pure air, airport, farmer, smoke from vehicles, springs and wells, noise, small mud houses, big roads"
+   },
+   "prompt": {
+    "ur": "ہر چیز کو صحیح خانے میں رکھیں: یہ شہر کی ہے یا دیہات کی؟",
+    "en": "Put each thing in the right box: does it belong to the city or the village?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "شہر",
+       "en": "City"
+      },
+      {
+       "ur": "دیہات",
+       "en": "Village"
+      }
+     ],
+     "items": [
+      {
+       "ur": "کسان",
+       "en": "Farmer",
+       "group": 1,
+       "sym": "farmer"
+      },
+      {
+       "ur": "ائیرپورٹ",
+       "en": "Airport",
+       "group": 0,
+       "sym": "airport"
+      },
+      {
+       "ur": "چھوٹے اور کچّے مکان",
+       "en": "Small mud houses",
+       "group": 1,
+       "sym": "hut"
+      },
+      {
+       "ur": "گاڑیوں کا دھواں",
+       "en": "Smoke from vehicles",
+       "group": 0,
+       "sym": "pollution"
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "شہر",
+       "en": "City"
+      },
+      {
+       "ur": "دیہات",
+       "en": "Village"
+      }
+     ],
+     "items": [
+      {
+       "ur": "خالص ہوا",
+       "en": "Pure air",
+       "group": 1
+      },
+      {
+       "ur": "ائیرپورٹ",
+       "en": "Airport",
+       "group": 0
+      },
+      {
+       "ur": "کسان",
+       "en": "Farmer",
+       "group": 1
+      },
+      {
+       "ur": "گاڑیوں کا دھواں",
+       "en": "Smoke from vehicles",
+       "group": 0
+      },
+      {
+       "ur": "چشمے اور کنوئیں",
+       "en": "Springs and wells",
+       "group": 1
+      },
+      {
+       "ur": "شور و غل",
+       "en": "Noise",
+       "group": 0
+      },
+      {
+       "ur": "چھوٹے اور کچّے مکان",
+       "en": "Small mud houses",
+       "group": 1
+      },
+      {
+       "ur": "بڑی سڑکیں",
+       "en": "Big roads",
+       "group": 0
+      }
+     ]
+    },
+    "hard": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "شہر",
+       "en": "City"
+      },
+      {
+       "ur": "دیہات",
+       "en": "Village"
+      },
+      {
+       "ur": "دونوں",
+       "en": "Both"
+      }
+     ],
+     "items": [
+      {
+       "ur": "اونچی عمارتیں",
+       "en": "Tall buildings",
+       "group": 0
+      },
+      {
+       "ur": "کھیتی باڑی",
+       "en": "Farming",
+       "group": 1
+      },
+      {
+       "ur": "ڈاکٹر",
+       "en": "Doctor",
+       "group": 2
+      },
+      {
+       "ur": "یونیورسٹی",
+       "en": "University",
+       "group": 0
+      },
+      {
+       "ur": "چشمے اور کنوئیں",
+       "en": "Springs and wells",
+       "group": 1
+      },
+      {
+       "ur": "درزی",
+       "en": "Tailor",
+       "group": 2
+      },
+      {
+       "ur": "ائیرپورٹ",
+       "en": "Airport",
+       "group": 0
+      },
+      {
+       "ur": "موچی",
+       "en": "Cobbler",
+       "group": 2
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p019-a3",
+   "label": {
+    "ur": "سوال نمبر 3",
+    "en": "Question 3"
+   },
+   "orig": {
+    "ur": "آپ بڑے ہو کر کون سا پیشہ اختیار کرنا چاہیں گے اور کیوں؟",
+    "en": "Which occupation would you like to choose when you grow up, and why?"
+   },
+   "prompt": {
+    "ur": "آپ بڑے ہو کر کیا بننا چاہتے ہیں؟ وجہ بھی بتائیں۔ ہر جواب ٹھیک ہے!",
+    "en": "What do you want to be when you grow up? Give your reason too. Every answer is fine!"
+   },
+   "levels": {
+    "easy": {
+     "kind": "open",
+     "mode": "draw",
+     "steps": [
+      {
+       "ur": "سوچیں: آپ بڑے ہو کر کیا بنیں گے؟",
+       "en": "Think: what will you be when you grow up?"
+      },
+      {
+       "ur": "اس پیشے کی تصویر بنائیں یا اس کا نام بتائیں۔",
+       "en": "Draw a picture of that occupation or say its name."
+      },
+      {
+       "ur": "یہ جملہ پورا کریں: \"میں ___ بنوں گا / بنوں گی۔\"",
+       "en": "Finish this sentence: \"I will be a ___.\""
+      }
+     ],
+     "model": {
+      "ur": "میں ڈاکٹر بنوں گی۔",
+      "en": "I will be a doctor."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے ایک پیشہ چنا۔",
+       "en": "I chose one occupation."
+      },
+      {
+       "ur": "میں نے اس کی تصویر بنائی یا نام بتایا۔",
+       "en": "I drew it or said its name."
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "اپنا پسندیدہ پیشہ لکھیں۔",
+       "en": "Write the occupation you like best."
+      },
+      {
+       "ur": "لکھیں کہ آپ یہ پیشہ کیوں چاہتے ہیں۔",
+       "en": "Write why you want to do this work."
+      }
+     ],
+     "model": {
+      "ur": "میں بڑا ہو کر ڈاکٹر بننا چاہتا ہوں کیونکہ میں بیمار لوگوں کا علاج کرنا چاہتا ہوں۔",
+      "en": "When I grow up I want to be a doctor because I want to treat sick people."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے پیشے کا نام لکھا۔",
+       "en": "I wrote the name of the occupation."
+      },
+      {
+       "ur": "میں نے وجہ لکھی۔",
+       "en": "I wrote the reason."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "اپنا پسندیدہ پیشہ اور اس کی وجہ لکھیں۔",
+       "en": "Write the occupation you like best and your reason."
+      },
+      {
+       "ur": "لکھیں کہ اس پیشے سے شہر اور دیہات کے لوگوں کو کیا فائدہ ہوگا۔",
+       "en": "Write how this occupation will help people in cities and villages."
+      },
+      {
+       "ur": "لکھیں کہ اس کے لیے آپ کو کیا سیکھنا ہوگا۔",
+       "en": "Write what you will need to learn for it."
+      }
+     ],
+     "model": {
+      "ur": "میں بڑی ہو کر استانی بننا چاہتی ہوں کیونکہ مجھے پڑھانا اچھا لگتا ہے۔ میں گاؤں کے بچوں کو بھی پڑھاؤں گی تاکہ وہاں تعلیم بڑھے۔ اس کے لیے مجھے خود خوب دل لگا کر پڑھنا ہوگا۔",
+      "en": "When I grow up I want to be a teacher because I like teaching. I will teach village children too, so that there is more education there. For this, I will have to study very hard myself."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے پیشہ اور وجہ لکھی۔",
+       "en": "I wrote the occupation and the reason."
+      },
+      {
+       "ur": "میں نے لوگوں کا فائدہ لکھا۔",
+       "en": "I wrote how it helps people."
+      },
+      {
+       "ur": "میں نے لکھا کہ مجھے کیا سیکھنا ہے۔",
+       "en": "I wrote what I need to learn."
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "سوال 1 میں پہلے کام پڑھیں، پھر سوچیں \"یہ کام کون کرتا ہے؟\" سوال 2 کے لیے صفحہ 12 اور 13 کی تصویریں دوبارہ دیکھیں۔",
+   "en": "In Question 1, read the task first, then think: \"Who does this work?\" For Question 2, look again at the pictures on pages 12 and 13."
+  },
+  {
+   "for": "motor",
+   "ur": "لائن کھینچنا مشکل ہو تو جواب بول کر بتائیں، انگلی سے دونوں خانوں کو چھوئیں، یا سکرین پر جواب کو چھو کر ملائیں۔ سوال 3 کا جواب بول کر ریکارڈ بھی کیا جا سکتا ہے۔",
+   "en": "If drawing lines is hard, say the answer aloud, touch both boxes with a finger, or touch the answers on the screen to match them. The answer to Question 3 can also be spoken and recorded."
+  },
+  {
+   "for": "vision",
+   "ur": "سوال 2 کے آٹھوں الفاظ ایک ایک کر کے سنیں اور ہر ایک کے بعد \"شہر\" یا \"دیہات\" بولیں۔",
+   "en": "Listen to the eight words in Question 2 one at a time, and say \"city\" or \"village\" after each one."
+  },
+  {
+   "for": "teacher",
+   "ur": "سوال 3 میں کوئی جواب غلط نہیں۔ ہر بچے کے خواب کی حوصلہ افزائی کریں اور لکھنے کی جگہ تصویر، اشارہ یا زبانی جواب بھی قبول کریں۔ قصائی کا ذکر کتاب کی تصویروں میں نہیں، اس لیے پہلے بتا دیں کہ قصائی گوشت بیچتا ہے۔",
+   "en": "In Question 3 no answer is wrong. Encourage every child's dream, and accept a drawing, a gesture or a spoken answer instead of writing. The butcher is not shown in the book's pictures, so explain first that a butcher sells meat."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "دیہات اور شہر: دہرائی",
+   "en": "Villages and cities: revision"
+  },
+  "image": null,
+  "sentences": [
+   {
+    "en": "Village air is clean.",
+    "words": [
+     {
+      "ur": "دیہات",
+      "sym": "village"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "ہوا",
+      "sym": "air"
+     },
+     {
+      "ur": "صاف",
+      "sym": "clean"
+     },
+     {
+      "ur": "ہوتی ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Village",
+      "sym": "village"
+     },
+     {
+      "en": "air",
+      "sym": "air"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "clean.",
+      "sym": "clean"
+     }
+    ]
+   },
+   {
+    "en": "The farmer works in the village.",
+    "words": [
+     {
+      "ur": "کسان",
+      "sym": "farmer"
+     },
+     {
+      "ur": "دیہات",
+      "sym": "village"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "کام کرتا ہے۔",
+      "sym": "to work"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "farmer",
+      "sym": "farmer"
+     },
+     {
+      "en": "works",
+      "sym": "to work"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "village.",
+      "sym": "village"
+     }
+    ]
+   },
+   {
+    "en": "Cities have big roads.",
+    "words": [
+     {
+      "ur": "شہر",
+      "sym": "city"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "بڑی",
+      "sym": "big"
+     },
+     {
+      "ur": "سڑکیں",
+      "sym": "road"
+     },
+     {
+      "ur": "ہوتی ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Cities",
+      "sym": "city"
+     },
+     {
+      "en": "have",
+      "sym": null
+     },
+     {
+      "en": "big",
+      "sym": "big"
+     },
+     {
+      "en": "roads.",
+      "sym": "road"
+     }
+    ]
+   },
+   {
+    "en": "Cities are noisy.",
+    "words": [
+     {
+      "ur": "شہر",
+      "sym": "city"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "شور",
+      "sym": "noise"
+     },
+     {
+      "ur": "ہوتا ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Cities",
+      "sym": "city"
+     },
+     {
+      "en": "are",
+      "sym": null
+     },
+     {
+      "en": "noisy.",
+      "sym": "noise"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "ہر چیز کو صحیح جگہ رکھیں: دیہات یا شہر؟",
+    "en": "Put each thing in the right place: village or city?"
+   },
+   "task": {
+    "kind": "sort",
+    "groups": [
+     {
+      "ur": "دیہات",
+      "en": "Village",
+      "sym": "village"
+     },
+     {
+      "ur": "شہر",
+      "en": "City",
+      "sym": "city"
+     }
+    ],
+    "items": [
+     {
+      "ur": "کسان",
+      "en": "Farmer",
+      "group": 0,
+      "sym": "farmer"
+     },
+     {
+      "ur": "ائیرپورٹ",
+      "en": "Airport",
+      "group": 1,
+      "sym": "airport"
+     },
+     {
+      "ur": "کنواں",
+      "en": "Well",
+      "group": 0,
+      "sym": "well"
+     },
+     {
+      "ur": "بڑی سڑک",
+      "en": "Big road",
+      "group": 1,
+      "sym": "motorway"
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

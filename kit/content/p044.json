@@ -1,0 +1,212 @@
+{
+  "n": 44,
+  "printed": "40",
+  "chapter": 6,
+  "kind": "exercise",
+  "title": {"ur": "مشق: پانی", "en": "Exercise: Water"},
+  "blocks": [
+    {"t": "h", "ur": "مشق", "en": "Exercise"},
+    {"t": "activity",
+     "id": "p044-a1",
+     "label": {"ur": "سوال نمبر 1", "en": "Question 1"},
+     "orig": {"ur": "سوال نمبر 1۔ درست جملے کے سامنے ✓ اور غلط جملے کے سامنے ✗ کا نشان لگائیں۔\n• ہمیں صاف پانی پینا چاہیے۔\n• سمندر کا پانی میٹھا ہوتا ہے۔\n• کنواں پانی حاصل کرنے کا قدرتی ذریعہ ہے۔\n• تمام جان داروں کو زندہ رہنے کے لیے پانی چاہیے۔", "en": "Question 1. Put a tick ✓ next to each correct sentence and a cross ✗ next to each wrong sentence.\n• We should drink clean water.\n• Sea water is sweet.\n• A well is a natural source of water.\n• All living things need water to stay alive."},
+     "prompt": {"ur": "ہر جملہ پڑھیں یا سنیں۔ بات ٹھیک ہے تو ”درست“ چنیں، ٹھیک نہیں تو ”غلط“ چنیں۔", "en": "Read or listen to each sentence. If it is right, choose \"True\". If it is not right, choose \"False\"."},
+     "levels": {
+       "easy": {"kind": "tf", "questions": [
+         {"q": {"ur": "ہمیں صاف پانی پینا چاہیے۔", "en": "We should drink clean water."}, "answer": true,
+          "fb": {"ur": "درست۔ صاف پانی ہمیں بیماریوں سے محفوظ رکھتا ہے۔", "en": "True. Clean water keeps us safe from diseases."}},
+         {"q": {"ur": "سمندر کا پانی میٹھا ہوتا ہے۔", "en": "Sea water is sweet."}, "answer": false,
+          "fb": {"ur": "غلط۔ سمندر کا پانی نمکین (کھارا) ہوتا ہے۔ ہم اسے پی نہیں سکتے۔", "en": "False. Sea water is salty. We cannot drink it."}}
+       ]},
+       "moderate": {"kind": "tf", "questions": [
+         {"q": {"ur": "ہمیں صاف پانی پینا چاہیے۔", "en": "We should drink clean water."}, "answer": true,
+          "fb": {"ur": "درست۔ صاف پانی ہم پینے اور کھانا پکانے کے لیے استعمال کرتے ہیں تاکہ بیماریوں سے محفوظ رہیں۔", "en": "True. We use clean water for drinking and cooking so that we stay safe from diseases."}},
+         {"q": {"ur": "سمندر کا پانی میٹھا ہوتا ہے۔", "en": "Sea water is sweet."}, "answer": false,
+          "fb": {"ur": "غلط۔ سمندر کا پانی نمکین (کھارا) ہوتا ہے۔", "en": "False. Sea water is salty."}},
+         {"q": {"ur": "کنواں پانی حاصل کرنے کا قدرتی ذریعہ ہے۔", "en": "A well is a natural source of water."}, "answer": false,
+          "fb": {"ur": "غلط۔ پانی کے قدرتی ذرائع بارش، برف اور زیرِ زمین پانی ہیں۔ کنواں انسان کھودتے ہیں؛ اس کے ذریعے ہم زیرِ زمین پانی حاصل کرتے ہیں۔", "en": "False. The natural sources of water are rain, snow and underground water. People dig wells, and through a well we get underground water."}},
+         {"q": {"ur": "تمام جان داروں کو زندہ رہنے کے لیے پانی چاہیے۔", "en": "All living things need water to stay alive."}, "answer": true,
+          "fb": {"ur": "درست۔ جان دار پانی کے بغیر زندہ نہیں رہ سکتے۔", "en": "True. Living things cannot stay alive without water."}}
+       ]},
+       "hard": {"kind": "tf", "questions": [
+         {"q": {"ur": "ہمیں صاف پانی پینا چاہیے۔", "en": "We should drink clean water."}, "answer": true,
+          "fb": {"ur": "درست۔ صاف پانی ہمیں بیماریوں سے محفوظ رکھتا ہے۔", "en": "True. Clean water keeps us safe from diseases."}},
+         {"q": {"ur": "سمندر کا پانی میٹھا ہوتا ہے۔", "en": "Sea water is sweet."}, "answer": false,
+          "fb": {"ur": "غلط۔ سمندر کا پانی نمکین (کھارا) ہوتا ہے۔", "en": "False. Sea water is salty."}},
+         {"q": {"ur": "کنواں پانی حاصل کرنے کا قدرتی ذریعہ ہے۔", "en": "A well is a natural source of water."}, "answer": false,
+          "fb": {"ur": "غلط۔ قدرتی ذرائع بارش، برف اور زیرِ زمین پانی ہیں۔ کنواں انسان بناتے ہیں تاکہ زیرِ زمین پانی نکال سکیں۔", "en": "False. The natural sources are rain, snow and underground water. People make wells so that they can bring up underground water."}},
+         {"q": {"ur": "تمام جان داروں کو زندہ رہنے کے لیے پانی چاہیے۔", "en": "All living things need water to stay alive."}, "answer": true,
+          "fb": {"ur": "درست۔ جان دار پانی کے بغیر زندہ نہیں رہ سکتے۔", "en": "True. Living things cannot stay alive without water."}},
+         {"q": {"ur": "پانی حاصل کرنے کا سب سے بڑا ذریعہ بارش ہے۔", "en": "The biggest source of water is rain."}, "answer": true,
+          "fb": {"ur": "درست۔ پانی حاصل کرنے کا سب سے اہم اور بڑا ذریعہ بارش ہے۔", "en": "True. The most important and biggest source of water is rain."}},
+         {"q": {"ur": "تھرپارکر میں پانی بہت زیادہ ہے۔", "en": "There is a lot of water in Tharparkar."}, "answer": false,
+          "fb": {"ur": "غلط۔ بارش نہ ہونے کی وجہ سے تھرپارکر میں پانی کی کمی رہتی ہے۔", "en": "False. Because there is not enough rain, Tharparkar is always short of water."}},
+         {"q": {"ur": "پانی کو اُبال کر اور چھان کر صاف کیا جاتا ہے۔", "en": "Water is cleaned by boiling and filtering it."}, "answer": true,
+          "fb": {"ur": "درست۔ چھاننا اور اُبالنا پانی کو صاف کرنے کے طریقے ہیں۔", "en": "True. Filtering and boiling are ways of cleaning water."}}
+       ]}
+     }},
+    {"t": "activity",
+     "id": "p044-a2",
+     "label": {"ur": "سوال نمبر 2", "en": "Question 2"},
+     "orig": {"ur": "سوال نمبر 2۔ پانی نہ ملنے کی وجہ سے آپ کو کون سی تین مشکلات پیش آ سکتی ہیں؟", "en": "Question 2. What three problems could you face if you could not get water?"},
+     "prompt": {"ur": "سوچیں: اگر ایک دن آپ کے گھر پانی نہ آئے تو کون کون سے کام رک جائیں گے؟", "en": "Think: if no water came to your home for one day, which jobs would have to stop?"},
+     "levels": {
+       "easy": {"kind": "sort",
+         "groups": [{"ur": "پانی کے بغیر نہیں ہو سکتا", "en": "Cannot be done without water", "sym": "water"}, {"ur": "پانی کے بغیر ہو سکتا ہے", "en": "Can be done without water", "sym": "yes"}],
+         "items": [
+           {"ur": "پیاس بجھانا", "en": "Drinking when thirsty", "sym": "to drink", "group": 0},
+           {"ur": "کتاب پڑھنا", "en": "Reading a book", "sym": "to read", "group": 1},
+           {"ur": "نہانا", "en": "Having a bath", "sym": "to bathe", "group": 0},
+           {"ur": "کپڑے دھونا", "en": "Washing clothes", "sym": "wash clothes", "group": 0},
+           {"ur": "سونا", "en": "Sleeping", "sym": "to sleep", "group": 1}
+         ]},
+       "moderate": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "صفحہ 35 کی تصویریں یاد کریں: ہم پانی کن کاموں میں استعمال کرتے ہیں؟", "en": "Remember the pictures on page 35: what do we use water for?"},
+           {"ur": "سوچیں کہ پانی نہ ہو تو ان میں سے کون سے کام نہیں ہو سکیں گے۔", "en": "Think which of those jobs could not be done without water."},
+           {"ur": "تین مشکلات لکھیں یا بول کر بتائیں۔", "en": "Write or say three problems."}
+         ],
+         "model": {"ur": "1۔ ہمیں پینے کے لیے پانی نہیں ملے گا اور ہم پیاسے رہیں گے۔ 2۔ ہم کھانا نہیں بنا سکیں گے۔ 3۔ ہم نہا نہیں سکیں گے اور کپڑے اور برتن نہیں دھو سکیں گے۔", "en": "1. We will have no water to drink and will stay thirsty. 2. We will not be able to make food. 3. We will not be able to have a bath or wash clothes and dishes."},
+         "checklist": [
+           {"ur": "میں نے تین مشکلات بتائیں۔", "en": "I gave three problems."},
+           {"ur": "ہر مشکل پانی کے کسی استعمال سے جڑی ہے۔", "en": "Each problem is linked to a use of water."}
+         ]},
+       "hard": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "تین مشکلات لکھیں جو پانی نہ ملنے سے آپ کو پیش آ سکتی ہیں۔", "en": "Write three problems you could face without water."},
+           {"ur": "لکھیں: پانی نہ ملنے سے پودوں، جانوروں اور کھیتوں کا کیا ہوگا؟", "en": "Write: what would happen to plants, animals and fields without water?"},
+           {"ur": "لکھیں: آپ خود پانی بچانے کے لیے کون سے دو کام کریں گے؟", "en": "Write: which two things will you yourself do to save water?"}
+         ],
+         "model": {"ur": "مجھے پیاس لگے گی، کھانا نہیں بنے گا، اور میں صاف نہیں رہ سکوں گا جس سے بیمار ہو سکتا ہوں۔ پودے سوکھ جائیں گے، جانور پیاسے رہیں گے اور کھیتوں میں فصل نہیں اُگے گی۔ میں نلکا بند رکھوں گا اور بچا ہوا پانی پودوں کو دوں گا۔", "en": "I will be thirsty, food will not be made, and I will not be able to stay clean, which could make me ill. Plants will dry up, animals will stay thirsty and crops will not grow in the fields. I will keep the tap turned off and give leftover water to plants."},
+         "checklist": [
+           {"ur": "میں نے اپنی تین مشکلات لکھیں۔", "en": "I wrote my three problems."},
+           {"ur": "میں نے پودوں یا جانوروں کے بارے میں بھی لکھا۔", "en": "I also wrote about plants or animals."},
+           {"ur": "میں نے پانی بچانے کے دو کام لکھے۔", "en": "I wrote two things I will do to save water."}
+         ]}
+     }},
+    {"t": "activity",
+     "id": "p044-a3",
+     "label": {"ur": "سوال نمبر 3", "en": "Question 3"},
+     "orig": {"ur": "سوال نمبر 3۔ آپ اپنے علاقے میں پانی کے کوئی سے دو ذرائع بتائیں۔\n(i) ________  (ii) ________", "en": "Question 3. Name any two sources of water in your area.\n(i) ________  (ii) ________"},
+     "prompt": {"ur": "آپ کے گھر، سکول یا محلّے میں پانی کہاں سے آتا ہے؟ دو ذرائع بتائیں۔", "en": "Where does water come from in your home, school or neighbourhood? Name two sources."},
+     "levels": {
+       "easy": {"kind": "sort",
+         "groups": [{"ur": "پانی کا ذریعہ ہے", "en": "A source of water", "sym": "water"}, {"ur": "پانی کا ذریعہ نہیں", "en": "Not a source of water", "sym": "no"}],
+         "items": [
+           {"ur": "نلکا", "en": "Tap or hand pump", "sym": "tap", "group": 0},
+           {"ur": "کرسی", "en": "Chair", "sym": "chair", "group": 1},
+           {"ur": "دریا", "en": "River", "sym": "river", "group": 0},
+           {"ur": "بارش", "en": "Rain", "sym": "rain", "group": 0},
+           {"ur": "کتاب", "en": "Book", "sym": "book", "group": 1},
+           {"ur": "کنواں", "en": "Well", "sym": "well", "group": 0}
+         ]},
+       "moderate": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "سوچیں: آپ کے گھر میں پانی کہاں سے آتا ہے؟", "en": "Think: where does the water in your home come from?"},
+           {"ur": "اپنے علاقے میں دیکھیں: کیا وہاں نلکا، کنواں، ٹیوب ویل، نہر، دریا یا فلٹریشن پلانٹ ہے؟", "en": "Look around your area: is there a hand pump, well, tube well, canal, river or filtration plant?"},
+           {"ur": "کوئی سے دو ذرائع (i) اور (ii) میں لکھیں یا بتائیں۔", "en": "Write or say any two sources for (i) and (ii)."}
+         ],
+         "model": {"ur": "(i) نلکا (ہینڈ پمپ)  (ii) نہر۔ دوسرے درست جواب: کنواں، ٹیوب ویل، دریا، چشمہ، جھیل، بارش، فلٹریشن پلانٹ کا پانی۔", "en": "(i) Hand pump  (ii) Canal. Other correct answers: well, tube well, river, spring, lake, rain, water from a filtration plant."},
+         "checklist": [
+           {"ur": "میں نے دو ذرائع بتائے۔", "en": "I named two sources."},
+           {"ur": "یہ دونوں میرے اپنے علاقے میں موجود ہیں۔", "en": "Both of them are found in my own area."}
+         ]},
+       "hard": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "اپنے علاقے میں پانی کے دو ذرائع لکھیں۔", "en": "Write two sources of water in your area."},
+           {"ur": "ہر ذریعے کے ساتھ لکھیں: یہ زیرِ زمین پانی ہے یا سطحِ زمین کا پانی؟", "en": "For each source write: is it underground water or surface water?"},
+           {"ur": "لکھیں کہ آپ کے علاقے کے لوگ اس پانی کو کس کام میں استعمال کرتے ہیں۔", "en": "Write what people in your area use this water for."}
+         ],
+         "model": {"ur": "(i) ٹیوب ویل — زیرِ زمین پانی — کھیتوں کو سیراب کرنے اور پینے کے لیے۔ (ii) نہر — سطحِ زمین کا پانی — کھیتوں کو سیراب کرنے کے لیے۔", "en": "(i) Tube well: underground water, used for watering the fields and for drinking. (ii) Canal: surface water, used for watering the fields."},
+         "checklist": [
+           {"ur": "میں نے دو ذرائع لکھے۔", "en": "I wrote two sources."},
+           {"ur": "میں نے بتایا کہ پانی زیرِ زمین ہے یا سطحِ زمین کا۔", "en": "I said whether the water is underground or surface water."},
+           {"ur": "میں نے ہر ذریعے کا استعمال لکھا۔", "en": "I wrote the use of each source."}
+         ]}
+     }},
+    {"t": "img", "crop": [0.160, 0.590, 0.515, 0.866],
+     "alt": {"ur": "زمین (گلوب) کا بغیر رنگ کا خاکہ۔ گول دائرے کے اندر خشکی کے بڑے ٹکڑوں کی لکیریں بنی ہیں؛ باقی خالی جگہ سمندر ہے۔", "en": "This is an uncoloured outline drawing of the Earth as a globe. Inside the circle are the outlines of large pieces of land, and the rest of the empty space is sea."}},
+    {"t": "activity",
+     "id": "p044-a4",
+     "label": {"ur": "سوال نمبر 4", "en": "Question 4"},
+     "orig": {"ur": "سوال نمبر 4۔ سامنے دیے گئے خاکے میں مختلف رنگوں سے زمین پر پانی اور خشکی کو رنگ بھر کر ظاہر کریں۔", "en": "Question 4. In the outline drawing beside this question, show the water and the land on the Earth by colouring them in different colours."},
+     "prompt": {"ur": "زمین کے خاکے میں رنگ بھریں: پانی ایک رنگ سے اور خشکی دوسرے رنگ سے۔", "en": "Colour the outline of the Earth: water in one colour and land in another."},
+     "levels": {
+       "easy": {"kind": "mcq", "questions": [
+         {"q": {"ur": "نقشے میں پانی کو عام طور پر کس رنگ سے دکھاتے ہیں؟", "en": "Which colour is usually used to show water on a map?"},
+          "img": [0.160, 0.590, 0.515, 0.866],
+          "options": [{"ur": "نیلا", "en": "Blue", "sym": "blue"}, {"ur": "سرخ", "en": "Red", "sym": "red"}],
+          "answer": 0,
+          "fb": {"ur": "پانی کو نیلے رنگ سے دکھاتے ہیں۔ سمندر نیلا نظر آتا ہے۔", "en": "Water is shown in blue. The sea looks blue."}},
+         {"q": {"ur": "خشکی (زمین) کے لیے کون سا رنگ اچھا ہے؟", "en": "Which colour is good for land?"},
+          "options": [{"ur": "نیلا", "en": "Blue", "sym": "blue"}, {"ur": "سبز", "en": "Green", "sym": "green"}],
+          "answer": 1,
+          "fb": {"ur": "خشکی کو سبز یا بھورے رنگ سے دکھا سکتے ہیں تاکہ وہ پانی سے الگ نظر آئے۔", "en": "Land can be shown in green or brown so that it looks different from the water."}}
+       ]},
+       "moderate": {"kind": "open", "mode": "draw",
+         "steps": [
+           {"ur": "خاکے کو دیکھیں۔ لکیروں کے اندر والے ٹکڑے خشکی ہیں۔", "en": "Look at the outline. The pieces inside the lines are land."},
+           {"ur": "خشکی میں سبز یا بھورا رنگ بھریں۔", "en": "Colour the land green or brown."},
+           {"ur": "باقی ساری جگہ پانی ہے۔ اس میں نیلا رنگ بھریں۔", "en": "All the remaining space is water. Colour it blue."},
+           {"ur": "نیچے لکھیں یا بتائیں: نیلا = پانی، سبز = خشکی۔", "en": "Below it, write or say: blue is water, green is land."}
+         ],
+         "model": {"ur": "خشکی کے ٹکڑے سبز (یا بھورے) اور ان کے اردگرد کا سارا سمندر نیلا۔", "en": "The pieces of land are green or brown, and all the sea around them is blue."},
+         "checklist": [
+           {"ur": "میں نے پانی اور خشکی کے لیے دو الگ رنگ استعمال کیے۔", "en": "I used two different colours for water and land."},
+           {"ur": "میں نے رنگ لکیروں کے اندر بھرنے کی کوشش کی۔", "en": "I tried to colour inside the lines."}
+         ]},
+       "hard": {"kind": "open", "mode": "draw",
+         "steps": [
+           {"ur": "خشکی میں سبز یا بھورا اور پانی میں نیلا رنگ بھریں۔", "en": "Colour the land green or brown and the water blue."},
+           {"ur": "اپنے رنگوں کی چابی بنائیں: دو چھوٹے خانے بنا کر ان کے ساتھ ”پانی“ اور ”خشکی“ لکھیں۔", "en": "Make a key for your colours: draw two small boxes and write \"water\" and \"land\" beside them."},
+           {"ur": "اپنی رنگین تصویر دیکھ کر لکھیں: اس خاکے میں کون سا رنگ زیادہ جگہ پر ہے؟", "en": "Look at your coloured picture and write: which colour covers more space in this outline?"},
+           {"ur": "سوچیں اور لکھیں: سمندر میں اتنا پانی ہے، پھر بھی ہمیں پانی کیوں بچانا چاہیے؟", "en": "Think and write: there is so much water in the sea, so why should we still save water?"}
+         ],
+         "model": {"ur": "میرے خاکے میں نیلا رنگ، یعنی پانی، زیادہ جگہ پر ہے۔ سمندر کا پانی نمکین ہوتا ہے، ہم اسے پی نہیں سکتے۔ پینے کا صاف پانی کم ہے، اس لیے ہمیں پانی بچانا چاہیے۔", "en": "In my outline the blue colour, that is water, covers more space. Sea water is salty and we cannot drink it. Clean drinking water is limited, so we should save water."},
+         "checklist": [
+           {"ur": "میں نے دو رنگوں سے پانی اور خشکی دکھائی۔", "en": "I showed water and land with two colours."},
+           {"ur": "میں نے رنگوں کی چابی بنائی۔", "en": "I made a colour key."},
+           {"ur": "میں نے دونوں سوالوں کے جواب لکھے۔", "en": "I answered both questions."}
+         ]}
+     }},
+    {"t": "teacher", "ur": "بچوں کو پانی ضائع کرنے کے نقصانات سے آگاہ کریں۔", "en": "Tell the children about the harm that wasting water does."}
+  ],
+  "hint": [
+    {"for": "all", "ur": "جواب یاد نہ آئے تو پیچھے کے صفحے دیکھیں: پانی کے استعمال (صفحہ 35)، قدرتی ذرائع (صفحہ 36)، کنواں اور نلکا (صفحہ 37)، پانی کی قلّت (صفحہ 39)۔", "en": "If you cannot remember an answer, look back at the earlier pages: uses of water on page 35, natural sources on page 36, well and hand pump on page 37, and water shortage on page 39."},
+    {"for": "vision", "ur": "سوال 4 کے لیے خاکے کی لکیروں پر گوند یا دھاگا لگا کر اُبھار دیں تاکہ خشکی کو چھو کر پہچانا جا سکے۔ خشکی پر ریگ مال یا کپڑا اور پانی پر چکنا کاغذ چپکایا جا سکتا ہے۔", "en": "For Question 4, raise the lines of the outline with glue or string so that the land can be found by touch. Sandpaper or cloth can be stuck on the land and smooth paper on the water."},
+    {"for": "motor", "ur": "✓ اور ✗ لگانے کے بجائے ”درست“ یا ”غلط“ بول دیں یا انگوٹھا اوپر/نیچے کریں۔ رنگ بھرنے کے لیے موٹے کریون، اسفنج یا انگلی کے رنگ استعمال کریں؛ لکیر سے باہر رنگ نکل جائے تو کوئی بات نہیں۔", "en": "Instead of marking a tick ✓ or a cross ✗, say \"true\" or \"false\" or give a thumbs up or a thumbs down. For colouring use thick crayons, a sponge or finger paint; it does not matter if the colour goes outside the lines."},
+    {"for": "teacher", "ur": "سوال 2 اور 3 کے جواب زبانی، اشاروں یا تصویر بنا کر بھی قبول کریں۔ سوال 3 میں ہر بچے کا جواب اس کے اپنے علاقے کے مطابق الگ ہو سکتا ہے۔ سوال 1 کے تیسرے جملے پر بات کریں: کنواں انسان بناتے ہیں، قدرتی ذریعہ زیرِ زمین پانی ہے۔", "en": "Accept answers to Questions 2 and 3 orally, in signs or as drawings. In Question 3 each child's answer may differ according to their own area. Discuss the third sentence of Question 1: wells are made by people; the natural source is the underground water."}
+  ],
+  "easy": {
+    "title": {"ur": "پانی: ہم نے کیا سیکھا؟", "en": "Water: what did we learn?"},
+    "image": {"crop": [0.160, 0.590, 0.515, 0.866], "alt": {"ur": "زمین کا گول خاکہ جس میں خشکی اور پانی ہے۔", "en": "This is a round outline of the Earth with land and water."}},
+    "sentences": [
+      {"en": "Everyone needs water.",
+       "words_en": [{"en": "Everyone", "sym": "everybody"}, {"en": "needs", "sym": "to need"}, {"en": "water.", "sym": "water"}],
+       "words": [{"ur": "سب", "sym": "everybody"}, {"ur": "کو", "sym": null}, {"ur": "پانی", "sym": "water"}, {"ur": "چاہیے۔", "sym": "to need"}]},
+      {"en": "Water comes from rain.",
+       "words_en": [{"en": "Water", "sym": "water"}, {"en": "comes", "sym": "to come"}, {"en": "from", "sym": null}, {"en": "rain.", "sym": "rain"}],
+       "words": [{"ur": "پانی", "sym": "water"}, {"ur": "بارش", "sym": "rain"}, {"ur": "سے", "sym": null}, {"ur": "آتا ہے۔", "sym": "to come"}]},
+      {"en": "We drink clean water.",
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "drink", "sym": "to drink"}, {"en": "clean", "sym": "clean"}, {"en": "water.", "sym": "water"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "صاف", "sym": "clean"}, {"ur": "پانی", "sym": "water"}, {"ur": "پیتے ہیں۔", "sym": "to drink"}]},
+      {"en": "We save water.",
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "save", "sym": "to save"}, {"en": "water.", "sym": "water"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "پانی", "sym": "water"}, {"ur": "بچاتے ہیں۔", "sym": "to save"}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "صحیح جواب چنیں۔", "en": "Choose the right answer."},
+      "task": {"kind": "mcq", "questions": [
+        {"q": {"ur": "ہم کون سا پانی پیتے ہیں؟", "en": "Which water do we drink?"},
+         "options": [{"ur": "گندا پانی", "en": "Dirty water", "sym": "dirty"}, {"ur": "صاف پانی", "en": "Clean water", "sym": "clean"}],
+         "answer": 1,
+         "fb": {"ur": "ہم صاف پانی پیتے ہیں تاکہ بیمار نہ ہوں۔", "en": "We drink clean water so that we do not get ill."}},
+        {"q": {"ur": "پانی کہاں سے آتا ہے؟", "en": "Where does water come from?"},
+         "options": [{"ur": "بارش", "en": "Rain", "sym": "rain"}, {"ur": "کرسی", "en": "Chair", "sym": "chair"}],
+         "answer": 0,
+         "fb": {"ur": "پانی بارش سے آتا ہے۔", "en": "Water comes from rain."}}
+      ]}
+    }
+  },
+  "print": true
+}

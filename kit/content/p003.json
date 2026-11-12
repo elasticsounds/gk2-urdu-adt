@@ -1,0 +1,151 @@
+{
+ "n": 3,
+ "printed": "",
+ "chapter": 0,
+ "kind": "front",
+ "title": {
+  "ur": "کتاب تیار کرنے والے",
+  "en": "The people who made this book"
+ },
+ "blocks": [
+  {
+   "t": "p",
+   "ur": "یہ کتاب یکساں قومی نصاب 2020ء کے مطابق اور قومی نظرِ ثانی کمیٹی کی منظور کردہ ہے۔",
+   "en": "This book follows the Single National Curriculum 2020 and is approved by the National Review Committee."
+  },
+  {
+   "t": "p",
+   "ur": "جملہ حقوق بحق پنجاب کریکولم اینڈ ٹیکسٹ بک بورڈ، لاہور محفوظ ہیں۔",
+   "en": "All rights reserved with the Punjab Curriculum and Textbook Board, Lahore."
+  },
+  {
+   "t": "p",
+   "ur": "اس کتاب کا کوئی حصّہ نقل یا ترجمہ نہیں کیا جا سکتا اور نہ ہی اسے ٹیسٹ پیپرز، گائیڈ بکس، خلاصہ جات، نوٹس یا امدادی کتب کی تیاری میں استعمال کیا جا سکتا ہے۔",
+   "en": "No part of this book may be copied or translated, and it may not be used to prepare test papers, guide books, summaries, notes or help books."
+  },
+  {
+   "t": "p",
+   "ur": "تجرباتی ایڈیشن",
+   "en": "Experimental edition"
+  },
+  {
+   "t": "p",
+   "ur": "زیرِ نگرانی: محمد رفیق طاہر، جوائنٹ ایجوکیشنل ایڈوائزر، قومی نصاب کونسل، وفاقی وزارتِ تعلیم و پیشہ ورانہ تربیت، اسلام آباد",
+   "en": "Supervision: Muhammad Rafiq Tahir, Joint Educational Adviser, National Curriculum Council, Federal Ministry of Education and Professional Training, Islamabad"
+  },
+  {
+   "t": "p",
+   "ur": "فوکل پرسن پنجاب برائے یکساں قومی نصاب: عامر ریاض، ڈائریکٹر (کریکولم)، پنجاب کریکولم اینڈ ٹیکسٹ بک بورڈ، لاہور",
+   "en": "Punjab focal person for the Single National Curriculum: Amir Riaz, Director (Curriculum), Punjab Curriculum and Textbook Board, Lahore"
+  },
+  {
+   "t": "p",
+   "ur": "مصنفہ: یاسمین جدون (ممبر قومی نصاب کمیٹی، ماہرِ تعلیم و تربیتِ اساتذہ)",
+   "en": "Author: Yasmeen Jadoon (member, National Curriculum Committee; education and teacher-training expert)"
+  },
+  {
+   "t": "h",
+   "ur": "اراکین قومی جائزہ کمیٹی",
+   "en": "Members of the National Review Committee"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "کرم حسین (پنجاب کریکولم اینڈ ٹیکسٹ بک بورڈ)",
+     "en": "Karam Hussain (Punjab Curriculum and Textbook Board)"
+    },
+    {
+     "ur": "بابر بشیر (نظامتِ نصاب و تعلیمِ اساتذہ، خیبر پختونخوا)",
+     "en": "Babar Bashir (Directorate of Curriculum and Teacher Education, Khyber Pakhtunkhwa)"
+    },
+    {
+     "ur": "احسان اللہ خان (ادارہ نصابیات و مرکز توسیع، بلوچستان)",
+     "en": "Ehsanullah Khan (Bureau of Curriculum and Extension Centre, Balochistan)"
+    },
+    {
+     "ur": "تکبیر عالم (محکمہ تعلیم، گلگت بلتستان)",
+     "en": "Takbir Alam (Education Department, Gilgit-Baltistan)"
+    },
+    {
+     "ur": "ڈاکٹر صوفیہ صدیقی (لمز یونیورسٹی، لاہور)",
+     "en": "Dr Sofia Siddiqui (LUMS University, Lahore)"
+    },
+    {
+     "ur": "سہیل بن عزیز (قومی نصاب کونسل)",
+     "en": "Sohail Bin Aziz (National Curriculum Council)"
+    },
+    {
+     "ur": "فرزانہ ہاشمی (بیکن ہاؤس سکول سسٹم)",
+     "en": "Farzana Hashmi (Beaconhouse School System)"
+    },
+    {
+     "ur": "زاہدہ عزیز (ایف جی ای آئی، کینٹ اینڈ گیریژن)",
+     "en": "Zahida Aziz (FGEI, Cantt and Garrison)"
+    },
+    {
+     "ur": "زاہد حسین (نمائندہ پرائیویٹ سکول، اسلام آباد)",
+     "en": "Zahid Hussain (representative of private schools, Islamabad)"
+    },
+    {
+     "ur": "راشد علی (فیڈرل ڈائریکٹوریٹ آف ایجوکیشن، اسلام آباد)",
+     "en": "Rashid Ali (Federal Directorate of Education, Islamabad)"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "ur": "تکنیکی معاونت: نگہت لون، اسفند یار خان",
+   "en": "Technical support: Nighat Lone, Asfandyar Khan"
+  },
+  {
+   "t": "p",
+   "ur": "ڈیسک آفیسر: صائمہ عباس محمود (قومی نصاب کونسل)",
+   "en": "Desk officer: Saima Abbas Mahmood (National Curriculum Council)"
+  },
+  {
+   "t": "p",
+   "ur": "ڈائریکٹر مسودات: فریدہ صادق",
+   "en": "Director Manuscripts: Farida Sadiq"
+  },
+  {
+   "t": "p",
+   "ur": "ڈپٹی ڈائریکٹر (آرٹ اینڈ ڈیزائن): غلام محی الدین",
+   "en": "Deputy Director (Art and Design): Ghulam Mohiuddin"
+  },
+  {
+   "t": "p",
+   "ur": "نگران: محمد انور ساجد",
+   "en": "Supervisor: Muhammad Anwar Sajid"
+  },
+  {
+   "t": "p",
+   "ur": "السٹریشنز: مہربانو محمود، آیت اللہ",
+   "en": "Illustrations: Mehrbano Mahmood, Ayatullah"
+  },
+  {
+   "t": "p",
+   "ur": "لے آؤٹ/ڈیزائننگ: انعام اللہ، علیم الرحمٰن",
+   "en": "Layout/Designing: Inamullah, Aleem-ur-Rehman"
+  },
+  {
+   "t": "p",
+   "ur": "کمپوزنگ: انعام اللہ، عمیر طارق",
+   "en": "Composing: Inamullah, Umair Tariq"
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "یہ صفحہ بڑوں کے لیے ہے۔ اس پر اُن لوگوں کے نام ہیں جنھوں نے یہ کتاب لکھی، تصویریں بنائیں اور اسے جانچا۔ آپ اگلے صفحے پر جا سکتے ہیں۔",
+   "en": "This page is for grown-ups. It lists the people who wrote the book, drew the pictures and checked it. You can go on to the next page."
+  },
+  {
+   "for": "teacher",
+   "ur": "بچوں کو بتائیں کہ ہر کتاب بہت سے لوگ مل کر بناتے ہیں: مصنف لکھتا ہے، مصوّر تصویریں بناتا ہے۔ پوچھیں: ’’آپ کتاب بنانے میں کون سا کام کرنا پسند کریں گے؟‘‘",
+   "en": "Tell the children that many people work together to make a book: the author writes, the illustrator draws. Ask: 'Which job would you like to do in making a book?'"
+  }
+ ],
+ "easy": null,
+ "print": false
+}

@@ -1,0 +1,1104 @@
+{
+ "n": 14,
+ "printed": "10",
+ "chapter": 1,
+ "kind": "exercise",
+ "title": {
+  "ur": "مشق: ہمارا وطن پاکستان",
+  "en": "Exercise: Our homeland Pakistan"
+ },
+ "blocks": [
+  {
+   "t": "activity",
+   "id": "p014-a1",
+   "label": {
+    "ur": "سوال نمبر 1 (جاری)",
+    "en": "Question 1 (continued)"
+   },
+   "orig": {
+    "ur": "2۔ پاکستان کے کتنے صوبے ہیں؟ (i) چار (ii) پانچ (iii) چھے 3۔ پاکستان کے پرچم میں کتنے رنگ ہیں؟ (i) دو (ii) تین (iii) چار",
+    "en": "2. How many provinces does Pakistan have? (i) Four (ii) Five (iii) Six 3. How many colours are there in Pakistan's flag? (i) Two (ii) Three (iii) Four"
+   },
+   "prompt": {
+    "ur": "ہر سوال کا درست جواب چنیں۔",
+    "en": "Choose the correct answer to each question."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "پاکستان کے کتنے صوبے ہیں؟",
+        "en": "How many provinces does Pakistan have?"
+       },
+       "options": [
+        {
+         "ur": "چھے",
+         "en": "Six",
+         "sym": "six"
+        },
+        {
+         "ur": "چار",
+         "en": "Four",
+         "sym": "four"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "پاکستان کے چار صوبے ہیں: سندھ، بلوچستان، خیبر پختون خوا اور پنجاب۔",
+        "en": "Pakistan has four provinces: Sindh, Balochistan, Khyber Pakhtunkhwa and Punjab."
+       }
+      },
+      {
+       "q": {
+        "ur": "پاکستان کے پرچم میں کتنے رنگ ہیں؟",
+        "en": "How many colours are there in Pakistan's flag?"
+       },
+       "options": [
+        {
+         "ur": "دو",
+         "en": "Two",
+         "sym": "two"
+        },
+        {
+         "ur": "چار",
+         "en": "Four",
+         "sym": "four"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "پاکستان کے پرچم میں دو رنگ ہیں: سبز اور سفید۔",
+        "en": "There are two colours in Pakistan's flag: green and white."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "پاکستان کے کتنے صوبے ہیں؟",
+        "en": "How many provinces does Pakistan have?"
+       },
+       "options": [
+        {
+         "ur": "چار",
+         "en": "Four"
+        },
+        {
+         "ur": "پانچ",
+         "en": "Five"
+        },
+        {
+         "ur": "چھے",
+         "en": "Six"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "پاکستان کے چار صوبے ہیں: سندھ، بلوچستان، خیبر پختون خوا اور پنجاب۔",
+        "en": "Pakistan has four provinces: Sindh, Balochistan, Khyber Pakhtunkhwa and Punjab."
+       }
+      },
+      {
+       "q": {
+        "ur": "پاکستان کے پرچم میں کتنے رنگ ہیں؟",
+        "en": "How many colours are there in Pakistan's flag?"
+       },
+       "options": [
+        {
+         "ur": "دو",
+         "en": "Two"
+        },
+        {
+         "ur": "تین",
+         "en": "Three"
+        },
+        {
+         "ur": "چار",
+         "en": "Four"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "پاکستان کے پرچم میں دو رنگ ہیں: سبز اور سفید۔",
+        "en": "There are two colours in Pakistan's flag: green and white."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "پاکستان کے کتنے صوبے ہیں؟",
+        "en": "How many provinces does Pakistan have?"
+       },
+       "options": [
+        {
+         "ur": "چار",
+         "en": "Four"
+        },
+        {
+         "ur": "پانچ",
+         "en": "Five"
+        },
+        {
+         "ur": "چھے",
+         "en": "Six"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "پاکستان کے چار صوبے ہیں: سندھ، بلوچستان، خیبر پختون خوا اور پنجاب۔",
+        "en": "Pakistan has four provinces: Sindh, Balochistan, Khyber Pakhtunkhwa and Punjab."
+       }
+      },
+      {
+       "q": {
+        "ur": "پاکستان کے پرچم میں کتنے رنگ ہیں؟",
+        "en": "How many colours are there in Pakistan's flag?"
+       },
+       "options": [
+        {
+         "ur": "دو",
+         "en": "Two"
+        },
+        {
+         "ur": "تین",
+         "en": "Three"
+        },
+        {
+         "ur": "چار",
+         "en": "Four"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "پاکستان کے پرچم میں دو رنگ ہیں: سبز اور سفید۔",
+        "en": "There are two colours in Pakistan's flag: green and white."
+       }
+      },
+      {
+       "q": {
+        "ur": "پرچم پر بنا ہوا چاند کس چیز کی علامت ہے؟",
+        "en": "What is the crescent moon on the flag a symbol of?"
+       },
+       "options": [
+        {
+         "ur": "روشنی",
+         "en": "Light"
+        },
+        {
+         "ur": "ترقّی",
+         "en": "Progress"
+        },
+        {
+         "ur": "آبادی",
+         "en": "Population"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "پرچم پر بنا ہوا چاند ترقّی کی علامت ہے۔",
+        "en": "The crescent moon on the flag is a symbol of progress."
+       }
+      },
+      {
+       "q": {
+        "ur": "پرچم پر بنا ہوا ستارا کس چیز کی علامت ہے؟",
+        "en": "What is the star on the flag a symbol of?"
+       },
+       "options": [
+        {
+         "ur": "کھیل",
+         "en": "Sport"
+        },
+        {
+         "ur": "رقبے",
+         "en": "Area"
+        },
+        {
+         "ur": "روشنی اور عِلم",
+         "en": "Light and knowledge"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "ستارا روشنی اور عِلم کی علامت ہے۔",
+        "en": "The star is a symbol of light and knowledge."
+       }
+      },
+      {
+       "q": {
+        "ur": "پاکستان کے زیرِ انتظام علاقے کون سے ہیں؟",
+        "en": "Which areas are administered by Pakistan?"
+       },
+       "options": [
+        {
+         "ur": "سندھ اور پنجاب",
+         "en": "Sindh and Punjab"
+        },
+        {
+         "ur": "گلگت بلتستان اور آزاد جموں و کشمیر",
+         "en": "Gilgit-Baltistan and Azad Jammu and Kashmir"
+        },
+        {
+         "ur": "کراچی اور لاہور",
+         "en": "Karachi and Lahore"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "گلگت بلتستان اور آزاد جموں و کشمیر پاکستان کے زیرِ انتظام علاقے ہیں۔",
+        "en": "Gilgit-Baltistan and Azad Jammu and Kashmir are areas administered by Pakistan."
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "teacher",
+   "ur": "بچوں کو پاکستان کے چاروں صوبوں اور وفاق کے زیرِ انتظام علاقوں کے بارے میں بتائیں۔",
+   "en": "Tell the children about the four provinces of Pakistan and the areas administered by the federal government."
+  },
+  {
+   "t": "activity",
+   "id": "p014-a2",
+   "label": {
+    "ur": "سوال نمبر 2",
+    "en": "Question 2"
+   },
+   "orig": {
+    "ur": "مندرجہ ذیل بیانات کے سامنے درست پر ✓ اور غلط پر ✗ کا نشان لگائیں۔ (i) پاکستان کے پرچم میں سبز رنگ دوسرے مذاہب کی نشان دہی کرتا ہے۔ (ii) آزاد جموں و کشمیر کا دارالحکومت مظفر آباد ہے۔ (iii) رقبے کے لحاظ سے بلوچستان پاکستان کا سب سے چھوٹا صوبہ ہے۔ (iv) پنجاب آبادی کے لحاظ سے پاکستان کا سب سے بڑا صوبہ ہے۔ (v) گلگت بلتستان پاکستان کے جنوب میں واقع ہے۔",
+    "en": "Put a tick (✓) in front of the true statements and a cross (✗) in front of the false ones. (i) In Pakistan's flag, the green colour stands for other religions. (ii) The capital of Azad Jammu and Kashmir is Muzaffarabad. (iii) By area, Balochistan is the smallest province of Pakistan. (iv) By population, Punjab is the largest province of Pakistan. (v) Gilgit-Baltistan is in the south of Pakistan."
+   },
+   "prompt": {
+    "ur": "ہر بیان پڑھیں یا سنیں۔ اگر بات ٹھیک ہے تو ’’درست‘‘ چنیں، ورنہ ’’غلط‘‘۔",
+    "en": "Read or listen to each statement. If it is right, choose \"True\". If it is not, choose \"False\"."
+   },
+   "levels": {
+    "easy": {
+     "kind": "tf",
+     "questions": [
+      {
+       "q": {
+        "ur": "پنجاب آبادی کے لحاظ سے پاکستان کا سب سے بڑا صوبہ ہے۔",
+        "en": "By population, Punjab is the largest province of Pakistan."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "یہ درست ہے۔ آبادی کے لحاظ سے پنجاب سب سے بڑا صوبہ ہے۔",
+        "en": "This is true. By population, Punjab is the largest province."
+       }
+      },
+      {
+       "q": {
+        "ur": "رقبے کے لحاظ سے بلوچستان پاکستان کا سب سے چھوٹا صوبہ ہے۔",
+        "en": "By area, Balochistan is the smallest province of Pakistan."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "یہ غلط ہے۔ رقبے کے لحاظ سے بلوچستان پاکستان کا سب سے بڑا صوبہ ہے۔",
+        "en": "This is false. By area, Balochistan is the largest province of Pakistan."
+       }
+      },
+      {
+       "q": {
+        "ur": "آزاد جموں و کشمیر کا دارالحکومت مظفر آباد ہے۔",
+        "en": "The capital of Azad Jammu and Kashmir is Muzaffarabad."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "یہ درست ہے۔ مظفر آباد آزاد جموں و کشمیر کا دارالحکومت ہے۔",
+        "en": "This is true. Muzaffarabad is the capital of Azad Jammu and Kashmir."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "tf",
+     "questions": [
+      {
+       "q": {
+        "ur": "پاکستان کے پرچم میں سبز رنگ دوسرے مذاہب کی نشان دہی کرتا ہے۔",
+        "en": "In Pakistan's flag, the green colour stands for other religions."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "یہ غلط ہے۔ سبز رنگ مسلمانوں کو اور سفید رنگ دوسرے مذاہب کے لوگوں کو ظاہر کرتا ہے۔",
+        "en": "This is false. The green colour stands for Muslims and the white colour stands for people of other religions."
+       }
+      },
+      {
+       "q": {
+        "ur": "آزاد جموں و کشمیر کا دارالحکومت مظفر آباد ہے۔",
+        "en": "The capital of Azad Jammu and Kashmir is Muzaffarabad."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "یہ درست ہے۔ مظفر آباد آزاد جموں و کشمیر کا دارالحکومت ہے۔",
+        "en": "This is true. Muzaffarabad is the capital of Azad Jammu and Kashmir."
+       }
+      },
+      {
+       "q": {
+        "ur": "رقبے کے لحاظ سے بلوچستان پاکستان کا سب سے چھوٹا صوبہ ہے۔",
+        "en": "By area, Balochistan is the smallest province of Pakistan."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "یہ غلط ہے۔ رقبے کے لحاظ سے بلوچستان پاکستان کا سب سے بڑا صوبہ ہے۔",
+        "en": "This is false. By area, Balochistan is the largest province of Pakistan."
+       }
+      },
+      {
+       "q": {
+        "ur": "پنجاب آبادی کے لحاظ سے پاکستان کا سب سے بڑا صوبہ ہے۔",
+        "en": "By population, Punjab is the largest province of Pakistan."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "یہ درست ہے۔ آبادی کے لحاظ سے پنجاب سب سے بڑا صوبہ ہے۔",
+        "en": "This is true. By population, Punjab is the largest province."
+       }
+      },
+      {
+       "q": {
+        "ur": "گلگت بلتستان پاکستان کے جنوب میں واقع ہے۔",
+        "en": "Gilgit-Baltistan is in the south of Pakistan."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "یہ غلط ہے۔ گلگت بلتستان پاکستان کے شمال میں واقع ہے۔",
+        "en": "This is false. Gilgit-Baltistan is in the north of Pakistan."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "fill",
+     "questions": [
+      {
+       "q": {
+        "ur": "غلط بیان کو درست کریں: پاکستان کے پرچم میں ___ رنگ دوسرے مذاہب کی نشان دہی کرتا ہے۔",
+        "en": "Correct the false statement: In Pakistan's flag, the ___ colour stands for other religions."
+       },
+       "options": [
+        {
+         "ur": "سبز",
+         "en": "green"
+        },
+        {
+         "ur": "سفید",
+         "en": "white"
+        },
+        {
+         "ur": "نیلا",
+         "en": "blue"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "سفید رنگ دوسرے مذاہب کے لوگوں کو ظاہر کرتا ہے؛ سبز رنگ مسلمانوں کو۔",
+        "en": "The white colour stands for people of other religions; the green colour stands for Muslims."
+       }
+      },
+      {
+       "q": {
+        "ur": "غلط بیان کو درست کریں: رقبے کے لحاظ سے بلوچستان پاکستان کا سب سے ___ صوبہ ہے۔",
+        "en": "Correct the false statement: By area, Balochistan is the ___ province of Pakistan."
+       },
+       "options": [
+        {
+         "ur": "بڑا",
+         "en": "largest"
+        },
+        {
+         "ur": "چھوٹا",
+         "en": "smallest"
+        },
+        {
+         "ur": "نیا",
+         "en": "newest"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "رقبے کے لحاظ سے بلوچستان پاکستان کا سب سے بڑا صوبہ ہے۔",
+        "en": "By area, Balochistan is the largest province of Pakistan."
+       }
+      },
+      {
+       "q": {
+        "ur": "غلط بیان کو درست کریں: گلگت بلتستان پاکستان کے ___ میں واقع ہے۔",
+        "en": "Correct the false statement: Gilgit-Baltistan is in the ___ of Pakistan."
+       },
+       "options": [
+        {
+         "ur": "جنوب",
+         "en": "south"
+        },
+        {
+         "ur": "مغرب",
+         "en": "west"
+        },
+        {
+         "ur": "شمال",
+         "en": "north"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "گلگت بلتستان پاکستان کے شمال میں واقع ہے۔",
+        "en": "Gilgit-Baltistan is in the north of Pakistan."
+       }
+      },
+      {
+       "q": {
+        "ur": "درست بیان مکمل کریں: آزاد جموں و کشمیر کا دارالحکومت ___ ہے۔",
+        "en": "Complete the true statement: The capital of Azad Jammu and Kashmir is ___."
+       },
+       "options": [
+        {
+         "ur": "گلگت",
+         "en": "Gilgit"
+        },
+        {
+         "ur": "مظفر آباد",
+         "en": "Muzaffarabad"
+        },
+        {
+         "ur": "پشاور",
+         "en": "Peshawar"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "آزاد جموں و کشمیر کا دارالحکومت مظفر آباد ہے۔",
+        "en": "The capital of Azad Jammu and Kashmir is Muzaffarabad."
+       }
+      },
+      {
+       "q": {
+        "ur": "درست بیان مکمل کریں: ___ آبادی کے لحاظ سے پاکستان کا سب سے بڑا صوبہ ہے۔",
+        "en": "Complete the true statement: By population, ___ is the largest province of Pakistan."
+       },
+       "options": [
+        {
+         "ur": "پنجاب",
+         "en": "Punjab"
+        },
+        {
+         "ur": "بلوچستان",
+         "en": "Balochistan"
+        },
+        {
+         "ur": "سندھ",
+         "en": "Sindh"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "آبادی کے لحاظ سے پنجاب سب سے بڑا صوبہ ہے۔",
+        "en": "By population, Punjab is the largest province."
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p014-a3",
+   "label": {
+    "ur": "سوال نمبر 3",
+    "en": "Question 3"
+   },
+   "orig": {
+    "ur": "پاکستان کے دارالحکومت کا کیا نام ہے؟",
+    "en": "What is the name of the capital of Pakistan?"
+   },
+   "prompt": {
+    "ur": "پاکستان کے دارالحکومت کا نام بتائیں۔",
+    "en": "Say the name of the capital of Pakistan."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "پاکستان کے دارالحکومت کا کیا نام ہے؟",
+        "en": "What is the name of the capital of Pakistan?"
+       },
+       "options": [
+        {
+         "ur": "کراچی",
+         "en": "Karachi"
+        },
+        {
+         "ur": "اسلام آباد",
+         "en": "Islamabad"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "پاکستان کا دارالحکومت اسلام آباد ہے۔",
+        "en": "The capital of Pakistan is Islamabad."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "سوال پڑھیں: پاکستان کے دارالحکومت کا کیا نام ہے؟",
+       "en": "Read the question: What is the name of the capital of Pakistan?"
+      },
+      {
+       "ur": "جواب کاپی میں لکھیں، یا بول کر بتائیں۔",
+       "en": "Write the answer in your notebook, or say it aloud."
+      }
+     ],
+     "model": {
+      "ur": "پاکستان کے دارالحکومت کا نام اسلام آباد ہے۔",
+      "en": "The name of the capital of Pakistan is Islamabad."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دارالحکومت کا نام لکھا یا بتایا۔",
+       "en": "I wrote or said the name of the capital."
+      },
+      {
+       "ur": "میں نے اپنا جواب نمونے کے جواب سے ملا کر دیکھا۔",
+       "en": "I checked my answer against the sample answer."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "پاکستان",
+        "en": "Pakistan"
+       },
+       "b": {
+        "ur": "اسلام آباد",
+        "en": "Islamabad"
+       }
+      },
+      {
+       "a": {
+        "ur": "سندھ",
+        "en": "Sindh"
+       },
+       "b": {
+        "ur": "کراچی",
+        "en": "Karachi"
+       }
+      },
+      {
+       "a": {
+        "ur": "پنجاب",
+        "en": "Punjab"
+       },
+       "b": {
+        "ur": "لاہور",
+        "en": "Lahore"
+       }
+      },
+      {
+       "a": {
+        "ur": "خیبر پختون خوا",
+        "en": "Khyber Pakhtunkhwa"
+       },
+       "b": {
+        "ur": "پشاور",
+        "en": "Peshawar"
+       }
+      },
+      {
+       "a": {
+        "ur": "بلوچستان",
+        "en": "Balochistan"
+       },
+       "b": {
+        "ur": "کوئٹہ",
+        "en": "Quetta"
+       }
+      },
+      {
+       "a": {
+        "ur": "آزاد جموں و کشمیر",
+        "en": "Azad Jammu and Kashmir"
+       },
+       "b": {
+        "ur": "مظفر آباد",
+        "en": "Muzaffarabad"
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p014-a4",
+   "label": {
+    "ur": "سوال نمبر 4",
+    "en": "Question 4"
+   },
+   "orig": {
+    "ur": "سندھ اور خیبر پختون خوا کی ثقافت کا فرق نیچے لکھیں۔ سندھ — خیبر پختون خوا — زبان — لباس — کھانا",
+    "en": "Write the differences between the cultures of Sindh and Khyber Pakhtunkhwa below. Sindh — Khyber Pakhtunkhwa — Language — Dress — Food"
+   },
+   "prompt": {
+    "ur": "ہر چیز کو اس کے صحیح صوبے کے خانے میں رکھیں: سندھ یا خیبر پختون خوا؟",
+    "en": "Put each thing in the box of its province: Sindh or Khyber Pakhtunkhwa?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "سندھ",
+       "en": "Sindh"
+      },
+      {
+       "ur": "خیبر پختون خوا",
+       "en": "Khyber Pakhtunkhwa"
+      }
+     ],
+     "items": [
+      {
+       "ur": "اجرک",
+       "en": "Ajrak",
+       "sym": "shawl",
+       "group": 0
+      },
+      {
+       "ur": "چپلی کباب",
+       "en": "Chapli kabab",
+       "sym": "hamburger",
+       "group": 1
+      },
+      {
+       "ur": "چاول",
+       "en": "Rice",
+       "sym": "rice",
+       "group": 0
+      },
+      {
+       "ur": "پشاوری چپل",
+       "en": "Peshawari sandals",
+       "sym": "sandals",
+       "group": 1
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "سندھ",
+       "en": "Sindh"
+      },
+      {
+       "ur": "خیبر پختون خوا",
+       "en": "Khyber Pakhtunkhwa"
+      }
+     ],
+     "items": [
+      {
+       "ur": "زبان: سندھی",
+       "en": "Language: Sindhi",
+       "group": 0
+      },
+      {
+       "ur": "زبان: پشتو، ہندکو، کھوار",
+       "en": "Language: Pashto, Hindko, Khowar",
+       "group": 1
+      },
+      {
+       "ur": "لباس: اجرک اور سندھی ٹوپی",
+       "en": "Dress: ajrak and Sindhi cap",
+       "group": 0
+      },
+      {
+       "ur": "لباس: چترالی ٹوپی، قراقلی اور پشاوری چپل",
+       "en": "Dress: Chitrali cap, karakul cap and Peshawari sandals",
+       "group": 1
+      },
+      {
+       "ur": "کھانا: پلاؤ اور چپلی کباب",
+       "en": "Food: pulao and chapli kabab",
+       "group": 1
+      },
+      {
+       "ur": "کھانا: چاول، کوکی اور پالک",
+       "en": "Food: rice, koki and spinach",
+       "group": 0
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "کاپی میں کتاب جیسا خانوں والا جدول بنائیں: دو کالم (سندھ، خیبر پختون خوا) اور تین قطاریں (زبان، لباس، کھانا)۔",
+       "en": "In your notebook, draw a table like the one in the book: two columns (Sindh, Khyber Pakhtunkhwa) and three rows (language, dress, food)."
+      },
+      {
+       "ur": "صفحہ 4 اور صفحہ 6 دیکھے بغیر ہر خانہ بھریں۔",
+       "en": "Fill in every box without looking at pages 4 and 6."
+      },
+      {
+       "ur": "اب صفحے کھول کر اپنے جواب جانچیں۔",
+       "en": "Now open the pages and check your answers."
+      },
+      {
+       "ur": "ایک جملہ لکھیں: دونوں صوبوں کے لباس میں کون سی چیز ایک جیسی ہے؟",
+       "en": "Write one sentence: What is the same about the dress of both provinces?"
+      }
+     ],
+     "model": {
+      "ur": "زبان — سندھ: سندھی؛ خیبر پختون خوا: پشتو، ہندکو، سرائیکی، کھوار اور کوہستانی۔ لباس — سندھ: شلوار قمیص، اجرک اور سندھی ٹوپی؛ خیبر پختون خوا: شلوار قمیص، پگڑی، چترالی ٹوپی، قراقلی اور پشاوری چپل۔ کھانا — سندھ: چاول، کوکی اور پالک؛ خیبر پختون خوا: پلاؤ اور چپلی کباب، اور قہوہ۔ دونوں صوبوں میں لوگ شلوار قمیص پہنتے ہیں۔",
+      "en": "Language — Sindh: Sindhi; Khyber Pakhtunkhwa: Pashto, Hindko, Saraiki, Khowar and Kohistani. Dress — Sindh: shalwar qameez, ajrak and Sindhi cap; Khyber Pakhtunkhwa: shalwar qameez, turban, Chitrali cap, karakul cap and Peshawari sandals. Food — Sindh: rice, koki and spinach; Khyber Pakhtunkhwa: pulao and chapli kabab, and green tea. In both provinces people wear shalwar qameez."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے چھ خانے بھرے۔",
+       "en": "I filled in six boxes."
+      },
+      {
+       "ur": "میں نے کتاب سے اپنے جواب جانچے۔",
+       "en": "I checked my answers with the book."
+      },
+      {
+       "ur": "میں نے ایک ملتی جلتی بات لکھی۔",
+       "en": "I wrote one thing that is the same."
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "جواب یاد نہ آئے تو کتاب میں واپس جا کر ڈھونڈیں: پرچم صفحہ 3 پر، سندھ صفحہ 4 پر، خیبر پختون خوا صفحہ 5 اور 6 پر ہے۔ واپس جا کر دیکھنا اچھی عادت ہے۔",
+   "en": "If you cannot remember an answer, go back and find it in the book: the flag is on page 3, Sindh on page 4, Khyber Pakhtunkhwa on pages 5 and 6. Looking back is a good habit."
+  },
+  {
+   "for": "motor",
+   "ur": "خانوں میں لکھنا مشکل ہو تو جواب بول کر بتائیں اور کوئی ساتھی لکھ دے، یا سکرین پر جواب کو کھینچ کر صحیح خانے میں رکھیں۔ ✓ اور ✗ کی جگہ انگوٹھا اوپر یا نیچے بھی دکھا سکتے ہیں۔",
+   "en": "If writing in the boxes is hard, say the answers and let a partner write them, or drag each answer into the right box on the screen. Instead of a tick and a cross, you can also show thumbs up or thumbs down."
+  },
+  {
+   "for": "cognitive",
+   "ur": "ایک وقت میں صرف ایک سوال کریں۔ ’’درست/غلط‘‘ والے سوال میں پہلے جملہ سنیں، پھر سوچیں: کیا کتاب میں یہی لکھا تھا؟",
+   "en": "Do only one question at a time. In the true or false question, first listen to the sentence, then think: is this what the book said?"
+  },
+  {
+   "for": "teacher",
+   "ur": "سوال نمبر 4 کے لیے اصلی چیزیں یا تصویری کارڈ (اجرک، ٹوپی، چاول، کباب) دو ٹوکریوں ’’سندھ‘‘ اور ’’خیبر پختون خوا‘‘ میں ڈلوائیں۔ لکھ کر، بول کر، اشارے سے یا تصویر رکھ کر دیا گیا ہر جواب قبول کریں اور اضافی وقت دیں۔",
+   "en": "For Question 4, let the children sort real objects or picture cards (ajrak, cap, rice, kabab) into two baskets, \"Sindh\" and \"Khyber Pakhtunkhwa\". Accept every answer, whether it is written, spoken, shown by gesture or given by placing a picture, and give extra time."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "دہرائی: ہمارا وطن پاکستان",
+   "en": "Revision: Our homeland Pakistan"
+  },
+  "image": null,
+  "sentences": [
+   {
+    "en": "Pakistan is our homeland.",
+    "words": [
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "ہمارا",
+      "sym": "our"
+     },
+     {
+      "ur": "وطن",
+      "sym": "country"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Pakistan",
+      "sym": "Pakistan"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "our",
+      "sym": "our"
+     },
+     {
+      "en": "homeland.",
+      "sym": "country"
+     }
+    ]
+   },
+   {
+    "en": "Islamabad is the capital.",
+    "words": [
+     {
+      "ur": "اسلام آباد",
+      "sym": "city"
+     },
+     {
+      "ur": "دارالحکومت",
+      "sym": "capital city"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Islamabad",
+      "sym": "city"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "capital.",
+      "sym": "capital city"
+     }
+    ]
+   },
+   {
+    "en": "Pakistan has four provinces.",
+    "words": [
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "کے",
+      "sym": null
+     },
+     {
+      "ur": "چار",
+      "sym": "four"
+     },
+     {
+      "ur": "صوبے",
+      "sym": "region"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Pakistan",
+      "sym": "Pakistan"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "four",
+      "sym": "four"
+     },
+     {
+      "en": "provinces.",
+      "sym": "region"
+     }
+    ]
+   },
+   {
+    "en": "The flag has green and white colours.",
+    "words": [
+     {
+      "ur": "پرچم",
+      "sym": "flag"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "سبز",
+      "sym": "green"
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "سفید",
+      "sym": "white"
+     },
+     {
+      "ur": "رنگ",
+      "sym": "colour"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "flag",
+      "sym": "flag"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "green",
+      "sym": "green"
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "white",
+      "sym": "white"
+     },
+     {
+      "en": "colours.",
+      "sym": "colour"
+     }
+    ]
+   },
+   {
+    "en": "We love Pakistan.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "پیار",
+      "sym": "love"
+     },
+     {
+      "ur": "کرتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "love",
+      "sym": "love"
+     },
+     {
+      "en": "Pakistan.",
+      "sym": "Pakistan"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "پاکستان کے پرچم میں کون سے رنگ ہیں؟",
+       "en": "Which colours are in Pakistan's flag?"
+      },
+      "options": [
+       {
+        "ur": "لال اور پیلا",
+        "en": "Red and yellow",
+        "sym": "red"
+       },
+       {
+        "ur": "سبز اور سفید",
+        "en": "Green and white",
+        "sym": "green"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "ہمارے پرچم میں سبز اور سفید رنگ ہیں۔",
+       "en": "Our flag has green and white colours."
+      }
+     },
+     {
+      "q": {
+       "ur": "پاکستان کے کتنے صوبے ہیں؟",
+       "en": "How many provinces does Pakistan have?"
+      },
+      "options": [
+       {
+        "ur": "چار",
+        "en": "Four",
+        "sym": "four"
+       },
+       {
+        "ur": "دو",
+        "en": "Two",
+        "sym": "two"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "پاکستان کے چار صوبے ہیں۔",
+       "en": "Pakistan has four provinces."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

@@ -1,0 +1,568 @@
+{
+ "n": 54,
+ "printed": "50",
+ "chapter": 8,
+ "kind": "content",
+ "title": {
+  "ur": "پانی میں رہنے والے جانور",
+  "en": "Animals that live in water"
+ },
+ "blocks": [
+  {
+   "ur": "پانی میں رہنے والے جانور",
+   "en": "Animals that live in water",
+   "t": "h"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.527,
+      0.157,
+      0.84,
+      0.335
+     ],
+     "alt": {
+      "ur": "ایک بڑی شارک مچھلی نیلے سمندر میں تیر رہی ہے۔",
+      "en": "A big shark swimming in the blue sea."
+     },
+     "cap": {
+      "ur": "مچھلی",
+      "en": "Fish"
+     }
+    },
+    {
+     "crop": [
+      0.182,
+      0.157,
+      0.505,
+      0.335
+     ],
+     "alt": {
+      "ur": "نارنجی رنگ کی سٹار فش جس کے پانچ بازو ہیں، ریت پر پڑی ہے۔",
+      "en": "An orange starfish with five arms lying on the sand."
+     },
+     "cap": {
+      "ur": "سٹار فش",
+      "en": "Starfish"
+     }
+    },
+    {
+     "crop": [
+      0.178,
+      0.383,
+      0.84,
+      0.578
+     ],
+     "alt": {
+      "ur": "بھورے رنگ کا آکٹوپس جس کے آٹھ لمبے بازو پھیلے ہوئے ہیں۔",
+      "en": "A brown octopus with its eight long arms spread out."
+     },
+     "cap": {
+      "ur": "آکٹوپس",
+      "en": "Octopus"
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p054-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "اُوپر دی گئی تصاویر کو غور سے دیکھیں اور کالم کو پُر کریں۔ خشکی کے جانوروں کو لال رنگ سے ظاہر کریں۔ پانی کے جانوروں کو نیلے رنگ سے ظاہر کریں۔ خشکی اور پانی کے جانوروں کو سبز رنگ سے ظاہر کریں۔",
+    "en": "Look carefully at the pictures above and fill in the column. Use red to show land animals. Use blue to show water animals. Use green to show animals of both land and water."
+   },
+   "prompt": {
+    "ur": "ہر جانور کو اس کے صحیح خانے میں رکھیں: خشکی، پانی، یا دونوں۔",
+    "en": "Put each animal in the right box: land, water, or both."
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "خشکی",
+       "en": "Land",
+       "sym": "land"
+      },
+      {
+       "ur": "پانی",
+       "en": "Water",
+       "sym": "water"
+      }
+     ],
+     "items": [
+      {
+       "ur": "ہاتھی",
+       "en": "Elephant",
+       "img": [
+        0.176,
+        0.615,
+        0.302,
+        0.76
+       ],
+       "group": 0
+      },
+      {
+       "ur": "مچھلی",
+       "en": "Fish",
+       "img": [
+        0.446,
+        0.615,
+        0.57,
+        0.76
+       ],
+       "group": 1
+      },
+      {
+       "ur": "اونٹ",
+       "en": "Camel",
+       "img": [
+        0.714,
+        0.615,
+        0.84,
+        0.76
+       ],
+       "group": 0
+      },
+      {
+       "ur": "سٹار فش",
+       "en": "Starfish",
+       "img": [
+        0.182,
+        0.157,
+        0.505,
+        0.335
+       ],
+       "group": 1
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "خشکی کے جانور (لال)",
+       "en": "Land animals (red)"
+      },
+      {
+       "ur": "پانی کے جانور (نیلا)",
+       "en": "Water animals (blue)"
+      },
+      {
+       "ur": "خشکی اور پانی دونوں کے جانور (سبز)",
+       "en": "Animals of both land and water (green)"
+      }
+     ],
+     "items": [
+      {
+       "ur": "ہاتھی",
+       "en": "Elephant",
+       "img": [
+        0.176,
+        0.615,
+        0.302,
+        0.76
+       ],
+       "group": 0
+      },
+      {
+       "ur": "شیر",
+       "en": "Lion",
+       "img": [
+        0.311,
+        0.615,
+        0.436,
+        0.76
+       ],
+       "group": 0
+      },
+      {
+       "ur": "مچھلی",
+       "en": "Fish",
+       "img": [
+        0.446,
+        0.615,
+        0.57,
+        0.76
+       ],
+       "group": 1
+      },
+      {
+       "ur": "مگرمچھ",
+       "en": "Crocodile",
+       "img": [
+        0.581,
+        0.615,
+        0.704,
+        0.76
+       ],
+       "group": 2
+      },
+      {
+       "ur": "اونٹ",
+       "en": "Camel",
+       "img": [
+        0.714,
+        0.615,
+        0.84,
+        0.76
+       ],
+       "group": 0
+      }
+     ]
+    },
+    "hard": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "خشکی کے جانور (لال)",
+       "en": "Land animals (red)"
+      },
+      {
+       "ur": "پانی کے جانور (نیلا)",
+       "en": "Water animals (blue)"
+      },
+      {
+       "ur": "خشکی اور پانی دونوں کے جانور (سبز)",
+       "en": "Animals of both land and water (green)"
+      }
+     ],
+     "items": [
+      {
+       "ur": "سانپ",
+       "en": "Snake",
+       "group": 0
+      },
+      {
+       "ur": "آکٹوپس",
+       "en": "Octopus",
+       "group": 1
+      },
+      {
+       "ur": "مینڈک",
+       "en": "Frog",
+       "group": 2
+      },
+      {
+       "ur": "مارخور",
+       "en": "Markhor",
+       "group": 0
+      },
+      {
+       "ur": "سٹار فش",
+       "en": "Starfish",
+       "group": 1
+      },
+      {
+       "ur": "مگرمچھ",
+       "en": "Crocodile",
+       "group": 2
+      },
+      {
+       "ur": "چکور",
+       "en": "Chukar partridge",
+       "group": 0
+      },
+      {
+       "ur": "ڈولفن",
+       "en": "Dolphin",
+       "group": 1
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "یاد رکھیں: لال = خشکی، نیلا = پانی، سبز = دونوں۔ مگرمچھ پانی میں تیرتا بھی ہے اور کنارے پر دھوپ میں لیٹتا بھی ہے۔",
+   "en": "Remember: red is for land, blue is for water and green is for both. A crocodile swims in water and also lies in the sun on the bank."
+  },
+  {
+   "for": "vision",
+   "ur": "پانچ تصویریں دائیں سے بائیں یہ ہیں: اونٹ، مگرمچھ، مچھلی، شیر، ہاتھی۔ رنگ بھرنے کے بجائے آپ زبانی بتا سکتے ہیں: خشکی، پانی یا دونوں۔",
+   "en": "From right to left, the five pictures are: camel, crocodile, fish, lion, elephant. Instead of colouring, you can say the answer aloud: land, water or both."
+  },
+  {
+   "for": "motor",
+   "ur": "رنگ بھرنا مشکل ہو تو خانے پر لال، نیلا یا سبز اسٹیکر یا ڈھکن رکھ دیں، یا انگلی سے اشارہ کریں۔",
+   "en": "If colouring is hard, put a red, blue or green sticker or bottle top on the box, or point with your finger."
+  },
+  {
+   "for": "teacher",
+   "ur": "ایک برتن میں پانی اور ایک میں مٹی رکھیں۔ بچے جانوروں کے کھلونے یا کارڈ صحیح برتن کے پاس رکھیں۔ جو دونوں جگہ رہتے ہیں انھیں درمیان میں رکھیں۔",
+   "en": "Put water in one bowl and soil in another. The children put toy animals or animal cards next to the right bowl. Animals that live in both places go in the middle."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "پانی کے جانور",
+   "en": "Water animals"
+  },
+  "image": {
+   "crop": [
+    0.527,
+    0.157,
+    0.84,
+    0.335
+   ],
+   "alt": {
+    "ur": "شارک مچھلی سمندر میں تیر رہی ہے۔",
+    "en": "A shark swimming in the sea."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Fish live in water.",
+    "words": [
+     {
+      "ur": "مچھلی",
+      "sym": "fish"
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "رہتی",
+      "sym": "to live"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Fish",
+      "sym": "fish"
+     },
+     {
+      "en": "live",
+      "sym": "to live"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "water.",
+      "sym": "water"
+     }
+    ]
+   },
+   {
+    "en": "The octopus lives in water.",
+    "words": [
+     {
+      "ur": "آکٹوپس",
+      "sym": "octopus"
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "رہتا",
+      "sym": "to live"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The octopus",
+      "sym": "octopus"
+     },
+     {
+      "en": "lives",
+      "sym": "to live"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "water.",
+      "sym": "water"
+     }
+    ]
+   },
+   {
+    "en": "The elephant lives on land.",
+    "words": [
+     {
+      "ur": "ہاتھی",
+      "sym": "elephant"
+     },
+     {
+      "ur": "خشکی",
+      "sym": "land"
+     },
+     {
+      "ur": "پر",
+      "sym": null
+     },
+     {
+      "ur": "رہتا",
+      "sym": "to live"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The elephant",
+      "sym": "elephant"
+     },
+     {
+      "en": "lives",
+      "sym": "to live"
+     },
+     {
+      "en": "on",
+      "sym": null
+     },
+     {
+      "en": "land.",
+      "sym": "land"
+     }
+    ]
+   },
+   {
+    "en": "The crocodile lives in both places.",
+    "words": [
+     {
+      "ur": "مگرمچھ",
+      "sym": "crocodile"
+     },
+     {
+      "ur": "دونوں",
+      "sym": "two"
+     },
+     {
+      "ur": "جگہ",
+      "sym": "place"
+     },
+     {
+      "ur": "رہتا",
+      "sym": "to live"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The crocodile",
+      "sym": "crocodile"
+     },
+     {
+      "en": "lives",
+      "sym": "to live"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "both",
+      "sym": "two"
+     },
+     {
+      "en": "places.",
+      "sym": "place"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "جانور کو اس کی جگہ پر رکھیں۔",
+    "en": "Put each animal in its place."
+   },
+   "task": {
+    "kind": "sort",
+    "groups": [
+     {
+      "ur": "پانی",
+      "en": "Water",
+      "sym": "water"
+     },
+     {
+      "ur": "خشکی",
+      "en": "Land",
+      "sym": "land"
+     }
+    ],
+    "items": [
+     {
+      "ur": "مچھلی",
+      "en": "Fish",
+      "img": [
+       0.446,
+       0.615,
+       0.57,
+       0.76
+      ],
+      "group": 0
+     },
+     {
+      "ur": "ہاتھی",
+      "en": "Elephant",
+      "img": [
+       0.176,
+       0.615,
+       0.302,
+       0.76
+      ],
+      "group": 1
+     },
+     {
+      "ur": "آکٹوپس",
+      "en": "Octopus",
+      "img": [
+       0.178,
+       0.383,
+       0.84,
+       0.578
+      ],
+      "group": 0
+     },
+     {
+      "ur": "شیر",
+      "en": "Lion",
+      "img": [
+       0.311,
+       0.615,
+       0.436,
+       0.76
+      ],
+      "group": 1
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

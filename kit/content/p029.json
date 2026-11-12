@@ -1,0 +1,210 @@
+{
+  "n": 29,
+  "printed": "25",
+  "chapter": 4,
+  "kind": "exercise",
+  "title": {"ur": "مشق: مذہبی تہوار", "en": "Exercise: Religious festivals"},
+  "blocks": [
+    {
+      "t": "activity",
+      "id": "p029-a1",
+      "label": {"ur": "سرگرمی", "en": "Activity"},
+      "orig": {"ur": "اپنے اساتذہ / والدین کی مدد سے دیگر مذاہب کے تہواروں کی معلومات جمع کریں اور جماعت میں اپنے دوستوں کو بتائیں۔", "en": "With the help of your teachers or parents, collect information about the festivals of other religions and tell your friends in class."},
+      "prompt": {"ur": "آئیے کسی دوسرے مذہب کے ایک تہوار کے بارے میں معلومات جمع کریں اور دوستوں کو بتائیں۔", "en": "Let us collect information about one festival of another religion and tell our friends."},
+      "levels": {
+        "easy": {"kind": "match", "pairs": [
+          {"a": {"ur": "کرسمس", "en": "Christmas"}, "b": {"ur": "درخت سجاتے ہیں", "en": "They decorate a tree", "sym": "Christmas tree"}},
+          {"a": {"ur": "ہولی", "en": "Holi"}, "b": {"ur": "رنگ پھینکتے ہیں", "en": "They throw colours", "sym": "colours"}},
+          {"a": {"ur": "بیساکھی", "en": "Baisakhi"}, "b": {"ur": "نیا سال شروع ہوتا ہے", "en": "The new year begins", "sym": "calendar"}}
+        ]},
+        "moderate": {"kind": "open", "mode": "talk",
+          "steps": [
+            {"ur": "ایک تہوار چنیں، مثلاً کرسمس، ہولی، بیساکھی یا دیوالی۔", "en": "Choose one festival, for example Christmas, Holi, Baisakhi or Diwali."},
+            {"ur": "استاد یا امی ابو سے تین باتیں پوچھیں: یہ کون مناتا ہے؟ کب مناتے ہیں؟ اس دن کیا کرتے ہیں؟", "en": "Ask your teacher or your mother or father three things: Who celebrates it? When do they celebrate it? What do they do on that day?"},
+            {"ur": "جواب یاد کر لیں، لکھ لیں یا تصویر بنا لیں۔", "en": "Remember the answers, write them down or draw a picture."},
+            {"ur": "جماعت میں اپنے دوستوں کو بتائیں۔", "en": "Tell your friends in class."}
+          ],
+          "model": {"ur": "دیوالی ہندوؤں کا تہوار ہے۔ اسے روشنیوں کا تہوار کہتے ہیں۔ اس دن لوگ گھروں میں دیے جلاتے ہیں اور مٹھائی بانٹتے ہیں۔", "en": "Diwali is a festival of Hindus. It is called the festival of lights. On this day people light lamps in their homes and share sweets."},
+          "checklist": [
+            {"ur": "میں نے ایک تہوار چنا۔", "en": "I chose a festival."},
+            {"ur": "میں نے کسی بڑے سے اس کے بارے میں پوچھا۔", "en": "I asked a grown-up about it."},
+            {"ur": "میں نے دوستوں کو احترام کے ساتھ بتایا۔", "en": "I told my friends about it with respect."}
+          ]},
+        "hard": {"kind": "open", "mode": "write",
+          "steps": [
+            {"ur": "دو تہوار چنیں: ایک اپنا اور ایک کسی دوسرے مذہب کا۔", "en": "Choose two festivals: one of your own and one from another religion."},
+            {"ur": "لکھیں کہ دونوں میں کیا ایک جیسا ہے اور کیا الگ ہے۔", "en": "Write what is the same about them and what is different."}
+          ],
+          "model": {"ur": "عید الفطر اور کرسمس دونوں پر لوگ نئے کپڑے پہنتے، تحفے دیتے اور مل کر خوشی مناتے ہیں۔ فرق یہ ہے کہ عید مسلمان مناتے ہیں اور کرسمس مسیحی 25 دسمبر کو مناتے ہیں۔", "en": "On both Eid-ul-Fitr and Christmas people wear new clothes, give gifts and celebrate together. The difference is that Muslims celebrate Eid, and Christians celebrate Christmas on 25 December."}}
+      }
+    },
+    {"t": "h", "ur": "مشق", "en": "Exercise"},
+    {
+      "t": "activity",
+      "id": "p029-a2",
+      "label": {"ur": "سوال نمبر 1", "en": "Question 1"},
+      "orig": {"ur": "مسلمان عید الفطر کس طرح مناتے ہیں؟", "en": "How do Muslims celebrate Eid-ul-Fitr?"},
+      "prompt": {"ur": "بتائیں کہ مسلمان عید الفطر کا دن کیسے گزارتے ہیں۔", "en": "Tell us how Muslims spend the day of Eid-ul-Fitr."},
+      "levels": {
+        "easy": {"kind": "tf", "questions": [
+          {"q": {"ur": "عید الفطر کے دن مسلمان عید کی نماز پڑھتے ہیں۔", "en": "On Eid-ul-Fitr Muslims offer the Eid prayer."}, "answer": true,
+           "fb": {"ur": "جی ہاں، عید کے دن مسلمان عید کی نماز پڑھتے ہیں۔", "en": "Yes, Muslims offer the Eid prayer on Eid day."}},
+          {"q": {"ur": "عید الفطر کے دن لوگ ایک دوسرے پر رنگ پھینکتے ہیں۔", "en": "On Eid-ul-Fitr people throw colours on one another."}, "answer": false,
+           "fb": {"ur": "رنگ ہولی کے دن پھینکے جاتے ہیں۔ عید پر لوگ ایک دوسرے کو مبارک باد دیتے ہیں۔", "en": "Colours are thrown on the day of Holi. On Eid people wish one another a happy Eid."}},
+          {"q": {"ur": "عید کے دن بچوں کو عیدی ملتی ہے۔", "en": "Children get Eidi on Eid day."}, "answer": true,
+           "fb": {"ur": "جی ہاں، بڑے بچوں کو عیدی دیتے ہیں۔", "en": "Yes, grown-ups give Eidi to children."}}
+        ]},
+        "moderate": {"kind": "open", "mode": "write",
+          "model": {"ur": "مسلمان عید الفطر رمضان المبارک کے روزے مکمل ہونے کے بعد یکم شوّال کو مناتے ہیں۔ وہ نماز عید سے پہلے فطرانہ دیتے ہیں، عید کی نماز پڑھتے ہیں، رشتہ داروں اور دوستوں کو عید کی مبارک باد دیتے ہیں، اُن کے گھر جاتے ہیں اور بچوں کو عیدی دیتے ہیں۔", "en": "Muslims celebrate Eid-ul-Fitr on the 1st of Shawwal, after the fasts of the holy month of Ramadan are complete. They give Fitrana before the Eid prayer, offer the Eid prayer, wish their relatives and friends a happy Eid, visit their homes and give Eidi to the children."},
+          "checklist": [
+            {"ur": "میں نے عید کی نماز کا ذکر کیا۔", "en": "I wrote about the Eid prayer."},
+            {"ur": "میں نے مبارک باد اور عیدی کا ذکر کیا۔", "en": "I wrote about Eid greetings and Eidi."},
+            {"ur": "میں نے فطرانے کا ذکر کیا۔", "en": "I wrote about Fitrana."}
+          ]},
+        "hard": {"kind": "order", "items": [
+          {"ur": "رمضان المبارک کے روزے مکمل ہوتے ہیں۔", "en": "The fasts of Ramadan are completed."},
+          {"ur": "نماز عید سے پہلے فطرانہ دیا جاتا ہے۔", "en": "Fitrana is given before the Eid prayer."},
+          {"ur": "مسلمان عید کی نماز پڑھتے ہیں۔", "en": "Muslims offer the Eid prayer."},
+          {"ur": "رشتہ داروں اور دوستوں کو مل کر عید کی مبارک باد دیتے ہیں۔", "en": "They meet their relatives and friends and wish them a happy Eid."},
+          {"ur": "اُن کے گھر جاتے ہیں اور بچوں کو عیدی دیتے ہیں۔", "en": "They visit their homes and give Eidi to the children."}
+        ]}
+      }
+    },
+    {
+      "t": "activity",
+      "id": "p029-a3",
+      "label": {"ur": "سوال نمبر 2", "en": "Question 2"},
+      "orig": {"ur": "عید الاضحیٰ کس کی قربانی کی یاد میں منائی جاتی ہے؟", "en": "Whose sacrifice do we remember when we celebrate Eid-ul-Adha?"},
+      "prompt": {"ur": "صحیح نام چنیں۔", "en": "Choose the right name."},
+      "levels": {
+        "easy": {"kind": "mcq", "questions": [
+          {"q": {"ur": "عید الاضحیٰ کس کی قربانی کی یاد میں منائی جاتی ہے؟", "en": "Whose sacrifice do we remember when we celebrate Eid-ul-Adha?"},
+           "options": [{"ur": "حضرت ابراہیم علیہ السّلام", "en": "Hazrat Ibrahim (peace be upon him)"}, {"ur": "گورو نانک", "en": "Guru Nanak"}],
+           "answer": 0,
+           "fb": {"ur": "عید الاضحیٰ حضرت ابراہیم علیہ السّلام کی قربانی کی یاد میں منائی جاتی ہے۔", "en": "Eid-ul-Adha is celebrated in memory of the sacrifice of Hazrat Ibrahim (peace be upon him)."}}
+        ]},
+        "moderate": {"kind": "fill", "questions": [
+          {"q": {"ur": "عید الاضحیٰ ___ کی قربانی کی یاد میں منائی جاتی ہے۔", "en": "Eid-ul-Adha is celebrated in memory of the sacrifice of ___."},
+           "options": [{"ur": "حضرت عیسیٰ علیہ السّلام", "en": "Hazrat Isa (peace be upon him)"}, {"ur": "گورو نانک", "en": "Guru Nanak"}, {"ur": "حضرت ابراہیم علیہ السّلام", "en": "Hazrat Ibrahim (peace be upon him)"}],
+           "answer": 2,
+           "fb": {"ur": "یہ عید حضرت ابراہیم علیہ السّلام کی قربانی کی یاد میں منائی جاتی ہے۔", "en": "This Eid is celebrated in memory of the sacrifice of Hazrat Ibrahim (peace be upon him)."}}
+        ]},
+        "hard": {"kind": "mcq", "questions": [
+          {"q": {"ur": "عید الاضحیٰ کس کی قربانی کی یاد میں منائی جاتی ہے؟", "en": "Whose sacrifice do we remember when we celebrate Eid-ul-Adha?"},
+           "options": [{"ur": "حضرت عیسیٰ علیہ السّلام", "en": "Hazrat Isa (peace be upon him)"}, {"ur": "حضرت ابراہیم علیہ السّلام", "en": "Hazrat Ibrahim (peace be upon him)"}, {"ur": "گورو نانک", "en": "Guru Nanak"}],
+           "answer": 1,
+           "fb": {"ur": "حضرت ابراہیم علیہ السّلام کی قربانی کی یاد میں۔", "en": "It is celebrated in memory of the sacrifice of Hazrat Ibrahim (peace be upon him)."}},
+          {"q": {"ur": "عید الاضحیٰ کس تاریخ کو منائی جاتی ہے؟", "en": "On which date is Eid-ul-Adha celebrated?"},
+           "options": [{"ur": "10 ذوالحجہ", "en": "10th of Zil-Hajj"}, {"ur": "یکم شوّال", "en": "1st of Shawwal"}, {"ur": "25 دسمبر", "en": "25 December"}],
+           "answer": 0,
+           "fb": {"ur": "عید الاضحیٰ 10 ذوالحجہ کو منائی جاتی ہے۔", "en": "Eid-ul-Adha is celebrated on the 10th of Zil-Hajj."}},
+          {"q": {"ur": "قربانی کے گوشت کا کیا کیا جاتا ہے؟", "en": "What is done with the meat of the sacrifice?"},
+           "options": [{"ur": "سارا بیچ دیا جاتا ہے", "en": "All of it is sold"}, {"ur": "صرف خود کھایا جاتا ہے", "en": "People eat all of it themselves"}, {"ur": "خود کھاتے ہیں اور غریبوں اور رشتہ داروں میں بانٹتے ہیں", "en": "People eat some and share it with the poor and relatives"}],
+           "answer": 2,
+           "fb": {"ur": "قربانی کا گوشت خود کھاتے ہیں، غریبوں اور رشتہ داروں میں بھی بانٹتے ہیں۔", "en": "People eat the meat themselves and also share it with the poor and relatives."}}
+        ]}
+      }
+    },
+    {
+      "t": "activity",
+      "id": "p029-a4",
+      "label": {"ur": "سوال نمبر 3", "en": "Question 3"},
+      "orig": {"ur": "دیگر مذاہب کے کوئی سے دو تہواروں کے نام لکھیں۔", "en": "Write the names of any two festivals of other religions."},
+      "prompt": {"ur": "دوسرے مذاہب کے دو تہواروں کے نام بتائیں۔", "en": "Name two festivals of other religions."},
+      "levels": {
+        "easy": {"kind": "sort",
+          "groups": [{"ur": "مسلمانوں کے تہوار", "en": "Festivals of Muslims"}, {"ur": "دیگر مذاہب کے تہوار", "en": "Festivals of other religions"}],
+          "items": [
+            {"ur": "کرسمس", "en": "Christmas", "sym": "Christmas tree", "group": 1},
+            {"ur": "عید الفطر", "en": "Eid-ul-Fitr", "sym": "mosque", "group": 0},
+            {"ur": "ہولی", "en": "Holi", "sym": "colours", "group": 1},
+            {"ur": "عید الاضحیٰ", "en": "Eid-ul-Adha", "sym": "goat", "group": 0}
+          ]},
+        "moderate": {"kind": "open", "mode": "write",
+          "model": {"ur": "کرسمس اور ہولی۔ (بیساکھی اور دیوالی بھی صحیح جواب ہیں۔)", "en": "Christmas and Holi. (Baisakhi and Diwali are also correct answers.)"}},
+        "hard": {"kind": "match", "pairs": [
+          {"a": {"ur": "کرسمس", "en": "Christmas"}, "b": {"ur": "مسیحی", "en": "Christians"}},
+          {"a": {"ur": "ہولی", "en": "Holi"}, "b": {"ur": "ہندو", "en": "Hindus"}},
+          {"a": {"ur": "بیساکھی", "en": "Baisakhi"}, "b": {"ur": "سکھ", "en": "Sikhs"}},
+          {"a": {"ur": "عید الفطر", "en": "Eid-ul-Fitr"}, "b": {"ur": "مسلمان", "en": "Muslims"}}
+        ]}
+      }
+    },
+    {
+      "t": "activity",
+      "id": "p029-a5",
+      "label": {"ur": "سوال نمبر 4", "en": "Question 4"},
+      "orig": {"ur": "نیچے دیے گئے الفاظ پڑھ کر جواب تحریر کریں:\n• حضرت ابراہیم علیہ السّلام، 10 ذوالحجہ، قربانی\n• یکم شوّال کا چاند، فطرانہ، عیدی\n• روزہ، افطار، بابرکت مہینا\n• دسمبر، حضرت عیسیٰ علیہ السّلام، مسیحی\n• ہندوؤں، رنگ پھینکنا، خوشی\n• نئے سال کا پہلا دن، سکھ، خوشیاں", "en": "Read the words given below and write the answer:\n• Hazrat Ibrahim (peace be upon him), 10th of Zil-Hajj, sacrifice\n• The moon of the 1st of Shawwal, Fitrana, Eidi\n• Fast, Iftar, blessed month\n• December, Hazrat Isa (peace be upon him), Christians\n• Hindus, throwing colours, happiness\n• First day of the new year, Sikhs, celebrations"},
+      "prompt": {"ur": "یہ پہیلیاں ہیں! تین اشارے پڑھیں اور بتائیں کہ یہ کس تہوار یا مہینے کی بات ہے۔", "en": "These are riddles! Read the three clues and say which festival or month they are about."},
+      "levels": {
+        "easy": {"kind": "match", "pairs": [
+          {"a": {"ur": "فطرانہ، عیدی", "en": "Fitrana, Eidi", "sym": "money"}, "b": {"ur": "عید الفطر", "en": "Eid-ul-Fitr"}},
+          {"a": {"ur": "قربانی", "en": "Sacrifice", "sym": "goat"}, "b": {"ur": "عید الاضحیٰ", "en": "Eid-ul-Adha"}},
+          {"a": {"ur": "رنگ پھینکنا", "en": "Throwing colours", "sym": "colours"}, "b": {"ur": "ہولی", "en": "Holi"}}
+        ]},
+        "moderate": {"kind": "match", "pairs": [
+          {"a": {"ur": "حضرت ابراہیم علیہ السّلام، 10 ذوالحجہ، قربانی", "en": "Hazrat Ibrahim (peace be upon him), 10th of Zil-Hajj, sacrifice"}, "b": {"ur": "عید الاضحیٰ", "en": "Eid-ul-Adha"}},
+          {"a": {"ur": "یکم شوّال کا چاند، فطرانہ، عیدی", "en": "The moon of the 1st of Shawwal, Fitrana, Eidi"}, "b": {"ur": "عید الفطر", "en": "Eid-ul-Fitr"}},
+          {"a": {"ur": "روزہ، افطار، بابرکت مہینا", "en": "Fast, Iftar, blessed month"}, "b": {"ur": "رمضان المبارک", "en": "The holy month of Ramadan"}},
+          {"a": {"ur": "دسمبر، حضرت عیسیٰ علیہ السّلام، مسیحی", "en": "December, Hazrat Isa (peace be upon him), Christians"}, "b": {"ur": "کرسمس", "en": "Christmas"}},
+          {"a": {"ur": "ہندوؤں، رنگ پھینکنا، خوشی", "en": "Hindus, throwing colours, happiness"}, "b": {"ur": "ہولی", "en": "Holi"}},
+          {"a": {"ur": "نئے سال کا پہلا دن، سکھ، خوشیاں", "en": "First day of the new year, Sikhs, celebrations"}, "b": {"ur": "بیساکھی", "en": "Baisakhi"}}
+        ]},
+        "hard": {"kind": "mcq", "questions": [
+          {"q": {"ur": "یکم شوّال کو کون سا تہوار منایا جاتا ہے؟", "en": "Which festival is celebrated on the 1st of Shawwal?"},
+           "options": [{"ur": "عید الاضحیٰ", "en": "Eid-ul-Adha"}, {"ur": "عید الفطر", "en": "Eid-ul-Fitr"}, {"ur": "میلاد النّبی", "en": "Milad-un-Nabi"}, {"ur": "بیساکھی", "en": "Baisakhi"}],
+           "answer": 1,
+           "fb": {"ur": "عید الفطر یکم شوّال کو منائی جاتی ہے۔", "en": "Eid-ul-Fitr is celebrated on the 1st of Shawwal."}},
+          {"q": {"ur": "12 ربیع الاوّل کو مسلمان کیا مناتے ہیں؟", "en": "What do Muslims celebrate on the 12th of Rabi-ul-Awwal?"},
+           "options": [{"ur": "میلاد النّبی", "en": "Milad-un-Nabi"}, {"ur": "عید الفطر", "en": "Eid-ul-Fitr"}, {"ur": "عید الاضحیٰ", "en": "Eid-ul-Adha"}, {"ur": "کرسمس", "en": "Christmas"}],
+           "answer": 0,
+           "fb": {"ur": "میلاد النّبی 12 ربیع الاوّل کو منایا جاتا ہے۔", "en": "Milad-un-Nabi is celebrated on the 12th of Rabi-ul-Awwal."}},
+          {"q": {"ur": "کرسمس کس تاریخ کو منائی جاتی ہے؟", "en": "On which date is Christmas celebrated?"},
+           "options": [{"ur": "10 ذوالحجہ", "en": "10th of Zil-Hajj"}, {"ur": "یکم شوّال", "en": "1st of Shawwal"}, {"ur": "12 ربیع الاوّل", "en": "12th of Rabi-ul-Awwal"}, {"ur": "25 دسمبر", "en": "25 December"}],
+           "answer": 3,
+           "fb": {"ur": "مسیحی ہر سال 25 دسمبر کو کرسمس مناتے ہیں۔", "en": "Christians celebrate Christmas every year on 25 December."}},
+          {"q": {"ur": "سکھ مذہب کے بانی گورو نانک کہاں پیدا ہوئے؟", "en": "Where was Guru Nanak, the founder of the Sikh religion, born?"},
+           "options": [{"ur": "کراچی", "en": "Karachi"}, {"ur": "پشاور", "en": "Peshawar"}, {"ur": "ننکانہ صاحب پنجاب", "en": "Nankana Sahib, Punjab"}, {"ur": "کوئٹہ", "en": "Quetta"}],
+           "answer": 2,
+           "fb": {"ur": "گورو نانک ننکانہ صاحب پنجاب میں پیدا ہوئے۔", "en": "Guru Nanak was born in Nankana Sahib, Punjab."}}
+        ]}
+      }
+    }
+  ],
+  "hint": [
+    {"for": "all", "ur": "جواب یاد نہ آئے تو پچھلے صفحات دوبارہ دیکھیں: عید الفطر (صفحہ 22)، عید الاضحیٰ اور میلاد النّبی (صفحہ 23)، کرسمس، ہولی اور بیساکھی (صفحہ 24)۔ سوال 4 میں ہر سطر کے تین لفظ ایک ہی تہوار کے اشارے ہیں۔", "en": "If you cannot remember an answer, look at the earlier pages again: Eid-ul-Fitr (page 22), Eid-ul-Adha and Milad-un-Nabi (page 23), Christmas, Holi and Baisakhi (page 24). In Question 4, the three words on each line are clues to the same festival."},
+    {"for": "motor", "ur": "لکھنے کی جگہ بچہ جواب بول سکتا ہے، صحیح جواب کی طرف اشارہ کر سکتا ہے، یا تہواروں کے ناموں والے کارڈ خانوں میں رکھ سکتا ہے۔", "en": "Instead of writing, the child can say the answer, point to the right answer, or put cards with the names of the festivals in the boxes."},
+    {"for": "cognitive", "ur": "سوال 4 میں ایک وقت میں ایک سطر دکھائیں اور باقی ڈھانپ دیں۔ پہلے صرف دو تہواروں کے نام میں سے چننے دیں۔", "en": "In Question 4, show one line at a time and cover the rest. At first, let the child choose between just two festival names."},
+    {"for": "teacher", "ur": "سرگرمی میں بچوں کو جوڑوں میں کام کرنے دیں۔ معلومات بول کر، تصویر یا اشاروں سے پیش کی جا سکتی ہیں۔ یاد دلائیں کہ ہم سب کے تہواروں کا ذکر احترام سے کرتے ہیں۔", "en": "Let the children work in pairs for the activity. They can share their information by speaking, with a picture or with signs. Remind them that we talk about everyone's festivals with respect."}
+  ],
+  "easy": {
+    "title": {"ur": "ہمارے تہوار", "en": "Our festivals"},
+    "image": null,
+    "sentences": [
+      {"en": "There are many festivals in Pakistan.",
+       "words": [{"ur": "پاکستان", "sym": "Pakistan"}, {"ur": "میں", "sym": null}, {"ur": "بہت سے", "sym": "many"}, {"ur": "تہوار", "sym": "celebration"}, {"ur": "ہیں۔", "sym": null}],
+       "words_en": [{"en": "There are", "sym": null}, {"en": "many", "sym": "many"}, {"en": "festivals", "sym": "celebration"}, {"en": "in", "sym": null}, {"en": "Pakistan.", "sym": "Pakistan"}]},
+      {"en": "Muslims celebrate Eid.",
+       "words": [{"ur": "مسلمان", "sym": "Muslim"}, {"ur": "عید", "sym": "mosque"}, {"ur": "مناتے ہیں۔", "sym": "to celebrate"}],
+       "words_en": [{"en": "Muslims", "sym": "Muslim"}, {"en": "celebrate", "sym": "to celebrate"}, {"en": "Eid.", "sym": "mosque"}]},
+      {"en": "Christians celebrate Christmas.",
+       "words": [{"ur": "مسیحی", "sym": "Christian"}, {"ur": "کرسمس", "sym": "Christmas"}, {"ur": "مناتے ہیں۔", "sym": "to celebrate"}],
+       "words_en": [{"en": "Christians", "sym": "Christian"}, {"en": "celebrate", "sym": "to celebrate"}, {"en": "Christmas.", "sym": "Christmas"}]},
+      {"en": "Hindus celebrate Holi and Sikhs celebrate Baisakhi.",
+       "words": [{"ur": "ہندو", "sym": "Hindu"}, {"ur": "ہولی", "sym": "colours"}, {"ur": "اور", "sym": null}, {"ur": "سکھ", "sym": "Sikh"}, {"ur": "بیساکھی", "sym": "wheat"}, {"ur": "مناتے ہیں۔", "sym": "to celebrate"}],
+       "words_en": [{"en": "Hindus", "sym": "Hindu"}, {"en": "celebrate", "sym": "to celebrate"}, {"en": "Holi", "sym": "colours"}, {"en": "and", "sym": null}, {"en": "Sikhs", "sym": "Sikh"}, {"en": "celebrate", "sym": "to celebrate"}, {"en": "Baisakhi.", "sym": "wheat"}]},
+      {"en": "All festivals are happy days.",
+       "words": [{"ur": "سب", "sym": "all"}, {"ur": "تہوار", "sym": "celebration"}, {"ur": "خوشی", "sym": "happy"}, {"ur": "کے", "sym": null}, {"ur": "دن", "sym": "day"}, {"ur": "ہیں۔", "sym": null}],
+       "words_en": [{"en": "All", "sym": "all"}, {"en": "festivals", "sym": "celebration"}, {"en": "are", "sym": null}, {"en": "happy", "sym": "happy"}, {"en": "days.", "sym": "day"}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "تہوار کو اس کی نشانی سے ملائیں۔", "en": "Match each festival to its sign."},
+      "task": {"kind": "match", "pairs": [
+        {"a": {"ur": "عید الفطر", "en": "Eid-ul-Fitr"}, "b": {"ur": "عیدی", "en": "Eidi", "sym": "money"}},
+        {"a": {"ur": "کرسمس", "en": "Christmas"}, "b": {"ur": "سجا ہوا درخت", "en": "Decorated tree", "sym": "Christmas tree"}},
+        {"a": {"ur": "ہولی", "en": "Holi"}, "b": {"ur": "رنگ", "en": "Colours", "sym": "colours"}}
+      ]}
+    }
+  },
+  "print": true
+}

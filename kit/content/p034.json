@@ -1,0 +1,92 @@
+{
+  "n": 34,
+  "printed": "30",
+  "chapter": 5,
+  "kind": "content",
+  "title": {"ur": "معدنیات", "en": "Minerals"},
+  "blocks": [
+    {"t": "h", "ur": "معدنیات", "en": "Minerals"},
+    {"t": "p", "ur": "معدنیات میں لوہا، کوئلہ، نمک اور قیمتی پتھر شامل ہیں جن سے ہم استعمال کی مختلف چیزیں بناتے ہیں۔", "en": "Minerals include iron, coal, salt and precious stones. We make many different useful things from them."},
+    {"t": "gallery", "items": [
+      {"crop": [0.515, 0.148, 0.84, 0.298], "alt": {"ur": "کھلے میدان میں لگا لوہے کا ہاتھ سے چلنے والا نلکا جس کا دستہ سرخ اور پیلا ہے۔", "en": "An iron hand pump with a red and yellow handle stands in an open field."}, "cap": {"ur": "نلکا لوہے سے بنتا ہے۔", "en": "A hand pump is made of iron."}},
+      {"crop": [0.176, 0.148, 0.503, 0.298], "alt": {"ur": "بائیں طرف سونے کا ہار، ٹیکا اور جھمکے؛ دائیں طرف چھ مختلف رنگوں کے کچے معدنی پتھر۔", "en": "On the left there is a gold necklace, a gold forehead ornament and earrings, and on the right there are six rough mineral stones of different colours."}, "cap": {"ur": "زیورات میں سونا، چاندی اور قیمتی پتھر استعمال ہوتے ہیں۔", "en": "Gold, silver and precious stones are used in jewellery."}}
+    ]},
+    {
+      "t": "activity",
+      "id": "p034-a1",
+      "label": {"ur": "سرگرمی", "en": "Activity"},
+      "orig": {"ur": "ذیل میں دی گئی مادی اشیا سے بنائی گئی چیزوں کا استعمال لکھیں۔\nمادی اشیا | استعمال\nمٹی: 1 ـــــ 2 ـــــ 3 ـــــ\nلکڑی: 1 ـــــ 2 ـــــ 3 ـــــ\nلوہا: 1 ـــــ 2 ـــــ 3 ـــــ", "en": "Write the uses of things made from the materials given below.\nMaterial and its uses\nClay: 1, 2, 3\nWood: 1, 2, 3\nIron: 1, 2, 3"},
+      "prompt": {"ur": "مٹی، لکڑی اور لوہے سے کون کون سی چیزیں بنتی ہیں؟ ہر ایک کے تین تین استعمال بتائیں۔", "en": "Which things are made from clay, wood and iron? Give three uses for each one."},
+      "levels": {
+        "easy": {"kind": "sort",
+          "groups": [{"ur": "لکڑی", "en": "Wood"}, {"ur": "لوہا", "en": "Iron"}],
+          "items": [
+            {"ur": "میز", "en": "Table", "sym": "table", "group": 0},
+            {"ur": "کیل", "en": "Nail", "sym": "nail", "group": 1},
+            {"ur": "دروازہ", "en": "Door", "sym": "door", "group": 0},
+            {"ur": "ہتھوڑا", "en": "Hammer", "sym": "hammer", "group": 1}
+          ]},
+        "moderate": {"kind": "open", "mode": "write",
+          "steps": [
+            {"ur": "پہلے مٹی کے بارے میں سوچیں: مٹی سے کیا کیا بنتا ہے؟ تین چیزیں لکھیں۔", "en": "First think about clay: what things are made from clay? Write three things."},
+            {"ur": "پھر لکڑی سے بننے والی تین چیزیں لکھیں۔", "en": "Then write three things made from wood."},
+            {"ur": "آخر میں لوہے سے بننے والی تین چیزیں لکھیں۔", "en": "Last of all, write three things made from iron."}
+          ],
+          "model": {"ur": "مٹی: 1۔ برتن (گھڑا، پیالہ) 2۔ اینٹیں اور گھر 3۔ گملے۔\nلکڑی: 1۔ میز اور کرسی 2۔ دروازے اور کھڑکیاں 3۔ پنسل اور کاغذ۔\nلوہا: 1۔ نلکا 2۔ کیل اور ہتھوڑا 3۔ تالا اور چابی۔", "en": "Clay: 1. dishes (water pot, bowl) 2. bricks and houses 3. flowerpots.\nWood: 1. table and chair 2. doors and windows 3. pencil and paper.\nIron: 1. hand pump 2. nail and hammer 3. lock and key."},
+          "checklist": [
+            {"ur": "میں نے مٹی کے تین استعمال بتائے۔", "en": "I gave three uses of clay."},
+            {"ur": "میں نے لکڑی کے تین استعمال بتائے۔", "en": "I gave three uses of wood."},
+            {"ur": "میں نے لوہے کے تین استعمال بتائے۔", "en": "I gave three uses of iron."}
+          ]},
+        "hard": {"kind": "sort",
+          "groups": [{"ur": "مٹی", "en": "Clay"}, {"ur": "لکڑی", "en": "Wood"}, {"ur": "لوہا", "en": "Iron"}],
+          "items": [
+            {"ur": "اینٹ", "en": "Brick", "group": 0},
+            {"ur": "کاغذ", "en": "Paper", "group": 1},
+            {"ur": "نلکا", "en": "Hand pump", "group": 2},
+            {"ur": "گھڑا", "en": "Clay water pot", "group": 0},
+            {"ur": "پنسل", "en": "Pencil", "group": 1},
+            {"ur": "تالا", "en": "Lock", "group": 2},
+            {"ur": "گملا", "en": "Flowerpot", "group": 0},
+            {"ur": "چارپائی کے پائے", "en": "Legs of a charpoy", "group": 1}
+          ]}
+      }
+    }
+  ],
+  "hint": [
+    {"for": "all", "ur": "اپنے اردگرد دیکھیں اور ہر چیز سے پوچھیں: ”تم کس چیز سے بنی ہو؟“ ڈیسک — لکڑی؛ کھڑکی کی جالی — لوہا؛ گملا — مٹی۔ یوں جدول بھرنا آسان ہو جائے گا۔", "en": "Look around you and ask each thing: “What are you made of?” The desk is made of wood, the window grille of iron and the flowerpot of clay. This will make the table easy to fill in."},
+    {"for": "vision", "ur": "تینوں مادی اشیا کو چھو کر پہچانیں: لوہا ٹھنڈا، سخت اور بھاری ہوتا ہے؛ لکڑی ہلکی اور قدرے گرم؛ مٹی کا برتن کھردرا۔ انھیں ہلکا سا بجا کر آواز کا فرق بھی سنیں۔", "en": "Get to know the three materials by touching them: iron is cold, hard and heavy; wood is light and a little warm; a clay pot is rough. Tap them gently and listen to the different sounds as well."},
+    {"for": "motor", "ur": "لکھنے کی جگہ بچہ کمرے کی چیزوں کی طرف اشارہ کر سکتا ہے، جواب بول سکتا ہے، یا اصل چیزیں تین ٹوکریوں (مٹی، لکڑی، لوہا) میں رکھ سکتا ہے۔", "en": "Instead of writing, the child can point to things in the room, say the answers, or put real things into three baskets (clay, wood, iron)."},
+    {"for": "teacher", "ur": "جماعت میں تینوں مادی اشیا کی اصل چیزیں لائیں (مٹی کا پیالہ، لکڑی کا پیمانہ، لوہے کی چابی)۔ جدول میں نو کی جگہ ہر مادے کا ایک ایک جواب بھی قبول کریں، اور تصویر بنا کر دیا گیا جواب بھی۔", "en": "Bring real things made of all three materials to class (a clay bowl, a wooden ruler, an iron key). In the table, accept one answer for each material instead of nine answers, and accept answers given as drawings too."}
+  ],
+  "easy": {
+    "title": {"ur": "چیزیں کس سے بنتی ہیں؟", "en": "What are things made from?"},
+    "image": {"crop": [0.515, 0.148, 0.84, 0.298], "alt": {"ur": "لوہے کا نلکا۔", "en": "This is an iron hand pump."}},
+    "sentences": [
+      {"en": "Iron comes from the ground.",
+       "words": [{"ur": "لوہا", "sym": "iron"}, {"ur": "زمین", "sym": "soil"}, {"ur": "سے", "sym": null}, {"ur": "ملتا ہے۔", "sym": "to get"}],
+       "words_en": [{"en": "Iron", "sym": "iron"}, {"en": "comes from", "sym": "to get"}, {"en": "the ground.", "sym": "soil"}]},
+      {"en": "A hand pump is made of iron.",
+       "words": [{"ur": "نلکا", "img": [0.515, 0.148, 0.84, 0.298]}, {"ur": "لوہے", "sym": "iron"}, {"ur": "سے", "sym": null}, {"ur": "بنتا ہے۔", "sym": "to make"}],
+       "words_en": [{"en": "A hand pump", "img": [0.515, 0.148, 0.84, 0.298]}, {"en": "is made", "sym": "to make"}, {"en": "of", "sym": null}, {"en": "iron.", "sym": "iron"}]},
+      {"en": "A table is made of wood.",
+       "words": [{"ur": "میز", "sym": "table"}, {"ur": "لکڑی", "sym": "wood"}, {"ur": "سے", "sym": null}, {"ur": "بنتی ہے۔", "sym": "to make"}],
+       "words_en": [{"en": "A table", "sym": "table"}, {"en": "is made", "sym": "to make"}, {"en": "of", "sym": null}, {"en": "wood.", "sym": "wood"}]},
+      {"en": "Pots are made of clay.",
+       "words": [{"ur": "برتن", "sym": "pot"}, {"ur": "مٹی", "sym": "mud"}, {"ur": "سے", "sym": null}, {"ur": "بنتے ہیں۔", "sym": "to make"}],
+       "words_en": [{"en": "Pots", "sym": "pot"}, {"en": "are made", "sym": "to make"}, {"en": "of", "sym": null}, {"en": "clay.", "sym": "mud"}]},
+      {"en": "Jewellery is made of gold.",
+       "words": [{"ur": "زیور", "sym": "necklace"}, {"ur": "سونے", "sym": "gold"}, {"ur": "سے", "sym": null}, {"ur": "بنتے ہیں۔", "sym": "to make"}],
+       "words_en": [{"en": "Jewellery", "sym": "necklace"}, {"en": "is made", "sym": "to make"}, {"en": "of", "sym": null}, {"en": "gold.", "sym": "gold"}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "چیز کو اس سے ملائیں جس سے وہ بنی ہے۔", "en": "Match each thing to what it is made from."},
+      "task": {"kind": "match", "pairs": [
+        {"a": {"ur": "نلکا", "en": "Hand pump", "img": [0.515, 0.148, 0.84, 0.298]}, "b": {"ur": "لوہا", "en": "Iron", "sym": "iron"}},
+        {"a": {"ur": "میز", "en": "Table", "sym": "table"}, "b": {"ur": "لکڑی", "en": "Wood", "sym": "wood"}},
+        {"a": {"ur": "برتن", "en": "Pot", "sym": "pot"}, "b": {"ur": "مٹی", "en": "Clay", "sym": "mud"}}
+      ]}
+    }
+  },
+  "print": true
+}

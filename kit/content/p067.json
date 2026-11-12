@@ -1,0 +1,674 @@
+{
+ "n": 67,
+ "printed": "63",
+ "chapter": 10,
+ "kind": "content",
+ "title": {
+  "ur": "پانی کا ضیاع",
+  "en": "Wasting water"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "پانی کا ضیاع",
+   "en": "Wasting water"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.51,
+      0.129,
+      0.821,
+      0.297
+     ],
+     "alt": {
+      "ur": "ایک لڑکا دانت صاف کر رہا ہے اور پاس ہی نل کھلا ہے جس سے پانی بہہ رہا ہے۔",
+      "en": "A boy is brushing his teeth while the tap beside him is left running."
+     },
+     "cap": {
+      "ur": "منہ ہاتھ دھوتے ہوئے نل کھلا چھوڑنا",
+      "en": "Leaving the tap running while washing your face and hands"
+     }
+    },
+    {
+     "crop": [
+      0.165,
+      0.129,
+      0.491,
+      0.294
+     ],
+     "alt": {
+      "ur": "پانی کی کالی ٹینکی بھر چکی ہے اور پانی اوپر سے باہر گر رہا ہے۔",
+      "en": "A black water tank is full and water is overflowing from the top."
+     },
+     "cap": {
+      "ur": "ٹینکی بھرنے کے لیے موٹر کا مسلسل چلتے رہنا",
+      "en": "Letting the motor run on and on to fill the tank"
+     }
+    },
+    {
+     "crop": [
+      0.502,
+      0.331,
+      0.797,
+      0.522
+     ],
+     "alt": {
+      "ur": "ایک بڑا پائپ ٹوٹا ہوا ہے اور اس سے پانی فوارے کی طرح نکل رہا ہے۔",
+      "en": "A big pipe is broken and water is spraying out of it like a fountain."
+     },
+     "cap": {
+      "ur": "پائپ لائن کا ٹوٹ جانا",
+      "en": "A broken pipeline"
+     }
+    },
+    {
+     "crop": [
+      0.16,
+      0.331,
+      0.456,
+      0.522
+     ],
+     "alt": {
+      "ur": "ایک آدمی پائپ سے گاڑی دھو رہا ہے اور زمین پر بہت سا پانی بہہ گیا ہے۔",
+      "en": "A man is washing a car with a hose and a lot of water has spilled on the ground."
+     },
+     "cap": {
+      "ur": "پانی کا غیر ضروری استعمال",
+      "en": "Unnecessary use of water"
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p067-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "پانی کا ضیاع",
+    "en": "Wasting water"
+   },
+   "prompt": {
+    "ur": "ہر تصویر کو اس کے صحیح جملے سے ملائیں۔",
+    "en": "Match each picture with its correct sentence."
+   },
+   "task": {
+    "kind": "match",
+    "pairs": [
+     {
+      "a": {
+       "ur": "تصویر 1",
+       "en": "Picture 1",
+       "img": [
+        0.51,
+        0.129,
+        0.821,
+        0.297
+       ]
+      },
+      "b": {
+       "ur": "منہ ہاتھ دھوتے ہوئے نل کھلا چھوڑنا",
+       "en": "Leaving the tap running while washing your face and hands"
+      }
+     },
+     {
+      "a": {
+       "ur": "تصویر 2",
+       "en": "Picture 2",
+       "img": [
+        0.165,
+        0.129,
+        0.491,
+        0.294
+       ]
+      },
+      "b": {
+       "ur": "ٹینکی بھرنے کے لیے موٹر کا مسلسل چلتے رہنا",
+       "en": "Letting the motor run on and on to fill the tank"
+      }
+     },
+     {
+      "a": {
+       "ur": "تصویر 3",
+       "en": "Picture 3",
+       "img": [
+        0.502,
+        0.331,
+        0.797,
+        0.522
+       ]
+      },
+      "b": {
+       "ur": "پائپ لائن کا ٹوٹ جانا",
+       "en": "A broken pipeline"
+      }
+     },
+     {
+      "a": {
+       "ur": "تصویر 4",
+       "en": "Picture 4",
+       "img": [
+        0.16,
+        0.331,
+        0.456,
+        0.522
+       ]
+      },
+      "b": {
+       "ur": "پانی کا غیر ضروری استعمال",
+       "en": "Unnecessary use of water"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "t": "h",
+   "ur": "پانی ضائع کرنے سے کون سی مشکلات پیدا ہوتی ہیں اور ان کی روک تھام کے کون سے طریقے ہیں؟",
+   "en": "What problems arise from wasting water, and what are the ways to prevent them?"
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.17,
+    0.602,
+    0.793,
+    0.898
+   ],
+   "alt": {
+    "ur": "استاد درختوں کے نیچے بچوں کو پڑھا رہے ہیں۔ تختۂ سیاہ پر دو خانے ہیں: ”مشکلات“ اور ”روک تھام کے طریقے“۔ بچے باری باری اپنے جواب بتا رہے ہیں۔",
+    "en": "A teacher is teaching children under the trees. The blackboard has two columns: \"Problems\" and \"Ways to prevent them\". The children are giving their answers in turn."
+   }
+  },
+  {
+   "t": "h",
+   "ur": "مشکلات",
+   "en": "Problems"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "روزمرہ زندگی کے کام رک جاتے ہیں۔",
+     "en": "Everyday jobs come to a stop."
+    },
+    {
+     "ur": "فصلیں تباہ ہو جاتی ہیں۔",
+     "en": "Crops are destroyed."
+    },
+    {
+     "ur": "پینے کے لیے پانی کی کمی۔",
+     "en": "A shortage of drinking water."
+    },
+    {
+     "ur": "بیماریوں کا بڑھنا۔",
+     "en": "More diseases."
+    }
+   ]
+  },
+  {
+   "t": "h",
+   "ur": "روک تھام کے طریقے",
+   "en": "Ways to prevent them"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "پانی کو آلودگی سے بچانا۔",
+     "en": "Keeping water safe from pollution."
+    },
+    {
+     "ur": "پانی کا ذخیرہ کرنا۔",
+     "en": "Storing water."
+    },
+    {
+     "ur": "احتیاط سے استعمال کرنا اور ضائع نہ کرنا۔",
+     "en": "Using it carefully and not wasting it."
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p067-a2",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "پانی ضائع کرنے سے کون سی مشکلات پیدا ہوتی ہیں اور ان کی روک تھام کے کون سے طریقے ہیں؟",
+    "en": "What problems arise from wasting water, and what are the ways to prevent them?"
+   },
+   "prompt": {
+    "ur": "استاد کے تختے کی طرح ہر بات کو صحیح خانے میں رکھیں: مشکل یا روک تھام کا طریقہ؟",
+    "en": "Just like on the teacher's board, put each idea in the right column. Is it a problem or a way to prevent it?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "مشکلات",
+       "en": "Problems",
+       "sym": "problem"
+      },
+      {
+       "ur": "روک تھام کے طریقے",
+       "en": "Ways to prevent them",
+       "sym": "solution"
+      }
+     ],
+     "items": [
+      {
+       "ur": "پینے کے لیے پانی کی کمی",
+       "en": "A shortage of drinking water",
+       "sym": "thirsty",
+       "group": 0
+      },
+      {
+       "ur": "پانی کا ذخیرہ کرنا",
+       "en": "Storing water",
+       "sym": "bucket",
+       "group": 1
+      },
+      {
+       "ur": "بیماریوں کا بڑھنا",
+       "en": "More diseases",
+       "sym": "sick",
+       "group": 0
+      },
+      {
+       "ur": "پانی ضائع نہ کرنا",
+       "en": "Not wasting water",
+       "sym": "tap",
+       "group": 1
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "مشکلات",
+       "en": "Problems",
+       "sym": "problem"
+      },
+      {
+       "ur": "روک تھام کے طریقے",
+       "en": "Ways to prevent them",
+       "sym": "solution"
+      }
+     ],
+     "items": [
+      {
+       "ur": "روزمرہ زندگی کے کام رک جاتے ہیں۔",
+       "en": "Everyday jobs come to a stop.",
+       "group": 0
+      },
+      {
+       "ur": "پانی کو آلودگی سے بچانا۔",
+       "en": "Keeping water safe from pollution.",
+       "group": 1
+      },
+      {
+       "ur": "فصلیں تباہ ہو جاتی ہیں۔",
+       "en": "Crops are destroyed.",
+       "group": 0
+      },
+      {
+       "ur": "پانی کا ذخیرہ کرنا۔",
+       "en": "Storing water.",
+       "group": 1
+      },
+      {
+       "ur": "پینے کے لیے پانی کی کمی۔",
+       "en": "A shortage of drinking water.",
+       "group": 0
+      },
+      {
+       "ur": "احتیاط سے استعمال کرنا اور ضائع نہ کرنا۔",
+       "en": "Using it carefully and not wasting it.",
+       "group": 1
+      },
+      {
+       "ur": "بیماریوں کا بڑھنا۔",
+       "en": "More diseases.",
+       "group": 0
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "دانت صاف کرتے وقت پانی بچانے کے لیے کیا کرنا چاہیے؟",
+        "en": "What should you do to save water while brushing your teeth?"
+       },
+       "options": [
+        {
+         "ur": "نل کھلا رہنے دیں",
+         "en": "Leave the tap running"
+        },
+        {
+         "ur": "نل بند رکھیں اور گلاس میں پانی لیں",
+         "en": "Keep the tap turned off and take water in a glass"
+        },
+        {
+         "ur": "دیر تک برش کرتے رہیں",
+         "en": "Keep brushing for a long time"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "نل بند رکھنے اور گلاس استعمال کرنے سے بہت سا پانی بچ جاتا ہے۔",
+        "en": "Keeping the tap turned off and using a glass saves a lot of water."
+       }
+      },
+      {
+       "q": {
+        "ur": "ٹینکی بھر جائے تو کیا کرنا چاہیے؟",
+        "en": "What should we do when the tank is full?"
+       },
+       "options": [
+        {
+         "ur": "موٹر فوراً بند کر دیں",
+         "en": "Switch off the motor at once"
+        },
+        {
+         "ur": "موٹر چلتی رہنے دیں",
+         "en": "Let the motor keep running"
+        },
+        {
+         "ur": "ٹینکی کا ڈھکن اتار دیں",
+         "en": "Take the lid off the tank"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "موٹر مسلسل چلتی رہے تو پانی بہہ کر ضائع ہو جاتا ہے، اس لیے اسے بند کر دیں۔",
+        "en": "If the motor keeps running, the water overflows and is wasted, so switch it off."
+       }
+      },
+      {
+       "q": {
+        "ur": "اگر کھیتوں کو پانی نہ ملے تو کیا ہوگا؟",
+        "en": "What will happen if the fields get no water?"
+       },
+       "options": [
+        {
+         "ur": "فصلیں زیادہ اُگیں گی",
+         "en": "More crops will grow"
+        },
+        {
+         "ur": "کچھ بھی نہیں ہوگا",
+         "en": "Nothing will happen"
+        },
+        {
+         "ur": "فصلیں تباہ ہو جائیں گی",
+         "en": "The crops will be destroyed"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "پانی کی کمی سے فصلیں تباہ ہو جاتی ہیں اور خوراک کم ہو جاتی ہے۔",
+        "en": "Without enough water the crops are destroyed and there is less food."
+       }
+      },
+      {
+       "q": {
+        "ur": "گلی میں پائپ ٹوٹا ہو اور پانی بہہ رہا ہو تو آپ کیا کریں گے؟",
+        "en": "A pipe in your street is broken and water is flowing out. What will you do?"
+       },
+       "options": [
+        {
+         "ur": "پانی میں کھیلیں گے",
+         "en": "Play in the water"
+        },
+        {
+         "ur": "فوراً بڑوں کو بتائیں گے تاکہ مرمت ہو سکے",
+         "en": "Tell the grown-ups at once so it can be repaired"
+        },
+        {
+         "ur": "چپ چاپ گزر جائیں گے",
+         "en": "Walk past quietly"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "بڑوں کو بتانے سے پائپ جلدی ٹھیک ہوگا اور پانی ضائع ہونے سے بچ جائے گا۔",
+        "en": "If you tell the grown-ups, the pipe will be fixed quickly and the water will not be wasted."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "پہلے چاروں تصویریں دیکھیں اور ہر تصویر میں ڈھونڈیں کہ پانی کہاں بہہ رہا ہے۔ پھر سوچیں: کیا میرے گھر میں بھی ایسا ہوتا ہے؟",
+   "en": "First look at the four pictures and find where the water is flowing in each. Then think: does this happen in my home too?"
+  },
+  {
+   "for": "hearing",
+   "ur": "استاد والی تصویر میں بچوں کی باتیں غباروں میں لکھی ہیں: گلابی غبارے مشکلات ہیں اور پیلے غبارے روک تھام کے طریقے۔ رنگ دیکھ کر پہچانیں۔",
+   "en": "In the picture of the teacher, the children's words are written in bubbles: pink bubbles are problems and yellow bubbles are ways to prevent them. Use the colours to tell them apart."
+  },
+  {
+   "for": "motor",
+   "ur": "اگر گھسیٹ کر رکھنا مشکل ہو تو صرف بول کر یا اشارہ کر کے بتائیں کہ بات ”مشکل“ ہے یا ”روک تھام“؛ ساتھی اسے خانے میں رکھ دے۔",
+   "en": "If dragging is hard, just say or point to show whether an idea is a \"problem\" or \"prevention\"; a partner can place it in the column."
+  },
+  {
+   "for": "teacher",
+   "ur": "عملی مظاہرہ کریں: ایک بچہ مگ سے ہاتھ دھوئے اور دوسرا کھلے نل (یا بہتی بوتل) سے؛ دونوں کا استعمال شدہ پانی الگ الگ برتن میں جمع کر کے موازنہ کریں۔ نابینا بچے برتنوں کا وزن اٹھا کر فرق محسوس کریں۔",
+   "en": "Give a demonstration: one child washes their hands with a mug of water, and another under a running tap (or a pouring bottle). Collect the used water in two separate bowls and compare. Blind children can feel the difference by lifting the bowls."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "پانی ضائع نہ کریں",
+   "en": "Do not waste water"
+  },
+  "image": {
+   "crop": [
+    0.51,
+    0.129,
+    0.821,
+    0.297
+   ],
+   "alt": {
+    "ur": "لڑکا دانت صاف کر رہا ہے اور نل کھلا ہے۔",
+    "en": "A boy is brushing his teeth and the tap is running."
+   }
+  },
+  "sentences": [
+   {
+    "en": "An open tap wastes water.",
+    "words": [
+     {
+      "ur": "کھلا",
+      "sym": "to open"
+     },
+     {
+      "ur": "نل",
+      "sym": "tap"
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "ضائع کرتا ہے۔",
+      "sym": "to spill"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "An",
+      "sym": null
+     },
+     {
+      "en": "open",
+      "sym": "to open"
+     },
+     {
+      "en": "tap",
+      "sym": "tap"
+     },
+     {
+      "en": "wastes",
+      "sym": "to spill"
+     },
+     {
+      "en": "water.",
+      "sym": "water"
+     }
+    ]
+   },
+   {
+    "en": "Without water people get sick.",
+    "words": [
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "نہ ہو",
+      "sym": "no"
+     },
+     {
+      "ur": "تو",
+      "sym": null
+     },
+     {
+      "ur": "لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "بیمار",
+      "sym": "sick"
+     },
+     {
+      "ur": "ہوتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Without",
+      "sym": "no"
+     },
+     {
+      "en": "water",
+      "sym": "water"
+     },
+     {
+      "en": "people",
+      "sym": "people"
+     },
+     {
+      "en": "get sick.",
+      "sym": "sick"
+     }
+    ]
+   },
+   {
+    "en": "Turn off the tap.",
+    "words": [
+     {
+      "ur": "نل",
+      "sym": "tap"
+     },
+     {
+      "ur": "بند کریں۔",
+      "sym": "to close"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Turn off",
+      "sym": "to close"
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "tap.",
+      "sym": "tap"
+     }
+    ]
+   },
+   {
+    "en": "Let us save water.",
+    "words": [
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "بچائیں۔",
+      "sym": "to save"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Let us",
+      "sym": "we"
+     },
+     {
+      "en": "save",
+      "sym": "to save"
+     },
+     {
+      "en": "water.",
+      "sym": "water"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "پانی بچانے والا کام چنیں۔",
+    "en": "Choose the action that saves water."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "پانی بچانے کے لیے ہم کیا کریں؟",
+       "en": "What do we do to save water?"
+      },
+      "options": [
+       {
+        "ur": "نل بند کریں",
+        "en": "Turn off the tap",
+        "sym": "to close"
+       },
+       {
+        "ur": "نل کھلا چھوڑ دیں",
+        "en": "Leave the tap running",
+        "sym": "to open"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "نل بند کرنے سے پانی بچتا ہے۔ شاباش!",
+       "en": "Turning off the tap saves water. Well done!"
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

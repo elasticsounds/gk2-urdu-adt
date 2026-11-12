@@ -1,0 +1,506 @@
+{
+ "n": 25,
+ "printed": "21",
+ "chapter": 4,
+ "kind": "opener",
+ "title": {
+  "ur": "مذہبی تہوار",
+  "en": "Religious festivals"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "04 مذہبی تہوار",
+   "en": "Chapter 4: Religious festivals"
+  },
+  {
+   "t": "h",
+   "ur": "حاصلاتِ تعلّم",
+   "en": "Learning outcomes"
+  },
+  {
+   "t": "p",
+   "ur": "اس باب کے اختتام پر آپ اس قابل ہو جائیں گے کہ:",
+   "en": "By the end of this chapter you will be able to:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "جان سکیں مسلمان عید الفطر اور عید الاضحیٰ کیوں اور کیسے مناتے ہیں۔",
+     "en": "Know why and how Muslims celebrate Eid-ul-Fitr and Eid-ul-Adha."
+    },
+    {
+     "ur": "پاکستان میں منائے جانے والے دوسرے مذاہب کے مذہبی اور ثقافتی تہواروں کے بارے میں جان سکیں۔",
+     "en": "Know about the religious and cultural festivals of other religions that are celebrated in Pakistan."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "ur": "تہوار کے موقع پر لوگ خوشیاں مناتے ہیں اور دوسروں کی خوشیوں میں شریک ہوتے ہیں۔ مسلمان سال میں دو عیدیں جوش و خروش سے مناتے ہیں، عید الفطر اور عید الاضحیٰ ۔",
+   "en": "At a festival people celebrate and share in the happiness of others. Muslims celebrate two Eids in a year with great enthusiasm: Eid-ul-Fitr and Eid-ul-Adha."
+  },
+  {
+   "t": "p",
+   "ur": "پاکستان میں رہنے والے دوسرے مذاہب سے تعلق رکھنے والے لوگ بھی اپنے مذہبی اور ثقافتی تہوار مناتے ہیں مثلاً کرسمس، بیساکھی، دیوالی اور ہولی وغیرہ۔",
+   "en": "People of other religions living in Pakistan also celebrate their own religious and cultural festivals, for example Christmas, Baisakhi, Diwali and Holi."
+  },
+  {
+   "t": "activity",
+   "id": "p025-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "(اضافی مشق — یہ کتاب میں چھپی ہوئی نہیں ہے)",
+    "en": "(Extra practice — not printed in the book)"
+   },
+   "prompt": {
+    "ur": "اوپر کی عبارت میں تہواروں کے نام آئے ہیں۔ آئیے انھیں پہچانیں!",
+    "en": "The text above names some festivals. Let us get to know them!"
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "مسلمان سال میں کتنی عیدیں مناتے ہیں؟",
+        "en": "How many Eids do Muslims celebrate in a year?"
+       },
+       "options": [
+        {
+         "ur": "دو",
+         "en": "Two",
+         "sym": "two"
+        },
+        {
+         "ur": "پانچ",
+         "en": "Five",
+         "sym": "five"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "مسلمان سال میں دو عیدیں مناتے ہیں: عید الفطر اور عید الاضحیٰ۔",
+        "en": "Muslims celebrate two Eids in a year: Eid-ul-Fitr and Eid-ul-Adha."
+       }
+      },
+      {
+       "q": {
+        "ur": "تہوار کے موقع پر لوگ کیا مناتے ہیں؟",
+        "en": "What do people feel at a festival?"
+       },
+       "options": [
+        {
+         "ur": "غم",
+         "en": "Sadness",
+         "sym": "sad"
+        },
+        {
+         "ur": "خوشیاں",
+         "en": "Happiness",
+         "sym": "happy"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "تہوار کے موقع پر لوگ خوشیاں مناتے ہیں۔",
+        "en": "At a festival people celebrate and feel happy."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "مسلمانوں کی عیدیں",
+       "en": "Eids of Muslims"
+      },
+      {
+       "ur": "دوسرے مذاہب کے تہوار",
+       "en": "Festivals of other religions"
+      }
+     ],
+     "items": [
+      {
+       "ur": "عید الفطر",
+       "en": "Eid-ul-Fitr",
+       "group": 0
+      },
+      {
+       "ur": "کرسمس",
+       "en": "Christmas",
+       "group": 1
+      },
+      {
+       "ur": "بیساکھی",
+       "en": "Baisakhi",
+       "group": 1
+      },
+      {
+       "ur": "عید الاضحیٰ",
+       "en": "Eid-ul-Adha",
+       "group": 0
+      },
+      {
+       "ur": "دیوالی",
+       "en": "Diwali",
+       "group": 1
+      },
+      {
+       "ur": "ہولی",
+       "en": "Holi",
+       "group": 1
+      }
+     ]
+    },
+    "hard": {
+     "kind": "fill",
+     "questions": [
+      {
+       "q": {
+        "ur": "تہوار کے موقع پر لوگ دوسروں کی ___ میں شریک ہوتے ہیں۔",
+        "en": "At a festival people share in the ___ of others."
+       },
+       "options": [
+        {
+         "ur": "کتابوں",
+         "en": "books"
+        },
+        {
+         "ur": "خوشیوں",
+         "en": "happiness"
+        },
+        {
+         "ur": "کھیتوں",
+         "en": "fields"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "تہوار پر ہم دوسروں کی خوشیوں میں شریک ہوتے ہیں۔",
+        "en": "At festivals we share in other people's happiness."
+       }
+      },
+      {
+       "q": {
+        "ur": "مسلمان سال میں ___ عیدیں جوش و خروش سے مناتے ہیں۔",
+        "en": "Muslims celebrate ___ Eids a year with great enthusiasm."
+       },
+       "options": [
+        {
+         "ur": "دو",
+         "en": "two"
+        },
+        {
+         "ur": "تین",
+         "en": "three"
+        },
+        {
+         "ur": "چار",
+         "en": "four"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "دو عیدیں: عید الفطر اور عید الاضحیٰ۔",
+        "en": "Two Eids: Eid-ul-Fitr and Eid-ul-Adha."
+       }
+      },
+      {
+       "q": {
+        "ur": "کرسمس، بیساکھی، دیوالی اور ہولی دوسرے ___ کے تہوار ہیں۔",
+        "en": "Christmas, Baisakhi, Diwali and Holi are festivals of other ___."
+       },
+       "options": [
+        {
+         "ur": "موسموں",
+         "en": "seasons"
+        },
+        {
+         "ur": "شہروں",
+         "en": "cities"
+        },
+        {
+         "ur": "مذاہب",
+         "en": "religions"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "پاکستان میں دوسرے مذاہب کے لوگ بھی اپنے تہوار مناتے ہیں۔",
+        "en": "People of other religions in Pakistan also celebrate their festivals."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "سوچیں: آپ کے گھر میں کون سا تہوار منایا جاتا ہے؟ اس دن آپ کیا پہنتے اور کیا کھاتے ہیں؟ یہ یاد کر کے سبق پڑھیں۔",
+   "en": "Think: which festival is celebrated in your home? What do you wear and eat on that day? Remember it, then read the lesson."
+  },
+  {
+   "for": "cognitive",
+   "ur": "چھ تہواروں کے نام ایک ایک کر کے انگلیوں پر گنیں: عید الفطر، عید الاضحیٰ، کرسمس، بیساکھی، دیوالی، ہولی۔",
+   "en": "Count the six festival names one by one on your fingers: Eid-ul-Fitr, Eid-ul-Adha, Christmas, Baisakhi, Diwali, Holi."
+  },
+  {
+   "for": "hearing",
+   "ur": "ہر تہوار کے لیے ایک اشارہ طے کر لیں، مثلاً عید کے لیے گلے ملنا، ہولی کے لیے رنگ اڑانا، کرسمس کے لیے درخت کی شکل۔",
+   "en": "Agree on a sign for each festival, for example a hug for Eid, throwing colours for Holi, and a tree shape for Christmas."
+  },
+  {
+   "for": "teacher",
+   "ur": "جماعت میں ہر مذہب کے بچے ہو سکتے ہیں۔ ہر بچے کو اپنے تہوار کے بارے میں بتانے کا موقع دیں (بول کر، تصویر بنا کر یا اشارے سے) اور سب تہواروں کا ذکر برابر احترام سے کریں۔",
+   "en": "Your class may include children of every religion. Give each child a chance to talk about their own festival (by speaking, drawing or using signs), and speak of all festivals with equal respect."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "تہوار",
+   "en": "Festivals"
+  },
+  "image": null,
+  "sentences": [
+   {
+    "en": "A festival is a happy day.",
+    "words": [
+     {
+      "ur": "تہوار",
+      "sym": "celebration"
+     },
+     {
+      "ur": "خوشی",
+      "sym": "happy"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "دن",
+      "sym": "day"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "A festival",
+      "sym": "celebration"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "a happy",
+      "sym": "happy"
+     },
+     {
+      "en": "day.",
+      "sym": "day"
+     }
+    ]
+   },
+   {
+    "en": "Muslims celebrate two Eids.",
+    "words": [
+     {
+      "ur": "مسلمان",
+      "sym": "Muslim"
+     },
+     {
+      "ur": "دو",
+      "sym": "two"
+     },
+     {
+      "ur": "عیدیں",
+      "sym": "party"
+     },
+     {
+      "ur": "مناتے ہیں۔",
+      "sym": "to celebrate"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Muslims",
+      "sym": "Muslim"
+     },
+     {
+      "en": "celebrate",
+      "sym": "to celebrate"
+     },
+     {
+      "en": "two",
+      "sym": "two"
+     },
+     {
+      "en": "Eids.",
+      "sym": "party"
+     }
+    ]
+   },
+   {
+    "en": "People of other religions also celebrate festivals.",
+    "words": [
+     {
+      "ur": "دوسرے",
+      "sym": "other"
+     },
+     {
+      "ur": "مذاہب",
+      "sym": "religion"
+     },
+     {
+      "ur": "کے",
+      "sym": null
+     },
+     {
+      "ur": "لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "بھی",
+      "sym": "also"
+     },
+     {
+      "ur": "تہوار",
+      "sym": "celebration"
+     },
+     {
+      "ur": "مناتے ہیں۔",
+      "sym": "to celebrate"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "People",
+      "sym": "people"
+     },
+     {
+      "en": "of",
+      "sym": null
+     },
+     {
+      "en": "other",
+      "sym": "other"
+     },
+     {
+      "en": "religions",
+      "sym": "religion"
+     },
+     {
+      "en": "also",
+      "sym": "also"
+     },
+     {
+      "en": "celebrate",
+      "sym": "to celebrate"
+     },
+     {
+      "en": "festivals.",
+      "sym": "celebration"
+     }
+    ]
+   },
+   {
+    "en": "We share everyone's happiness.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "سب",
+      "sym": "everybody"
+     },
+     {
+      "ur": "کی",
+      "sym": null
+     },
+     {
+      "ur": "خوشی",
+      "sym": "happy"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "شریک",
+      "sym": "to share"
+     },
+     {
+      "ur": "ہوتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "share",
+      "sym": "to share"
+     },
+     {
+      "en": "everyone's",
+      "sym": "everybody"
+     },
+     {
+      "en": "happiness.",
+      "sym": "happy"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح تصویر چنیں۔",
+    "en": "Choose the right picture."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "تہوار کے دن لوگ کیسے ہوتے ہیں؟",
+       "en": "How do people feel on a festival day?"
+      },
+      "options": [
+       {
+        "ur": "خوش",
+        "en": "Happy",
+        "sym": "happy"
+       },
+       {
+        "ur": "اداس",
+        "en": "Sad",
+        "sym": "sad"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "تہوار خوشی کا دن ہے۔ سب خوش ہوتے ہیں۔",
+       "en": "A festival is a happy day. Everyone is happy."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

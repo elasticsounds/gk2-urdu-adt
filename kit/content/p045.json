@@ -1,0 +1,388 @@
+{
+ "n": 45,
+ "printed": "41",
+ "chapter": 7,
+ "kind": "opener",
+ "title": {
+  "ur": "باب 7: پودے",
+  "en": "Plants"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "07 پودے",
+   "en": "Chapter 7: Plants"
+  },
+  {
+   "t": "h",
+   "ur": "حاصلاتِ تعلّم",
+   "en": "Learning outcomes"
+  },
+  {
+   "t": "p",
+   "ur": "اس باب کے اختتام پر آپ اس قابل ہو جائیں گے کہ:",
+   "en": "By the end of this chapter you will be able to:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "پودے کے مختلف حصّوں (جڑ، تنا، پتّا اور پُھول) کی شناخت اور ان کے افعال بتا سکیں۔",
+     "en": "Identify the different parts of a plant (root, stem, leaf and flower) and say what each part does."
+    },
+    {
+     "ur": "پتّوں کی مختلف اشکال کی شناخت کر سکیں۔",
+     "en": "Identify the different shapes of leaves."
+    },
+    {
+     "ur": "ان جڑوں کی شناخت کر سکیں جو لوگ کھاتے ہیں۔",
+     "en": "Identify the roots that people eat."
+    },
+    {
+     "ur": "اپنے اِرد گِرد موجود پُھول دار اور غیر پُھول دار پودوں کے نام بتا سکیں۔",
+     "en": "Name the flowering and non-flowering plants around you."
+    },
+    {
+     "ur": "شناخت کر سکیں کہ کس پھل میں بیج ہوتا ہے۔",
+     "en": "Identify which fruits have seeds in them."
+    },
+    {
+     "ur": "پہچان سکیں کہ کچھ پودے بیج سے، کچھ جڑ اور کچھ تنے سے اُگتے ہیں۔",
+     "en": "Recognise that some plants grow from seeds, some from roots and some from stems."
+    },
+    {
+     "ur": "شناخت کر سکیں کہ مٹی، پانی، ہوا اور روشنی پودے کی نشوونما کے لیے ضروری ہیں۔",
+     "en": "Identify that soil, water, air and light are needed for a plant to grow."
+    },
+    {
+     "ur": "موسمیاتی تبدیلی میں پودوں کی اہمیت واضح کر سکیں۔",
+     "en": "Explain the importance of plants in climate change."
+    }
+   ]
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "پڑھنے سے پہلے سوچیں: آپ کے گھر یا سکول کے پاس کون سا پودا یا درخت ہے؟ اس کا نام اپنے ساتھی کو بتائیں۔",
+   "en": "Before reading, think: which plant or tree is near your home or school? Tell your partner its name."
+  },
+  {
+   "for": "cognitive",
+   "ur": "آٹھ باتیں ایک ساتھ یاد نہ کریں۔ بس چار لفظ یاد رکھیں: جڑ، تنا، پتّا، پُھول۔ ہر لفظ پر ایک انگلی اٹھائیں۔",
+   "en": "Do not try to remember all eight points at once. Just remember four words: root, stem, leaf, flower. Raise one finger for each word."
+  },
+  {
+   "for": "vision",
+   "ur": "ایک اصلی چھوٹا پودا ہاتھ میں لیں۔ نیچے سے اوپر تک چھو کر دیکھیں: جڑ، تنا، پتّا، پُھول۔",
+   "en": "Hold a real small plant. Feel it from bottom to top: root, stem, leaf, flower."
+  },
+  {
+   "for": "teacher",
+   "ur": "باب شروع کرنے سے پہلے جماعت میں ایک اصلی پودا (جڑ سمیت) لائیں۔ ہر بچے کو اسے دیکھنے، چھونے اور سونگھنے دیں۔ جو بچے بول نہیں سکتے وہ پودے کے حصّے پر انگلی رکھ کر جواب دے سکتے ہیں۔",
+   "en": "Before starting the chapter, bring a real plant, with its roots, to class. Let every child see, touch and smell it. Children who cannot speak can answer by pointing to the part of the plant."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "پودے",
+   "en": "Plants"
+  },
+  "image": null,
+  "sentences": [
+   {
+    "en": "This lesson is about plants.",
+    "words_en": [
+     {
+      "en": "This lesson",
+      "sym": "lesson"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "about",
+      "sym": null
+     },
+     {
+      "en": "plants.",
+      "sym": "plant"
+     }
+    ],
+    "words": [
+     {
+      "ur": "یہ",
+      "sym": null
+     },
+     {
+      "ur": "سبق",
+      "sym": "lesson"
+     },
+     {
+      "ur": "پودوں",
+      "sym": "plant"
+     },
+     {
+      "ur": "کے",
+      "sym": null
+     },
+     {
+      "ur": "بارے",
+      "sym": null
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "A plant has a root.",
+    "words_en": [
+     {
+      "en": "A plant",
+      "sym": "plant"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "a root.",
+      "sym": "root"
+     }
+    ],
+    "words": [
+     {
+      "ur": "پودے",
+      "sym": "plant"
+     },
+     {
+      "ur": "کی",
+      "sym": null
+     },
+     {
+      "ur": "جڑ",
+      "sym": "root"
+     },
+     {
+      "ur": "ہوتی",
+      "sym": null
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "A plant has a stem and leaves.",
+    "words_en": [
+     {
+      "en": "A plant",
+      "sym": "plant"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "a stem",
+      "sym": "stem"
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "leaves.",
+      "sym": "leaf"
+     }
+    ],
+    "words": [
+     {
+      "ur": "پودے",
+      "sym": "plant"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "تنا",
+      "sym": "stem"
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "پتّے",
+      "sym": "leaf"
+     },
+     {
+      "ur": "ہوتے",
+      "sym": null
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "A plant has a flower.",
+    "words_en": [
+     {
+      "en": "A plant",
+      "sym": "plant"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "a flower.",
+      "sym": "flower"
+     }
+    ],
+    "words": [
+     {
+      "ur": "پودے",
+      "sym": "plant"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "پُھول",
+      "sym": "flower"
+     },
+     {
+      "ur": "ہوتا",
+      "sym": null
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "Plants need water and light.",
+    "words_en": [
+     {
+      "en": "Plants",
+      "sym": "plant"
+     },
+     {
+      "en": "need",
+      "sym": "to need"
+     },
+     {
+      "en": "water",
+      "sym": "water"
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "light.",
+      "sym": "sun"
+     }
+    ],
+    "words": [
+     {
+      "ur": "پودوں",
+      "sym": "plant"
+     },
+     {
+      "ur": "کو",
+      "sym": null
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "روشنی",
+      "sym": "sun"
+     },
+     {
+      "ur": "چاہیے۔",
+      "sym": "to need"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح تصویر پر انگلی رکھیں۔",
+    "en": "Point to the right picture."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "ان میں سے پودا کون سا ہے؟",
+       "en": "Which one is a plant?"
+      },
+      "options": [
+       {
+        "ur": "درخت",
+        "en": "Tree",
+        "sym": "tree"
+       },
+       {
+        "ur": "گاڑی",
+        "en": "Car",
+        "sym": "car"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "درخت ایک بڑا پودا ہے۔ گاڑی پودا نہیں ہے۔",
+       "en": "A tree is a big plant. A car is not a plant."
+      }
+     },
+     {
+      "q": {
+       "ur": "پودے پر کیا اُگتا ہے؟",
+       "en": "What grows on a plant?"
+      },
+      "options": [
+       {
+        "ur": "کرسی",
+        "en": "Chair",
+        "sym": "chair"
+       },
+       {
+        "ur": "پُھول",
+        "en": "Flower",
+        "sym": "flower"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "پودے پر پُھول اُگتا ہے۔",
+       "en": "A flower grows on a plant."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": false
+}

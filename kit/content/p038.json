@@ -1,0 +1,97 @@
+{
+  "n": 38,
+  "printed": "34",
+  "chapter": 6,
+  "kind": "content",
+  "title": {"ur": "پانی زندگی کی علامت", "en": "Water is a sign of life"},
+  "blocks": [
+    {"t": "p", "ur": "پیارے بچو! کیا آپ نے کبھی سوچا ہے کہ اگر پانی نہ ہوتا تو کیا زمین پر جان دار ہوتے؟", "en": "Dear children! Have you ever wondered: if there were no water, would there be any living things on Earth?"},
+    {"t": "img", "crop": [0.192, 0.191, 0.868, 0.452],
+     "alt": {"ur": "صاف نیلا پانی اچھل رہا ہے اور اس کے قطرے ہوا میں اُڑ رہے ہیں۔", "en": "Clear blue water is splashing up and its drops are flying in the air."}},
+    {"t": "h", "ur": "پانی زندگی کی علامت", "en": "Water is a sign of life"},
+    {"t": "p", "ur": "تمام جان داروں کے لیے پانی بہت اہم ہے۔ جان دار پانی کے بغیر زندہ نہیں رہ سکتے۔", "en": "Water is very important for all living things. Living things cannot stay alive without water."},
+    {"t": "gallery", "items": [
+      {"crop": [0.536, 0.570, 0.859, 0.751],
+       "alt": {"ur": "ایک لڑکا شیشے کے گلاس سے پانی پی رہا ہے۔", "en": "A boy is drinking water from a glass."}},
+      {"crop": [0.186, 0.570, 0.509, 0.751],
+       "alt": {"ur": "مٹی میں اُگے دو چھوٹے پودوں پر فوّارے سے پانی ڈالا جا رہا ہے۔", "en": "Water is being poured from a watering can onto two small plants growing in soil."}}
+    ]},
+    {"t": "activity",
+     "id": "p038-a1",
+     "label": {"ur": "ذرا سوچیے!", "en": "Think about it!"},
+     "orig": {"ur": "پانی جان داروں کے لیے کیوں ضروری ہے؟", "en": "Why is water necessary for living things?"},
+     "prompt": {"ur": "سوچیں اور بتائیں: جان داروں کو پانی کیوں چاہیے؟", "en": "Think and say: why do living things need water?"},
+     "levels": {
+       "easy": {"kind": "sort",
+         "groups": [{"ur": "پانی چاہیے", "en": "Needs water", "sym": "water"}, {"ur": "پانی نہیں چاہیے", "en": "Does not need water", "sym": "no"}],
+         "items": [
+           {"ur": "بچہ", "en": "Child", "sym": "child", "group": 0},
+           {"ur": "پتھر", "en": "Stone", "sym": "stone", "group": 1},
+           {"ur": "پودا", "en": "Plant", "sym": "plant", "group": 0},
+           {"ur": "کرسی", "en": "Chair", "sym": "chair", "group": 1},
+           {"ur": "بکری", "en": "Goat", "sym": "goat", "group": 0},
+           {"ur": "چڑیا", "en": "Sparrow", "sym": "bird", "group": 0}
+         ]},
+       "moderate": {"kind": "open", "mode": "talk",
+         "steps": [
+           {"ur": "دونوں تصویریں دیکھیں: لڑکا پانی پی رہا ہے اور پودوں کو پانی دیا جا رہا ہے۔", "en": "Look at both pictures: the boy is drinking water and the plants are being watered."},
+           {"ur": "سوچیں: اگر آپ کو سارا دن پانی نہ ملے تو کیسا لگے گا؟", "en": "Think: how would you feel if you got no water all day?"},
+           {"ur": "اپنے ساتھی یا استاد کو اپنا جواب بتائیں۔", "en": "Tell your partner or teacher your answer."}
+         ],
+         "model": {"ur": "تمام جان داروں کے لیے پانی بہت اہم ہے۔ جان دار پانی کے بغیر زندہ نہیں رہ سکتے۔ انسان اور جانور پانی پیتے ہیں اور پودے پانی سے بڑھتے ہیں۔", "en": "Water is very important for all living things. Living things cannot stay alive without water. People and animals drink water, and plants grow with water."},
+         "checklist": [
+           {"ur": "میں نے دونوں تصویریں دیکھیں۔", "en": "I looked at both pictures."},
+           {"ur": "میں نے اپنا جواب بول کر، لکھ کر یا اشارے سے بتایا۔", "en": "I gave my answer by speaking, writing or signing."}
+         ]},
+       "hard": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "لکھیں: اگر گملے کے پودے کو کئی دن پانی نہ ملے تو کیا ہوگا؟", "en": "Write: what will happen if a potted plant gets no water for many days?"},
+           {"ur": "لکھیں: گرمی میں جانوروں اور پرندوں کو پانی کہاں سے ملتا ہے؟", "en": "Write: where do animals and birds get water in hot weather?"},
+           {"ur": "لکھیں: آپ پرندوں کے لیے پانی کا انتظام کیسے کر سکتے ہیں؟", "en": "Write: how can you put out water for the birds?"}
+         ],
+         "model": {"ur": "پانی نہ ملے تو پودا مرجھا کر سوکھ جائے گا۔ جانور اور پرندے تالاب، نہر اور دریا سے پانی پیتے ہیں۔ میں چھت یا صحن میں پرندوں کے لیے پانی کا برتن رکھ سکتا ہوں۔", "en": "Without water the plant will wilt and dry up. Animals and birds drink water from ponds, canals and rivers. I can put out a bowl of water for the birds on the roof or in the courtyard."},
+         "checklist": [
+           {"ur": "میں نے تینوں سوالوں کے جواب لکھے۔", "en": "I answered all three questions."},
+           {"ur": "میں نے بتایا کہ پانی کے بغیر جان دار زندہ نہیں رہ سکتے۔", "en": "I said that living things cannot stay alive without water."}
+         ]}
+     }}
+  ],
+  "hint": [
+    {"for": "all", "ur": "یاد رکھنے کا طریقہ: جو چیز سانس لیتی اور بڑھتی ہے (انسان، جانور، پودے) اسے پانی چاہیے۔ اپنے گھر میں ایسی تین چیزیں ڈھونڈیں۔", "en": "A way to remember: anything that breathes and grows (people, animals, plants) needs water. Find three such things in your home."},
+    {"for": "vision", "ur": "دو گملے چھو کر دیکھیں: ایک کی مٹی گیلی اور دوسرے کی سوکھی۔ گیلی مٹی والے پودے کے پتّے نرم اور تازہ ہوتے ہیں۔", "en": "Touch two flowerpots: one with wet soil and one with dry soil. The plant in wet soil has soft, fresh leaves."},
+    {"for": "hearing", "ur": "’پانی‘، ’پینا‘ اور ’پودا‘ کے اشارے استعمال کریں۔ ’ذرا سوچیے‘ کا جواب اشاروں یا تصویر بنا کر بھی دیا جا سکتا ہے۔", "en": "Use the signs for 'water', 'drink' and 'plant'. The 'Think about it' answer can also be given in signs or by drawing."},
+    {"for": "teacher", "ur": "’ذرا سوچیے‘ کے لیے جوڑیاں بنائیں۔ جو بچے بول یا لکھ نہیں سکتے وہ تصویر کی طرف اشارہ کر کے یا تصویری کارڈ اٹھا کر جواب دیں۔ کلاس میں ایک پودے کو روز پانی دینے کی باری سب بچوں کو دیں۔", "en": "Make pairs for 'Think about it'. Children who cannot speak or write can answer by pointing at a picture or holding up a picture card. Give every child a turn to water a class plant each day."}
+  ],
+  "easy": {
+    "title": {"ur": "سب کو پانی چاہیے", "en": "Everyone needs water"},
+    "image": {"crop": [0.536, 0.570, 0.859, 0.751], "alt": {"ur": "ایک لڑکا گلاس سے پانی پی رہا ہے۔", "en": "A boy is drinking water from a glass."}},
+    "sentences": [
+      {"en": "The boy drinks water.",
+       "words_en": [{"en": "The boy", "sym": "boy"}, {"en": "drinks", "sym": "to drink"}, {"en": "water.", "sym": "water"}],
+       "words": [{"ur": "لڑکا", "sym": "boy"}, {"ur": "پانی", "sym": "water"}, {"ur": "پیتا ہے۔", "sym": "to drink"}]},
+      {"en": "Plants need water.",
+       "words_en": [{"en": "Plants", "sym": "plant"}, {"en": "need", "sym": "to need"}, {"en": "water.", "sym": "water"}],
+       "words": [{"ur": "پودوں", "sym": "plant"}, {"ur": "کو", "sym": null}, {"ur": "پانی", "sym": "water"}, {"ur": "چاہیے۔", "sym": "to need"}]},
+      {"en": "Animals drink water.",
+       "words_en": [{"en": "Animals", "sym": "animals"}, {"en": "drink", "sym": "to drink"}, {"en": "water.", "sym": "water"}],
+       "words": [{"ur": "جانور", "sym": "animals"}, {"ur": "پانی", "sym": "water"}, {"ur": "پیتے ہیں۔", "sym": "to drink"}]},
+      {"en": "We cannot live without water.",
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "cannot", "sym": "no"}, {"en": "live", "sym": "alive"}, {"en": "without", "sym": "without"}, {"en": "water.", "sym": "water"}],
+       "words": [{"ur": "پانی", "sym": "water"}, {"ur": "کے بغیر", "sym": "without"}, {"ur": "ہم", "sym": "we"}, {"ur": "زندہ", "sym": "alive"}, {"ur": "نہیں رہ سکتے۔", "sym": "no"}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "بتائیں: کس کو پانی چاہیے؟", "en": "Say who needs water."},
+      "task": {"kind": "mcq", "questions": [
+        {"q": {"ur": "کس کو پانی چاہیے؟", "en": "Who needs water?"},
+         "options": [{"ur": "پتھر", "en": "Stone", "sym": "stone"}, {"ur": "پودا", "en": "Plant", "sym": "plant"}],
+         "answer": 1,
+         "fb": {"ur": "پودا جان دار ہے۔ پودے کو پانی چاہیے۔", "en": "A plant is a living thing. A plant needs water."}},
+        {"q": {"ur": "کس کو پانی چاہیے؟", "en": "Who needs water?"},
+         "options": [{"ur": "بچہ", "en": "Child", "sym": "child"}, {"ur": "میز", "en": "Table", "sym": "table"}],
+         "answer": 0,
+         "fb": {"ur": "بچہ جان دار ہے۔ بچے کو پانی چاہیے۔", "en": "A child is a living thing. A child needs water."}}
+      ]}
+    }
+  },
+  "print": true
+}

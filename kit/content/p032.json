@@ -1,0 +1,109 @@
+{
+  "n": 32,
+  "printed": "28",
+  "chapter": 5,
+  "kind": "content",
+  "title": {"ur": "زمین، پانی اور ہوا", "en": "Land, water and air"},
+  "blocks": [
+    {"t": "h", "ur": "زمین", "en": "Land"},
+    {"t": "gallery", "items": [
+      {"crop": [0.518, 0.165, 0.845, 0.302], "alt": {"ur": "ایک کسان سرخ ٹریکٹر سے کھیت میں ہل چلا رہا ہے۔", "en": "A farmer is ploughing a field with a red tractor."}, "cap": {"ur": "کھیتی باڑی کرنے کے لیے", "en": "For farming"}},
+      {"crop": [0.178, 0.163, 0.505, 0.302], "alt": {"ur": "پانچ چمک دار رنگین قیمتی پتھر: نارنجی، جامنی، نیلا، سبز اور گہرا گلابی۔", "en": "There are five shiny, colourful precious stones: orange, purple, blue, green and deep pink."}, "cap": {"ur": "زمین سے ہم معدنیات حاصل کرتے ہیں۔", "en": "We get minerals from the land."}},
+      {"crop": [0.518, 0.343, 0.84, 0.495], "alt": {"ur": "گاؤں کا مٹی سے بنا کچا گھر جس کے صحن میں چارپائی رکھی ہے۔", "en": "A village house made of mud has a charpoy in its yard."}, "cap": {"ur": "زمین پر ہم گھر بناتے ہیں۔", "en": "We build houses on the land."}},
+      {"crop": [0.176, 0.343, 0.505, 0.495], "alt": {"ur": "مٹی کی بنی ہوئی تین بھوری پلیٹیں۔", "en": "There are three brown plates made of clay."}, "cap": {"ur": "مٹی سے برتن بنتے ہیں۔", "en": "Dishes are made from clay."}}
+    ]},
+    {"t": "h", "ur": "پانی (دریا اور سمندر)", "en": "Water (rivers and the sea)"},
+    {"t": "gallery", "items": [
+      {"crop": [0.52, 0.587, 0.848, 0.738], "alt": {"ur": "رنگ برنگے کنٹینروں سے لدا ہوا ایک بڑا بحری جہاز نیلے سمندر میں چل رہا ہے۔", "en": "A big ship loaded with colourful containers is sailing on the blue sea."}, "cap": {"ur": "بحری جہاز", "en": "Ship"}},
+      {"crop": [0.178, 0.585, 0.508, 0.738], "alt": {"ur": "ماہی گیر جال میں سے بہت سی مچھلیاں نکال کر ڈھیر لگا رہے ہیں۔", "en": "Fishermen are taking lots of fish out of a net and making a pile."}, "cap": {"ur": "سمندر / دریا میں مچھلیاں پکڑتے ہیں۔", "en": "People catch fish in the sea and in rivers."}}
+    ]},
+    {"t": "h", "ur": "ہوا", "en": "Air"},
+    {"t": "p", "ur": "ہوا ہمیں سانس لینے میں مدد دیتی ہے۔ پودوں کو خوراک بنانے جب کہ پرندوں اور جہازوں کو اُڑنے میں بھی مدد دیتی ہے۔", "en": "Air helps us to breathe. It also helps plants to make food, and it helps birds and aeroplanes to fly."},
+    {
+      "t": "activity",
+      "id": "p032-a1",
+      "label": {"ur": "آزمائیں", "en": "Try it"},
+      "orig": {"ur": "(اضافی مشق — یہ کتاب میں چھپی ہوئی نہیں ہے)", "en": "(Extra practice — not printed in the book)"},
+      "prompt": {"ur": "یہ چیز ہمیں زمین سے ملتی ہے یا پانی سے؟ تصویر کو صحیح خانے میں رکھیں۔", "en": "Do we get this thing from the land or from water? Put the picture in the right box."},
+      "levels": {
+        "easy": {"kind": "mcq", "questions": [
+          {"q": {"ur": "مچھلیاں کہاں سے پکڑتے ہیں؟", "en": "Where are fish caught?"},
+           "img": [0.178, 0.585, 0.508, 0.738],
+           "options": [{"ur": "دریا اور سمندر سے", "en": "From rivers and the sea", "sym": "sea"}, {"ur": "کھیت سے", "en": "From a field", "sym": "field"}],
+           "answer": 0,
+           "fb": {"ur": "مچھلیاں سمندر اور دریا کے پانی میں پکڑی جاتی ہیں۔", "en": "Fish are caught in the water of the sea and of rivers."}},
+          {"q": {"ur": "یہ برتن کس چیز سے بنے ہیں؟", "en": "What are these dishes made from?"},
+           "img": [0.176, 0.343, 0.505, 0.495],
+           "options": [{"ur": "پانی", "en": "Water", "sym": "water"}, {"ur": "مٹی", "en": "Clay", "sym": "mud"}],
+           "answer": 1,
+           "fb": {"ur": "مٹی سے برتن بنتے ہیں۔ مٹی ہمیں زمین سے ملتی ہے۔", "en": "Dishes are made from clay. We get clay from the land."}}
+        ]},
+        "moderate": {"kind": "sort",
+          "groups": [{"ur": "زمین", "en": "Land"}, {"ur": "پانی (دریا اور سمندر)", "en": "Water (rivers and the sea)"}],
+          "items": [
+            {"ur": "کھیتی باڑی", "en": "Farming", "img": [0.518, 0.165, 0.845, 0.302], "group": 0},
+            {"ur": "بحری جہاز", "en": "Ship", "img": [0.52, 0.587, 0.848, 0.738], "group": 1},
+            {"ur": "معدنیات", "en": "Minerals", "img": [0.178, 0.163, 0.505, 0.302], "group": 0},
+            {"ur": "مچھلیاں پکڑنا", "en": "Catching fish", "img": [0.178, 0.585, 0.508, 0.738], "group": 1},
+            {"ur": "گھر بنانا", "en": "Building houses", "img": [0.518, 0.343, 0.84, 0.495], "group": 0},
+            {"ur": "مٹی کے برتن", "en": "Clay dishes", "img": [0.176, 0.343, 0.505, 0.495], "group": 0}
+          ]},
+        "hard": {"kind": "mcq", "questions": [
+          {"q": {"ur": "ہوا پودوں کی کس کام میں مدد کرتی ہے؟", "en": "What does air help plants to do?"},
+           "options": [{"ur": "چلنے میں", "en": "To walk"}, {"ur": "خوراک بنانے میں", "en": "To make food"}, {"ur": "سونے میں", "en": "To sleep"}],
+           "answer": 1,
+           "fb": {"ur": "ہوا پودوں کو خوراک بنانے میں مدد دیتی ہے۔", "en": "Air helps plants to make food."}},
+          {"q": {"ur": "ہوا کن کو اُڑنے میں مدد دیتی ہے؟", "en": "What does air help to fly?"},
+           "options": [{"ur": "مچھلیوں اور کشتیوں کو", "en": "Fish and boats"}, {"ur": "ٹریکٹروں کو", "en": "Tractors"}, {"ur": "پرندوں اور جہازوں کو", "en": "Birds and aeroplanes"}],
+           "answer": 2,
+           "fb": {"ur": "ہوا پرندوں اور جہازوں کو اُڑنے میں مدد دیتی ہے۔", "en": "Air helps birds and aeroplanes to fly."}},
+          {"q": {"ur": "ان میں سے کون سا کام ہم زمین سے نہیں لیتے؟", "en": "Which of these do we not get from the land?"},
+           "options": [{"ur": "مچھلیاں پکڑنا", "en": "Catching fish"}, {"ur": "کھیتی باڑی کرنا", "en": "Farming"}, {"ur": "معدنیات حاصل کرنا", "en": "Getting minerals"}],
+           "answer": 0,
+           "fb": {"ur": "مچھلیاں دریا اور سمندر (پانی) سے پکڑی جاتی ہیں۔ کھیتی باڑی اور معدنیات زمین سے ملتی ہیں۔", "en": "Fish are caught in rivers and the sea, which are water. Farming and minerals come from the land."}},
+          {"q": {"ur": "آپ کا گھر کس پر بنا ہے؟", "en": "What is your house built on?"},
+           "options": [{"ur": "ہوا پر", "en": "On air"}, {"ur": "زمین پر", "en": "On the land"}, {"ur": "سورج پر", "en": "On the sun"}],
+           "answer": 1,
+           "fb": {"ur": "زمین پر ہم گھر بناتے ہیں۔", "en": "We build houses on the land."}}
+        ]}
+      }
+    }
+  ],
+  "hint": [
+    {"for": "all", "ur": "پہلے تصویر دیکھیں، پھر نیچے لکھا جملہ پڑھیں۔ اپنے آپ سے پوچھیں: آج میں نے زمین، پانی اور ہوا سے ملنے والی کون سی چیز استعمال کی؟ (روٹی، مچھلی، پانی کا گلاس، سانس)", "en": "Look at the picture first, then read the sentence under it. Ask yourself: what did I use today that comes from the land, from water or from the air? (Bread, fish, a glass of water, a breath.)"},
+    {"for": "vision", "ur": "چیزیں چھو کر پہچانیں: مٹی کا پیالہ یا گملا (زمین)، پانی سے بھرا برتن (پانی) اور پنکھے یا پھونک کی ہوا (ہوا)۔", "en": "Get to know things by touching them: a clay bowl or flowerpot (land), a dish full of water (water), and the air from a fan or from blowing (air)."},
+    {"for": "hearing", "ur": "تین اشارے طے کریں: زمین — ہتھیلی نیچے کی طرف تھپتھپائیں؛ پانی — انگلیوں سے لہریں بنائیں؛ ہوا — منہ کے سامنے ہاتھ ہلائیں۔ ہر تصویر پر صحیح اشارہ کریں۔", "en": "Agree on three signs. For land, pat downwards with your palm. For water, make waves with your fingers. For air, wave your hand in front of your mouth. Make the right sign for each picture."},
+    {"for": "teacher", "ur": "تصویروں کے کارڈ بنا کر بچوں سے تین ڈھیر (زمین، پانی، ہوا) بنوائیں۔ جو بچہ بول نہ سکے وہ کارڈ اٹھا کر یا اشارہ کر کے جواب دے۔ مقامی مثالیں (کمہار، نہر، پتنگ) شامل کریں۔", "en": "Make picture cards and ask the children to sort them into three piles (land, water, air). A child who cannot speak can answer by picking up a card or by pointing. Add local examples (a potter, a canal, a kite)."}
+  ],
+  "easy": {
+    "title": {"ur": "زمین، پانی اور ہوا", "en": "Land, water and air"},
+    "image": {"crop": [0.518, 0.165, 0.845, 0.302], "alt": {"ur": "کسان ٹریکٹر سے کھیت میں کام کر رہا ہے۔", "en": "A farmer is working in a field with a tractor."}},
+    "sentences": [
+      {"en": "Crops grow on the land.",
+       "words": [{"ur": "زمین", "sym": "soil"}, {"ur": "پر", "sym": null}, {"ur": "فصل", "sym": "wheat"}, {"ur": "اُگتی ہے۔", "sym": "to grow"}],
+       "words_en": [{"en": "Crops", "sym": "wheat"}, {"en": "grow", "sym": "to grow"}, {"en": "on", "sym": null}, {"en": "the land.", "sym": "soil"}]},
+      {"en": "We build houses on the land.",
+       "words": [{"ur": "زمین", "sym": "soil"}, {"ur": "پر", "sym": null}, {"ur": "ہم", "sym": "we"}, {"ur": "گھر", "sym": "house"}, {"ur": "بناتے ہیں۔", "sym": "to build"}],
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "build", "sym": "to build"}, {"en": "houses", "sym": "house"}, {"en": "on", "sym": null}, {"en": "the land.", "sym": "soil"}]},
+      {"en": "Dishes are made from clay.",
+       "words": [{"ur": "مٹی", "sym": "mud"}, {"ur": "سے", "sym": null}, {"ur": "برتن", "img": [0.176, 0.343, 0.505, 0.495]}, {"ur": "بنتے ہیں۔", "sym": "to make"}],
+       "words_en": [{"en": "Dishes", "img": [0.176, 0.343, 0.505, 0.495]}, {"en": "are made", "sym": "to make"}, {"en": "from", "sym": null}, {"en": "clay.", "sym": "mud"}]},
+      {"en": "We get fish from water.",
+       "words": [{"ur": "پانی", "sym": "water"}, {"ur": "سے", "sym": null}, {"ur": "مچھلی", "sym": "fish"}, {"ur": "ملتی ہے۔", "sym": "to get"}],
+       "words_en": [{"en": "We get", "sym": "to get"}, {"en": "fish", "sym": "fish"}, {"en": "from", "sym": null}, {"en": "water.", "sym": "water"}]},
+      {"en": "We breathe air.",
+       "words": [{"ur": "ہوا", "sym": "air"}, {"ur": "سے", "sym": null}, {"ur": "ہم", "sym": "we"}, {"ur": "سانس لیتے ہیں۔", "sym": "to breathe"}],
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "breathe", "sym": "to breathe"}, {"en": "air.", "sym": "air"}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "صحیح تصویر چنیں۔", "en": "Choose the right picture."},
+      "task": {"kind": "mcq", "questions": [
+        {"q": {"ur": "مچھلی کہاں رہتی ہے؟", "en": "Where does a fish live?"},
+         "options": [{"ur": "درخت پر", "en": "In a tree", "sym": "tree"}, {"ur": "پانی میں", "en": "In water", "sym": "water"}],
+         "answer": 1,
+         "fb": {"ur": "مچھلی پانی میں رہتی ہے۔ پانی سے ہمیں مچھلی ملتی ہے۔", "en": "A fish lives in water. We get fish from water."}}
+      ]}
+    }
+  },
+  "print": true
+}

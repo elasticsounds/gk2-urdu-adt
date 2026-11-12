@@ -1,0 +1,731 @@
+{
+ "n": 82,
+ "printed": "78",
+ "chapter": 13,
+ "kind": "exercise",
+ "title": {
+  "ur": "مشق: پیشے",
+  "en": "Exercise: Professions"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "مشق",
+   "en": "Exercise"
+  },
+  {
+   "t": "activity",
+   "id": "p082-a1",
+   "label": {
+    "ur": "سوال نمبر 1",
+    "en": "Question 1"
+   },
+   "orig": {
+    "ur": "درست جملے کے سامنے ✓ اور غلط جملے کے سامنے ✗ کا نشان لگائیں۔ پولیس ہماری حفاظت کرتی ہے۔ گاڑی مرمت کرنے والے کو معمار کہتے ہیں۔ سکول کا/کی پرنسپل سکول چلاتا/چلاتی ہے۔ حلوائی سبزی فروخت کرتا ہے۔",
+    "en": "Put a tick ✓ next to the correct sentence and a cross ✗ next to the wrong sentence. The police protect us. A person who repairs cars is called a mason. The school principal runs the school. A sweet-maker sells vegetables."
+   },
+   "prompt": {
+    "ur": "ہر جملہ پڑھیں۔ درست ہے یا غلط؟",
+    "en": "Read each sentence. Is it true or false?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "tf",
+     "questions": [
+      {
+       "q": {
+        "ur": "پولیس ہماری حفاظت کرتی ہے۔",
+        "en": "The police protect us."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "جی ہاں، پولیس ہماری حفاظت کرتی ہے۔",
+        "en": "Yes, the police protect us."
+       }
+      },
+      {
+       "q": {
+        "ur": "حلوائی سبزی فروخت کرتا ہے۔",
+        "en": "A sweet-maker sells vegetables."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "حلوائی مٹھائی بناتا اور بیچتا ہے۔ سبزی تو سبزی فروش بیچتا ہے۔",
+        "en": "A sweet-maker makes and sells sweets. It is the greengrocer who sells vegetables."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "tf",
+     "questions": [
+      {
+       "q": {
+        "ur": "پولیس ہماری حفاظت کرتی ہے۔",
+        "en": "The police protect us."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "جی ہاں، پولیس ہماری حفاظت کرتی ہے۔",
+        "en": "Yes, the police protect us."
+       }
+      },
+      {
+       "q": {
+        "ur": "گاڑی مرمت کرنے والے کو معمار کہتے ہیں۔",
+        "en": "A person who repairs cars is called a mason."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "معمار تو عمارت بناتا ہے۔ گاڑی مرمت کرنے والے کو مکینک (مستری) کہتے ہیں۔",
+        "en": "A mason builds buildings. A person who repairs cars is called a mechanic."
+       }
+      },
+      {
+       "q": {
+        "ur": "سکول کا/کی پرنسپل سکول چلاتا/چلاتی ہے۔",
+        "en": "The school principal runs the school."
+       },
+       "answer": true,
+       "fb": {
+        "ur": "جی ہاں، پرنسپل سکول کے سب کاموں کی نگرانی کرتے ہیں۔",
+        "en": "Yes, the principal looks after all the work of the school."
+       }
+      },
+      {
+       "q": {
+        "ur": "حلوائی سبزی فروخت کرتا ہے۔",
+        "en": "A sweet-maker sells vegetables."
+       },
+       "answer": false,
+       "fb": {
+        "ur": "حلوائی مٹھائی بناتا اور بیچتا ہے۔ سبزی تو سبزی فروش بیچتا ہے۔",
+        "en": "A sweet-maker makes and sells sweets. It is the greengrocer who sells vegetables."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "غلط جملہ درست کریں: گاڑی مرمت کرنے والے کو کیا کہتے ہیں؟",
+        "en": "Correct the wrong sentence: what is a person who repairs cars called?"
+       },
+       "options": [
+        {
+         "ur": "معمار",
+         "en": "Mason"
+        },
+        {
+         "ur": "مکینک",
+         "en": "Mechanic"
+        },
+        {
+         "ur": "درزی",
+         "en": "Tailor"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "گاڑی مرمت کرنے والے کو مکینک کہتے ہیں۔",
+        "en": "A person who repairs cars is called a mechanic."
+       }
+      },
+      {
+       "q": {
+        "ur": "معمار کیا کام کرتا ہے؟",
+        "en": "What work does a mason do?"
+       },
+       "options": [
+        {
+         "ur": "عمارتیں بناتا ہے",
+         "en": "Builds buildings"
+        },
+        {
+         "ur": "کپڑے دھوتا ہے",
+         "en": "Washes clothes"
+        },
+        {
+         "ur": "جہاز اڑاتا ہے",
+         "en": "Flies aeroplanes"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "معمار اینٹوں سے گھر اور عمارتیں بناتا ہے۔",
+        "en": "A mason builds houses and buildings with bricks."
+       }
+      },
+      {
+       "q": {
+        "ur": "غلط جملہ درست کریں: سبزی کون فروخت کرتا ہے؟",
+        "en": "Correct the wrong sentence: who sells vegetables?"
+       },
+       "options": [
+        {
+         "ur": "حلوائی",
+         "en": "Sweet-maker"
+        },
+        {
+         "ur": "دھوبی",
+         "en": "Washerman"
+        },
+        {
+         "ur": "سبزی فروش",
+         "en": "Greengrocer"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "سبزی فروش سبزی بیچتا ہے۔",
+        "en": "The greengrocer sells vegetables."
+       }
+      },
+      {
+       "q": {
+        "ur": "حلوائی کیا بیچتا ہے؟",
+        "en": "What does a sweet-maker sell?"
+       },
+       "options": [
+        {
+         "ur": "مٹھائی",
+         "en": "Sweets"
+        },
+        {
+         "ur": "سبزی",
+         "en": "Vegetables"
+        },
+        {
+         "ur": "کتابیں",
+         "en": "Books"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "حلوائی مٹھائی بناتا اور بیچتا ہے۔",
+        "en": "A sweet-maker makes and sells sweets."
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p082-a2",
+   "label": {
+    "ur": "سوال نمبر 2",
+    "en": "Question 2"
+   },
+   "orig": {
+    "ur": "ہوائی جہاز چلانے والے کو کیا کہتے ہیں اور وہ ہماری مدد کیسے کرتا ہے؟",
+    "en": "What is the person who flies an aeroplane called, and how does he help us?"
+   },
+   "prompt": {
+    "ur": "ہوائی جہاز کون چلاتا ہے؟ وہ ہماری مدد کیسے کرتا ہے؟",
+    "en": "Who flies an aeroplane? How does that person help us?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "ہوائی جہاز کون چلاتا ہے؟",
+        "en": "Who flies an aeroplane?"
+       },
+       "options": [
+        {
+         "ur": "دھوبی",
+         "en": "Washerman",
+         "sym": "to wash"
+        },
+        {
+         "ur": "پائلٹ",
+         "en": "Pilot",
+         "sym": "pilot"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "ہوائی جہاز چلانے والے کو پائلٹ کہتے ہیں۔",
+        "en": "The person who flies an aeroplane is called a pilot."
+       }
+      },
+      {
+       "q": {
+        "ur": "پائلٹ ہمیں کہاں لے جاتا ہے؟",
+        "en": "Where does the pilot take us?"
+       },
+       "options": [
+        {
+         "ur": "دوسرے شہر یا ملک",
+         "en": "To another city or country",
+         "sym": "airplane"
+        },
+        {
+         "ur": "کہیں نہیں",
+         "en": "Nowhere",
+         "sym": "no"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "پائلٹ جہاز میں ہمیں دور کی جگہوں پر جلدی پہنچاتا ہے۔",
+        "en": "The pilot takes us quickly to far-away places by aeroplane."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "پہلے لکھیں: ہوائی جہاز چلانے والے کو کیا کہتے ہیں؟",
+       "en": "First write: what is the person who flies an aeroplane called?"
+      },
+      {
+       "ur": "پھر لکھیں: وہ ہماری مدد کیسے کرتا ہے؟",
+       "en": "Then write: how does he help us?"
+      }
+     ],
+     "model": {
+      "ur": "ہوائی جہاز چلانے والے کو پائلٹ کہتے ہیں۔ وہ ہمیں ہوائی جہاز کے ذریعے ایک جگہ سے دوسری جگہ جلدی اور حفاظت سے پہنچاتا ہے۔",
+      "en": "The person who flies an aeroplane is called a pilot. He takes us quickly and safely from one place to another by aeroplane."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے لفظ “پائلٹ” لکھا۔",
+       "en": "I wrote the word “pilot”."
+      },
+      {
+       "ur": "میں نے بتایا کہ وہ ہماری مدد کیسے کرتا ہے۔",
+       "en": "I said how he helps us."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "لکھیں کہ پائلٹ کون ہوتا ہے اور ہماری مدد کیسے کرتا ہے۔",
+       "en": "Write who a pilot is and how he helps us."
+      },
+      {
+       "ur": "سوچیں: پائلٹ لوگوں کے علاوہ اور کیا چیزیں ایک جگہ سے دوسری جگہ پہنچاتا ہے؟",
+       "en": "Think: besides people, what else does a pilot carry from one place to another?"
+      },
+      {
+       "ur": "لکھیں: اگر پائلٹ نہ ہوتے تو دور کے ملک جانے میں کیا مشکل ہوتی؟",
+       "en": "Write: if there were no pilots, what difficulty would there be in travelling to far-away countries?"
+      }
+     ],
+     "model": {
+      "ur": "ہوائی جہاز چلانے والے کو پائلٹ کہتے ہیں۔ وہ مسافروں کو جلدی اور حفاظت سے دوسرے شہروں اور ملکوں تک پہنچاتا ہے۔ وہ ڈاک اور سامان بھی لے جاتا ہے۔ اگر پائلٹ نہ ہوتے تو دور کے سفر میں بہت دن لگ جاتے۔",
+      "en": "The person who flies an aeroplane is called a pilot. He takes passengers quickly and safely to other cities and countries. He also carries mail and goods. If there were no pilots, long journeys would take many days."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے پائلٹ کے دو کام لکھے۔",
+       "en": "I wrote two things a pilot does."
+      },
+      {
+       "ur": "میں نے لکھا کہ پائلٹ کے بغیر کیا مشکل ہوتی۔",
+       "en": "I wrote what would be difficult without pilots."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p082-a3",
+   "label": {
+    "ur": "سوال نمبر 3",
+    "en": "Question 3"
+   },
+   "orig": {
+    "ur": "سفر کے دوران اگر گاڑی خراب ہو جائے تو ٹھیک کروانے کے لیے کس کو بلائیں گے؟",
+    "en": "If the car breaks down during a journey, who will you call to get it repaired?"
+   },
+   "prompt": {
+    "ur": "راستے میں گاڑی خراب ہو گئی۔ اسے ٹھیک کرنے کے لیے کس کو بلائیں گے؟",
+    "en": "The car has broken down on the way. Who will you call to repair it?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "خراب گاڑی کون ٹھیک کرتا ہے؟",
+        "en": "Who repairs a broken car?"
+       },
+       "options": [
+        {
+         "ur": "مکینک",
+         "en": "Mechanic",
+         "sym": "mechanic"
+        },
+        {
+         "ur": "ڈاکٹر",
+         "en": "Doctor",
+         "sym": "doctor"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "گاڑی مکینک ٹھیک کرتا ہے۔ ڈاکٹر تو بیمار لوگوں کا علاج کرتا ہے۔",
+        "en": "A mechanic repairs cars. A doctor treats sick people."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "سوال نمبر 1 کا دوسرا جملہ یاد کریں: گاڑی مرمت کرنے والے کو کیا کہتے ہیں؟",
+       "en": "Remember the second sentence of Question 1: what is a person who repairs cars called?"
+      },
+      {
+       "ur": "پورا جملہ لکھیں۔",
+       "en": "Write a full sentence."
+      }
+     ],
+     "model": {
+      "ur": "سفر کے دوران اگر گاڑی خراب ہو جائے تو ہم اسے ٹھیک کروانے کے لیے مکینک (گاڑی کے مستری) کو بلائیں گے۔",
+      "en": "If the car breaks down during a journey, we will call a mechanic to repair it."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے گاڑی ٹھیک کرنے والے کا نام لکھا۔",
+       "en": "I wrote the name of the person who repairs cars."
+      },
+      {
+       "ur": "میں نے پورا جملہ لکھا۔",
+       "en": "I wrote a full sentence."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "گاڑی خراب ہو جائے تو کس کو بلائیں گے؟",
+        "en": "If the car breaks down, who will you call?"
+       },
+       "options": [
+        {
+         "ur": "معمار",
+         "en": "Mason"
+        },
+        {
+         "ur": "حلوائی",
+         "en": "Sweet-maker"
+        },
+        {
+         "ur": "مکینک",
+         "en": "Mechanic"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "گاڑی مکینک ٹھیک کرتا ہے۔",
+        "en": "A mechanic repairs cars."
+       }
+      },
+      {
+       "q": {
+        "ur": "گھر کی بجلی خراب ہو جائے تو کس کو بلائیں گے؟",
+        "en": "If the electricity at home stops working, who will you call?"
+       },
+       "options": [
+        {
+         "ur": "الیکٹریشن",
+         "en": "Electrician"
+        },
+        {
+         "ur": "پائلٹ",
+         "en": "Pilot"
+        },
+        {
+         "ur": "دھوبی",
+         "en": "Washerman"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "بجلی کا کام الیکٹریشن کرتا ہے۔",
+        "en": "An electrician does electrical work."
+       }
+      },
+      {
+       "q": {
+        "ur": "نلکے سے پانی ٹپک رہا ہو تو کس کو بلائیں گے؟",
+        "en": "If water is dripping from the tap, who will you call?"
+       },
+       "options": [
+        {
+         "ur": "درزی",
+         "en": "Tailor"
+        },
+        {
+         "ur": "پلمبر",
+         "en": "Plumber"
+        },
+        {
+         "ur": "استاد",
+         "en": "Teacher"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "نلکے اور پائپ پلمبر ٹھیک کرتا ہے۔",
+        "en": "A plumber repairs taps and pipes."
+       }
+      },
+      {
+       "q": {
+        "ur": "سفر میں کسی کی طبیعت خراب ہو جائے تو کس کے پاس جائیں گے؟",
+        "en": "If someone falls ill on the journey, who will you go to?"
+       },
+       "options": [
+        {
+         "ur": "مکینک",
+         "en": "Mechanic"
+        },
+        {
+         "ur": "سبزی فروش",
+         "en": "Greengrocer"
+        },
+        {
+         "ur": "ڈاکٹر",
+         "en": "Doctor"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "مریض کا علاج ڈاکٹر کرتا ہے۔ ہر مسئلے کے لیے ایک پیشے والا ہماری مدد کرتا ہے۔",
+        "en": "A doctor treats patients. For every problem there is someone whose profession is to help us."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "جواب پچھلے صفحوں کی تصویروں میں ہیں: پولیس اور پائلٹ کی تصویریں دوبارہ دیکھیں۔ غلط جملے میں سوچیں کہ اصل میں وہ کام کون کرتا ہے۔",
+   "en": "The answers are in the pictures on the earlier pages: look again at the police and pilot photos. For a wrong sentence, think who really does that work."
+  },
+  {
+   "for": "motor",
+   "ur": "✓ اور ✗ لگانے کے لیے بڑے بٹن استعمال کریں، یا درست کے لیے انگوٹھا اوپر اور غلط کے لیے انگوٹھا نیچے کریں۔ لکھنے والے جواب بول کر دیے جا سکتے ہیں۔",
+   "en": "Use the big buttons for the tick and the cross, or show a thumbs up for true and a thumbs down for false. Answers that need writing can be spoken instead."
+  },
+  {
+   "for": "hearing",
+   "ur": "نئے الفاظ (معمار، حلوائی، پرنسپل، پائلٹ) تصویروں اور اشاروں کے ساتھ دکھائیں تاکہ معنی واضح ہو۔",
+   "en": "Show the new words (mason, sweet-maker, principal, pilot) with pictures and signs so the meaning is clear."
+  },
+  {
+   "for": "teacher",
+   "ur": "“معمار” اور “حلوائی” کئی بچوں کے لیے نئے الفاظ ہیں۔ پہلے ان کا مطلب تصویر یا اصل چیز (اینٹ، مٹھائی) سے سمجھائیں، پھر سوال کروائیں۔ زبانی اور تصویری جواب قبول کریں۔",
+   "en": "“Mason” and “sweet-maker” are new words for many children. First explain them with a picture or real object (a brick, a sweet), then do the question. Accept spoken and drawn answers."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "کون کیا کام کرتا ہے؟",
+   "en": "Who does what work?"
+  },
+  "image": null,
+  "sentences": [
+   {
+    "en": "The police protect us.",
+    "words": [
+     {
+      "ur": "پولیس",
+      "sym": "police"
+     },
+     {
+      "ur": "ہماری",
+      "sym": "our"
+     },
+     {
+      "ur": "حفاظت",
+      "sym": "to protect"
+     },
+     {
+      "ur": "کرتی ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The police",
+      "sym": "police"
+     },
+     {
+      "en": "protect",
+      "sym": "to protect"
+     },
+     {
+      "en": "us.",
+      "sym": "we"
+     }
+    ]
+   },
+   {
+    "en": "The pilot flies the aeroplane.",
+    "words": [
+     {
+      "ur": "پائلٹ",
+      "sym": "pilot"
+     },
+     {
+      "ur": "ہوائی جہاز",
+      "sym": "airplane"
+     },
+     {
+      "ur": "چلاتا ہے۔",
+      "sym": "to fly"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The pilot",
+      "sym": "pilot"
+     },
+     {
+      "en": "flies",
+      "sym": "to fly"
+     },
+     {
+      "en": "the aeroplane.",
+      "sym": "airplane"
+     }
+    ]
+   },
+   {
+    "en": "The mechanic repairs the car.",
+    "words": [
+     {
+      "ur": "مکینک",
+      "sym": "mechanic"
+     },
+     {
+      "ur": "گاڑی",
+      "sym": "car"
+     },
+     {
+      "ur": "ٹھیک کرتا ہے۔",
+      "sym": "to repair"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The mechanic",
+      "sym": "mechanic"
+     },
+     {
+      "en": "repairs",
+      "sym": "to repair"
+     },
+     {
+      "en": "the car.",
+      "sym": "car"
+     }
+    ]
+   },
+   {
+    "en": "The sweet-maker makes sweets.",
+    "words": [
+     {
+      "ur": "حلوائی",
+      "sym": "cook"
+     },
+     {
+      "ur": "مٹھائی",
+      "sym": "sweets"
+     },
+     {
+      "ur": "بناتا ہے۔",
+      "sym": "to make"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The sweet-maker",
+      "sym": "cook"
+     },
+     {
+      "en": "makes",
+      "sym": "to make"
+     },
+     {
+      "en": "sweets.",
+      "sym": "sweets"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "کام کو کام کرنے والے سے ملائیں۔",
+    "en": "Match the work with the worker."
+   },
+   "task": {
+    "kind": "match",
+    "pairs": [
+     {
+      "a": {
+       "ur": "ہوائی جہاز",
+       "en": "Aeroplane",
+       "sym": "airplane"
+      },
+      "b": {
+       "ur": "پائلٹ",
+       "en": "Pilot",
+       "sym": "pilot"
+      }
+     },
+     {
+      "a": {
+       "ur": "خراب گاڑی",
+       "en": "Broken car",
+       "sym": "car"
+      },
+      "b": {
+       "ur": "مکینک",
+       "en": "Mechanic",
+       "sym": "mechanic"
+      }
+     },
+     {
+      "a": {
+       "ur": "حفاظت",
+       "en": "Protection",
+       "sym": "to protect"
+      },
+      "b": {
+       "ur": "پولیس",
+       "en": "Police",
+       "sym": "police"
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

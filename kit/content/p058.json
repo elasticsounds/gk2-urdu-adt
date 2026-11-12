@@ -1,0 +1,1074 @@
+{
+ "n": 58,
+ "printed": "54",
+ "chapter": 8,
+ "kind": "exercise",
+ "title": {
+  "ur": "مشق: جانوروں کے گھر",
+  "en": "Exercise: Animal homes"
+ },
+ "blocks": [
+  {
+   "t": "activity",
+   "id": "p058-a1",
+   "label": {
+    "ur": "سوال نمبر 3",
+    "en": "Question 3"
+   },
+   "orig": {
+    "ur": "سوال نمبر 3۔ جنگل میں رہنے والے دو جانوروں کے نام بتائیں۔ (i) ______ (ii) ______",
+    "en": "Question 3. Name two animals that live in the jungle. (i) ______ (ii) ______"
+   },
+   "prompt": {
+    "ur": "جنگل میں رہنے والے جانوروں کے بارے میں سوچیں۔",
+    "en": "Think about animals that live in the jungle."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "جنگل میں کون رہتا ہے؟",
+        "en": "Which animal lives in the jungle?"
+       },
+       "options": [
+        {
+         "ur": "شیر",
+         "en": "Lion",
+         "sym": "lion"
+        },
+        {
+         "ur": "مچھلی",
+         "en": "Fish",
+         "sym": "fish"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "شیر جنگل میں رہتا ہے۔ مچھلی پانی میں رہتی ہے۔",
+        "en": "The lion lives in the jungle. The fish lives in water."
+       }
+      },
+      {
+       "q": {
+        "ur": "جنگل میں کون رہتا ہے؟",
+        "en": "Which animal lives in the jungle?"
+       },
+       "options": [
+        {
+         "ur": "ڈولفن",
+         "en": "Dolphin",
+         "sym": "dolphin"
+        },
+        {
+         "ur": "بندر",
+         "en": "Monkey",
+         "sym": "monkey"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "بندر جنگل کے درختوں پر رہتا ہے۔ ڈولفن سمندر میں رہتی ہے۔",
+        "en": "The monkey lives in the trees of the jungle. The dolphin lives in the sea."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "صفحہ 49 پر جنگل کی تصویر دیکھیں۔",
+       "en": "Look at the picture of the jungle on page 49."
+      },
+      {
+       "ur": "جنگل کے دو جانوروں کے نام لکھیں یا بتائیں۔",
+       "en": "Write or say the names of two jungle animals."
+      }
+     ],
+     "model": {
+      "ur": "(i) شیر (ii) ہاتھی۔ بندر، زرافہ اور ریچھ بھی جنگل میں رہتے ہیں۔",
+      "en": "(i) Lion (ii) Elephant. The monkey, giraffe and bear also live in the jungle."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے جنگل کے دو جانوروں کے نام بتائے۔",
+       "en": "I named two jungle animals."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "جنگل میں رہنے والے چار جانوروں کے نام لکھیں۔",
+       "en": "Write the names of four animals that live in the jungle."
+      },
+      {
+       "ur": "ایک جانور چنیں اور بتائیں کہ وہ جنگل میں کیا کھاتا ہے اور کہاں سوتا ہے۔",
+       "en": "Choose one animal and say what it eats in the jungle and where it sleeps."
+      }
+     ],
+     "model": {
+      "ur": "شیر، ہاتھی، بندر، ریچھ۔ بندر جنگل میں پھل اور پتے کھاتا ہے اور درختوں پر سوتا ہے۔",
+      "en": "Lion, elephant, monkey, bear. The monkey eats fruit and leaves in the jungle and sleeps in the trees."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے چار نام لکھے۔",
+       "en": "I wrote four names."
+      },
+      {
+       "ur": "میں نے ایک جانور کی خوراک اور گھر بتایا۔",
+       "en": "I said what one animal eats and where its home is."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p058-a2",
+   "label": {
+    "ur": "سوال نمبر 4",
+    "en": "Question 4"
+   },
+   "orig": {
+    "ur": "سوال نمبر 4۔ نیچے دی گئی تصاویر کو غور سے دیکھیں اور دی گئی جگہ پر لکھیں کہ یہ کس جانور کے رہنے کی جگہ ہے؟",
+    "en": "Question 4. Look carefully at the pictures below and write in the space: which animal lives in this place?"
+   },
+   "prompt": {
+    "ur": "تصویر دیکھیں اور بتائیں کہ یہ کس جانور کا گھر ہے۔",
+    "en": "Look at the picture and say which animal's home it is."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "یہ کس کا گھر ہے؟",
+        "en": "Whose home is this?"
+       },
+       "img": [
+        0.536,
+        0.276,
+        0.806,
+        0.4
+       ],
+       "options": [
+        {
+         "ur": "چڑیا",
+         "en": "Sparrow",
+         "sym": "bird"
+        },
+        {
+         "ur": "اونٹ",
+         "en": "Camel",
+         "sym": "camel"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "یہ گھونسلا ہے۔ چڑیا گھونسلے میں رہتی ہے۔",
+        "en": "This is a nest. The sparrow lives in a nest."
+       }
+      },
+      {
+       "q": {
+        "ur": "یہ کس کا گھر ہے؟",
+        "en": "Whose home is this?"
+       },
+       "img": [
+        0.225,
+        0.276,
+        0.492,
+        0.398
+       ],
+       "options": [
+        {
+         "ur": "ڈولفن",
+         "en": "Dolphin",
+         "sym": "dolphin"
+        },
+        {
+         "ur": "خرگوش",
+         "en": "Rabbit",
+         "sym": "rabbit"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "یہ بھٹ ہے۔ خرگوش بھٹ میں رہتا ہے۔",
+        "en": "This is a burrow. The rabbit lives in a burrow."
+       }
+      },
+      {
+       "q": {
+        "ur": "یہاں کون رہتا ہے؟",
+        "en": "Who lives here?"
+       },
+       "img": [
+        0.394,
+        0.457,
+        0.662,
+        0.58
+       ],
+       "options": [
+        {
+         "ur": "اونٹ",
+         "en": "Camel",
+         "sym": "camel"
+        },
+        {
+         "ur": "مچھلی",
+         "en": "Fish",
+         "sym": "fish"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "یہ ریگستان ہے۔ اونٹ ریگستان میں رہتا ہے۔",
+        "en": "This is a desert. The camel lives in the desert."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "یہ کس جانور کے رہنے کی جگہ ہے؟",
+        "en": "Which animal lives in this place?"
+       },
+       "img": [
+        0.536,
+        0.276,
+        0.806,
+        0.4
+       ],
+       "options": [
+        {
+         "ur": "خرگوش",
+         "en": "Rabbit"
+        },
+        {
+         "ur": "اونٹ",
+         "en": "Camel"
+        },
+        {
+         "ur": "چڑیا",
+         "en": "Sparrow"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "یہ تنکوں سے بنا گھونسلا ہے۔ چڑیا گھونسلے میں رہتی ہے۔",
+        "en": "This is a nest made of twigs. The sparrow lives in a nest."
+       }
+      },
+      {
+       "q": {
+        "ur": "یہ کس جانور کے رہنے کی جگہ ہے؟",
+        "en": "Which animal lives in this place?"
+       },
+       "img": [
+        0.225,
+        0.276,
+        0.492,
+        0.398
+       ],
+       "options": [
+        {
+         "ur": "خرگوش",
+         "en": "Rabbit"
+        },
+        {
+         "ur": "چڑیا",
+         "en": "Sparrow"
+        },
+        {
+         "ur": "اونٹ",
+         "en": "Camel"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "یہ گھاس میں زمین کے اندر بنا سوراخ یعنی بھٹ ہے۔ خرگوش بھٹ میں رہتا ہے۔",
+        "en": "This is a burrow, a hole in the ground in the grass. The rabbit lives in a burrow."
+       }
+      },
+      {
+       "q": {
+        "ur": "یہ کس جانور کے رہنے کی جگہ ہے؟",
+        "en": "Which animal lives in this place?"
+       },
+       "img": [
+        0.394,
+        0.457,
+        0.662,
+        0.58
+       ],
+       "options": [
+        {
+         "ur": "چڑیا",
+         "en": "Sparrow"
+        },
+        {
+         "ur": "اونٹ",
+         "en": "Camel"
+        },
+        {
+         "ur": "خرگوش",
+         "en": "Rabbit"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "یہ ریت کا ریگستان ہے۔ اونٹ ریگستان میں رہتا ہے۔",
+        "en": "This is a sandy desert. The camel lives in the desert."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "fill",
+     "questions": [
+      {
+       "q": {
+        "ur": "چڑیا ___ میں رہتی ہے۔",
+        "en": "The sparrow lives in a ___."
+       },
+       "options": [
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "بھٹ",
+         "en": "burrow"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "desert"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        },
+        {
+         "ur": "گھونسلے",
+         "en": "nest"
+        },
+        {
+         "ur": "سمندر",
+         "en": "sea"
+        }
+       ],
+       "answer": 4,
+       "fb": {
+        "ur": "چڑیا گھونسلے میں رہتی ہے۔",
+        "en": "The sparrow lives in a nest."
+       }
+      },
+      {
+       "q": {
+        "ur": "خرگوش ___ میں رہتا ہے۔",
+        "en": "The rabbit lives in a ___."
+       },
+       "options": [
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "بھٹ",
+         "en": "burrow"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "desert"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        },
+        {
+         "ur": "گھونسلے",
+         "en": "nest"
+        },
+        {
+         "ur": "سمندر",
+         "en": "sea"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "خرگوش بھٹ میں رہتا ہے۔",
+        "en": "The rabbit lives in a burrow."
+       }
+      },
+      {
+       "q": {
+        "ur": "اونٹ ___ میں رہتا ہے۔",
+        "en": "The camel lives in the ___."
+       },
+       "options": [
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "بھٹ",
+         "en": "burrow"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "desert"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        },
+        {
+         "ur": "گھونسلے",
+         "en": "nest"
+        },
+        {
+         "ur": "سمندر",
+         "en": "sea"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "اونٹ ریگستان میں رہتا ہے۔",
+        "en": "The camel lives in the desert."
+       }
+      },
+      {
+       "q": {
+        "ur": "شیر ___ میں رہتا ہے۔",
+        "en": "The lion lives in a ___."
+       },
+       "options": [
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "بھٹ",
+         "en": "burrow"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "desert"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        },
+        {
+         "ur": "گھونسلے",
+         "en": "nest"
+        },
+        {
+         "ur": "سمندر",
+         "en": "sea"
+        }
+       ],
+       "answer": 3,
+       "fb": {
+        "ur": "شیر کچھار میں رہتا ہے۔",
+        "en": "The lion lives in a den."
+       }
+      },
+      {
+       "q": {
+        "ur": "عقاب ___ میں رہتا ہے۔",
+        "en": "The eagle lives in the ___."
+       },
+       "options": [
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "بھٹ",
+         "en": "burrow"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "desert"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        },
+        {
+         "ur": "گھونسلے",
+         "en": "nest"
+        },
+        {
+         "ur": "سمندر",
+         "en": "sea"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "عقاب پہاڑوں میں رہتا ہے۔",
+        "en": "The eagle lives in the mountains."
+       }
+      },
+      {
+       "q": {
+        "ur": "ڈولفن ___ میں رہتی ہے۔",
+        "en": "The dolphin lives in the ___."
+       },
+       "options": [
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "بھٹ",
+         "en": "burrow"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "desert"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        },
+        {
+         "ur": "گھونسلے",
+         "en": "nest"
+        },
+        {
+         "ur": "سمندر",
+         "en": "sea"
+        }
+       ],
+       "answer": 5,
+       "fb": {
+        "ur": "ڈولفن سمندر میں رہتی ہے۔",
+        "en": "The dolphin lives in the sea."
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p058-a3",
+   "label": {
+    "ur": "سوال نمبر 5",
+    "en": "Question 5"
+   },
+   "orig": {
+    "ur": "سوال نمبر 5۔ اگر آپ گھر میں مرغیاں رکھنا چاہیں تو اُن کے رہنے کا کیا بندوبست کریں گے؟",
+    "en": "Question 5. If you want to keep hens at home, what arrangements will you make for a place for them to live?"
+   },
+   "prompt": {
+    "ur": "سوچیں: مرغیوں کو آرام سے اور محفوظ رہنے کے لیے کیا چاہیے؟",
+    "en": "Think: what do hens need to live comfortably and safely?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "مرغیاں رات کو کہاں رہیں گی؟",
+        "en": "Where will the hens stay at night?"
+       },
+       "img": [
+        0.19,
+        0.668,
+        0.408,
+        0.768
+       ],
+       "options": [
+        {
+         "ur": "ڈربے میں",
+         "en": "In a coop",
+         "sym": "henhouse"
+        },
+        {
+         "ur": "سڑک پر",
+         "en": "On the road",
+         "sym": "road"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "مرغیاں ڈربے میں محفوظ رہتی ہیں۔",
+        "en": "Hens stay safe in a coop."
+       }
+      },
+      {
+       "q": {
+        "ur": "مرغیوں کو روز کیا دیں گے؟",
+        "en": "What will you give the hens every day?"
+       },
+       "options": [
+        {
+         "ur": "کھلونے",
+         "en": "Toys",
+         "sym": "toy"
+        },
+        {
+         "ur": "دانہ اور پانی",
+         "en": "Grain and water",
+         "sym": "water"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "مرغیوں کو روز دانہ اور صاف پانی چاہیے۔",
+        "en": "Hens need grain and clean water every day."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "سوچیں: مرغیاں کہاں سوئیں گی؟",
+       "en": "Think: where will the hens sleep?"
+      },
+      {
+       "ur": "سوچیں: وہ کیا کھائیں اور پئیں گی؟",
+       "en": "Think: what will they eat and drink?"
+      },
+      {
+       "ur": "سوچیں: انھیں بلی، کتے، بارش اور سردی سے کیسے بچائیں گے؟",
+       "en": "Think: how will you keep them safe from cats, dogs, rain and cold?"
+      },
+      {
+       "ur": "اپنا جواب دو یا تین جملوں میں لکھیں یا بتائیں۔",
+       "en": "Write or say your answer in two or three sentences."
+      }
+     ],
+     "model": {
+      "ur": "ہم مرغیوں کے لیے لکڑی یا جالی کا صاف اور ہوادار ڈربا بنائیں گے۔ اس میں دانہ اور صاف پانی رکھیں گے۔ رات کو ڈربا بند کریں گے تاکہ مرغیاں بلی اور کتے سے محفوظ رہیں۔",
+      "en": "We will make a clean, airy coop of wood or wire mesh for the hens. We will put grain and clean water in it. At night we will close the coop so that the hens stay safe from cats and dogs."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے مرغیوں کے رہنے کی جگہ بتائی۔",
+       "en": "I said where the hens will live."
+      },
+      {
+       "ur": "میں نے دانے اور پانی کا ذکر کیا۔",
+       "en": "I talked about grain and water."
+      },
+      {
+       "ur": "میں نے بتایا کہ وہ محفوظ کیسے رہیں گی۔",
+       "en": "I said how they will stay safe."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "مرغیوں کے ڈربے کی تصویر بنائیں۔",
+       "en": "Draw a picture of a coop for the hens."
+      },
+      {
+       "ur": "تین چیزیں لکھیں جو ڈربے میں ہونی چاہییں اور ہر ایک کی وجہ بتائیں۔",
+       "en": "Write three things the coop should have and give a reason for each."
+      },
+      {
+       "ur": "بتائیں کہ ڈربے کو روز صاف کرنا کیوں ضروری ہے۔",
+       "en": "Explain why the coop must be cleaned every day."
+      }
+     ],
+     "model": {
+      "ur": "ڈربے میں جالی ہو تاکہ ہوا آئے۔ چھت ہو تاکہ بارش اور دھوپ سے بچاؤ ہو۔ دروازہ ہو جو رات کو بند ہو تاکہ بلی اندر نہ آئے۔ ڈربا روز صاف کرنا چاہیے تاکہ مرغیاں بیمار نہ ہوں۔",
+      "en": "The coop should have wire mesh so that air can come in. It should have a roof to keep out the rain and the sun. It should have a door that is closed at night so that a cat cannot get in. The coop should be cleaned every day so that the hens do not fall ill."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے ڈربے کی تصویر بنائی۔",
+       "en": "I drew a picture of the coop."
+      },
+      {
+       "ur": "میں نے تین چیزیں اور ان کی وجہ لکھی۔",
+       "en": "I wrote three things and their reasons."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "teacher",
+   "ur": "بچوں کو جانوروں کی اہمیت سے آگاہ کیا جائے۔",
+   "en": "Help the children to understand the importance of animals."
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "سوال 4 کے لیے صفحہ 52 دوبارہ دیکھیں۔ وہاں ہر جانور اپنے گھر کے ساتھ دکھایا گیا ہے۔",
+   "en": "For Question 4, look at page 52 again. Each animal is shown there with its home."
+  },
+  {
+   "for": "vision",
+   "ur": "تین تصویریں یہ ہیں: تنکوں کا خالی گھونسلا، گھاس میں زمین کا سوراخ (بھٹ)، اور ریت کے ٹیلوں والا ریگستان۔ آخری تصویر میں سفید مرغی اپنے چوزوں کے ساتھ لکڑی کے ڈربے کے پاس ہے۔",
+   "en": "The three pictures are: an empty nest made of twigs, a burrow, which is a hole in the ground in the grass, and a desert with sand dunes. In the last picture, a white hen is with her chicks beside a wooden coop."
+  },
+  {
+   "for": "motor",
+   "ur": "جواب لکھنے کے بجائے بول کر بتائیں، یا کسی بڑے سے لکھوائیں۔ سوال 5 کا جواب تصویر بنا کر بھی دیا جا سکتا ہے۔",
+   "en": "Instead of writing, say your answer aloud, or ask a grown-up to write it for you. You can also answer Question 5 by drawing a picture."
+  },
+  {
+   "for": "teacher",
+   "ur": "سوال 5 پر پہلے جوڑوں میں بات کروائیں۔ جن بچوں کے گھر مرغیاں ہیں ان سے تجربہ سنیں۔ ہر بچے کا خیال قبول کریں، چاہے وہ ایک لفظ یا اشارے میں ہو۔",
+   "en": "For Question 5, let the children talk in pairs first. Listen to the experiences of children who keep hens at home. Accept every child's idea, even if it is one word or a gesture."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "جانوروں کے گھر: دہرائی",
+   "en": "Animal homes: revision"
+  },
+  "image": {
+   "crop": [
+    0.536,
+    0.276,
+    0.806,
+    0.4
+   ],
+   "alt": {
+    "ur": "تنکوں سے بنا ایک گھونسلا۔",
+    "en": "A nest made of twigs."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Every animal has a home.",
+    "words": [
+     {
+      "ur": "ہر",
+      "sym": "all"
+     },
+     {
+      "ur": "جانور",
+      "sym": "animal"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "گھر",
+      "sym": "house"
+     },
+     {
+      "ur": "ہوتا",
+      "sym": null
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Every",
+      "sym": "all"
+     },
+     {
+      "en": "animal",
+      "sym": "animal"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "a home.",
+      "sym": "house"
+     }
+    ]
+   },
+   {
+    "en": "The sparrow lives in a nest.",
+    "words": [
+     {
+      "ur": "چڑیا",
+      "sym": "bird"
+     },
+     {
+      "ur": "گھونسلے",
+      "img": [
+       0.536,
+       0.276,
+       0.806,
+       0.4
+      ]
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "رہتی",
+      "sym": "to live"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The sparrow",
+      "sym": "bird"
+     },
+     {
+      "en": "lives",
+      "sym": "to live"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "a nest.",
+      "img": [
+       0.536,
+       0.276,
+       0.806,
+       0.4
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The rabbit lives in a burrow.",
+    "words": [
+     {
+      "ur": "خرگوش",
+      "sym": "rabbit"
+     },
+     {
+      "ur": "بھٹ",
+      "img": [
+       0.225,
+       0.276,
+       0.492,
+       0.398
+      ]
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "رہتا",
+      "sym": "to live"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The rabbit",
+      "sym": "rabbit"
+     },
+     {
+      "en": "lives",
+      "sym": "to live"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "a burrow.",
+      "img": [
+       0.225,
+       0.276,
+       0.492,
+       0.398
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The camel lives in the desert.",
+    "words": [
+     {
+      "ur": "اونٹ",
+      "sym": "camel"
+     },
+     {
+      "ur": "ریگستان",
+      "img": [
+       0.394,
+       0.457,
+       0.662,
+       0.58
+      ]
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "رہتا",
+      "sym": "to live"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The camel",
+      "sym": "camel"
+     },
+     {
+      "en": "lives",
+      "sym": "to live"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "the desert.",
+      "img": [
+       0.394,
+       0.457,
+       0.662,
+       0.58
+      ]
+     }
+    ]
+   },
+   {
+    "en": "The hen lives in a coop.",
+    "words": [
+     {
+      "ur": "مرغی",
+      "sym": "hen"
+     },
+     {
+      "ur": "ڈربے",
+      "sym": "henhouse"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "رہتی",
+      "sym": "to live"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The hen",
+      "sym": "hen"
+     },
+     {
+      "en": "lives",
+      "sym": "to live"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "a coop.",
+      "sym": "henhouse"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "جانور کو اس کے گھر سے ملائیں۔",
+    "en": "Match the animal to its home."
+   },
+   "task": {
+    "kind": "match",
+    "pairs": [
+     {
+      "a": {
+       "ur": "چڑیا",
+       "en": "Sparrow",
+       "sym": "bird"
+      },
+      "b": {
+       "ur": "گھونسلا",
+       "en": "Nest",
+       "img": [
+        0.536,
+        0.276,
+        0.806,
+        0.4
+       ]
+      }
+     },
+     {
+      "a": {
+       "ur": "خرگوش",
+       "en": "Rabbit",
+       "sym": "rabbit"
+      },
+      "b": {
+       "ur": "بھٹ",
+       "en": "Burrow",
+       "img": [
+        0.225,
+        0.276,
+        0.492,
+        0.398
+       ]
+      }
+     },
+     {
+      "a": {
+       "ur": "اونٹ",
+       "en": "Camel",
+       "sym": "camel"
+      },
+      "b": {
+       "ur": "ریگستان",
+       "en": "Desert",
+       "img": [
+        0.394,
+        0.457,
+        0.662,
+        0.58
+       ]
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

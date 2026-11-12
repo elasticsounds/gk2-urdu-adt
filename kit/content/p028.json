@@ -1,0 +1,96 @@
+{
+  "n": 28,
+  "printed": "24",
+  "chapter": 4,
+  "kind": "content",
+  "title": {"ur": "کرسمس، ہولی اور بیساکھی", "en": "Christmas, Holi and Baisakhi"},
+  "blocks": [
+    {"t": "h", "ur": "کرسمس", "en": "Christmas"},
+    {"t": "p", "ur": "مسیحی ہر سال 25 دسمبر کو حضرت عیسیٰ علیہ السّلام کے یومِ پیدائش کے موقع پر کرسمس مناتے ہیں۔ اس دن کرسمس کے درخت اور گھروں کو سجاتے اور تحفے تحائف کا تبادلہ کرتے ہیں۔", "en": "Every year on 25 December, Christians celebrate Christmas to mark the birthday of Hazrat Isa (peace be upon him). On this day they decorate Christmas trees and their homes, and give gifts to one another."},
+    {"t": "img", "crop": [0.145, 0.12, 0.555, 0.375],
+     "alt": {"ur": "ایک سجے ہوئے کمرے میں بچے مل کر کرسمس کے سبز درخت کو رنگین گیندوں سے سجا رہے ہیں۔ درخت کے اوپر ستارہ ہے اور نیچے ربن والے تحفے رکھے ہیں۔", "en": "In a decorated room, children are decorating a green Christmas tree with coloured balls; there is a star on top of the tree and gifts tied with ribbons lie under it."}},
+    {"t": "h", "ur": "ہولی", "en": "Holi"},
+    {"t": "p", "ur": "ہولی ہندوؤں کا اہم تہوار ہے۔ اس دن ہندو اکٹھے ہو کر ایک دوسرے پر رنگ پھینکتے ہیں اور خوشی کا اظہار کرتے ہیں۔", "en": "Holi is an important festival of Hindus. On this day Hindus come together, throw colours on one another and show their happiness."},
+    {"t": "img", "crop": [0.145, 0.385, 0.555, 0.555],
+     "alt": {"ur": "ایک سرسبز باغ میں بچے اور بڑے ہنستے دوڑتے ایک دوسرے پر رنگ پھینک رہے ہیں۔ ان کے کپڑے اور چہرے رنگوں سے بھرے ہیں اور میز پر رنگوں کے پیالے رکھے ہیں۔", "en": "In a green garden, children and grown-ups laugh and run as they throw colours on one another; their clothes and faces are covered in colours, and bowls of colour stand on a table."}},
+    {"t": "h", "ur": "بیساکھی", "en": "Baisakhi"},
+    {"t": "p", "ur": "بیساکھی سکھ مذہب کا ایک قدیم تہوار ہے۔ بیساکھی سکھوں کے نئے سال کا پہلا دن ہے اس دن سکھ خوشیاں مناتے ہیں۔", "en": "Baisakhi is a very old festival of the Sikh religion. Baisakhi is the first day of the Sikh new year. On this day Sikhs celebrate."},
+    {"t": "img", "crop": [0.147, 0.565, 0.553, 0.765],
+     "alt": {"ur": "گندم کے سنہرے کھیت میں رنگین پگڑیاں پہنے سکھ مرد ڈھول کی تھاپ پر بھنگڑا ڈال رہے ہیں اور ایک عورت نے سر پر گندم کا گٹھا اٹھایا ہوا ہے۔", "en": "In a golden wheat field, Sikh men in colourful turbans dance the bhangra to the beat of a drum, and a woman carries a bundle of wheat on her head."}},
+    {"t": "fact", "ur": "سکھ مذہب کے بانی گورو نانک، ننکانہ صاحب پنجاب میں پیدا ہوئے۔", "en": "Guru Nanak, the founder of the Sikh religion, was born in Nankana Sahib, Punjab."},
+    {
+      "t": "activity",
+      "id": "p028-a1",
+      "label": {"ur": "آزمائیں", "en": "Try it"},
+      "orig": {"ur": "(اضافی مشق — یہ کتاب میں چھپی ہوئی نہیں ہے)", "en": "(Extra practice — not printed in the book)"},
+      "prompt": {"ur": "ہر تہوار کو پہچانیں اور صحیح جوڑ ملائیں۔", "en": "Get to know each festival and match the right pairs."},
+      "levels": {
+        "easy": {"kind": "match", "pairs": [
+          {"a": {"ur": "کرسمس", "en": "Christmas"}, "b": {"ur": "سجا ہوا درخت", "en": "Decorated tree", "img": [0.145, 0.12, 0.555, 0.375]}},
+          {"a": {"ur": "ہولی", "en": "Holi"}, "b": {"ur": "رنگ", "en": "Colours", "img": [0.145, 0.385, 0.555, 0.555]}},
+          {"a": {"ur": "بیساکھی", "en": "Baisakhi"}, "b": {"ur": "ڈھول اور بھنگڑا", "en": "Drum and bhangra dance", "img": [0.147, 0.565, 0.553, 0.765]}}
+        ]},
+        "moderate": {"kind": "match", "pairs": [
+          {"a": {"ur": "کرسمس", "en": "Christmas"}, "b": {"ur": "مسیحی — 25 دسمبر", "en": "Christians — 25 December"}},
+          {"a": {"ur": "ہولی", "en": "Holi"}, "b": {"ur": "ہندو — ایک دوسرے پر رنگ پھینکتے ہیں", "en": "Hindus — throw colours on one another"}},
+          {"a": {"ur": "بیساکھی", "en": "Baisakhi"}, "b": {"ur": "سکھ — نئے سال کا پہلا دن", "en": "Sikhs — the first day of the new year"}},
+          {"a": {"ur": "گورو نانک", "en": "Guru Nanak"}, "b": {"ur": "ننکانہ صاحب پنجاب میں پیدا ہوئے", "en": "Born in Nankana Sahib, Punjab"}}
+        ]},
+        "hard": {"kind": "mcq", "questions": [
+          {"q": {"ur": "کرسمس کس کے یومِ پیدائش کے موقع پر منائی جاتی ہے؟", "en": "Whose birthday is celebrated at Christmas?"},
+           "options": [{"ur": "گورو نانک", "en": "Guru Nanak"}, {"ur": "حضرت عیسیٰ علیہ السّلام", "en": "Hazrat Isa (peace be upon him)"}, {"ur": "حضرت ابراہیم علیہ السّلام", "en": "Hazrat Ibrahim (peace be upon him)"}],
+           "answer": 1,
+           "fb": {"ur": "مسیحی 25 دسمبر کو حضرت عیسیٰ علیہ السّلام کے یومِ پیدائش پر کرسمس مناتے ہیں۔", "en": "Christians celebrate Christmas on 25 December, the birthday of Hazrat Isa (peace be upon him)."}},
+          {"q": {"ur": "کرسمس کے دن لوگ کیا کرتے ہیں؟", "en": "What do people do on Christmas Day?"},
+           "options": [{"ur": "درخت اور گھر سجاتے اور تحفے دیتے ہیں", "en": "Decorate trees and homes and give gifts"}, {"ur": "ایک دوسرے پر رنگ پھینکتے ہیں", "en": "Throw colours on one another"}, {"ur": "جانوروں کی قربانی کرتے ہیں", "en": "Sacrifice animals"}],
+           "answer": 0,
+           "fb": {"ur": "کرسمس پر درخت اور گھر سجائے جاتے ہیں اور تحفوں کا تبادلہ ہوتا ہے۔", "en": "At Christmas, trees and homes are decorated and people give gifts to one another."}},
+          {"q": {"ur": "بیساکھی سکھوں کے لیے کون سا دن ہے؟", "en": "Which day is Baisakhi for Sikhs?"},
+           "options": [{"ur": "سال کا آخری دن", "en": "The last day of the year"}, {"ur": "روزوں کا پہلا دن", "en": "The first day of fasting"}, {"ur": "نئے سال کا پہلا دن", "en": "The first day of the new year"}],
+           "answer": 2,
+           "fb": {"ur": "بیساکھی سکھوں کے نئے سال کا پہلا دن ہے۔", "en": "Baisakhi is the first day of the Sikh new year."}},
+          {"q": {"ur": "ان تینوں تہواروں میں کون سی بات ایک جیسی ہے؟", "en": "What is the same about all three festivals?"},
+           "options": [{"ur": "سب ایک ہی دن آتے ہیں", "en": "They all fall on the same day"}, {"ur": "لوگ مل کر خوشی مناتے ہیں", "en": "People celebrate happily together"}, {"ur": "سب میں رنگ پھینکے جاتے ہیں", "en": "Colours are thrown in all of them"}],
+           "answer": 1,
+           "fb": {"ur": "ہر تہوار میں لوگ اکٹھے ہو کر خوشی مناتے ہیں۔ ہمیں سب کے تہواروں کا احترام کرنا چاہیے۔", "en": "At every festival people come together and celebrate. We should respect everyone's festivals."}}
+        ]}
+      }
+    }
+  ],
+  "hint": [
+    {"for": "all", "ur": "ہر تہوار کی ایک نشانی یاد رکھیں: کرسمس — سجا ہوا درخت؛ ہولی — رنگ؛ بیساکھی — گندم کا کھیت اور ڈھول۔ تصویر دیکھ کر تہوار کا نام بتائیں۔", "en": "Remember one sign for each festival: Christmas — a decorated tree; Holi — colours; Baisakhi — a wheat field and a drum. Look at the picture and name the festival."},
+    {"for": "vision", "ur": "ہر تہوار کو چھو کر یا سن کر پہچانیں: کرسمس کے لیے چھوٹی گھنٹی یا ربن والا ڈبا، ہولی کے لیے خشک رنگ/آٹے کی چٹکی، بیساکھی کے لیے گندم کی بالی اور ڈھول کی تھاپ۔", "en": "Get to know each festival by touch or by sound: a small bell or a box with a ribbon for Christmas, a pinch of dry colour or flour for Holi, and an ear of wheat and the beat of a drum for Baisakhi."},
+    {"for": "cognitive", "ur": "ایک وقت میں صرف ایک تہوار پڑھیں۔ پہلے تصویر دیکھیں، پھر ایک جملہ بولیں: ”مسیحی کرسمس مناتے ہیں۔“ پھر اگلا تہوار۔", "en": "Read only one festival at a time. Look at the picture first, then say one sentence: “Christians celebrate Christmas.” Then move to the next festival."},
+    {"for": "teacher", "ur": "تینوں تہواروں کو برابر وقت اور احترام دیں۔ اگر جماعت میں مسیحی، ہندو یا سکھ بچے ہوں تو انھیں (اگر وہ چاہیں) اپنا تہوار بتانے کی دعوت دیں؛ کسی بچے کو مجبور نہ کریں۔", "en": "Give all three festivals equal time and respect. If there are Christian, Hindu or Sikh children in the class, invite them (if they wish) to talk about their festival. Do not force any child."}
+  ],
+  "easy": {
+    "title": {"ur": "سب کے تہوار", "en": "Everyone's festivals"},
+    "image": {"crop": [0.145, 0.12, 0.555, 0.765], "alt": {"ur": "تین تصویریں: کرسمس کا سجا ہوا درخت، ہولی کے رنگ، اور بیساکھی کا بھنگڑا۔", "en": "Three pictures: a decorated Christmas tree, the colours of Holi, and the bhangra dance of Baisakhi."}},
+    "sentences": [
+      {"en": "Christians celebrate Christmas.",
+       "words": [{"ur": "مسیحی", "sym": "Christian"}, {"ur": "کرسمس", "img": [0.145, 0.12, 0.555, 0.375]}, {"ur": "مناتے ہیں۔", "sym": "to celebrate"}],
+       "words_en": [{"en": "Christians", "sym": "Christian"}, {"en": "celebrate", "sym": "to celebrate"}, {"en": "Christmas.", "img": [0.145, 0.12, 0.555, 0.375]}]},
+      {"en": "Hindus celebrate Holi.",
+       "words": [{"ur": "ہندو", "sym": "Hindu"}, {"ur": "ہولی", "img": [0.145, 0.385, 0.555, 0.555]}, {"ur": "مناتے ہیں۔", "sym": "to celebrate"}],
+       "words_en": [{"en": "Hindus", "sym": "Hindu"}, {"en": "celebrate", "sym": "to celebrate"}, {"en": "Holi.", "img": [0.145, 0.385, 0.555, 0.555]}]},
+      {"en": "Sikhs celebrate Baisakhi.",
+       "words": [{"ur": "سکھ", "sym": "Sikh"}, {"ur": "بیساکھی", "img": [0.147, 0.565, 0.553, 0.765]}, {"ur": "مناتے ہیں۔", "sym": "to celebrate"}],
+       "words_en": [{"en": "Sikhs", "sym": "Sikh"}, {"en": "celebrate", "sym": "to celebrate"}, {"en": "Baisakhi.", "img": [0.147, 0.565, 0.553, 0.765]}]},
+      {"en": "All festivals bring happiness.",
+       "words": [{"ur": "سب", "sym": "all"}, {"ur": "تہوار", "sym": "celebration"}, {"ur": "خوشی", "sym": "happy"}, {"ur": "لاتے ہیں۔", "sym": "to bring"}],
+       "words_en": [{"en": "All", "sym": "all"}, {"en": "festivals", "sym": "celebration"}, {"en": "bring", "sym": "to bring"}, {"en": "happiness.", "sym": "happy"}]},
+      {"en": "We respect everyone.",
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "سب", "sym": "everybody"}, {"ur": "کی", "sym": null}, {"ur": "عزت", "sym": "respect"}, {"ur": "کرتے ہیں۔", "sym": null}],
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "respect", "sym": "respect"}, {"en": "everyone.", "sym": "everybody"}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "تصویر کو تہوار کے نام سے ملائیں۔", "en": "Match the picture to the festival's name."},
+      "task": {"kind": "match", "pairs": [
+        {"a": {"ur": "سجا ہوا درخت", "en": "Decorated tree", "img": [0.145, 0.12, 0.555, 0.375]}, "b": {"ur": "کرسمس", "en": "Christmas"}},
+        {"a": {"ur": "رنگ", "en": "Colours", "img": [0.145, 0.385, 0.555, 0.555]}, "b": {"ur": "ہولی", "en": "Holi"}},
+        {"a": {"ur": "ڈھول اور بھنگڑا", "en": "Drum and bhangra dance", "img": [0.147, 0.565, 0.553, 0.765]}, "b": {"ur": "بیساکھی", "en": "Baisakhi"}}
+      ]}
+    }
+  },
+  "print": true
+}

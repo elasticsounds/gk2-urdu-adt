@@ -1,0 +1,650 @@
+{
+ "n": 53,
+ "printed": "49",
+ "chapter": 8,
+ "kind": "opener",
+ "title": {
+  "ur": "جانور",
+  "en": "Animals"
+ },
+ "blocks": [
+  {
+   "ur": "08 جانور",
+   "en": "Chapter 8: Animals",
+   "t": "h"
+  },
+  {
+   "ur": "حاصلاتِ تعلّم",
+   "en": "Learning outcomes",
+   "t": "h"
+  },
+  {
+   "ur": "اس باب کے اختتام پر آپ اس قابل ہو جائیں گے کہ:",
+   "en": "By the end of this chapter you will be able to:",
+   "t": "p"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "اپنے اِردگرد (پانی اور خشکی) کے جانوروں کے نام بتا سکیں۔",
+     "en": "Name the animals around you, on land and in water."
+    },
+    {
+     "ur": "پہچان سکیں کہ پانی اور خشکی میں رہنے والے جانوروں کی خصوصیات ایک دوسرے سے مختلف ہیں۔",
+     "en": "Recognise that animals that live in water and animals that live on land have different features."
+    },
+    {
+     "ur": "پہچان سکیں کہ تمام جانوروں کے بچے ہوتے ہیں جو نشوونما پا کر بڑے ہوتے ہیں۔",
+     "en": "Recognise that all animals have babies, which grow up and become big."
+    },
+    {
+     "ur": "مختلف جانور اور ان کے بچوں کو پہچان سکیں۔",
+     "en": "Recognise different animals and their babies."
+    },
+    {
+     "ur": "شناخت کر سکیں کہ کچھ جانوروں کے بچے بچپن میں اُن سے مشابہت نہیں رکھتے۔",
+     "en": "Recognise that the babies of some animals do not look like them when they are young."
+    },
+    {
+     "ur": "جانوروں کی فہرست بنا سکیں جو اپنے بچوں کو خوراک فراہم کرتے ہیں اور اُن کی دیکھ بھال کرتے ہیں۔",
+     "en": "Make a list of animals that give food to their babies and look after them."
+    },
+    {
+     "ur": "مختلف جانوروں کے رہنے کی جگہ کا نام بتا سکیں۔",
+     "en": "Name the places where different animals live."
+    }
+   ]
+  },
+  {
+   "ur": "ہماری زمین پر انسانوں کے ساتھ ساتھ جانور بھی رہتے ہیں۔ ان میں سے کچھ خشکی پر اور کچھ پانی میں رہتے ہیں۔",
+   "en": "Animals live on our Earth along with people. Some of them live on land and some live in water.",
+   "t": "p"
+  },
+  {
+   "ur": "خشکی پر بعض جانور چلتے اور کچھ رینگتے ہیں جب کہ کچھ ہوا میں اُڑتے ہیں۔",
+   "en": "On land, some animals walk and some crawl, while others fly in the air.",
+   "t": "p"
+  },
+  {
+   "ur": "خشکی پر رہنے والے جانور",
+   "en": "Animals that live on land",
+   "t": "h"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.607,
+      0.722,
+      0.802,
+      0.85
+     ],
+     "alt": {
+      "ur": "چکور: سرمئی رنگ کا ایک پرندہ جس کی چونچ لال ہے، پتھر کے پاس کھڑا ہے۔",
+      "en": "A chukar partridge, a grey bird with a red beak, standing near a rock."
+     },
+     "cap": {
+      "ur": "چکور",
+      "en": "Chukar partridge"
+     }
+    },
+    {
+     "crop": [
+      0.39,
+      0.722,
+      0.586,
+      0.85
+     ],
+     "alt": {
+      "ur": "مارخور: لمبے مڑے ہوئے سینگوں والا پہاڑی بکرا، ہری جھاڑیوں میں کھڑا ہے۔",
+      "en": "A markhor, a mountain goat with long twisted horns, standing among green bushes."
+     },
+     "cap": {
+      "ur": "مارخور",
+      "en": "Markhor"
+     }
+    },
+    {
+     "crop": [
+      0.164,
+      0.722,
+      0.361,
+      0.85
+     ],
+     "alt": {
+      "ur": "سانپ: نارنجی اور کالی دھاریوں والا سانپ ریت پر رینگ رہا ہے۔",
+      "en": "A snake with orange and black stripes crawling on sand."
+     },
+     "cap": {
+      "ur": "سانپ",
+      "en": "Snake"
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p053-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "خشکی پر بعض جانور چلتے اور کچھ رینگتے ہیں جب کہ کچھ ہوا میں اُڑتے ہیں۔",
+    "en": "On land, some animals walk and some crawl, while others fly in the air."
+   },
+   "prompt": {
+    "ur": "ہر جانور کو دیکھیں۔ بتائیں وہ کیسے حرکت کرتا ہے۔",
+    "en": "Look at each animal. Say how it moves."
+   },
+   "levels": {
+    "easy": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "سانپ",
+        "en": "Snake",
+        "img": [
+         0.164,
+         0.722,
+         0.361,
+         0.85
+        ]
+       },
+       "b": {
+        "ur": "رینگتا ہے",
+        "en": "It crawls"
+       }
+      },
+      {
+       "a": {
+        "ur": "مارخور",
+        "en": "Markhor",
+        "img": [
+         0.39,
+         0.722,
+         0.586,
+         0.85
+        ]
+       },
+       "b": {
+        "ur": "چلتا ہے",
+        "en": "It walks",
+        "sym": "to walk"
+       }
+      },
+      {
+       "a": {
+        "ur": "چکور",
+        "en": "Chukar partridge",
+        "img": [
+         0.607,
+         0.722,
+         0.802,
+         0.85
+        ]
+       },
+       "b": {
+        "ur": "اُڑتا ہے",
+        "en": "It flies",
+        "sym": "to fly"
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "سانپ کیسے حرکت کرتا ہے؟",
+        "en": "How does a snake move?"
+       },
+       "img": [
+        0.164,
+        0.722,
+        0.361,
+        0.85
+       ],
+       "options": [
+        {
+         "ur": "اُڑتا ہے",
+         "en": "It flies"
+        },
+        {
+         "ur": "رینگتا ہے",
+         "en": "It crawls"
+        },
+        {
+         "ur": "تیرتا ہے",
+         "en": "It swims"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "سانپ کے پاؤں نہیں ہوتے۔ وہ زمین پر رینگتا ہے۔",
+        "en": "A snake has no feet. It crawls on the ground."
+       }
+      },
+      {
+       "q": {
+        "ur": "مارخور کیسے حرکت کرتا ہے؟",
+        "en": "How does a markhor move?"
+       },
+       "img": [
+        0.39,
+        0.722,
+        0.586,
+        0.85
+       ],
+       "options": [
+        {
+         "ur": "چلتا ہے",
+         "en": "It walks"
+        },
+        {
+         "ur": "رینگتا ہے",
+         "en": "It crawls"
+        },
+        {
+         "ur": "اُڑتا ہے",
+         "en": "It flies"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "مارخور اپنی چار ٹانگوں پر چلتا ہے۔",
+        "en": "A markhor walks on its four legs."
+       }
+      },
+      {
+       "q": {
+        "ur": "چکور ہوا میں کیا کرتا ہے؟",
+        "en": "What does a chukar partridge do in the air?"
+       },
+       "img": [
+        0.607,
+        0.722,
+        0.802,
+        0.85
+       ],
+       "options": [
+        {
+         "ur": "رینگتا ہے",
+         "en": "It crawls"
+        },
+        {
+         "ur": "تیرتا ہے",
+         "en": "It swims"
+        },
+        {
+         "ur": "اُڑتا ہے",
+         "en": "It flies"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "چکور ایک پرندہ ہے۔ پرندے پروں سے ہوا میں اُڑتے ہیں۔",
+        "en": "The chukar partridge is a bird. Birds fly in the air with their wings."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "چلتے ہیں",
+       "en": "They walk"
+      },
+      {
+       "ur": "رینگتے ہیں",
+       "en": "They crawl"
+      },
+      {
+       "ur": "اُڑتے ہیں",
+       "en": "They fly"
+      }
+     ],
+     "items": [
+      {
+       "ur": "مارخور",
+       "en": "Markhor",
+       "group": 0
+      },
+      {
+       "ur": "سانپ",
+       "en": "Snake",
+       "group": 1
+      },
+      {
+       "ur": "چکور",
+       "en": "Chukar partridge",
+       "group": 2
+      },
+      {
+       "ur": "ہاتھی",
+       "en": "Elephant",
+       "group": 0
+      },
+      {
+       "ur": "کبوتر",
+       "en": "Pigeon",
+       "group": 2
+      },
+      {
+       "ur": "اونٹ",
+       "en": "Camel",
+       "group": 0
+      },
+      {
+       "ur": "چڑیا",
+       "en": "Sparrow",
+       "group": 2
+      },
+      {
+       "ur": "کیچوا",
+       "en": "Earthworm",
+       "group": 1
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "پہلے نیچے کی تین تصویریں دیکھیں: چکور، مارخور اور سانپ۔ سوچیں: کون اُڑتا ہے؟ کون چلتا ہے؟ کون رینگتا ہے؟",
+   "en": "First look at the three pictures at the bottom: the chukar partridge, the markhor and the snake. Think: which one flies? Which one walks? Which one crawls?"
+  },
+  {
+   "for": "hearing",
+   "ur": "ہاتھوں سے اشارہ کریں: اُڑنے کے لیے بازو ہلائیں، چلنے کے لیے دو انگلیاں چلائیں، رینگنے کے لیے ہاتھ کو لہرائیں۔",
+   "en": "Use your hands to show it: flap your arms for flying, walk two fingers for walking, and wiggle your hand for crawling."
+  },
+  {
+   "for": "vision",
+   "ur": "چکور ایک پرندہ ہے، مارخور بڑے سینگوں والا پہاڑی بکرا ہے (پاکستان کا قومی جانور) اور سانپ لمبا، بغیر ٹانگوں کا جانور ہے۔ کسی سے کہیں کہ ان کی آوازیں یا کھلونے آپ کو دکھائے۔",
+   "en": "The chukar partridge is a bird. The markhor is a mountain goat with big horns, and it is Pakistan's national animal. The snake is a long animal with no legs. Ask someone to let you hear their sounds or hold toy models of them."
+  },
+  {
+   "for": "teacher",
+   "ur": "بچوں سے کہیں کہ وہ اپنے گھر یا گلی کے ایک جانور کا نام بتائیں، اشارے سے دکھائیں یا اس کی آواز نکالیں۔ ہر طرح کا جواب قبول کریں۔",
+   "en": "Ask the children to name an animal from their home or street, show it with a gesture, or make its sound. Accept every kind of answer."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "جانور",
+   "en": "Animals"
+  },
+  "image": {
+   "crop": [
+    0.39,
+    0.722,
+    0.586,
+    0.85
+   ],
+   "alt": {
+    "ur": "مارخور ہری جھاڑیوں میں کھڑا ہے۔",
+    "en": "A markhor standing among green bushes."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Animals live on Earth.",
+    "words": [
+     {
+      "ur": "جانور",
+      "sym": "animal"
+     },
+     {
+      "ur": "زمین",
+      "sym": "Earth"
+     },
+     {
+      "ur": "پر",
+      "sym": null
+     },
+     {
+      "ur": "رہتے",
+      "sym": "to live"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Animals",
+      "sym": "animal"
+     },
+     {
+      "en": "live",
+      "sym": "to live"
+     },
+     {
+      "en": "on",
+      "sym": null
+     },
+     {
+      "en": "Earth.",
+      "sym": "Earth"
+     }
+    ]
+   },
+   {
+    "en": "Some animals live on land.",
+    "words": [
+     {
+      "ur": "کچھ",
+      "sym": "some"
+     },
+     {
+      "ur": "جانور",
+      "sym": "animal"
+     },
+     {
+      "ur": "خشکی",
+      "sym": "land"
+     },
+     {
+      "ur": "پر",
+      "sym": null
+     },
+     {
+      "ur": "رہتے",
+      "sym": "to live"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Some",
+      "sym": "some"
+     },
+     {
+      "en": "animals",
+      "sym": "animal"
+     },
+     {
+      "en": "live",
+      "sym": "to live"
+     },
+     {
+      "en": "on",
+      "sym": null
+     },
+     {
+      "en": "land.",
+      "sym": "land"
+     }
+    ]
+   },
+   {
+    "en": "Some animals live in water.",
+    "words": [
+     {
+      "ur": "کچھ",
+      "sym": "some"
+     },
+     {
+      "ur": "جانور",
+      "sym": "animal"
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "رہتے",
+      "sym": "to live"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Some",
+      "sym": "some"
+     },
+     {
+      "en": "animals",
+      "sym": "animal"
+     },
+     {
+      "en": "live",
+      "sym": "to live"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "water.",
+      "sym": "water"
+     }
+    ]
+   },
+   {
+    "en": "Birds fly in the air.",
+    "words": [
+     {
+      "ur": "پرندے",
+      "sym": "bird"
+     },
+     {
+      "ur": "ہوا",
+      "sym": "air"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "اُڑتے",
+      "sym": "to fly"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Birds",
+      "sym": "bird"
+     },
+     {
+      "en": "fly",
+      "sym": "to fly"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "air.",
+      "sym": "air"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "مچھلی کہاں رہتی ہے؟",
+       "en": "Where does a fish live?"
+      },
+      "options": [
+       {
+        "ur": "پانی میں",
+        "en": "In water",
+        "sym": "water"
+       },
+       {
+        "ur": "درخت پر",
+        "en": "On a tree",
+        "sym": "tree"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "مچھلی پانی میں رہتی ہے۔",
+       "en": "A fish lives in water."
+      }
+     },
+     {
+      "q": {
+       "ur": "ہوا میں کون اُڑتا ہے؟",
+       "en": "Which one flies in the air?"
+      },
+      "options": [
+       {
+        "ur": "سانپ",
+        "en": "A snake",
+        "sym": "snake"
+       },
+       {
+        "ur": "پرندہ",
+        "en": "A bird",
+        "sym": "bird"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "پرندہ ہوا میں اُڑتا ہے۔",
+       "en": "A bird flies in the air."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

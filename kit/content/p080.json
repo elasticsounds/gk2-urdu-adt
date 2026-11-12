@@ -1,0 +1,473 @@
+{
+ "n": 80,
+ "printed": "76",
+ "chapter": 13,
+ "kind": "opener",
+ "title": {
+  "ur": "پیشے",
+  "en": "Professions"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "13 پیشے",
+   "en": "Chapter 13: Professions"
+  },
+  {
+   "t": "h",
+   "ur": "حاصلاتِ تعلّم",
+   "en": "Learning outcomes"
+  },
+  {
+   "t": "p",
+   "ur": "اس باب کے اختتام پر آپ اس قابل ہو جائیں گے کہ:",
+   "en": "By the end of this chapter you will be able to:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "تصاویر سے کچھ پیشوں (تدریس، کھیتی باڑی اور طِب وغیرہ) کی شناخت کر سکیں۔",
+     "en": "Identify some professions (teaching, farming, medicine, etc.) from pictures."
+    },
+    {
+     "ur": "اپنی روزمرہ زندگی میں کچھ پیشوں کا کردار سمجھ سکیں۔",
+     "en": "Understand the role of some professions in your daily life."
+    },
+    {
+     "ur": "بتا سکیں کہ ان کو کون سا پیشہ زیادہ پسند ہے اور کیوں؟",
+     "en": "Say which profession you like most and why."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "ur": "روزمرہ زندگی میں روزی کمانے کے لیے ہمیں کوئی نہ کوئی پیشہ اپنانا پڑتا ہے جیسا کہ کپڑے سینے کے لیے درزی، سبزی بیچنے کے لیے سبزی فروش اور مریض کا علاج کرنے کے لیے ڈاکٹر وغیرہ۔ اس سے نہ صرف ہم روزی کماتے ہیں بلکہ دوسروں کی مدد بھی کرتے ہیں۔",
+   "en": "In daily life, we have to take up some profession to earn a living, such as a tailor to sew clothes, a greengrocer to sell vegetables, a doctor to treat patients, and so on. In this way we not only earn a living but also help others."
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.155,
+    0.618,
+    0.868,
+    0.893
+   ],
+   "alt": {
+    "ur": "سفید کوٹ پہنے ایک ڈاکٹر صاحبہ سٹول پر بیٹھی بچی کا منہ کھلوا کر اس کا گلا دیکھ رہی ہیں۔ پاس ہی ایک وہیل چیئر رکھی ہے۔",
+    "en": "A lady doctor in a white coat is checking the throat of a little girl who sits on a stool with her mouth open. A wheelchair stands nearby."
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p080-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "کپڑے سینے کے لیے درزی، سبزی بیچنے کے لیے سبزی فروش اور مریض کا علاج کرنے کے لیے ڈاکٹر",
+    "en": "A tailor to sew clothes, a greengrocer to sell vegetables and a doctor to treat patients"
+   },
+   "prompt": {
+    "ur": "کون کیا کام کرتا ہے؟ ملائیں۔",
+    "en": "Who does which job? Match them."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "تصویر میں بچی کا علاج کون کر رہا ہے؟",
+        "en": "Who is treating the girl in the picture?"
+       },
+       "options": [
+        {
+         "ur": "ڈاکٹر",
+         "en": "Doctor",
+         "sym": "doctor"
+        },
+        {
+         "ur": "درزی",
+         "en": "Tailor",
+         "sym": "tailor"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "ڈاکٹر مریض کا علاج کرتا ہے۔",
+        "en": "A doctor treats patients."
+       },
+       "img": [
+        0.155,
+        0.618,
+        0.868,
+        0.893
+       ]
+      },
+      {
+       "q": {
+        "ur": "کپڑے کون سیتا ہے؟",
+        "en": "Who sews clothes?"
+       },
+       "options": [
+        {
+         "ur": "سبزی فروش",
+         "en": "Greengrocer",
+         "sym": "greengrocer"
+        },
+        {
+         "ur": "درزی",
+         "en": "Tailor",
+         "sym": "tailor"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "درزی کپڑے سیتا ہے۔",
+        "en": "A tailor sews clothes."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "کپڑے سینا",
+        "en": "Sewing clothes",
+        "sym": "to sew"
+       },
+       "b": {
+        "ur": "درزی",
+        "en": "Tailor"
+       }
+      },
+      {
+       "a": {
+        "ur": "سبزی بیچنا",
+        "en": "Selling vegetables",
+        "sym": "vegetables"
+       },
+       "b": {
+        "ur": "سبزی فروش",
+        "en": "Greengrocer"
+       }
+      },
+      {
+       "a": {
+        "ur": "مریض کا علاج کرنا",
+        "en": "Treating patients",
+        "sym": "sick"
+       },
+       "b": {
+        "ur": "ڈاکٹر",
+        "en": "Doctor"
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "لوگ پیشہ کیوں اپناتے ہیں؟",
+        "en": "Why do people take up a profession?"
+       },
+       "options": [
+        {
+         "ur": "صرف وقت گزارنے کے لیے",
+         "en": "Only to pass the time"
+        },
+        {
+         "ur": "روزی کمانے اور دوسروں کی مدد کرنے کے لیے",
+         "en": "To earn a living and to help others"
+        },
+        {
+         "ur": "کھیلنے کے لیے",
+         "en": "To play"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "پیشے سے ہم روزی کماتے ہیں اور دوسروں کی مدد بھی کرتے ہیں۔",
+        "en": "Through a profession we earn a living and also help others."
+       }
+      },
+      {
+       "q": {
+        "ur": "درزی ہماری مدد کیسے کرتا ہے؟",
+        "en": "How does a tailor help us?"
+       },
+       "options": [
+        {
+         "ur": "ہمارے کپڑے سی کر",
+         "en": "By sewing our clothes"
+        },
+        {
+         "ur": "ہمیں سبزی بیچ کر",
+         "en": "By selling us vegetables"
+        },
+        {
+         "ur": "ہمارا علاج کر کے",
+         "en": "By treating us"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "درزی ہمارے لیے کپڑے سیتا ہے اور اس کام سے اپنی روزی کماتا ہے۔",
+        "en": "A tailor sews clothes for us and earns his living from this work."
+       }
+      },
+      {
+       "q": {
+        "ur": "اگر کوئی سبزی فروش نہ ہو تو کیا مشکل ہوگی؟",
+        "en": "What difficulty would there be if there were no greengrocers?"
+       },
+       "options": [
+        {
+         "ur": "کپڑے نہیں سلیں گے",
+         "en": "Clothes would not get sewn"
+        },
+        {
+         "ur": "علاج نہیں ہوگا",
+         "en": "There would be no treatment"
+        },
+        {
+         "ur": "ہمیں سبزی آسانی سے نہیں ملے گی",
+         "en": "We would not get vegetables easily"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "سبزی فروش ہم تک سبزی پہنچاتا ہے۔ ہر پیشہ ضروری ہے۔",
+        "en": "The greengrocer brings vegetables to us. Every profession is needed."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "تصویر دیکھیں: سفید کوٹ والی خاتون کون ہیں؟ پھر سوچیں کہ آپ کے محلے میں کون کون سے کام کرنے والے لوگ ہیں۔",
+   "en": "Look at the picture: who is the lady in the white coat? Then think about the workers in your own neighbourhood."
+  },
+  {
+   "for": "vision",
+   "ur": "تصویر کی تفصیل سنیں۔ پیشوں کو ان کے اوزار چھو کر پہچانیں: درزی کا فیتہ اور دھاگا، ڈاکٹر کا سٹیتھوسکوپ، سبزی فروش کی سبزی۔",
+   "en": "Listen to the picture description. Recognise professions by touching their tools: a tailor's tape and thread, a doctor's stethoscope, a greengrocer's vegetables."
+  },
+  {
+   "for": "hearing",
+   "ur": "ہر پیشے کے لیے ایک اشارہ طے کریں (سینا، تولنا، نبض دیکھنا) اور نام کے ساتھ اشارہ بھی دکھائیں۔",
+   "en": "Agree on a gesture for each profession (sewing, weighing, checking a pulse) and show the gesture along with the name."
+  },
+  {
+   "for": "teacher",
+   "ur": "“پیشہ” کا لفظ نیا ہے: اسے “وہ کام جس سے روزی کمائی جائے” کہہ کر سمجھائیں۔ تصویر میں وہیل چیئر پر بات کریں کہ معذور افراد بھی ہر پیشہ اپنا سکتے ہیں۔",
+   "en": "The word “profession” is new: explain it as “work done to earn a living”. Use the wheelchair in the picture to talk about how people with disabilities can take up any profession too."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "لوگوں کے کام",
+   "en": "The work people do"
+  },
+  "image": {
+   "crop": [
+    0.155,
+    0.618,
+    0.868,
+    0.893
+   ],
+   "alt": {
+    "ur": "ڈاکٹر صاحبہ ایک بچی کا گلا دیکھ رہی ہیں۔",
+    "en": "A lady doctor is checking a girl's throat."
+   }
+  },
+  "sentences": [
+   {
+    "en": "People do different jobs.",
+    "words": [
+     {
+      "ur": "لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "مختلف",
+      "sym": "different"
+     },
+     {
+      "ur": "کام",
+      "sym": "work"
+     },
+     {
+      "ur": "کرتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "People",
+      "sym": "people"
+     },
+     {
+      "en": "do",
+      "sym": null
+     },
+     {
+      "en": "different",
+      "sym": "different"
+     },
+     {
+      "en": "jobs.",
+      "sym": "work"
+     }
+    ]
+   },
+   {
+    "en": "The doctor treats patients.",
+    "words": [
+     {
+      "ur": "ڈاکٹر",
+      "sym": "doctor"
+     },
+     {
+      "ur": "مریض کا",
+      "sym": "sick"
+     },
+     {
+      "ur": "علاج",
+      "sym": "medicine"
+     },
+     {
+      "ur": "کرتا ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The doctor",
+      "sym": "doctor"
+     },
+     {
+      "en": "treats",
+      "sym": "medicine"
+     },
+     {
+      "en": "patients.",
+      "sym": "sick"
+     }
+    ]
+   },
+   {
+    "en": "The tailor sews clothes.",
+    "words": [
+     {
+      "ur": "درزی",
+      "sym": "tailor"
+     },
+     {
+      "ur": "کپڑے",
+      "sym": "clothes"
+     },
+     {
+      "ur": "سیتا ہے۔",
+      "sym": "to sew"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The tailor",
+      "sym": "tailor"
+     },
+     {
+      "en": "sews",
+      "sym": "to sew"
+     },
+     {
+      "en": "clothes.",
+      "sym": "clothes"
+     }
+    ]
+   },
+   {
+    "en": "The greengrocer sells vegetables.",
+    "words": [
+     {
+      "ur": "سبزی فروش",
+      "sym": "greengrocer"
+     },
+     {
+      "ur": "سبزی",
+      "sym": "vegetables"
+     },
+     {
+      "ur": "بیچتا ہے۔",
+      "sym": "to sell"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The greengrocer",
+      "sym": "greengrocer"
+     },
+     {
+      "en": "sells",
+      "sym": "to sell"
+     },
+     {
+      "en": "vegetables.",
+      "sym": "vegetables"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح تصویر چنیں۔",
+    "en": "Choose the right picture."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "بیمار ہوں تو کون علاج کرتا ہے؟",
+       "en": "Who treats us when we are ill?"
+      },
+      "options": [
+       {
+        "ur": "درزی",
+        "en": "Tailor",
+        "sym": "tailor"
+       },
+       {
+        "ur": "ڈاکٹر",
+        "en": "Doctor",
+        "img": [
+         0.155,
+         0.618,
+         0.868,
+         0.893
+        ]
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "ڈاکٹر مریض کا علاج کرتا ہے۔",
+       "en": "A doctor treats patients."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

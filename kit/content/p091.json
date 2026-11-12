@@ -1,0 +1,93 @@
+{
+  "n": 91,
+  "printed": "87",
+  "chapter": 15,
+  "kind": "exercise",
+  "title": {"ur": "مشق: درگزر کرنے کے فوائد", "en": "Exercise: the benefits of forgiving"},
+  "blocks": [
+    {"t": "activity",
+     "id": "p091-a1",
+     "label": {"ur": "سوال نمبر 4", "en": "Question 4"},
+     "orig": {"ur": "سوال نمبر 4۔ درگزر کرنے کے فوائد لکھیں۔", "en": "Question 4. Write the benefits of forgiving."},
+     "prompt": {"ur": "معاف کرنے سے کیا کیا اچھا ہوتا ہے؟ چار خانوں میں چار فائدے بتائیں۔", "en": "What good things happen when we forgive? Give four benefits in the four boxes."},
+     "levels": {
+       "easy": {"kind": "sort",
+         "groups": [{"ur": "معاف کرنے کا فائدہ", "en": "A benefit of forgiving"}, {"ur": "فائدہ نہیں", "en": "Not a benefit"}],
+         "items": [
+           {"ur": "دوستی ہوتی ہے", "en": "We become friends", "sym": "friends", "group": 0},
+           {"ur": "لڑائی ہوتی ہے", "en": "There is a fight", "sym": "to fight", "group": 1},
+           {"ur": "دل خوش ہوتا ہے", "en": "The heart is happy", "sym": "happy", "group": 0},
+           {"ur": "غصّہ بڑھتا ہے", "en": "Anger grows", "sym": "angry", "group": 1}
+         ]},
+       "moderate": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "سارہ اور ندا کی کہانی یاد کریں: معاف کرنے کے بعد کیا ہوا؟", "en": "Remember the story of Sara and Nida: what happened after forgiving?"},
+           {"ur": "ہر خانے میں ایک فائدہ لکھیں۔", "en": "Write one benefit in each box."},
+           {"ur": "لکھنا مشکل ہو تو بول کر بتائیں یا تصویر بنائیں۔", "en": "If writing is hard, say it aloud or draw a picture."}
+         ],
+         "model": {"ur": "1۔ دوستی ہو جاتی ہے۔ 2۔ دل خوش اور ہلکا ہو جاتا ہے۔ 3۔ لڑائی جھگڑا ختم ہو جاتا ہے۔ 4۔ سب مل جل کر پیار سے رہتے ہیں۔", "en": "1. We become friends. 2. The heart becomes happy and light. 3. Fights and quarrels end. 4. Everyone lives together with love."},
+         "checklist": [
+           {"ur": "میں نے چار فائدے لکھے یا بتائے۔", "en": "I wrote or said four benefits."},
+           {"ur": "ہر خانے میں ایک الگ فائدہ ہے۔", "en": "Each box has a different benefit."}
+         ]},
+       "hard": {"kind": "mcq", "questions": [
+         {"q": {"ur": "سارہ نے ندا کو معاف کیا۔ اس کا سب سے بڑا فائدہ کیا ہوا؟", "en": "Sara forgave Nida. What was the biggest benefit?"},
+          "options": [
+            {"ur": "دونوں اچھے دوست بن گئیں", "en": "They became good friends"},
+            {"ur": "سارہ کو نئی پنسل مل گئی", "en": "Sara got a new pencil"},
+            {"ur": "ٹیسٹ نہیں ہوا", "en": "The test was cancelled"}],
+          "answer": 0,
+          "fb": {"ur": "معاف کرنے سے دشمنی ختم ہوئی اور دوستی شروع ہوئی۔", "en": "Forgiving ended the bad feeling and started a friendship."}},
+         {"q": {"ur": "اگر ہم کسی کو معاف نہ کریں تو ہمارے دل میں کیا رہتا ہے؟", "en": "If we do not forgive someone, what stays in our heart?"},
+          "options": [
+            {"ur": "خوشی", "en": "Happiness"},
+            {"ur": "سکون", "en": "Peace"},
+            {"ur": "غصّہ اور دُکھ", "en": "Anger and hurt"}],
+          "answer": 2,
+          "fb": {"ur": "معاف نہ کرنے سے غصّہ اور دُکھ دل میں رہتا ہے۔ معاف کرنے سے دل ہلکا ہو جاتا ہے۔", "en": "Without forgiving, anger and hurt stay in the heart. Forgiving makes the heart light."}},
+         {"q": {"ur": "جب کلاس کے سب بچے ایک دوسرے کو معاف کرتے ہیں تو کلاس کیسی ہو جاتی ہے؟", "en": "When all the children in a class forgive one another, what does the class become like?"},
+          "options": [
+            {"ur": "سب الگ الگ اور ناراض رہتے ہیں", "en": "Everyone stays apart and upset"},
+            {"ur": "سب مل جل کر خوشی سے پڑھتے اور کھیلتے ہیں", "en": "Everyone studies and plays happily together"},
+            {"ur": "کوئی فرق نہیں پڑتا", "en": "It makes no difference"}],
+          "answer": 1,
+          "fb": {"ur": "درگزر کرنے سے لڑائی ختم ہوتی ہے اور سب مل جل کر رہتے ہیں۔", "en": "Forgiving ends fights and everyone gets along together."}}
+       ]}
+     }},
+    {"t": "teacher", "ur": "بچوں کو سبق آموز اخلاقی کہانیاں یا واقعات سنائیں۔", "en": "Tell the children moral stories or incidents that teach a lesson."}
+  ],
+  "hint": [
+    {"for": "all", "ur": "فائدہ سوچنے کے لیے خود سے پوچھیں: معاف کرنے کے بعد میرا دل کیسا ہوتا ہے؟ میرے دوست کا دل کیسا ہوتا ہے؟ ہماری دوستی کا کیا ہوتا ہے؟", "en": "To think of a benefit, ask yourself: how does my heart feel after forgiving? How does my friend's heart feel? What happens to our friendship?"},
+    {"for": "vision", "ur": "صفحے پر چار خالی خانے ہیں، دو اوپر اور دو نیچے۔ آپ اپنے چار فائدے بول کر ریکارڈ کر سکتے ہیں یا کسی ساتھی کو لکھوا سکتے ہیں۔", "en": "The page has four empty boxes, two above and two below. You can record your four benefits by speaking, or dictate them to a buddy."},
+    {"for": "motor", "ur": "چھوٹے خانوں میں لکھنا مشکل ہو تو بڑے کاغذ پر چار بڑے خانے بنا لیں، یا ہر خانے میں ایک تصویر یا سٹیکر لگا دیں۔", "en": "If writing in small boxes is hard, draw four big boxes on a large sheet, or put one picture or sticker in each box."},
+    {"for": "teacher", "ur": "پہلے پوری کلاس سے زبانی فائدے پوچھیں اور تختے پر تصویروں کے ساتھ لکھیں (دوستی، خوشی، امن، پیار)۔ پھر ہر بچہ اپنی سہولت کے مطابق لکھے، تصویر بنائے یا تختے سے لفظ چُن کر بتائے۔ کہانی سناتے وقت تصویریں اور اشارے ساتھ استعمال کریں۔", "en": "First gather benefits orally from the whole class and write them on the board with pictures (friendship, happiness, peace, love). Then let each child write, draw, or choose words from the board, as suits them. When telling stories, use pictures and gestures alongside."}
+  ],
+  "easy": {
+    "title": {"ur": "معاف کرنے کے فائدے", "en": "Benefits of forgiving"},
+    "image": null,
+    "sentences": [
+      {"en": "Forgiving is a good thing.", "words_en": [{"en": "Forgiving", "sym": "to forgive"}, {"en": "is", "sym": null}, {"en": "a good thing.", "sym": "good"}],
+       "words": [{"ur": "معاف کرنا", "sym": "to forgive"}, {"ur": "اچھی", "sym": "good"}, {"ur": "بات", "sym": null}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "Forgiving makes the heart happy.", "words_en": [{"en": "Forgiving", "sym": "to forgive"}, {"en": "makes", "sym": null}, {"en": "the heart", "sym": "heart"}, {"en": "happy.", "sym": "happy"}],
+       "words": [{"ur": "معاف کرنے", "sym": "to forgive"}, {"ur": "سے", "sym": null}, {"ur": "دل", "sym": "heart"}, {"ur": "خوش", "sym": "happy"}, {"ur": "ہوتا", "sym": null}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "The fight ends.", "words_en": [{"en": "The fight", "sym": "to fight"}, {"en": "ends.", "sym": "to finish"}],
+       "words": [{"ur": "لڑائی", "sym": "to fight"}, {"ur": "ختم", "sym": "to finish"}, {"ur": "ہوتی", "sym": null}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "We become friends.", "words_en": [{"en": "We", "sym": "we"}, {"en": "become", "sym": null}, {"en": "friends.", "sym": "friends"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "دوست", "sym": "friends"}, {"ur": "بن", "sym": null}, {"ur": "جاتے", "sym": null}, {"ur": "ہیں۔", "sym": null}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "صحیح جواب پر انگلی رکھیں۔", "en": "Touch the right answer."},
+      "task": {"kind": "mcq", "questions": [
+        {"q": {"ur": "معاف کرنے سے ہم کیا بن جاتے ہیں؟", "en": "What do we become when we forgive?"},
+         "options": [{"ur": "دوست", "en": "Friends", "sym": "friends"}, {"ur": "ناراض", "en": "Angry", "sym": "angry"}],
+         "answer": 0,
+         "fb": {"ur": "معاف کرنے سے ہم دوست بن جاتے ہیں۔", "en": "When we forgive, we become friends."}},
+        {"q": {"ur": "معاف کرنے سے دل کیسا ہوتا ہے؟", "en": "How does the heart feel after forgiving?"},
+         "options": [{"ur": "اُداس", "en": "Sad", "sym": "sad"}, {"ur": "خوش", "en": "Happy", "sym": "happy"}],
+         "answer": 1,
+         "fb": {"ur": "معاف کرنے سے دل خوش ہوتا ہے۔", "en": "Forgiving makes the heart happy."}}
+      ]}
+    }
+  },
+  "print": true
+}

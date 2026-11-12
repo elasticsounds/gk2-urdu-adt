@@ -1,0 +1,1291 @@
+{
+ "n": 57,
+ "printed": "53",
+ "chapter": 8,
+ "kind": "exercise",
+ "title": {
+  "ur": "مشق: جانور",
+  "en": "Exercise: Animals"
+ },
+ "blocks": [
+  {
+   "ur": "مشق",
+   "en": "Exercise",
+   "t": "h"
+  },
+  {
+   "t": "activity",
+   "id": "p057-a1",
+   "label": {
+    "ur": "سوال نمبر 1",
+    "en": "Question 1"
+   },
+   "orig": {
+    "ur": "سوال نمبر 1۔ مندرجہ ذیل الفاظ کی مدد سے خالی جگہ پُر کریں۔ ہوا، پہاڑوں، پانی، خشکی، کچھار۔ (i) ہاتھی ______ کا جانور ہے۔ (ii) مچھلی ______ میں رہتی ہے۔ (iii) عقاب ______ میں رہتا ہے۔ (iv) کبوتر ______ میں اُڑنے والا پرندہ ہے۔ (v) شیر ______ میں رہتا ہے۔",
+    "en": "Question 1. Fill in the blanks with the help of these words: air, mountains, water, land, den. (i) The elephant is a ______ animal. (ii) The fish lives in ______. (iii) The eagle lives in the ______. (iv) The pigeon is a bird that flies in the ______. (v) The lion lives in a ______."
+   },
+   "prompt": {
+    "ur": "خالی جگہ کے لیے صحیح لفظ چنیں۔",
+    "en": "Choose the right word for the blank."
+   },
+   "levels": {
+    "easy": {
+     "kind": "fill",
+     "questions": [
+      {
+       "q": {
+        "ur": "ہاتھی ___ کا جانور ہے۔",
+        "en": "The elephant is a ___ animal."
+       },
+       "options": [
+        {
+         "ur": "خشکی",
+         "en": "land",
+         "sym": "land"
+        },
+        {
+         "ur": "پانی",
+         "en": "water",
+         "sym": "water"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "ہاتھی خشکی کا جانور ہے۔ وہ زمین پر چلتا ہے۔",
+        "en": "The elephant is a land animal. It walks on the ground."
+       }
+      },
+      {
+       "q": {
+        "ur": "مچھلی ___ میں رہتی ہے۔",
+        "en": "The fish lives in ___."
+       },
+       "options": [
+        {
+         "ur": "ہوا",
+         "en": "air",
+         "sym": "air"
+        },
+        {
+         "ur": "پانی",
+         "en": "water",
+         "sym": "water"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "مچھلی پانی میں رہتی ہے۔",
+        "en": "The fish lives in water."
+       }
+      },
+      {
+       "q": {
+        "ur": "عقاب ___ میں رہتا ہے۔",
+        "en": "The eagle lives in the ___."
+       },
+       "options": [
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains",
+         "sym": "mountain"
+        },
+        {
+         "ur": "پانی",
+         "en": "water",
+         "sym": "water"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "عقاب پہاڑوں میں رہتا ہے۔",
+        "en": "The eagle lives in the mountains."
+       }
+      },
+      {
+       "q": {
+        "ur": "کبوتر ___ میں اُڑنے والا پرندہ ہے۔",
+        "en": "The pigeon is a bird that flies in the ___."
+       },
+       "options": [
+        {
+         "ur": "پانی",
+         "en": "water",
+         "sym": "water"
+        },
+        {
+         "ur": "ہوا",
+         "en": "air",
+         "sym": "air"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "کبوتر ہوا میں اُڑنے والا پرندہ ہے۔",
+        "en": "The pigeon is a bird that flies in the air."
+       }
+      },
+      {
+       "q": {
+        "ur": "شیر ___ میں رہتا ہے۔",
+        "en": "The lion lives in a ___."
+       },
+       "options": [
+        {
+         "ur": "کچھار",
+         "en": "den",
+         "sym": "cave"
+        },
+        {
+         "ur": "ہوا",
+         "en": "air",
+         "sym": "air"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "شیر کچھار میں رہتا ہے۔",
+        "en": "The lion lives in a den."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "fill",
+     "questions": [
+      {
+       "q": {
+        "ur": "ہاتھی ___ کا جانور ہے۔",
+        "en": "The elephant is a ___ animal."
+       },
+       "options": [
+        {
+         "ur": "ہوا",
+         "en": "air"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "پانی",
+         "en": "water"
+        },
+        {
+         "ur": "خشکی",
+         "en": "land"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        }
+       ],
+       "answer": 3,
+       "fb": {
+        "ur": "ہاتھی خشکی کا جانور ہے۔ وہ زمین پر چلتا ہے۔",
+        "en": "The elephant is a land animal. It walks on the ground."
+       }
+      },
+      {
+       "q": {
+        "ur": "مچھلی ___ میں رہتی ہے۔",
+        "en": "The fish lives in ___."
+       },
+       "options": [
+        {
+         "ur": "ہوا",
+         "en": "air"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "پانی",
+         "en": "water"
+        },
+        {
+         "ur": "خشکی",
+         "en": "land"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "مچھلی پانی میں رہتی ہے۔",
+        "en": "The fish lives in water."
+       }
+      },
+      {
+       "q": {
+        "ur": "عقاب ___ میں رہتا ہے۔",
+        "en": "The eagle lives in the ___."
+       },
+       "options": [
+        {
+         "ur": "ہوا",
+         "en": "air"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "پانی",
+         "en": "water"
+        },
+        {
+         "ur": "خشکی",
+         "en": "land"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "عقاب پہاڑوں میں رہتا ہے۔",
+        "en": "The eagle lives in the mountains."
+       }
+      },
+      {
+       "q": {
+        "ur": "کبوتر ___ میں اُڑنے والا پرندہ ہے۔",
+        "en": "The pigeon is a bird that flies in the ___."
+       },
+       "options": [
+        {
+         "ur": "ہوا",
+         "en": "air"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "پانی",
+         "en": "water"
+        },
+        {
+         "ur": "خشکی",
+         "en": "land"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "کبوتر ہوا میں اُڑنے والا پرندہ ہے۔",
+        "en": "The pigeon is a bird that flies in the air."
+       }
+      },
+      {
+       "q": {
+        "ur": "شیر ___ میں رہتا ہے۔",
+        "en": "The lion lives in a ___."
+       },
+       "options": [
+        {
+         "ur": "ہوا",
+         "en": "air"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "پانی",
+         "en": "water"
+        },
+        {
+         "ur": "خشکی",
+         "en": "land"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        }
+       ],
+       "answer": 4,
+       "fb": {
+        "ur": "شیر کچھار میں رہتا ہے۔",
+        "en": "The lion lives in a den."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "fill",
+     "questions": [
+      {
+       "q": {
+        "ur": "ہاتھی ___ کا جانور ہے۔",
+        "en": "The elephant is a ___ animal."
+       },
+       "options": [
+        {
+         "ur": "ہوا",
+         "en": "air"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "پانی",
+         "en": "water"
+        },
+        {
+         "ur": "خشکی",
+         "en": "land"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "desert"
+        },
+        {
+         "ur": "گھونسلے",
+         "en": "nest"
+        },
+        {
+         "ur": "سمندر",
+         "en": "sea"
+        }
+       ],
+       "answer": 3,
+       "fb": {
+        "ur": "ہاتھی خشکی کا جانور ہے۔ وہ زمین پر چلتا ہے۔",
+        "en": "The elephant is a land animal. It walks on the ground."
+       }
+      },
+      {
+       "q": {
+        "ur": "مچھلی ___ میں رہتی ہے۔",
+        "en": "The fish lives in ___."
+       },
+       "options": [
+        {
+         "ur": "ہوا",
+         "en": "air"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "پانی",
+         "en": "water"
+        },
+        {
+         "ur": "خشکی",
+         "en": "land"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "desert"
+        },
+        {
+         "ur": "گھونسلے",
+         "en": "nest"
+        },
+        {
+         "ur": "سمندر",
+         "en": "sea"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "مچھلی پانی میں رہتی ہے۔",
+        "en": "The fish lives in water."
+       }
+      },
+      {
+       "q": {
+        "ur": "عقاب ___ میں رہتا ہے۔",
+        "en": "The eagle lives in the ___."
+       },
+       "options": [
+        {
+         "ur": "ہوا",
+         "en": "air"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "پانی",
+         "en": "water"
+        },
+        {
+         "ur": "خشکی",
+         "en": "land"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "desert"
+        },
+        {
+         "ur": "گھونسلے",
+         "en": "nest"
+        },
+        {
+         "ur": "سمندر",
+         "en": "sea"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "عقاب پہاڑوں میں رہتا ہے۔",
+        "en": "The eagle lives in the mountains."
+       }
+      },
+      {
+       "q": {
+        "ur": "کبوتر ___ میں اُڑنے والا پرندہ ہے۔",
+        "en": "The pigeon is a bird that flies in the ___."
+       },
+       "options": [
+        {
+         "ur": "ہوا",
+         "en": "air"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "پانی",
+         "en": "water"
+        },
+        {
+         "ur": "خشکی",
+         "en": "land"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "desert"
+        },
+        {
+         "ur": "گھونسلے",
+         "en": "nest"
+        },
+        {
+         "ur": "سمندر",
+         "en": "sea"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "کبوتر ہوا میں اُڑنے والا پرندہ ہے۔",
+        "en": "The pigeon is a bird that flies in the air."
+       }
+      },
+      {
+       "q": {
+        "ur": "شیر ___ میں رہتا ہے۔",
+        "en": "The lion lives in a ___."
+       },
+       "options": [
+        {
+         "ur": "ہوا",
+         "en": "air"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "پانی",
+         "en": "water"
+        },
+        {
+         "ur": "خشکی",
+         "en": "land"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "desert"
+        },
+        {
+         "ur": "گھونسلے",
+         "en": "nest"
+        },
+        {
+         "ur": "سمندر",
+         "en": "sea"
+        }
+       ],
+       "answer": 4,
+       "fb": {
+        "ur": "شیر کچھار میں رہتا ہے۔",
+        "en": "The lion lives in a den."
+       }
+      },
+      {
+       "q": {
+        "ur": "اونٹ ___ میں رہتا ہے۔",
+        "en": "The camel lives in the ___."
+       },
+       "options": [
+        {
+         "ur": "ہوا",
+         "en": "air"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "پانی",
+         "en": "water"
+        },
+        {
+         "ur": "خشکی",
+         "en": "land"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "desert"
+        },
+        {
+         "ur": "گھونسلے",
+         "en": "nest"
+        },
+        {
+         "ur": "سمندر",
+         "en": "sea"
+        }
+       ],
+       "answer": 5,
+       "fb": {
+        "ur": "اونٹ ریگستان میں رہتا ہے۔",
+        "en": "The camel lives in the desert."
+       }
+      },
+      {
+       "q": {
+        "ur": "چڑیا ___ میں رہتی ہے۔",
+        "en": "The sparrow lives in a ___."
+       },
+       "options": [
+        {
+         "ur": "ہوا",
+         "en": "air"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "پانی",
+         "en": "water"
+        },
+        {
+         "ur": "خشکی",
+         "en": "land"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "desert"
+        },
+        {
+         "ur": "گھونسلے",
+         "en": "nest"
+        },
+        {
+         "ur": "سمندر",
+         "en": "sea"
+        }
+       ],
+       "answer": 6,
+       "fb": {
+        "ur": "چڑیا گھونسلے میں رہتی ہے۔",
+        "en": "The sparrow lives in a nest."
+       }
+      },
+      {
+       "q": {
+        "ur": "ڈولفن ___ میں رہتی ہے۔",
+        "en": "The dolphin lives in the ___."
+       },
+       "options": [
+        {
+         "ur": "ہوا",
+         "en": "air"
+        },
+        {
+         "ur": "پہاڑوں",
+         "en": "mountains"
+        },
+        {
+         "ur": "پانی",
+         "en": "water"
+        },
+        {
+         "ur": "خشکی",
+         "en": "land"
+        },
+        {
+         "ur": "کچھار",
+         "en": "den"
+        },
+        {
+         "ur": "ریگستان",
+         "en": "desert"
+        },
+        {
+         "ur": "گھونسلے",
+         "en": "nest"
+        },
+        {
+         "ur": "سمندر",
+         "en": "sea"
+        }
+       ],
+       "answer": 7,
+       "fb": {
+        "ur": "ڈولفن سمندر میں رہتی ہے۔",
+        "en": "The dolphin lives in the sea."
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p057-a2",
+   "label": {
+    "ur": "سوال نمبر 2",
+    "en": "Question 2"
+   },
+   "orig": {
+    "ur": "سوال نمبر 2۔ نیچے دیے گئے جانور اور اُن کے بچوں کی تصاویر کو آپس میں ملائیں۔",
+    "en": "Question 2. Match the pictures of the animals below with the pictures of their babies."
+   },
+   "prompt": {
+    "ur": "ہر جانور کو اس کے بچے سے ملائیں۔",
+    "en": "Match each animal to its baby."
+   },
+   "levels": {
+    "easy": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "بطخ",
+        "en": "Duck",
+        "img": [
+         0.567,
+         0.4875,
+         0.78,
+         0.583
+        ]
+       },
+       "b": {
+        "ur": "بطخ کے بچے",
+        "en": "Ducklings",
+        "img": [
+         0.295,
+         0.6857,
+         0.508,
+         0.7812
+        ]
+       }
+      },
+      {
+       "a": {
+        "ur": "ہاتھی",
+        "en": "Elephant",
+        "img": [
+         0.567,
+         0.5866,
+         0.78,
+         0.6821
+        ]
+       },
+       "b": {
+        "ur": "ہاتھی کا بچہ",
+        "en": "Baby elephant",
+        "img": [
+         0.295,
+         0.4875,
+         0.508,
+         0.583
+        ]
+       }
+      },
+      {
+       "a": {
+        "ur": "شیر",
+        "en": "Lion",
+        "img": [
+         0.567,
+         0.6857,
+         0.78,
+         0.7812
+        ]
+       },
+       "b": {
+        "ur": "شیر کا بچہ",
+        "en": "Lion cub",
+        "img": [
+         0.295,
+         0.7848,
+         0.508,
+         0.8803
+        ]
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "بطخ",
+        "en": "Duck",
+        "img": [
+         0.567,
+         0.4875,
+         0.78,
+         0.583
+        ]
+       },
+       "b": {
+        "ur": "بطخ کے بچے",
+        "en": "Ducklings",
+        "img": [
+         0.295,
+         0.6857,
+         0.508,
+         0.7812
+        ]
+       }
+      },
+      {
+       "a": {
+        "ur": "ہاتھی",
+        "en": "Elephant",
+        "img": [
+         0.567,
+         0.5866,
+         0.78,
+         0.6821
+        ]
+       },
+       "b": {
+        "ur": "ہاتھی کا بچہ",
+        "en": "Baby elephant",
+        "img": [
+         0.295,
+         0.4875,
+         0.508,
+         0.583
+        ]
+       }
+      },
+      {
+       "a": {
+        "ur": "شیر",
+        "en": "Lion",
+        "img": [
+         0.567,
+         0.6857,
+         0.78,
+         0.7812
+        ]
+       },
+       "b": {
+        "ur": "شیر کا بچہ",
+        "en": "Lion cub",
+        "img": [
+         0.295,
+         0.7848,
+         0.508,
+         0.8803
+        ]
+       }
+      },
+      {
+       "a": {
+        "ur": "تتلی",
+        "en": "Butterfly",
+        "img": [
+         0.567,
+         0.7848,
+         0.78,
+         0.8803
+        ]
+       },
+       "b": {
+        "ur": "تتلی کا بچہ",
+        "en": "Butterfly's baby",
+        "img": [
+         0.295,
+         0.5866,
+         0.508,
+         0.6821
+        ]
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "ان میں سے کس جانور کا بچہ شکل میں اس سے مختلف ہوتا ہے؟",
+        "en": "Which of these animals has a baby that looks different from it?"
+       },
+       "img": [
+        0.295,
+        0.5866,
+        0.508,
+        0.6821
+       ],
+       "options": [
+        {
+         "ur": "ہاتھی",
+         "en": "Elephant"
+        },
+        {
+         "ur": "شیر",
+         "en": "Lion"
+        },
+        {
+         "ur": "تتلی",
+         "en": "Butterfly"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "تتلی کا بچہ سنڈی جیسا ہوتا ہے، اس کے پر نہیں ہوتے۔ ہاتھی اور شیر کے بچے اپنے ماں باپ جیسے ہوتے ہیں۔",
+        "en": "A butterfly's baby is like a caterpillar. It has no wings. The babies of the elephant and the lion look like their parents."
+       }
+      },
+      {
+       "q": {
+        "ur": "بلی کے بچے کو کیا کہتے ہیں؟",
+        "en": "What is a cat's baby called?"
+       },
+       "options": [
+        {
+         "ur": "بلونگڑا",
+         "en": "Kitten"
+        },
+        {
+         "ur": "چوزہ",
+         "en": "Chick"
+        },
+        {
+         "ur": "بچھیرا",
+         "en": "Foal"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "بلی کے بچے کو بلونگڑا کہتے ہیں۔",
+        "en": "A cat's baby is called a kitten."
+       }
+      },
+      {
+       "q": {
+        "ur": "بچھیرا کس جانور کا بچہ ہے؟",
+        "en": "Which animal's baby is a foal?"
+       },
+       "options": [
+        {
+         "ur": "مرغی",
+         "en": "Hen"
+        },
+        {
+         "ur": "گھوڑا",
+         "en": "Horse"
+        },
+        {
+         "ur": "مینڈک",
+         "en": "Frog"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "بچھیرا گھوڑے کا بچہ ہے۔",
+        "en": "A foal is the baby of a horse."
+       }
+      },
+      {
+       "q": {
+        "ur": "مینڈک کا بچہ مینڈک سے کیسے مختلف ہے؟",
+        "en": "How is a frog's baby different from a frog?"
+       },
+       "options": [
+        {
+         "ur": "اس کے پر ہوتے ہیں",
+         "en": "It has wings"
+        },
+        {
+         "ur": "اس کی لمبی دُم ہوتی ہے اور ٹانگیں نہیں ہوتیں",
+         "en": "It has a long tail and no legs"
+        },
+        {
+         "ur": "وہ مینڈک سے بڑا ہوتا ہے",
+         "en": "It is bigger than the frog"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "مینڈک کے بچے کی لمبی دُم ہوتی ہے اور ٹانگیں نہیں ہوتیں۔ بڑا ہو کر وہ مینڈک بن جاتا ہے۔",
+        "en": "A frog's baby has a long tail and no legs. When it grows up, it becomes a frog."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "سوال 1 میں پہلے ڈبوں کے پانچ لفظ پڑھیں۔ جو لفظ استعمال ہو جائے اسے کاٹ دیں۔ جواب صفحہ 49 سے 52 پر مل جائیں گے۔",
+   "en": "In Question 1, first read the five words in the boxes. Cross out each word when you have used it. You will find the answers on pages 49 to 52."
+  },
+  {
+   "for": "vision",
+   "ur": "سوال 2 میں دائیں طرف اوپر سے نیچے: بطخ، ہاتھی، شیر، تتلی۔ بائیں طرف: ہاتھی کا بچہ، سنڈی، بطخ کے دو بچے، شیر کا بچہ۔ آپ زبانی جوڑے بتا سکتے ہیں۔",
+   "en": "In Question 2 on the printed page, on the right from top to bottom are: duck, elephant, lion, butterfly. On the left are: baby elephant, caterpillar, two ducklings, lion cub. You can say the pairs aloud."
+  },
+  {
+   "for": "motor",
+   "ur": "لکیر کھینچنا مشکل ہو تو دونوں تصویروں پر ایک جیسا نمبر یا رنگ لگا دیں، یا انگلی سے دکھائیں اور ساتھی لکیر کھینچے۔",
+   "en": "If drawing a line is hard, put the same number or colour on both pictures, or point with your finger and let a partner draw the line."
+  },
+  {
+   "for": "teacher",
+   "ur": "خالی جگہ والے جملے پڑھ کر سنائیں اور لفظوں کے کارڈ دیں تاکہ بچے لکھنے کے بجائے کارڈ رکھ کر جواب دے سکیں۔ زیادہ وقت دیں۔",
+   "en": "Read the sentences with blanks aloud and give out word cards, so that children can answer by placing a card instead of writing. Give extra time."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "جانور: دہرائی",
+   "en": "Animals: revision"
+  },
+  "image": {
+   "crop": [
+    0.567,
+    0.4875,
+    0.78,
+    0.583
+   ],
+   "alt": {
+    "ur": "ایک بطخ جس کا سر سبز ہے۔",
+    "en": "A duck with a green head."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Some animals live on land.",
+    "words": [
+     {
+      "ur": "کچھ",
+      "sym": "some"
+     },
+     {
+      "ur": "جانور",
+      "sym": "animal"
+     },
+     {
+      "ur": "خشکی",
+      "sym": "land"
+     },
+     {
+      "ur": "پر",
+      "sym": null
+     },
+     {
+      "ur": "رہتے",
+      "sym": "to live"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Some",
+      "sym": "some"
+     },
+     {
+      "en": "animals",
+      "sym": "animal"
+     },
+     {
+      "en": "live",
+      "sym": "to live"
+     },
+     {
+      "en": "on",
+      "sym": null
+     },
+     {
+      "en": "land.",
+      "sym": "land"
+     }
+    ]
+   },
+   {
+    "en": "Some animals live in water.",
+    "words": [
+     {
+      "ur": "کچھ",
+      "sym": "some"
+     },
+     {
+      "ur": "جانور",
+      "sym": "animal"
+     },
+     {
+      "ur": "پانی",
+      "sym": "water"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "رہتے",
+      "sym": "to live"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Some",
+      "sym": "some"
+     },
+     {
+      "en": "animals",
+      "sym": "animal"
+     },
+     {
+      "en": "live",
+      "sym": "to live"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "water.",
+      "sym": "water"
+     }
+    ]
+   },
+   {
+    "en": "Animals have babies.",
+    "words": [
+     {
+      "ur": "جانوروں",
+      "sym": "animal"
+     },
+     {
+      "ur": "کے",
+      "sym": null
+     },
+     {
+      "ur": "بچے",
+      "sym": "baby"
+     },
+     {
+      "ur": "ہوتے",
+      "sym": null
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Animals",
+      "sym": "animal"
+     },
+     {
+      "en": "have",
+      "sym": null
+     },
+     {
+      "en": "babies.",
+      "sym": "baby"
+     }
+    ]
+   },
+   {
+    "en": "Every animal has a home.",
+    "words": [
+     {
+      "ur": "ہر",
+      "sym": "all"
+     },
+     {
+      "ur": "جانور",
+      "sym": "animal"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "گھر",
+      "sym": "house"
+     },
+     {
+      "ur": "ہوتا",
+      "sym": null
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Every",
+      "sym": "all"
+     },
+     {
+      "en": "animal",
+      "sym": "animal"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "a home.",
+      "sym": "house"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "ماں اور بچے کو ملائیں۔",
+    "en": "Match the mother and the baby."
+   },
+   "task": {
+    "kind": "match",
+    "pairs": [
+     {
+      "a": {
+       "ur": "بطخ",
+       "en": "Duck",
+       "img": [
+        0.567,
+        0.4875,
+        0.78,
+        0.583
+       ]
+      },
+      "b": {
+       "ur": "بطخ کے بچے",
+       "en": "Ducklings",
+       "img": [
+        0.295,
+        0.6857,
+        0.508,
+        0.7812
+       ]
+      }
+     },
+     {
+      "a": {
+       "ur": "ہاتھی",
+       "en": "Elephant",
+       "img": [
+        0.567,
+        0.5866,
+        0.78,
+        0.6821
+       ]
+      },
+      "b": {
+       "ur": "ہاتھی کا بچہ",
+       "en": "Baby elephant",
+       "img": [
+        0.295,
+        0.4875,
+        0.508,
+        0.583
+       ]
+      }
+     },
+     {
+      "a": {
+       "ur": "شیر",
+       "en": "Lion",
+       "img": [
+        0.567,
+        0.6857,
+        0.78,
+        0.7812
+       ]
+      },
+      "b": {
+       "ur": "شیر کا بچہ",
+       "en": "Lion cub",
+       "img": [
+        0.295,
+        0.7848,
+        0.508,
+        0.8803
+       ]
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

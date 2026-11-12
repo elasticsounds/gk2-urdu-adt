@@ -1,0 +1,716 @@
+{
+ "n": 68,
+ "printed": "64",
+ "chapter": 10,
+ "kind": "content",
+ "title": {
+  "ur": "جنگلات کی اہمیت",
+  "en": "The importance of forests"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "جنگلات کی اہمیت",
+   "en": "The importance of forests"
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.209,
+    0.154,
+    0.843,
+    0.367
+   ],
+   "alt": {
+    "ur": "جنگل میں لوگ درخت کاٹ رہے ہیں اور کٹے ہوئے تنے زمین پر پڑے ہیں۔ ایک آدمی آری لیے جا رہا ہے۔ بیچ میں زمین (گلوب) بیمار اور اداس کھڑی ہے، منہ میں تھرمامیٹر ہے اور ہاتھ میں ”SOS“ یعنی ”مدد کرو“ کا بورڈ ہے۔",
+    "en": "People are cutting down trees in a forest, and the cut logs lie on the ground. A man is walking along with a saw. In the middle the Earth, drawn as a globe, stands sick and sad with a thermometer in its mouth, holding a sign that says \"SOS\", which means \"help\"."
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p068-a1",
+   "label": {
+    "ur": "سوچیں اور بتائیں",
+    "en": "Think and tell"
+   },
+   "orig": {
+    "ur": "بچو! تصویر میں لوگ کیا کر رہے ہیں؟ کیا وہ ٹھیک کر رہے ہیں؟ اگر نہیں تو کیوں؟",
+    "en": "Children! What are the people in the picture doing? Are they doing the right thing? If not, why?"
+   },
+   "prompt": {
+    "ur": "تصویر غور سے دیکھیں (یا اس کی تفصیل سنیں) اور جواب دیں۔",
+    "en": "Look carefully at the picture (or listen to its description) and answer."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "تصویر میں لوگ کیا کر رہے ہیں؟",
+        "en": "What are the people in the picture doing?"
+       },
+       "options": [
+        {
+         "ur": "درخت کاٹ رہے ہیں",
+         "en": "Cutting down trees",
+         "sym": "to cut"
+        },
+        {
+         "ur": "درخت لگا رہے ہیں",
+         "en": "Planting trees",
+         "sym": "to plant"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "لوگ جنگل کے درخت کاٹ رہے ہیں۔",
+        "en": "The people are cutting down the forest trees."
+       },
+       "img": [
+        0.209,
+        0.154,
+        0.843,
+        0.367
+       ]
+      },
+      {
+       "q": {
+        "ur": "زمین کیسی لگ رہی ہے؟",
+        "en": "How does the Earth look?"
+       },
+       "options": [
+        {
+         "ur": "خوش",
+         "en": "Happy",
+         "sym": "happy"
+        },
+        {
+         "ur": "اداس اور بیمار",
+         "en": "Sad and sick",
+         "sym": "sad"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "زمین اداس اور بیمار ہے کیوں کہ اس کے درخت کاٹے جا رہے ہیں۔",
+        "en": "The Earth is sad and sick because its trees are being cut down."
+       },
+       "img": [
+        0.209,
+        0.154,
+        0.843,
+        0.367
+       ]
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "بتائیں: تصویر میں لوگ کیا کر رہے ہیں؟",
+       "en": "Say: what are the people in the picture doing?"
+      },
+      {
+       "ur": "بتائیں: کیا وہ ٹھیک کر رہے ہیں؟",
+       "en": "Say: are they doing the right thing?"
+      },
+      {
+       "ur": "بتائیں: اگر نہیں تو کیوں؟",
+       "en": "Say: if not, why?"
+      }
+     ],
+     "model": {
+      "ur": "تصویر میں لوگ جنگل کے درخت کاٹ رہے ہیں۔ وہ ٹھیک نہیں کر رہے، کیوں کہ جنگلات جانوروں اور پرندوں کا مسکن ہیں، موسم کو خوش گوار رکھتے ہیں اور ہمیں سیلاب سے بچاتے ہیں۔ اسی لیے زمین مدد مانگ رہی ہے۔",
+      "en": "In the picture people are cutting down forest trees. They are not doing the right thing, because forests are the home of animals and birds, keep the weather pleasant and protect us from floods. That is why the Earth is asking for help."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے بتایا کہ لوگ کیا کر رہے ہیں۔",
+       "en": "I said what the people are doing."
+      },
+      {
+       "ur": "میں نے بتایا کہ یہ ٹھیک ہے یا نہیں۔",
+       "en": "I said whether it is right or not."
+      },
+      {
+       "ur": "میں نے ایک وجہ بتائی۔",
+       "en": "I gave one reason."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "دو جملوں میں لکھیں کہ درخت کاٹنا کیوں ٹھیک نہیں۔",
+       "en": "Write in two sentences why cutting down trees is not right."
+      },
+      {
+       "ur": "سوچیں: زمین نے ”SOS“ (مدد کرو) کا بورڈ کیوں اٹھایا ہے؟",
+       "en": "Think: why is the Earth holding an \"SOS\" (help) sign?"
+      },
+      {
+       "ur": "لکھیں: آپ آری والے آدمی سے کیا کہیں گے؟",
+       "en": "Write: what would you say to the man with the saw?"
+      }
+     ],
+     "model": {
+      "ur": "درخت کاٹنے سے جانوروں اور پرندوں کے گھر ختم ہو جاتے ہیں اور سیلاب کا خطرہ بڑھ جاتا ہے۔ زمین مدد مانگ رہی ہے کیوں کہ جنگل کم ہو رہے ہیں۔ میں اس آدمی سے کہوں گا: ”انکل! بلاوجہ درخت نہ کاٹیں، اور جو کاٹیں اس کی جگہ نیا درخت لگائیں۔“",
+      "en": "Cutting down trees destroys the homes of animals and birds and raises the danger of floods. The Earth is asking for help because forests are shrinking. I would say to the man: \"Uncle! Please do not cut down trees without a reason, and plant a new tree in place of each one you cut.\""
+     }
+    }
+   }
+  },
+  {
+   "t": "p",
+   "ur": "جنگلات جانوروں اور پرندوں کا مسکن ہیں۔ جنگلات سے ہم لکڑی حاصل کرتے ہیں، جس سے فرنیچر اور کھیلوں کا سامان بنتا ہے۔",
+   "en": "Forests are the home of animals and birds. We get wood from forests, and furniture and sports goods are made from this wood."
+  },
+  {
+   "t": "p",
+   "ur": "لکڑی جلانے کے طور پر بھی استعمال کی جاتی ہے۔ لکڑی سے ماچس اور کاغذ بنایا جاتا ہے۔ جنگلات موسم کو خوش گوار رکھنے میں بھی اہم کردار ادا کرتے ہیں۔",
+   "en": "Wood is also used as firewood. Matches and paper are made from wood. Forests also play an important part in keeping the weather pleasant."
+  },
+  {
+   "t": "p",
+   "ur": "جنگلات زمین کے کٹاؤ کو روکتے ہیں اور سیلاب سے بچاتے ہیں۔ ہمیں چاہیے کہ ہم درختوں کی حفاظت کریں اور انھیں ضائع ہونے سے بچائیں۔",
+   "en": "Forests stop the soil from being washed away and protect us from floods. We should protect trees and not let them go to waste."
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.209,
+    0.612,
+    0.836,
+    0.834
+   ],
+   "alt": {
+    "ur": "تین بچے مل کر پودے لگا رہے ہیں: ایک لڑکا فوارے سے ننھے درختوں کو پانی دے رہا ہے اور دو لڑکیاں کھرپی سے مٹی میں نیا پودا لگا رہی ہیں۔",
+    "en": "Three children are planting together: a boy is watering young trees with a watering can, and two girls are planting a new sapling in the soil with trowels."
+   },
+   "cap": {
+    "ur": "درختوں کی کمی کو پورا کرنے کے لیے زیادہ سے زیادہ درخت لگائیں۔",
+    "en": "Plant as many trees as possible to make up for the shortage of trees."
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p068-a2",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "جنگلات جانوروں اور پرندوں کا مسکن ہیں۔ جنگلات سے ہم لکڑی حاصل کرتے ہیں، جس سے فرنیچر اور کھیلوں کا سامان بنتا ہے۔",
+    "en": "Forests are the home of animals and birds. We get wood from forests, and furniture and sports goods are made from this wood."
+   },
+   "prompt": {
+    "ur": "جنگلات ہمیں کیا کیا دیتے ہیں؟ آئیں دیکھتے ہیں۔",
+    "en": "What do forests give us? Let's find out."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "جنگل کس کا گھر ہے؟",
+        "en": "Whose home is the forest?"
+       },
+       "options": [
+        {
+         "ur": "جانوروں اور پرندوں کا",
+         "en": "Animals and birds",
+         "sym": "bird"
+        },
+        {
+         "ur": "گاڑیوں کا",
+         "en": "Cars",
+         "sym": "car"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "جنگلات جانوروں اور پرندوں کا مسکن یعنی گھر ہیں۔",
+        "en": "Forests are the home of animals and birds."
+       }
+      },
+      {
+       "q": {
+        "ur": "لکڑی ہمیں کہاں سے ملتی ہے؟",
+        "en": "Where do we get wood from?"
+       },
+       "options": [
+        {
+         "ur": "پتھر سے",
+         "en": "From stone",
+         "sym": "stone"
+        },
+        {
+         "ur": "درخت سے",
+         "en": "From trees",
+         "sym": "tree"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "لکڑی درختوں سے ملتی ہے۔",
+        "en": "Wood comes from trees."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "fill",
+     "questions": [
+      {
+       "q": {
+        "ur": "جنگلات جانوروں اور پرندوں کا ___ ہیں۔",
+        "en": "Forests are the ___ of animals and birds."
+       },
+       "options": [
+        {
+         "ur": "مسکن",
+         "en": "home"
+        },
+        {
+         "ur": "سکول",
+         "en": "school"
+        },
+        {
+         "ur": "بازار",
+         "en": "market"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "مسکن کا مطلب ہے رہنے کی جگہ، یعنی گھر۔",
+        "en": "A home is a place to live. Animals and birds live in forests."
+       }
+      },
+      {
+       "q": {
+        "ur": "لکڑی سے ماچس اور ___ بنایا جاتا ہے۔",
+        "en": "Matches and ___ are made from wood."
+       },
+       "options": [
+        {
+         "ur": "شیشہ",
+         "en": "glass"
+        },
+        {
+         "ur": "کاغذ",
+         "en": "paper"
+        },
+        {
+         "ur": "لوہا",
+         "en": "iron"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "ہماری کاپیوں اور کتابوں کا کاغذ لکڑی سے بنتا ہے۔",
+        "en": "The paper of our notebooks and books is made from wood."
+       }
+      },
+      {
+       "q": {
+        "ur": "جنگلات زمین کے کٹاؤ کو روکتے ہیں اور ___ سے بچاتے ہیں۔",
+        "en": "Forests stop the soil from being washed away and protect us from ___."
+       },
+       "options": [
+        {
+         "ur": "دھوپ",
+         "en": "sunshine"
+        },
+        {
+         "ur": "ہوا",
+         "en": "wind"
+        },
+        {
+         "ur": "سیلاب",
+         "en": "floods"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "درختوں کی جڑیں مٹی کو پکڑے رکھتی ہیں، اس لیے جنگلات سیلاب سے بچاتے ہیں۔",
+        "en": "Tree roots hold the soil, so forests protect us from floods."
+       }
+      },
+      {
+       "q": {
+        "ur": "جنگلات ___ کو خوش گوار رکھنے میں بھی اہم کردار ادا کرتے ہیں۔",
+        "en": "Forests also play an important part in keeping the ___ pleasant."
+       },
+       "options": [
+        {
+         "ur": "سڑک",
+         "en": "road"
+        },
+        {
+         "ur": "موسم",
+         "en": "weather"
+        },
+        {
+         "ur": "کھیل",
+         "en": "game"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "جہاں زیادہ درخت ہوں وہاں موسم خوش گوار رہتا ہے۔",
+        "en": "Where there are more trees, the weather stays pleasant."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "لکڑی سے بنتا ہے",
+       "en": "Made from wood",
+       "sym": "wood"
+      },
+      {
+       "ur": "لکڑی سے نہیں بنتا",
+       "en": "Not made from wood",
+       "sym": "no"
+      }
+     ],
+     "items": [
+      {
+       "ur": "کرسی اور میز",
+       "en": "Chair and table",
+       "group": 0
+      },
+      {
+       "ur": "شیشے کا گلاس",
+       "en": "Glass tumbler",
+       "group": 1
+      },
+      {
+       "ur": "کاغذ",
+       "en": "Paper",
+       "group": 0
+      },
+      {
+       "ur": "ماچس کی تیلی",
+       "en": "Matchstick",
+       "group": 0
+      },
+      {
+       "ur": "لوہے کی چابی",
+       "en": "Iron key",
+       "group": 1
+      },
+      {
+       "ur": "کرکٹ کا بلّا",
+       "en": "Cricket bat",
+       "group": 0
+      },
+      {
+       "ur": "پلاسٹک کی بوتل",
+       "en": "Plastic bottle",
+       "group": 1
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "اپنے اردگرد دیکھیں: میز، کرسی، دروازہ، پنسل، کاپی — یہ سب درختوں کی لکڑی سے بنے ہیں۔ گن کر دیکھیں کہ کتنی چیزیں ملیں!",
+   "en": "Look around you: the table, chair, door, pencil and notebook are all made from the wood of trees. Count how many things you can find!"
+  },
+  {
+   "for": "vision",
+   "ur": "پہلی تصویر کی تفصیل ضرور سنیں: زمین کو بیمار بچے کی طرح دکھایا گیا ہے جو مدد مانگ رہا ہے۔ لکڑی کی کسی چیز اور کاغذ کو چھو کر محسوس کریں کہ دونوں درخت سے آئے ہیں۔",
+   "en": "Be sure to listen to the description of the first picture: the Earth is shown like a sick child asking for help. Touch a wooden object and paper to feel that both came from trees."
+  },
+  {
+   "for": "cognitive",
+   "ur": "دو تصویریں، دو باتیں: اوپر — درخت کاٹنا، زمین اداس۔ نیچے — درخت لگانا، بچے خوش۔",
+   "en": "Two pictures, two ideas. At the top, trees are being cut down and the Earth is sad. At the bottom, trees are being planted and the children are happy."
+  },
+  {
+   "for": "teacher",
+   "ur": "”SOS“ کا مطلب سادہ لفظوں میں ”مدد کرو“ بتائیں۔ سوال کا جواب بول کر، اشارے سے یا خوش/اداس چہرے کا کارڈ اٹھا کر دینے دیں۔ ممکن ہو تو سکول میں ایک پودا لگائیں اور ہر بچے کو باری باری پانی دینے کی ذمہ داری دیں۔",
+   "en": "Explain \"SOS\" in simple words as \"help us\". Let children answer by speaking, signing or holding up a happy or sad face card. If possible, plant a sapling at school and give every child a turn to water it."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "جنگل بہت ضروری ہیں",
+   "en": "Forests are very important"
+  },
+  "image": {
+   "crop": [
+    0.209,
+    0.612,
+    0.836,
+    0.834
+   ],
+   "alt": {
+    "ur": "بچے پودے لگا رہے ہیں اور پانی دے رہے ہیں۔",
+    "en": "Children are planting saplings and watering them."
+   }
+  },
+  "sentences": [
+   {
+    "en": "A forest has many trees.",
+    "words": [
+     {
+      "ur": "جنگل",
+      "sym": "forest"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "بہت",
+      "sym": "many"
+     },
+     {
+      "ur": "درخت",
+      "sym": "tree"
+     },
+     {
+      "ur": "ہوتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "A",
+      "sym": null
+     },
+     {
+      "en": "forest",
+      "sym": "forest"
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "many",
+      "sym": "many"
+     },
+     {
+      "en": "trees.",
+      "sym": "tree"
+     }
+    ]
+   },
+   {
+    "en": "Animals and birds live in the forest.",
+    "words": [
+     {
+      "ur": "جانور",
+      "sym": "animal"
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "پرندے",
+      "sym": "bird"
+     },
+     {
+      "ur": "جنگل",
+      "sym": "forest"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "رہتے ہیں۔",
+      "sym": "to live"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Animals",
+      "sym": "animal"
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "birds",
+      "sym": "bird"
+     },
+     {
+      "en": "live",
+      "sym": "to live"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "forest.",
+      "sym": "forest"
+     }
+    ]
+   },
+   {
+    "en": "Trees give us wood.",
+    "words": [
+     {
+      "ur": "درخت",
+      "sym": "tree"
+     },
+     {
+      "ur": "ہمیں",
+      "sym": "we"
+     },
+     {
+      "ur": "لکڑی",
+      "sym": "wood"
+     },
+     {
+      "ur": "دیتے ہیں۔",
+      "sym": "to give"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Trees",
+      "sym": "tree"
+     },
+     {
+      "en": "give",
+      "sym": "to give"
+     },
+     {
+      "en": "us",
+      "sym": "we"
+     },
+     {
+      "en": "wood.",
+      "sym": "wood"
+     }
+    ]
+   },
+   {
+    "en": "Do not cut down trees.",
+    "words": [
+     {
+      "ur": "درخت",
+      "sym": "tree"
+     },
+     {
+      "ur": "نہ",
+      "sym": "no"
+     },
+     {
+      "ur": "کاٹیں۔",
+      "sym": "to cut"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Do not",
+      "sym": "no"
+     },
+     {
+      "en": "cut down",
+      "sym": "to cut"
+     },
+     {
+      "en": "trees.",
+      "sym": "tree"
+     }
+    ]
+   },
+   {
+    "en": "Plant new trees.",
+    "words": [
+     {
+      "ur": "نئے",
+      "sym": "new"
+     },
+     {
+      "ur": "درخت",
+      "sym": "tree"
+     },
+     {
+      "ur": "لگائیں۔",
+      "sym": "to plant"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Plant",
+      "sym": "to plant"
+     },
+     {
+      "en": "new",
+      "sym": "new"
+     },
+     {
+      "en": "trees.",
+      "sym": "tree"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "اچھا کام چنیں۔",
+    "en": "Choose the good action."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "اچھا کام کون سا ہے؟",
+       "en": "Which is the good action?"
+      },
+      "options": [
+       {
+        "ur": "درخت لگانا",
+        "en": "Planting a tree",
+        "img": [
+         0.209,
+         0.612,
+         0.836,
+         0.834
+        ]
+       },
+       {
+        "ur": "درخت کاٹنا",
+        "en": "Cutting down a tree",
+        "sym": "to cut"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "درخت لگانا اچھا کام ہے۔ درخت ہمارے دوست ہیں۔",
+       "en": "Planting trees is a good action. Trees are our friends."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

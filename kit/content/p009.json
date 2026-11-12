@@ -1,0 +1,444 @@
+{
+ "n": 9,
+ "printed": "5",
+ "chapter": 1,
+ "kind": "content",
+ "title": {
+  "ur": "صوبہ پنجاب",
+  "en": "Punjab province"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "صوبہ پنجاب",
+   "en": "Punjab province"
+  },
+  {
+   "t": "p",
+   "ur": "آبادی کے لحاظ سے پنجاب سب سے بڑا صوبہ ہے۔ یہاں کے لوگ زیادہ تر پنجابی زبان بولتے ہیں۔ اس کے علاوہ سرائیکی اور پوٹھوہاری بھی بولی جاتی ہے۔",
+   "en": "Punjab is the biggest province by population. Most people here speak the Punjabi language. Saraiki and Pothohari are also spoken."
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.173,
+    0.123,
+    0.467,
+    0.282
+   ],
+   "alt": {
+    "ur": "لاہور کی بادشاہی مسجد: لال اینٹوں کی بڑی عمارت جس پر تین سفید گنبد اور کونوں پر اونچے مینار ہیں، سامنے کھلا صحن ہے۔",
+    "en": "The Badshahi Mosque in Lahore: a large red-brick building with three white domes and tall minarets at the corners, with a wide courtyard in front."
+   },
+   "cap": {
+    "ur": "بادشاہی مسجد، لاہور",
+    "en": "Badshahi Mosque, Lahore"
+   }
+  },
+  {
+   "t": "p",
+   "ur": "مردوں کا روایتی لباس شلوار قمیص، پگڑی، کُرتا اور تہمد ہے جب کہ عورتیں شلوار قمیص پہنتی ہیں۔",
+   "en": "The traditional dress of men is shalwar qameez, a turban, a kurta and a tehmad, while women wear shalwar qameez."
+  },
+  {
+   "t": "p",
+   "ur": "لاہور صوبہ پنجاب کا دارالحکومت ہے۔ یہاں کے لوگ کھانے میں سرسوں کا ساگ، مکھن اور پینے میں لسّی پسند کرتے ہیں۔",
+   "en": "Lahore is the capital of Punjab. The people here like to eat mustard saag and butter, and to drink lassi."
+  },
+  {
+   "t": "fact",
+   "ur": "پنجاب کا مشہور کھیل کبڈی دنیا میں مشہور ہے۔",
+   "en": "Kabaddi, the famous game of Punjab, is famous all over the world."
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.13,
+    0.51,
+    0.848,
+    0.8
+   ],
+   "alt": {
+    "ur": "کبڈی کا مقابلہ: مٹی کے میدان میں پانچ کھلاڑی نیکر پہنے ایک دوسرے کو پکڑنے کی کوشش کر رہے ہیں اور پیچھے درختوں کے سامنے بہت سے لوگ دیکھ رہے ہیں۔",
+    "en": "A kabaddi match: on a dusty field, five players in shorts are trying to catch one another, and many people are watching in front of the trees behind them."
+   }
+  },
+  {
+   "t": "h",
+   "ur": "صوبہ خیبر پختون خوا",
+   "en": "Khyber Pakhtunkhwa province"
+  },
+  {
+   "t": "p",
+   "ur": "صوبہ خیبر پختون خوا کا دارالحکومت پشاور ہے۔ یہ خوب صورت پہاڑوں اور وادیوں پر مشتمل ہے۔",
+   "en": "The capital of Khyber Pakhtunkhwa is Peshawar. This province is made up of beautiful mountains and valleys."
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "پنجاب کی تین باتیں یاد رکھیں: زبان پنجابی — لباس شلوار قمیص اور پگڑی — کھانا ساگ، مکھن اور لسّی۔ کیا آپ نے کبھی لسّی پی ہے یا کبڈی دیکھی ہے؟",
+   "en": "Remember three things about Punjab: the language is Punjabi, the dress is shalwar qameez and a turban, and the food is saag, butter and lassi. Have you ever drunk lassi or watched kabaddi?"
+  },
+  {
+   "for": "hearing",
+   "ur": "نئے الفاظ (پگڑی، تہمد، لسّی، کبڈی) کو تصویر یا اشارے کے ساتھ سیکھیں: سر پر کپڑا لپیٹنے کا اشارہ = پگڑی، گلاس سے پینے کا اشارہ = لسّی۔",
+   "en": "Learn the new words (turban, tehmad, lassi, kabaddi) with a picture or a gesture: wrapping a cloth round your head means turban, and drinking from a glass means lassi."
+  },
+  {
+   "for": "vision",
+   "ur": "تصویروں کی وضاحت سنیں۔ بادشاہی مسجد کے تین گنبد ہیں؛ تین اُلٹے پیالے ایک قطار میں رکھ کر اس کی شکل محسوس کریں۔",
+   "en": "Listen to the picture descriptions. The Badshahi Mosque has three domes; put three upside-down bowls in a row to feel its shape."
+  },
+  {
+   "for": "teacher",
+   "ur": "’’آبادی‘‘ کا مطلب سمجھانے کے لیے بچوں کو دو گروہوں میں کھڑا کریں: جس گروہ میں زیادہ بچے ہیں اس کی آبادی زیادہ ہے۔ وہیل چیئر والے بچے بھی گنتی میں شامل ہوں۔",
+   "en": "To explain the word 'population', have the children stand in two groups: the group with more children has the bigger population. Make sure children who use wheelchairs are counted too."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "صوبہ پنجاب",
+   "en": "Punjab province"
+  },
+  "image": {
+   "crop": [
+    0.13,
+    0.51,
+    0.848,
+    0.8
+   ],
+   "alt": {
+    "ur": "کھلاڑی میدان میں کبڈی کھیل رہے ہیں۔",
+    "en": "Players are playing kabaddi on a field."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Many people live in Punjab.",
+    "words": [
+     {
+      "ur": "پنجاب",
+      "sym": "map"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "بہت",
+      "sym": "many"
+     },
+     {
+      "ur": "لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "رہتے ہیں۔",
+      "sym": "to live"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Many",
+      "sym": "many"
+     },
+     {
+      "en": "people",
+      "sym": "people"
+     },
+     {
+      "en": "live",
+      "sym": "to live"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "Punjab.",
+      "sym": "map"
+     }
+    ]
+   },
+   {
+    "en": "People speak the Punjabi language.",
+    "words": [
+     {
+      "ur": "لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "پنجابی",
+      "sym": "language"
+     },
+     {
+      "ur": "زبان",
+      "sym": "to talk"
+     },
+     {
+      "ur": "بولتے ہیں۔",
+      "sym": "to speak"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "People",
+      "sym": "people"
+     },
+     {
+      "en": "speak",
+      "sym": "to speak"
+     },
+     {
+      "en": "the Punjabi",
+      "sym": "to talk"
+     },
+     {
+      "en": "language.",
+      "sym": "language"
+     }
+    ]
+   },
+   {
+    "en": "Lahore is the big city of Punjab.",
+    "words": [
+     {
+      "ur": "لاہور",
+      "sym": "city"
+     },
+     {
+      "ur": "پنجاب",
+      "sym": "map"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "بڑا",
+      "sym": "big"
+     },
+     {
+      "ur": "شہر",
+      "sym": "city"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Lahore",
+      "sym": "city"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "the big",
+      "sym": "big"
+     },
+     {
+      "en": "city",
+      "sym": "city"
+     },
+     {
+      "en": "of",
+      "sym": null
+     },
+     {
+      "en": "Punjab.",
+      "sym": "map"
+     }
+    ]
+   },
+   {
+    "en": "People eat saag and drink lassi.",
+    "words": [
+     {
+      "ur": "لوگ",
+      "sym": "people"
+     },
+     {
+      "ur": "ساگ",
+      "sym": "spinach"
+     },
+     {
+      "ur": "کھاتے",
+      "sym": "to eat"
+     },
+     {
+      "ur": "اور",
+      "sym": null
+     },
+     {
+      "ur": "لسّی",
+      "sym": "milkshake"
+     },
+     {
+      "ur": "پیتے ہیں۔",
+      "sym": "to drink"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "People",
+      "sym": "people"
+     },
+     {
+      "en": "eat",
+      "sym": "to eat"
+     },
+     {
+      "en": "saag",
+      "sym": "spinach"
+     },
+     {
+      "en": "and",
+      "sym": null
+     },
+     {
+      "en": "drink",
+      "sym": "to drink"
+     },
+     {
+      "en": "lassi.",
+      "sym": "milkshake"
+     }
+    ]
+   },
+   {
+    "en": "Kabaddi is a famous game of Punjab.",
+    "words": [
+     {
+      "ur": "کبڈی",
+      "img": [
+       0.13,
+       0.51,
+       0.848,
+       0.8
+      ]
+     },
+     {
+      "ur": "پنجاب",
+      "sym": "map"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "مشہور",
+      "sym": "famous"
+     },
+     {
+      "ur": "کھیل",
+      "sym": "game"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Kabaddi",
+      "img": [
+       0.13,
+       0.51,
+       0.848,
+       0.8
+      ]
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "a famous",
+      "sym": "famous"
+     },
+     {
+      "en": "game",
+      "sym": "game"
+     },
+     {
+      "en": "of",
+      "sym": null
+     },
+     {
+      "en": "Punjab.",
+      "sym": "map"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "یہ کون سا کھیل ہے؟",
+       "en": "Which game is this?"
+      },
+      "options": [
+       {
+        "ur": "کبڈی",
+        "en": "Kabaddi",
+        "sym": "wrestling"
+       },
+       {
+        "ur": "کرکٹ",
+        "en": "Cricket",
+        "sym": "cricket"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "یہ کبڈی ہے۔ یہ پنجاب کا مشہور کھیل ہے۔",
+       "en": "This is kabaddi. It is a famous game of Punjab."
+      },
+      "img": [
+       0.13,
+       0.51,
+       0.848,
+       0.8
+      ]
+     },
+     {
+      "q": {
+       "ur": "پنجاب کے لوگ کیا پینا پسند کرتے ہیں؟",
+       "en": "What do the people of Punjab like to drink?"
+      },
+      "options": [
+       {
+        "ur": "قہوہ",
+        "en": "Green tea",
+        "sym": "tea"
+       },
+       {
+        "ur": "لسّی",
+        "en": "Lassi",
+        "sym": "milkshake"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "پنجاب کے لوگ لسّی پینا پسند کرتے ہیں۔",
+       "en": "The people of Punjab like to drink lassi."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": false
+}

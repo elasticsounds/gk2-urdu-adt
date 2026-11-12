@@ -1,0 +1,108 @@
+{
+  "n": 43,
+  "printed": "39",
+  "chapter": 6,
+  "kind": "content",
+  "title": {"ur": "پانی کی قلّت", "en": "Shortage of water"},
+  "blocks": [
+    {"t": "h", "ur": "پانی کی قلّت", "en": "Shortage of water"},
+    {"t": "p", "ur": "پانی کی قلّت کی مندرجہ ذیل وجوہات ہیں:", "en": "The reasons for the shortage of water are as follows:"},
+    {"t": "list", "items": [
+      {"ur": "1. زیرِ زمین پانی کی کمی", "en": "1. Not enough underground water"},
+      {"ur": "2. بارش کے پانی کو ذخیرہ نہ کرنا", "en": "2. Not storing rainwater"},
+      {"ur": "3. پانی کی فراہمی کا ناقص انتظام", "en": "3. Poor arrangements for supplying water"},
+      {"ur": "4. پانی کا ضرورت سے زیادہ استعمال", "en": "4. Using more water than needed"}
+    ]},
+    {"t": "p", "ur": "بارش نہ ہونے کی وجہ سے پاکستان کے کچھ حصّوں مثلاً تھرپارکر، بدین، دادو، چاغی وغیرہ میں پانی کی کمی رہتی ہے۔", "en": "Because there is not enough rain, some parts of Pakistan, such as Tharparkar, Badin, Dadu, Chagai and other places, are always short of water."},
+    {"t": "p", "ur": "ریگستان میں پانی کی قلّت ہوتی ہے اور لوگوں کو دور سے پانی بھر کر لانا پڑتا ہے۔ پانی کی کمی کی وجہ سے لوگ مشکلات کا سامنا کرتے ہیں۔", "en": "In the desert there is a shortage of water, and people have to fetch water from far away. Because there is so little water, people face many problems."},
+    {"t": "note", "ur": "ہمیں پانی احتیاط سے استعمال کرنا چاہیے اور ضائع نہیں کرنا چاہیے۔", "en": "We should use water carefully and should not waste it."},
+    {"t": "img", "crop": [0.189, 0.441, 0.754, 0.661],
+     "alt": {"ur": "ریگستان میں رنگ برنگے کپڑے پہنے چار عورتیں سر پر پانی کے مٹکے اور برتن اٹھائے ریت پر پیدل جا رہی ہیں۔", "en": "In a desert, four women in brightly coloured clothes walk across the sand carrying water pots on their heads."},
+     "cap": {"ur": "ریگستان", "en": "Desert"}},
+    {"t": "activity",
+     "id": "p043-a1",
+     "label": {"ur": "سرگرمی", "en": "Activity"},
+     "orig": {"ur": "اپنے والدین کی مدد سے معلوم کریں کہ کون کون سے علاقوں میں پانی کی کمی ہے؟ (جدول: علاقہ — وجہ)", "en": "With your parents' help, find out which areas are short of water. The table has two columns: Area and Reason."},
+     "prompt": {"ur": "گھر والوں سے پوچھیں: کن علاقوں میں پانی کم ہے اور کیوں؟", "en": "Ask your family: which areas have little water, and why?"},
+     "levels": {
+       "easy": {"kind": "mcq", "questions": [
+         {"q": {"ur": "پانی کہاں کم ہوتا ہے؟", "en": "Where is there very little water?"},
+          "options": [{"ur": "ریگستان", "en": "Desert", "sym": "desert"}, {"ur": "دریا", "en": "River", "sym": "river"}],
+          "answer": 0,
+          "fb": {"ur": "ریگستان میں پانی کی قلّت ہوتی ہے۔ وہاں بارش بہت کم ہوتی ہے۔", "en": "There is a shortage of water in the desert. Very little rain falls there."}},
+         {"q": {"ur": "تصویر میں عورتیں سر پر کیا لے جا رہی ہیں؟", "en": "What are the women in the picture carrying on their heads?"},
+          "img": [0.189, 0.441, 0.754, 0.661],
+          "options": [{"ur": "کتابیں", "en": "Books", "sym": "book"}, {"ur": "پانی", "en": "Water", "sym": "water"}],
+          "answer": 1,
+          "fb": {"ur": "وہ دور سے پانی بھر کر لا رہی ہیں۔", "en": "They are bringing water from far away."}},
+         {"q": {"ur": "ہمیں پانی کے ساتھ کیا کرنا چاہیے؟", "en": "What should we do with water?"},
+          "options": [{"ur": "ضائع کرنا", "en": "Waste it", "sym": "to spill"}, {"ur": "بچانا", "en": "Save it", "sym": "to save"}],
+          "answer": 1,
+          "fb": {"ur": "ہمیں پانی احتیاط سے استعمال کرنا چاہیے اور ضائع نہیں کرنا چاہیے۔", "en": "We should use water carefully and not waste it."}}
+       ]},
+       "moderate": {"kind": "open", "mode": "write",
+         "steps": [
+           {"ur": "اپنے امّی، ابّو یا کسی بڑے سے پوچھیں: کون سے علاقوں میں پانی کی کمی ہے؟", "en": "Ask your mother, father or another adult: which areas are short of water?"},
+           {"ur": "یہ بھی پوچھیں: وہاں پانی کم کیوں ہے؟", "en": "Also ask: why is there so little water there?"},
+           {"ur": "تین علاقوں کے نام ”علاقہ“ کے خانے میں لکھیں۔", "en": "Write the names of three areas in the \"Area\" column."},
+           {"ur": "ہر علاقے کے سامنے ”وجہ“ کے خانے میں وجہ لکھیں۔", "en": "Next to each area, write the reason in the \"Reason\" column."}
+         ],
+         "model": {"ur": "علاقہ: تھرپارکر — وجہ: بارش بہت کم ہوتی ہے، ریگستان ہے۔ علاقہ: چاغی — وجہ: بارش نہیں ہوتی اور زیرِ زمین پانی کم ہے۔ علاقہ: بدین — وجہ: بارش کم ہوتی ہے اور پانی کی فراہمی کا انتظام ناقص ہے۔", "en": "Area: Tharparkar. Reason: there is very little rain and it is a desert. Area: Chagai. Reason: there is no rain and little underground water. Area: Badin. Reason: there is little rain and the arrangements for supplying water are poor."},
+         "checklist": [
+           {"ur": "میں نے گھر کے کسی بڑے سے پوچھا۔", "en": "I asked an adult at home."},
+           {"ur": "میں نے تین علاقوں کے نام لکھے یا بتائے۔", "en": "I wrote or said the names of three areas."},
+           {"ur": "میں نے ہر علاقے کی وجہ لکھی یا بتائی۔", "en": "I wrote or said the reason for each area."}
+         ]},
+       "hard": {"kind": "sort",
+         "groups": [{"ur": "پانی کی قلّت کی وجہ", "en": "A reason for water shortage"}, {"ur": "پانی بچانے کا طریقہ", "en": "A way to save water"}],
+         "items": [
+           {"ur": "بارش کے پانی کو ذخیرہ نہ کرنا", "en": "Not storing rainwater", "group": 0},
+           {"ur": "استعمال کے بعد نلکا بند کرنا", "en": "Turning off the tap after use", "group": 1},
+           {"ur": "پانی کا ضرورت سے زیادہ استعمال", "en": "Using more water than needed", "group": 0},
+           {"ur": "بارش کا پانی جمع کر کے رکھنا", "en": "Collecting and keeping rainwater", "group": 1},
+           {"ur": "پانی کی فراہمی کا ناقص انتظام", "en": "Poor arrangements for supplying water", "group": 0},
+           {"ur": "ٹپکتا ہوا نلکا ٹھیک کروانا", "en": "Getting a dripping tap repaired", "group": 1},
+           {"ur": "زیرِ زمین پانی کی کمی", "en": "Not enough underground water", "group": 0}
+         ]}
+     }}
+  ],
+  "hint": [
+    {"for": "all", "ur": "تصویر کو غور سے دیکھیں: عورتیں پانی کے بھاری برتن سر پر اٹھا کر دور سے لا رہی ہیں۔ سوچیں: اگر آپ کو ہر گلاس پانی کے لیے اتنا چلنا پڑے تو کیا آپ پانی ضائع کریں گے؟", "en": "Look closely at the picture: the women are carrying heavy water pots on their heads from far away. Think: if you had to walk that far for every glass of water, would you waste any?"},
+    {"for": "vision", "ur": "پانی سے بھری بوتل یا چھوٹی بالٹی اٹھا کر کلاس کا ایک چکّر لگائیں اور محسوس کریں کہ پانی کتنا بھاری ہوتا ہے۔ ریگستان سمجھنے کے لیے سوکھی ریت کو چھوئیں۔", "en": "Carry a bottle or small bucket full of water once around the classroom and feel how heavy water is. Touch dry sand to understand the desert."},
+    {"for": "motor", "ur": "جدول میں لکھنا مشکل ہو تو جواب بول کر بتائیں؛ امّی، ابّو یا ساتھی آپ کے الفاظ لکھ دیں۔ جواب آواز میں ریکارڈ بھی کیا جا سکتا ہے۔", "en": "If writing in the table is hard, say your answers aloud, and your mother, father or a partner can write down your words. The answer can also be recorded as sound."},
+    {"for": "teacher", "ur": "پاکستان کے نقشے پر تھرپارکر، بدین، دادو اور چاغی دکھائیں۔ گھر کی سرگرمی کے لیے والدین کو ایک سطر کا پیغام بھیجیں۔ جن بچوں کے گھر مدد ممکن نہ ہو ان سے اگلے دن کلاس میں جوڑی بنا کر یہی کام کروائیں تاکہ کوئی بچہ پیچھے نہ رہے۔", "en": "Show Tharparkar, Badin, Dadu and Chagai on a map of Pakistan. Send parents a one-line note about the home task. For children who cannot get help at home, do the same task in pairs in class the next day so that no child is left out."}
+  ],
+  "easy": {
+    "title": {"ur": "پانی کم ہے، پانی بچائیں", "en": "There is little water. Save water!"},
+    "image": {"crop": [0.189, 0.441, 0.754, 0.661], "alt": {"ur": "ریگستان میں عورتیں سر پر پانی کے برتن اٹھائے جا رہی ہیں۔", "en": "Women in a desert are carrying water pots on their heads."}},
+    "sentences": [
+      {"en": "This is a desert.",
+       "words_en": [{"en": "This", "sym": "this"}, {"en": "is", "sym": null}, {"en": "a desert.", "sym": "desert"}],
+       "words": [{"ur": "یہ", "sym": "this"}, {"ur": "ریگستان", "sym": "desert"}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "There is little water here.",
+       "words_en": [{"en": "There is", "sym": null}, {"en": "little", "sym": "little"}, {"en": "water", "sym": "water"}, {"en": "here.", "sym": "here"}],
+       "words": [{"ur": "یہاں", "sym": "here"}, {"ur": "پانی", "sym": "water"}, {"ur": "کم", "sym": "little"}, {"ur": "ہے۔", "sym": null}]},
+      {"en": "People bring water from far away.",
+       "words_en": [{"en": "People", "sym": "people"}, {"en": "bring", "sym": "to carry"}, {"en": "water", "sym": "water"}, {"en": "from", "sym": null}, {"en": "far away.", "sym": "far"}],
+       "words": [{"ur": "لوگ", "sym": "people"}, {"ur": "دور", "sym": "far"}, {"ur": "سے", "sym": null}, {"ur": "پانی", "sym": "water"}, {"ur": "لاتے ہیں۔", "sym": "to carry"}]},
+      {"en": "We do not waste water.",
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "do not", "sym": "no"}, {"en": "waste", "sym": "to spill"}, {"en": "water.", "sym": "water"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "پانی", "sym": "water"}, {"ur": "ضائع", "sym": "to spill"}, {"ur": "نہیں کرتے۔", "sym": "no"}]},
+      {"en": "We turn off the tap.",
+       "words_en": [{"en": "We", "sym": "we"}, {"en": "turn off", "sym": "to close"}, {"en": "the tap.", "sym": "tap"}],
+       "words": [{"ur": "ہم", "sym": "we"}, {"ur": "نلکا", "sym": "tap"}, {"ur": "بند", "sym": "to close"}, {"ur": "کرتے ہیں۔", "sym": null}]}
+    ],
+    "activity": {
+      "prompt": {"ur": "اچھا کام کون سا ہے؟", "en": "Which is a good thing to do?"},
+      "task": {"kind": "sort",
+        "groups": [{"ur": "اچھا کام", "en": "Good", "sym": "good"}, {"ur": "غلط کام", "en": "Not good", "sym": "bad"}],
+        "items": [
+          {"ur": "نلکا بند کرنا", "en": "Turning the tap off", "sym": "turn off tap", "group": 0},
+          {"ur": "نلکا کھلا چھوڑنا", "en": "Leaving the tap running", "sym": "tap", "group": 1},
+          {"ur": "پانی گرانا", "en": "Spilling water", "sym": "to spill", "group": 1},
+          {"ur": "بچا ہوا پانی پودوں کو دینا", "en": "Giving leftover water to plants", "sym": "to water plants", "group": 0}
+        ]}
+    }
+  },
+  "print": true
+}

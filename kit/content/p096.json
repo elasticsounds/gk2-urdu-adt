@@ -1,0 +1,28 @@
+{
+  "n": 96,
+  "printed": "",
+  "chapter": 0,
+  "kind": "back",
+  "title": {"ur": "قومی ترانہ", "en": "The National Anthem"},
+  "blocks": [
+    {"t": "img", "crop": [0.24, 0.08, 0.75, 0.28],
+     "alt": {"ur": "مینارِ پاکستان کا سبز خاکہ، جس کے ساتھ سبز چاند اور ستارہ بنا ہے۔", "en": "A green line drawing of the Minar-e-Pakistan with a green crescent and star beside it."}},
+    {"t": "h", "ur": "قومی ترانہ", "en": "The National Anthem"},
+    {"t": "p", "ur": "پاک سَرزمین شاد باد    کِشورِ حَسین شاد باد", "en": "Blessed be the sacred land; happy be the beautiful realm."},
+    {"t": "p", "ur": "تُو نشانِ عزمِ عالی شان    ارضِ پاکستان", "en": "You are the symbol of high resolve, O land of Pakistan."},
+    {"t": "p", "ur": "مرکزِ یقین شاد باد", "en": "Blessed be the centre of faith."},
+    {"t": "p", "ur": "پاک سَرزمین کا نِظام    قُوّتِ اُخُوّتِ عوام", "en": "The order of this sacred land is the strength of the brotherhood of the people."},
+    {"t": "p", "ur": "قوم، مُلک، سلطنت    پایندہ تابندہ باد", "en": "May the nation, the country and the state shine in everlasting glory."},
+    {"t": "p", "ur": "شاد باد منزلِ مُراد", "en": "Blessed be the goal of our ambition."},
+    {"t": "p", "ur": "پَرچمِ ستارہ و ہِلال    رہبرِ ترقّی و کمال", "en": "The flag of the star and crescent leads the way to progress and perfection."},
+    {"t": "p", "ur": "ترجمانِ ماضی، شانِ حال    جانِ اِستِقبال", "en": "Interpreter of our past, glory of our present, inspiration of our future."},
+    {"t": "p", "ur": "سایۂ خدائے ذُوالجلال", "en": "Shade of God, the Glorious and Mighty."},
+    {"t": "p", "ur": "پنجاب کریکولم اینڈ ٹیکسٹ بُک بورڈ، لاہور", "en": "Punjab Curriculum and Textbook Board, Lahore"}
+  ],
+  "hint": [
+    {"for": "all", "ur": "قومی ترانہ پڑھتے یا سنتے وقت ہم ادب سے سیدھے کھڑے ہوتے ہیں۔ جو بچے کھڑے نہ ہو سکیں وہ سیدھے بیٹھ کر ادب دکھا سکتے ہیں۔", "en": "When the national anthem is read or played we stand up straight with respect. Children who cannot stand can show respect by sitting up straight."},
+    {"for": "teacher", "ur": "ترانہ سب کے ساتھ مل کر گائیں۔ سماعت سے محروم بچوں کے لیے اشاروں کی زبان میں ترانہ دکھائیں یا لفظوں پر انگلی رکھ کر ساتھ چلیں؛ نظر کی کمزوری والے بچوں کو ترانہ سنا کر یاد کروائیں اور مینارِ پاکستان کی تصویر زبانی بیان کریں۔", "en": "Sing the anthem together. For deaf children, show the anthem in sign language or track the words with a finger; for children with low vision, teach it by listening and describe the picture of the Minar-e-Pakistan aloud."}
+  ],
+  "easy": null,
+  "print": false
+}

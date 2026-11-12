@@ -1,0 +1,939 @@
+{
+ "n": 24,
+ "printed": "20",
+ "chapter": 3,
+ "kind": "exercise",
+ "title": {
+  "ur": "مشق: حقوق و فرائض",
+  "en": "Exercise: Rights and duties"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "مشق",
+   "en": "Exercise"
+  },
+  {
+   "t": "activity",
+   "id": "p024-a1",
+   "label": {
+    "ur": "سوال نمبر 1",
+    "en": "Question 1"
+   },
+   "orig": {
+    "ur": "ذیل میں چند سہولیات درج ہیں۔ آپ کے علاقے میں ان میں سے جو سہولت موجود ہے اُس پر ✓ کا نشان لگائیں۔ ہسپتال ____ ائیرپورٹ ____ پولیس سٹیشن ____ سکول ____ پارک ____ صاف پانی کی سہولت ____ بس اڈہ ____ ڈاکخانہ ____",
+    "en": "Some facilities are listed below. Put a tick (✓) on each facility that is in your area. Hospital ____ Airport ____ Police station ____ School ____ Park ____ Clean water supply ____ Bus stand ____ Post office ____"
+   },
+   "prompt": {
+    "ur": "آپ کے علاقے میں کون کون سی سہولیات موجود ہیں؟ ہر علاقہ الگ ہے، اس لیے ہر بچے کا جواب الگ ہو سکتا ہے۔",
+    "en": "Which facilities are there in your area? Every area is different, so each child's answer may be different."
+   },
+   "levels": {
+    "easy": {
+     "kind": "match",
+     "pairs": [
+      {
+       "a": {
+        "ur": "ہسپتال",
+        "en": "Hospital",
+        "sym": "hospital"
+       },
+       "b": {
+        "ur": "علاج",
+        "en": "Treatment",
+        "sym": "sick"
+       }
+      },
+      {
+       "a": {
+        "ur": "سکول",
+        "en": "School",
+        "sym": "school"
+       },
+       "b": {
+        "ur": "پڑھائی",
+        "en": "Studying",
+        "sym": "to study"
+       }
+      },
+      {
+       "a": {
+        "ur": "پارک",
+        "en": "Park",
+        "sym": "park"
+       },
+       "b": {
+        "ur": "کھیل",
+        "en": "Playing",
+        "sym": "to play"
+       }
+      },
+      {
+       "a": {
+        "ur": "بس اڈہ",
+        "en": "Bus stand",
+        "sym": "bus stop"
+       },
+       "b": {
+        "ur": "سفر",
+        "en": "Travel",
+        "sym": "bus"
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "do",
+     "steps": [
+      {
+       "ur": "یہ آٹھ سہولیات ایک ایک کر کے پڑھیں یا سنیں: ہسپتال، ائیرپورٹ، پولیس سٹیشن، سکول، پارک، صاف پانی کی سہولت، بس اڈہ، ڈاکخانہ۔",
+       "en": "Read or listen to these eight facilities one by one: hospital, airport, police station, school, park, clean water supply, bus stand, post office."
+      },
+      {
+       "ur": "ہر ایک کے لیے سوچیں: \"کیا یہ میرے علاقے میں ہے؟\" یاد نہ ہو تو گھر والوں سے پوچھیں۔",
+       "en": "For each one, think: \"Is this in my area?\" If you do not remember, ask your family."
+      },
+      {
+       "ur": "جو سہولت موجود ہے اس پر ✓ لگائیں۔",
+       "en": "Put a tick (✓) on each facility that is there."
+      },
+      {
+       "ur": "گنیں کہ آپ نے کتنے ✓ لگائے۔",
+       "en": "Count how many ticks (✓) you made."
+      }
+     ],
+     "model": {
+      "ur": "مثال (ہر علاقے کا جواب الگ ہوگا): ہسپتال ✓، پولیس سٹیشن ✓، سکول ✓، پارک ✓، صاف پانی کی سہولت ✓، بس اڈہ ✓، ڈاکخانہ ✓۔ ائیرپورٹ ہمارے علاقے میں نہیں ہے۔",
+      "en": "Example (the answer will be different for every area): hospital ✓, police station ✓, school ✓, park ✓, clean water supply ✓, bus stand ✓, post office ✓. There is no airport in our area."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے آٹھوں سہولیات کے بارے میں سوچا۔",
+       "en": "I thought about all eight facilities."
+      },
+      {
+       "ur": "میں نے صرف اُن پر ✓ لگایا جو میرے علاقے میں ہیں۔",
+       "en": "I ticked (✓) only the ones that are in my area."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "پہلے آٹھوں سہولیات میں سے اپنے علاقے کی سہولیات پر ✓ لگائیں۔",
+       "en": "First, tick (✓) the facilities in your area out of the eight."
+      },
+      {
+       "ur": "ایک سہولت لکھیں جو آپ کے علاقے میں نہیں ہے۔",
+       "en": "Write one facility that is not in your area."
+      },
+      {
+       "ur": "لکھیں کہ اس کے نہ ہونے سے لوگوں کو کیا مشکل ہوتی ہے۔",
+       "en": "Write what problem people have because it is not there."
+      }
+     ],
+     "model": {
+      "ur": "ہمارے علاقے میں پارک نہیں ہے۔ اس لیے بچوں کے پاس کھیلنے کی محفوظ جگہ نہیں اور وہ گلی میں کھیلتے ہیں۔",
+      "en": "There is no park in our area. So children have no safe place to play, and they play in the street."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے ایک غیر موجود سہولت لکھی۔",
+       "en": "I wrote one facility that is missing."
+      },
+      {
+       "ur": "میں نے اس کی مشکل لکھی۔",
+       "en": "I wrote the problem this causes."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p024-a2",
+   "label": {
+    "ur": "سوال نمبر 2",
+    "en": "Question 2"
+   },
+   "orig": {
+    "ur": "اپنے علاقے کے دو اہم عوامی مسائل لکھیں۔ (i) ____ (ii) ____",
+    "en": "Write two important public problems in your area. (i) ____ (ii) ____"
+   },
+   "prompt": {
+    "ur": "آپ کے علاقے کے لوگوں کو کون سی دو بڑی مشکلیں ہیں؟",
+    "en": "What are two big problems that people in your area face?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "اپنی گلی یا محلّے کے بارے میں سوچیں۔",
+       "en": "Think about your street or neighbourhood."
+      },
+      {
+       "ur": "ایک مشکل بتائیں یا اس کی تصویر بنائیں، جیسے: کوڑا، گندا پانی، ٹوٹی سڑک، بجلی کا جانا۔",
+       "en": "Say or draw one problem, such as rubbish, dirty water, a broken road or power cuts."
+      }
+     ],
+     "model": {
+      "ur": "ہماری گلی میں کوڑا پڑا رہتا ہے۔",
+      "en": "There is always rubbish lying in our street."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے ایک مسئلہ بتایا۔",
+       "en": "I named one problem."
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "\"عوامی مسئلہ\" وہ مشکل ہے جو بہت سے لوگوں کو ہو۔",
+       "en": "A \"public problem\" is a problem that many people have."
+      },
+      {
+       "ur": "اپنے علاقے کے بارے میں سوچیں یا گھر والوں سے پوچھیں۔",
+       "en": "Think about your area or ask your family."
+      },
+      {
+       "ur": "دو مسائل لکھیں۔",
+       "en": "Write two problems."
+      }
+     ],
+     "model": {
+      "ur": "(i) گلیوں میں کوڑے کے ڈھیر۔ (ii) پینے کے صاف پانی کی کمی۔ (ہر علاقے کا جواب الگ ہو سکتا ہے۔)",
+      "en": "(i) Heaps of rubbish in the streets. (ii) Not enough clean drinking water. (The answer may be different for every area.)"
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دو مسائل لکھے۔",
+       "en": "I wrote two problems."
+      },
+      {
+       "ur": "یہ مسائل بہت سے لوگوں کے ہیں، صرف میرے نہیں۔",
+       "en": "These problems belong to many people, not only to me."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "اپنے علاقے کے دو عوامی مسائل لکھیں۔",
+       "en": "Write two public problems in your area."
+      },
+      {
+       "ur": "ہر مسئلے کے لیے لکھیں: حکومت کیا کر سکتی ہے؟",
+       "en": "For each problem write: what can the government do?"
+      },
+      {
+       "ur": "ہر مسئلے کے لیے لکھیں: ہم شہری خود کیا کر سکتے ہیں؟",
+       "en": "For each problem write: what can we citizens do ourselves?"
+      }
+     ],
+     "model": {
+      "ur": "مسئلہ: گلیوں میں کوڑا۔ حکومت کوڑے دان رکھوائے اور روز کوڑا اٹھوائے؛ ہم کوڑا صرف کوڑے دان میں ڈالیں۔ مسئلہ: پانی کی کمی۔ حکومت پائپ ٹھیک کروائے؛ ہم پانی ضائع نہ کریں۔",
+      "en": "Problem: rubbish in the streets. The government should put out bins and have the rubbish collected every day; we should put rubbish only in the bin. Problem: not enough water. The government should have the pipes repaired; we should not waste water."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دو مسائل لکھے۔",
+       "en": "I wrote two problems."
+      },
+      {
+       "ur": "میں نے حکومت کا کام لکھا۔",
+       "en": "I wrote what the government should do."
+      },
+      {
+       "ur": "میں نے شہریوں کا کام لکھا۔",
+       "en": "I wrote what citizens should do."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p024-a3",
+   "label": {
+    "ur": "سوال نمبر 3",
+    "en": "Question 3"
+   },
+   "orig": {
+    "ur": "شہریوں کے کوئی سے دو حقوق اور دو فرائض تحریر کریں۔ (i) ____ (ii) ____ (i) ____ (ii) ____",
+    "en": "Write any two rights and two duties of citizens. (i) ____ (ii) ____ (i) ____ (ii) ____"
+   },
+   "prompt": {
+    "ur": "شہریوں کے دو حقوق اور دو فرائض بتائیں۔ مدد کے لیے صفحہ 19 کا جدول دیکھیں۔",
+    "en": "Name two rights and two duties of citizens. For help, look at the table on page 19."
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "حق",
+       "en": "Right"
+      },
+      {
+       "ur": "فرض",
+       "en": "Duty"
+      }
+     ],
+     "items": [
+      {
+       "ur": "تعلیم",
+       "en": "Education",
+       "group": 0,
+       "sym": "school"
+      },
+      {
+       "ur": "قوانین پر عمل کرنا",
+       "en": "Obeying the laws",
+       "group": 1,
+       "sym": "traffic light"
+      },
+      {
+       "ur": "صاف پانی",
+       "en": "Clean water",
+       "group": 0,
+       "sym": "water"
+      },
+      {
+       "ur": "بجلی ضائع نہ کرنا",
+       "en": "Not wasting electricity",
+       "group": 1,
+       "sym": "light bulb"
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "صفحہ 19 کا جدول \"حقوق و فرائض\" دوبارہ پڑھیں۔",
+       "en": "Read the \"Rights and duties\" table on page 19 again."
+      },
+      {
+       "ur": "\"میرا حق ہے\" والے کالم سے دو حقوق لکھیں۔",
+       "en": "Write two rights from the \"It is my right\" column."
+      },
+      {
+       "ur": "\"میرا فرض ہے\" والے کالم سے دو فرائض لکھیں۔",
+       "en": "Write two duties from the \"It is my duty\" column."
+      }
+     ],
+     "model": {
+      "ur": "حقوق: (i) تعلیم، تحفّظ اور صحت کی سہولیات۔ (ii) بجلی، گیس اور پینے کے صاف پانی کی فراہمی۔ فرائض: (i) قوانین پر عمل کرنا۔ (ii) سرکاری و غیر سرکاری اشیا کو نقصان نہ پہنچانا۔ (جدول کا کوئی بھی حق یا فرض درست جواب ہے۔)",
+      "en": "Rights: (i) Education, protection and health facilities. (ii) A supply of electricity, gas and clean drinking water. Duties: (i) Obeying the laws. (ii) Not damaging public or private property. (Any right or duty from the table is a correct answer.)"
+     },
+     "checklist": [
+      {
+       "ur": "میں نے دو حقوق لکھے۔",
+       "en": "I wrote two rights."
+      },
+      {
+       "ur": "میں نے دو فرائض لکھے۔",
+       "en": "I wrote two duties."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "شہریوں کا حق",
+       "en": "A right of citizens"
+      },
+      {
+       "ur": "شہریوں کا فرض",
+       "en": "A duty of citizens"
+      },
+      {
+       "ur": "حکومت کا فرض",
+       "en": "A duty of the government"
+      }
+     ],
+     "items": [
+      {
+       "ur": "پیشہ اختیار کرنے کی آزادی",
+       "en": "Freedom to choose an occupation",
+       "group": 0
+      },
+      {
+       "ur": "بڑوں اور بزرگوں کی عزّت و احترام کرنا",
+       "en": "Respecting and honouring older people and elders",
+       "group": 1
+      },
+      {
+       "ur": "شہریوں کی حفاظت کرنا",
+       "en": "Protecting the citizens",
+       "group": 2
+      },
+      {
+       "ur": "بے سہارا افراد کے لیے پناہ گاہیں",
+       "en": "Shelters for people who have no one to support them",
+       "group": 0
+      },
+      {
+       "ur": "گیس، پانی اور بجلی ضائع نہ کرنا",
+       "en": "Not wasting gas, water and electricity",
+       "group": 1
+      },
+      {
+       "ur": "شہریوں کو بنیادی سہولیات فراہم کرنا",
+       "en": "Providing basic facilities to citizens",
+       "group": 2
+      },
+      {
+       "ur": "تمام اداروں کا احترام کرنا",
+       "en": "Respecting all institutions",
+       "group": 1
+      },
+      {
+       "ur": "اچھا ماحول، گھر اور تعلیم",
+       "en": "A good environment, a home and education",
+       "group": 0
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p024-a4",
+   "label": {
+    "ur": "سوال نمبر 4",
+    "en": "Question 4"
+   },
+   "orig": {
+    "ur": "کون سا محکمہ لوگوں کی جان و مال کی حفاظت کرتا ہے؟",
+    "en": "Which department protects people's lives and property?"
+   },
+   "prompt": {
+    "ur": "لوگوں کی جان اور مال کی حفاظت کون کرتا ہے؟",
+    "en": "Who protects people's lives and property?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "ہماری حفاظت کون کرتا ہے؟",
+        "en": "Who protects us?"
+       },
+       "options": [
+        {
+         "ur": "پولیس",
+         "en": "The police",
+         "sym": "police"
+        },
+        {
+         "ur": "ڈاک خانہ",
+         "en": "The post office",
+         "sym": "letter"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "پولیس ہماری جان اور مال کی حفاظت کرتی ہے۔",
+        "en": "The police protect our lives and property."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "کون سا محکمہ لوگوں کی جان و مال کی حفاظت کرتا ہے؟",
+        "en": "Which department protects people's lives and property?"
+       },
+       "options": [
+        {
+         "ur": "محکمہ تعلیم",
+         "en": "Education department"
+        },
+        {
+         "ur": "محکمہ صحت",
+         "en": "Health department"
+        },
+        {
+         "ur": "محکمہ پولیس",
+         "en": "Police department"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "محکمہ پولیس۔ کتاب میں لکھا ہے: جرائم کی روک تھام کے لیے پولیس سٹیشن۔",
+        "en": "The police department. The book says: police stations to prevent crime."
+       }
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "کون سا محکمہ لوگوں کی جان و مال کی حفاظت کرتا ہے؟",
+        "en": "Which department protects people's lives and property?"
+       },
+       "options": [
+        {
+         "ur": "محکمہ پولیس",
+         "en": "Police department"
+        },
+        {
+         "ur": "محکمہ ڈاک",
+         "en": "Postal department"
+        },
+        {
+         "ur": "محکمہ تعلیم",
+         "en": "Education department"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "محکمہ پولیس جرائم کو روکتا ہے اور لوگوں کی جان و مال کی حفاظت کرتا ہے۔",
+        "en": "The police department prevents crime and protects people's lives and property."
+       }
+      },
+      {
+       "q": {
+        "ur": "انصاف کون سا ادارہ دیتا ہے؟",
+        "en": "Which institution gives justice?"
+       },
+       "options": [
+        {
+         "ur": "ہسپتال",
+         "en": "Hospital"
+        },
+        {
+         "ur": "عدالت",
+         "en": "Court"
+        },
+        {
+         "ur": "سکول",
+         "en": "School"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "انصاف کے لیے عدالتیں ہوتی ہیں۔",
+        "en": "Courts are for justice."
+       }
+      },
+      {
+       "q": {
+        "ur": "اگر آپ کو کوئی گم شدہ بچہ ملے تو مدد کے لیے کہاں جانا چاہیے؟",
+        "en": "If you find a lost child, where should you go for help?"
+       },
+       "options": [
+        {
+         "ur": "بس اڈے پر چھوڑ دیں",
+         "en": "Leave the child at the bus stand"
+        },
+        {
+         "ur": "کسی بڑے کے ساتھ پولیس سٹیشن",
+         "en": "To the police station, with an adult"
+        },
+        {
+         "ur": "پارک",
+         "en": "To the park"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "پولیس لوگوں کی حفاظت کرتی ہے اور گم شدہ بچے کو اس کے گھر پہنچانے میں مدد کرتی ہے۔ ہمیشہ کسی بڑے کو ساتھ لیں۔",
+        "en": "The police protect people and help a lost child to get home. Always take an adult with you."
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p024-a5",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "ٹیچر کلاس میں مانیٹر بنانے کے لیے الیکشن کروائے۔ بچوں کو بیلٹ بکس، ووٹ اور تمام مراحل سے متعارف کروا کر کلاس کا مانیٹر بنائے۔",
+    "en": "The teacher should hold an election in class to choose a monitor. The teacher should introduce the children to the ballot box, the vote and all the steps, and so choose the class monitor."
+   },
+   "prompt": {
+    "ur": "آئیں کلاس کا مانیٹر ووٹ سے چنیں! حکومت بھی اسی طرح انتخابات سے بنتی ہے۔",
+    "en": "Let's choose the class monitor by voting! The government is formed in the same way, through elections."
+   },
+   "levels": {
+    "easy": {
+     "kind": "order",
+     "items": [
+      {
+       "ur": "پرچی پر اپنی پسند کا نشان لگائیں۔",
+       "en": "Mark your choice on the slip of paper.",
+       "sym": "to write"
+      },
+      {
+       "ur": "پرچی بیلٹ بکس میں ڈالیں۔",
+       "en": "Put the slip in the ballot box.",
+       "sym": "to vote"
+      },
+      {
+       "ur": "ووٹ گنے جاتے ہیں۔",
+       "en": "The votes are counted.",
+       "sym": "to count"
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "do",
+     "steps": [
+      {
+       "ur": "جو بچے مانیٹر بننا چاہتے ہیں وہ اپنا نام دیں۔ ہر امیدوار بتائے کہ وہ کلاس کے لیے کیا کرے گا۔",
+       "en": "Children who want to be monitor give their names. Each candidate says what they will do for the class."
+      },
+      {
+       "ur": "ہر بچے کو ایک پرچی (ووٹ) ملے۔ اس پر اپنی پسند کے امیدوار کا نام یا نشان بنائیں۔ کسی کو نہ دکھائیں۔",
+       "en": "Each child gets one slip of paper (a vote). On it, write the name or draw the symbol of the candidate you choose. Do not show it to anyone."
+      },
+      {
+       "ur": "باری باری اپنی پرچی بیلٹ بکس میں ڈالیں۔",
+       "en": "Take turns to put your slip in the ballot box."
+      },
+      {
+       "ur": "استاد سب کے سامنے ووٹ گنیں۔",
+       "en": "The teacher counts the votes in front of everyone."
+      },
+      {
+       "ur": "جس کے ووٹ سب سے زیادہ ہوں وہ مانیٹر بنے۔ سب اسے مبارک باد دیں۔",
+       "en": "The child with the most votes becomes the monitor. Everyone congratulates the monitor."
+      }
+     ],
+     "checklist": [
+      {
+       "ur": "میں نے صرف ایک ووٹ ڈالا۔",
+       "en": "I cast only one vote."
+      },
+      {
+       "ur": "میں نے اپنا ووٹ خفیہ رکھا۔",
+       "en": "I kept my vote secret."
+      },
+      {
+       "ur": "میں نے نتیجہ خوشی سے مانا۔",
+       "en": "I accepted the result happily."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "order",
+     "items": [
+      {
+       "ur": "امیدوار اپنے نام دیتے ہیں۔",
+       "en": "The candidates give their names."
+      },
+      {
+       "ur": "ہر بچہ پرچی پر اپنی پسند کا نشان لگاتا ہے۔",
+       "en": "Each child marks their choice on a slip of paper."
+      },
+      {
+       "ur": "پرچی بیلٹ بکس میں ڈالی جاتی ہے۔",
+       "en": "The slip is put in the ballot box."
+      },
+      {
+       "ur": "سب کے سامنے ووٹ گنے جاتے ہیں۔",
+       "en": "The votes are counted in front of everyone."
+      },
+      {
+       "ur": "سب سے زیادہ ووٹ لینے والا مانیٹر بنتا ہے۔",
+       "en": "The child with the most votes becomes the monitor."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "teacher",
+   "ur": "بچوں کو بتائیں کہ حکومت کی مہیا کردہ سہولیات کا کس طرح خیال رکھنا چاہیے۔",
+   "en": "Tell the children how they should look after the facilities provided by the government."
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "سوال 1 اور 2 آپ کے اپنے علاقے کے بارے میں ہیں۔ گھر جاتے ہوئے راستے میں دیکھیں کہ کون سی سہولیات نظر آتی ہیں، یا گھر والوں سے پوچھیں۔ سوال 3 کے لیے صفحہ 19 کا جدول دیکھیں۔",
+   "en": "Questions 1 and 2 are about your own area. On your way home, look out for the facilities you can see, or ask your family. For Question 3, look at the table on page 19."
+  },
+  {
+   "for": "motor",
+   "ur": "✓ لگانا مشکل ہو تو \"ہاں\" یا \"نہیں\" بول کر، سر ہلا کر یا سٹیکر/انگوٹھے کا نشان لگا کر جواب دیں۔ ووٹ ڈالتے وقت کوئی ساتھی پرچی بکس میں ڈالنے میں مدد کر سکتا ہے۔",
+   "en": "If making a tick is hard, answer by saying \"yes\" or \"no\", by nodding or shaking your head, or by putting on a sticker or a thumbprint. When voting, a partner can help to put the slip in the box."
+  },
+  {
+   "for": "vision",
+   "ur": "الیکشن میں پرچی پر ہر امیدوار کا اُبھرا ہوا نشان (جیسے بٹن، دھاگا، کاغذ کا ستارہ) چپکا دیں تاکہ چھو کر ووٹ دیا جا سکے۔",
+   "en": "In the election, stick a raised symbol for each candidate (such as a button, a piece of thread or a paper star) on the slip, so that a child can vote by touch."
+  },
+  {
+   "for": "teacher",
+   "ur": "الیکشن میں ہر بچے کو ووٹ دینے اور امیدوار بننے کا برابر موقع دیں، معذوری والے بچوں سمیت۔ ووٹ خفیہ رکھیں اور ہارنے والوں کی بھی حوصلہ افزائی کریں۔ سوال 1 اور 2 میں کوئی ایک درست جواب نہیں؛ بچوں کے اپنے مشاہدے کو قبول کریں۔",
+   "en": "In the election give every child an equal chance to vote and to stand as a candidate, including children with disabilities. Keep the vote secret and encourage those who lose too. Questions 1 and 2 have no single right answer; accept the children's own observations."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "حقوق و فرائض: دہرائی",
+   "en": "Rights and duties: revision"
+  },
+  "image": null,
+  "sentences": [
+   {
+    "en": "The government gives us facilities.",
+    "words": [
+     {
+      "ur": "حکومت",
+      "sym": "government"
+     },
+     {
+      "ur": "ہمیں",
+      "sym": "us"
+     },
+     {
+      "ur": "سہولیات",
+      "sym": "services"
+     },
+     {
+      "ur": "دیتی ہے۔",
+      "sym": "to give"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "government",
+      "sym": "government"
+     },
+     {
+      "en": "gives",
+      "sym": "to give"
+     },
+     {
+      "en": "us",
+      "sym": "us"
+     },
+     {
+      "en": "facilities.",
+      "sym": "services"
+     }
+    ]
+   },
+   {
+    "en": "The police protect us.",
+    "words": [
+     {
+      "ur": "پولیس",
+      "sym": "police"
+     },
+     {
+      "ur": "ہماری",
+      "sym": "our"
+     },
+     {
+      "ur": "حفاظت",
+      "sym": "to protect"
+     },
+     {
+      "ur": "کرتی ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The",
+      "sym": null
+     },
+     {
+      "en": "police",
+      "sym": "police"
+     },
+     {
+      "en": "protect",
+      "sym": "to protect"
+     },
+     {
+      "en": "us.",
+      "sym": "our"
+     }
+    ]
+   },
+   {
+    "en": "We obey the law.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "قانون",
+      "sym": "law"
+     },
+     {
+      "ur": "پر",
+      "sym": null
+     },
+     {
+      "ur": "عمل کرتے ہیں۔",
+      "sym": "to obey"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "obey",
+      "sym": "to obey"
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "law.",
+      "sym": "law"
+     }
+    ]
+   },
+   {
+    "en": "We choose the monitor by voting.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "ووٹ",
+      "sym": "to vote"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "مانیٹر",
+      "sym": "leader"
+     },
+     {
+      "ur": "چنتے ہیں۔",
+      "sym": "to choose"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "choose",
+      "sym": "to choose"
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "monitor",
+      "sym": "leader"
+     },
+     {
+      "en": "by",
+      "sym": null
+     },
+     {
+      "en": "voting.",
+      "sym": "to vote"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "ہماری حفاظت کون کرتا ہے؟",
+       "en": "Who protects us?"
+      },
+      "options": [
+       {
+        "ur": "درزی",
+        "en": "The tailor",
+        "sym": "tailor"
+       },
+       {
+        "ur": "پولیس",
+        "en": "The police",
+        "sym": "police"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "پولیس ہماری حفاظت کرتی ہے۔",
+       "en": "The police protect us."
+      }
+     },
+     {
+      "q": {
+       "ur": "پانی کے ساتھ ہمارا فرض کیا ہے؟",
+       "en": "What is our duty when we use water?"
+      },
+      "options": [
+       {
+        "ur": "پانی بچانا",
+        "en": "Saving water",
+        "sym": "tap"
+       },
+       {
+        "ur": "پانی ضائع کرنا",
+        "en": "Wasting water",
+        "sym": "to spill"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "پانی بچانا ہمارا فرض ہے۔",
+       "en": "Saving water is our duty."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

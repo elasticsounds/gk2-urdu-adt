@@ -1,0 +1,599 @@
+{
+ "n": 49,
+ "printed": "45",
+ "chapter": 7,
+ "kind": "content",
+ "title": {
+  "ur": "پُھول دار اور غیر پُھول دار پودے",
+  "en": "Flowering and non-flowering plants"
+ },
+ "blocks": [
+  {
+   "t": "p",
+   "ur": "کچھ پودے پُھول دار ہوتے ہیں اور کچھ غیر پُھول دار۔",
+   "en": "Some plants are flowering and some are non-flowering."
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.496,
+      0.147,
+      0.826,
+      0.3
+     ],
+     "alt": {
+      "ur": "گلاب کا پودا جس پر بہت سے سرخ پُھول کھلے ہیں۔",
+      "en": "A rose plant with many red flowers in bloom."
+     },
+     "cap": {
+      "ur": "پُھول دار پودے",
+      "en": "Flowering plants"
+     }
+    },
+    {
+     "crop": [
+      0.161,
+      0.147,
+      0.491,
+      0.3
+     ],
+     "alt": {
+      "ur": "فرن کا سبز پودا جس کے لمبے، پروں جیسے پتّے ہیں اور کوئی پُھول نہیں۔",
+      "en": "A green fern plant with long, feather-like leaves and no flowers."
+     },
+     "cap": {
+      "ur": "غیر پُھول دار پودے",
+      "en": "Non-flowering plants"
+     }
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "ur": "پُھول دار پودوں میں پُھول، پھل اور بیج ہوتے ہیں۔ جب کہ غیر پُھول دار پودوں میں پُھول اور بیج نہیں بنتے۔",
+   "en": "Flowering plants have flowers, fruits and seeds. But non-flowering plants do not make flowers or seeds."
+  },
+  {
+   "t": "activity",
+   "id": "p049-a1",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "اپنے اِرد گِرد کے ماحول کا مشاہدہ کریں کہ کون سے پودے پُھول دار ہیں اور کون سے غیر پُھول دار؟ اپنے استاد کی مدد سے ان کے نام لکھیں۔",
+    "en": "Look carefully at the world around you. Which plants are flowering and which are non-flowering? Write their names with your teacher's help."
+   },
+   "prompt": {
+    "ur": "اپنے آس پاس کے پودے دیکھیں۔ کس پر پُھول لگتے ہیں اور کس پر نہیں؟",
+    "en": "Look at the plants around you. Which ones have flowers and which do not?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "اس پودے پر پُھول ہیں یا نہیں؟",
+        "en": "Does this plant have flowers or not?"
+       },
+       "img": [
+        0.496,
+        0.147,
+        0.826,
+        0.3
+       ],
+       "options": [
+        {
+         "ur": "پُھول ہیں — پُھول دار",
+         "en": "It has flowers — flowering",
+         "sym": "flower"
+        },
+        {
+         "ur": "پُھول نہیں — غیر پُھول دار",
+         "en": "No flowers — non-flowering",
+         "sym": "no"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "گلاب پر سرخ پُھول لگے ہیں۔ یہ پُھول دار پودا ہے۔",
+        "en": "The rose has red flowers. It is a flowering plant."
+       }
+      },
+      {
+       "q": {
+        "ur": "اس پودے پر پُھول ہیں یا نہیں؟",
+        "en": "Does this plant have flowers or not?"
+       },
+       "img": [
+        0.161,
+        0.147,
+        0.491,
+        0.3
+       ],
+       "options": [
+        {
+         "ur": "پُھول ہیں — پُھول دار",
+         "en": "It has flowers — flowering",
+         "sym": "flower"
+        },
+        {
+         "ur": "پُھول نہیں — غیر پُھول دار",
+         "en": "No flowers — non-flowering",
+         "sym": "no"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "فرن پر صرف سبز پتّے ہیں، پُھول نہیں۔ یہ غیر پُھول دار پودا ہے۔",
+        "en": "The fern has only green leaves, no flowers. It is a non-flowering plant."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "استاد کے ساتھ سکول کے صحن یا باغ میں جائیں۔",
+       "en": "Go to the school courtyard or garden with your teacher."
+      },
+      {
+       "ur": "ہر پودے کو غور سے دیکھیں: کیا اس پر پُھول لگے ہیں یا لگتے ہیں؟",
+       "en": "Look carefully at each plant: does it have flowers, or do flowers grow on it?"
+      },
+      {
+       "ur": "دو خانے بنائیں: پُھول دار اور غیر پُھول دار۔ استاد کی مدد سے پودوں کے نام صحیح خانے میں لکھیں۔",
+       "en": "Make two boxes: flowering and non-flowering. With your teacher's help, write the names of the plants in the right box."
+      }
+     ],
+     "model": {
+      "ur": "پُھول دار: گلاب، سورج مکھی، چنبیلی، آم کا درخت۔ غیر پُھول دار: فرن، کائی۔",
+      "en": "Flowering: rose, sunflower, jasmine, mango tree. Non-flowering: fern, moss."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے اپنے آس پاس کے پودے دیکھے۔",
+       "en": "I looked at the plants around me."
+      },
+      {
+       "ur": "میں نے پُھول دار پودوں کے نام بتائے۔",
+       "en": "I named the flowering plants."
+      },
+      {
+       "ur": "میں نے غیر پُھول دار پودے کا نام بتایا۔",
+       "en": "I named a non-flowering plant."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "پُھول دار پودے",
+       "en": "Flowering plants"
+      },
+      {
+       "ur": "غیر پُھول دار پودے",
+       "en": "Non-flowering plants"
+      }
+     ],
+     "items": [
+      {
+       "ur": "گلاب",
+       "en": "Rose",
+       "group": 0
+      },
+      {
+       "ur": "فرن",
+       "en": "Fern",
+       "group": 1
+      },
+      {
+       "ur": "سورج مکھی",
+       "en": "Sunflower",
+       "group": 0
+      },
+      {
+       "ur": "کائی",
+       "en": "Moss",
+       "group": 1
+      },
+      {
+       "ur": "آم کا درخت",
+       "en": "Mango tree",
+       "group": 0
+      },
+      {
+       "ur": "چنبیلی",
+       "en": "Jasmine",
+       "group": 0
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.156,
+    0.545,
+    0.835,
+    0.753
+   ],
+   "alt": {
+    "ur": "بہت سے پھل ایک ساتھ رکھے ہیں: کیلے، خربوزہ، انناس، تربوز، سیب، ناشپاتی اور چیری۔",
+    "en": "Many fruits placed together: bananas, a melon, a pineapple, a watermelon, apples, a pear and cherries."
+   }
+  },
+  {
+   "t": "p",
+   "ur": "پھل پودوں کا اہم حصّہ ہوتے ہیں۔ ہم پھل شوق سے کھاتے ہیں۔ اکثر پھلوں میں بیج ہوتے ہیں۔ کچھ پھل بغیر بیج کے بھی ہوتے ہیں۔",
+   "en": "Fruits are an important part of plants. We love to eat fruit. Most fruits have seeds. Some fruits have no seeds."
+  },
+  {
+   "t": "activity",
+   "id": "p049-a2",
+   "label": {
+    "ur": "بتائیں",
+    "en": "Tell us"
+   },
+   "orig": {
+    "ur": "آپ کون سا پھل شوق سے کھاتے ہیں؟",
+    "en": "Which fruit do you love to eat?"
+   },
+   "prompt": {
+    "ur": "اپنے پسندیدہ پھل کے بارے میں بتائیں۔",
+    "en": "Tell us about your favourite fruit."
+   },
+   "task": {
+    "kind": "open",
+    "mode": "talk",
+    "steps": [
+     {
+      "ur": "اپنے پسندیدہ پھل کا نام بتائیں، اس کی تصویر بنائیں یا تصویر پر انگلی رکھیں۔",
+      "en": "Say the name of your favourite fruit, draw it, or point to it in the picture."
+     },
+     {
+      "ur": "بتائیں: اس کا رنگ کیسا ہے؟ ذائقہ کیسا ہے؟",
+      "en": "Tell us: what colour is it? How does it taste?"
+     },
+     {
+      "ur": "سوچیں: کیا اس پھل کے اندر بیج ہوتے ہیں؟",
+      "en": "Think: does this fruit have seeds inside?"
+     }
+    ],
+    "model": {
+     "ur": "مجھے آم پسند ہے۔ آم پیلا اور میٹھا ہوتا ہے۔ اس کے اندر ایک بڑا بیج (گٹھلی) ہوتا ہے۔",
+     "en": "I like mangoes. A mango is yellow and sweet. It has one big seed, called a stone, inside."
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "پہچان آسان ہے: پودے کو غور سے دیکھیں۔ اگر اس پر پُھول لگتے ہیں تو وہ پُھول دار ہے۔ اگر کبھی پُھول نہیں لگتے، جیسے فرن، تو وہ غیر پُھول دار ہے۔",
+   "en": "It is easy to tell: look carefully at the plant. If flowers grow on it, it is flowering. If flowers never grow on it, like a fern, it is non-flowering."
+  },
+  {
+   "for": "vision",
+   "ur": "پُھول کو خوشبو سے اور نرم پتّیوں کو چھو کر پہچانیں۔ پھل کاٹ کر اس کے بیج انگلیوں سے محسوس کریں۔",
+   "en": "You can know a flower by its smell and by touching its soft petals. Cut a fruit open and feel its seeds with your fingers."
+  },
+  {
+   "for": "hearing",
+   "ur": "دو اشارے طے کریں: \"پُھول دار\" کے لیے انگلیاں پُھول کی طرح کھولیں، \"غیر پُھول دار\" کے لیے مٹھی بند رکھیں۔ ہر پودے کو دیکھ کر اشارے سے جواب دیں۔",
+   "en": "Agree on two signs: for \"flowering\" open your fingers like a flower; for \"non-flowering\" keep your fist closed. Look at each plant and answer with the sign."
+  },
+  {
+   "for": "teacher",
+   "ur": "پودوں کے نام بورڈ پر لکھ دیں تاکہ بچے نقل کر سکیں؛ جو بچے لکھ نہیں سکتے وہ پودے کی تصویر بنا کر یا اس کے پاس کھڑے ہو کر جواب دیں۔ ایک پھل (مثلاً سیب) کاٹ کر سب بچوں کو بیج دکھائیں اور چھونے دیں۔",
+   "en": "Write the plant names on the board so that the children can copy them. Children who cannot write may answer by drawing the plant or by standing next to it. Cut open a fruit, for example an apple, and let all the children see and touch the seeds."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "پُھول والے پودے",
+   "en": "Plants with flowers"
+  },
+  "image": {
+   "crop": [
+    0.496,
+    0.147,
+    0.826,
+    0.3
+   ],
+   "alt": {
+    "ur": "گلاب کا پودا جس پر سرخ پُھول ہیں۔",
+    "en": "A rose plant with red flowers."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Some plants have flowers.",
+    "words": [
+     {
+      "ur": "کچھ",
+      "sym": "some"
+     },
+     {
+      "ur": "پودوں",
+      "sym": "plant"
+     },
+     {
+      "ur": "پر",
+      "sym": null
+     },
+     {
+      "ur": "پُھول",
+      "sym": "flower"
+     },
+     {
+      "ur": "ہوتے",
+      "sym": null
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Some",
+      "sym": "some"
+     },
+     {
+      "en": "plants",
+      "sym": "plant"
+     },
+     {
+      "en": "have",
+      "sym": null
+     },
+     {
+      "en": "flowers.",
+      "sym": "flower"
+     }
+    ]
+   },
+   {
+    "en": "The rose has flowers.",
+    "words": [
+     {
+      "ur": "گلاب",
+      "img": [
+       0.496,
+       0.147,
+       0.826,
+       0.3
+      ]
+     },
+     {
+      "ur": "پر",
+      "sym": null
+     },
+     {
+      "ur": "پُھول",
+      "sym": "flower"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The rose",
+      "img": [
+       0.496,
+       0.147,
+       0.826,
+       0.3
+      ]
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "flowers.",
+      "sym": "flower"
+     }
+    ]
+   },
+   {
+    "en": "Some plants have no flowers.",
+    "words": [
+     {
+      "ur": "کچھ",
+      "sym": "some"
+     },
+     {
+      "ur": "پودوں",
+      "sym": "plant"
+     },
+     {
+      "ur": "پر",
+      "sym": null
+     },
+     {
+      "ur": "پُھول",
+      "sym": "flower"
+     },
+     {
+      "ur": "نہیں",
+      "sym": "no"
+     },
+     {
+      "ur": "ہوتے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Some",
+      "sym": "some"
+     },
+     {
+      "en": "plants",
+      "sym": "plant"
+     },
+     {
+      "en": "have",
+      "sym": null
+     },
+     {
+      "en": "no",
+      "sym": "no"
+     },
+     {
+      "en": "flowers.",
+      "sym": "flower"
+     }
+    ]
+   },
+   {
+    "en": "The fern has no flowers.",
+    "words": [
+     {
+      "ur": "فرن",
+      "img": [
+       0.161,
+       0.147,
+       0.491,
+       0.3
+      ]
+     },
+     {
+      "ur": "پر",
+      "sym": null
+     },
+     {
+      "ur": "پُھول",
+      "sym": "flower"
+     },
+     {
+      "ur": "نہیں",
+      "sym": "no"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "The fern",
+      "img": [
+       0.161,
+       0.147,
+       0.491,
+       0.3
+      ]
+     },
+     {
+      "en": "has",
+      "sym": null
+     },
+     {
+      "en": "no",
+      "sym": "no"
+     },
+     {
+      "en": "flowers.",
+      "sym": "flower"
+     }
+    ]
+   },
+   {
+    "en": "Fruits have seeds.",
+    "words": [
+     {
+      "ur": "پھلوں",
+      "sym": "fruit"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "بیج",
+      "sym": "seed"
+     },
+     {
+      "ur": "ہوتے",
+      "sym": null
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Fruits",
+      "sym": "fruit"
+     },
+     {
+      "en": "have",
+      "sym": null
+     },
+     {
+      "en": "seeds.",
+      "sym": "seed"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "پُھول والا پودا کون سا ہے؟",
+    "en": "Which plant has flowers?"
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "کس پودے پر پُھول ہیں؟",
+       "en": "Which plant has flowers?"
+      },
+      "options": [
+       {
+        "ur": "فرن",
+        "en": "Fern",
+        "img": [
+         0.161,
+         0.147,
+         0.491,
+         0.3
+        ]
+       },
+       {
+        "ur": "گلاب",
+        "en": "Rose",
+        "img": [
+         0.496,
+         0.147,
+         0.826,
+         0.3
+        ]
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "گلاب پر سرخ پُھول ہیں۔ فرن پر پُھول نہیں ہوتے۔",
+       "en": "The rose has red flowers. The fern has no flowers."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

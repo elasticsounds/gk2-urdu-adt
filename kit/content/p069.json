@@ -1,0 +1,700 @@
+{
+ "n": 69,
+ "printed": "65",
+ "chapter": 10,
+ "kind": "content",
+ "title": {
+  "ur": "جنگلات کے کٹاؤ کی روک تھام",
+  "en": "Stopping forests from being cut down"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "جنگلات کے کٹاؤ کی روک تھام",
+   "en": "Stopping forests from being cut down"
+  },
+  {
+   "t": "gallery",
+   "items": [
+    {
+     "crop": [
+      0.534,
+      0.186,
+      0.865,
+      0.411
+     ],
+     "alt": {
+      "ur": "پہاڑی ڈھلوان پر بہت سے درخت کاٹ دیے گئے ہیں اور ان کے تنے زمین پر بکھرے پڑے ہیں؛ پیچھے تھوڑا سا جنگل باقی ہے۔",
+      "en": "On a hillside many trees have been cut down and their trunks lie scattered on the ground; a little forest is left behind them."
+     },
+     "cap": {
+      "ur": "بلاوجہ لکڑی نہ کاٹی جائے۔",
+      "en": "Wood should not be cut without a reason."
+     }
+    },
+    {
+     "crop": [
+      0.128,
+      0.186,
+      0.513,
+      0.411
+     ],
+     "alt": {
+      "ur": "گیس کے چھوٹے چولہے پر ایک دیگچی رکھی ہے؛ کھانا لکڑی جلائے بغیر پک رہا ہے۔",
+      "en": "A pot sits on a small gas stove; food is cooking without any wood being burnt."
+     },
+     "cap": {
+      "ur": "لکڑی کی بجائے ایندھن کے دوسرے ذرائع استعمال کریں۔",
+      "en": "Use other sources of fuel instead of wood."
+     }
+    },
+    {
+     "crop": [
+      0.135,
+      0.461,
+      0.825,
+      0.685
+     ],
+     "alt": {
+      "ur": "رات کے وقت جنگل میں آگ لگی ہے؛ درختوں کے بیچ پیلے اور نارنجی شعلے اور دھواں اٹھ رہا ہے۔",
+      "en": "A forest is on fire at night; yellow and orange flames and smoke rise among the trees."
+     },
+     "cap": {
+      "ur": "جنگلات کو آگ لگنے سے بچائیں۔",
+      "en": "Save forests from catching fire."
+     }
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p069-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "جنگلات کے کٹاؤ کی روک تھام",
+    "en": "Stopping forests from being cut down"
+   },
+   "prompt": {
+    "ur": "ہر تصویر ہمیں جنگل بچانے کا ایک طریقہ بتاتی ہے۔ صحیح جواب چنیں۔",
+    "en": "Each picture tells us one way to save forests. Choose the correct answer."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "اس تصویر میں جنگل کو کیا ہوا ہے؟",
+        "en": "What has happened to the forest in this picture?"
+       },
+       "options": [
+        {
+         "ur": "آگ لگی ہے",
+         "en": "It is on fire",
+         "sym": "fire"
+        },
+        {
+         "ur": "بارش ہو رہی ہے",
+         "en": "It is raining",
+         "sym": "rain"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "جنگل میں آگ لگی ہے۔ ہمیں جنگلات کو آگ لگنے سے بچانا ہے۔",
+        "en": "The forest is on fire. We must save forests from fire."
+       },
+       "img": [
+        0.135,
+        0.461,
+        0.825,
+        0.685
+       ]
+      },
+      {
+       "q": {
+        "ur": "کھانا کس پر پک رہا ہے؟",
+        "en": "What is the food cooking on?"
+       },
+       "options": [
+        {
+         "ur": "لکڑی کی آگ پر",
+         "en": "A wood fire",
+         "sym": "wood"
+        },
+        {
+         "ur": "گیس کے چولہے پر",
+         "en": "A gas stove",
+         "sym": "stove"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "کھانا گیس کے چولہے پر پک رہا ہے، اس لیے لکڑی نہیں جلانی پڑی۔",
+        "en": "The food is cooking on a gas stove, so no wood had to be burnt."
+       },
+       "img": [
+        0.128,
+        0.186,
+        0.513,
+        0.411
+       ]
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "یہ تصویر ہمیں کیا پیغام دیتی ہے؟",
+        "en": "What message does this picture give us?"
+       },
+       "options": [
+        {
+         "ur": "لکڑی کی بجائے ایندھن کے دوسرے ذرائع استعمال کریں۔",
+         "en": "Use other sources of fuel instead of wood."
+        },
+        {
+         "ur": "بلاوجہ لکڑی نہ کاٹی جائے۔",
+         "en": "Wood should not be cut without a reason."
+        },
+        {
+         "ur": "جنگلات کو آگ لگنے سے بچائیں۔",
+         "en": "Save forests from catching fire."
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "بہت سے درخت کاٹ دیے گئے ہیں۔ پیغام ہے: بلاوجہ لکڑی نہ کاٹی جائے۔",
+        "en": "Many trees have been cut down. The message is: wood should not be cut without a reason."
+       },
+       "img": [
+        0.534,
+        0.186,
+        0.865,
+        0.411
+       ]
+      },
+      {
+       "q": {
+        "ur": "یہ تصویر ہمیں کیا پیغام دیتی ہے؟",
+        "en": "What message does this picture give us?"
+       },
+       "options": [
+        {
+         "ur": "لکڑی کی بجائے ایندھن کے دوسرے ذرائع استعمال کریں۔",
+         "en": "Use other sources of fuel instead of wood."
+        },
+        {
+         "ur": "جنگلات کو آگ لگنے سے بچائیں۔",
+         "en": "Save forests from catching fire."
+        },
+        {
+         "ur": "بلاوجہ لکڑی نہ کاٹی جائے۔",
+         "en": "Wood should not be cut without a reason."
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "گیس کا چولہا ایندھن کا دوسرا ذریعہ ہے۔ اس سے لکڑی بچتی ہے۔",
+        "en": "A gas stove is another source of fuel. It saves wood."
+       },
+       "img": [
+        0.128,
+        0.186,
+        0.513,
+        0.411
+       ]
+      },
+      {
+       "q": {
+        "ur": "یہ تصویر ہمیں کیا پیغام دیتی ہے؟",
+        "en": "What message does this picture give us?"
+       },
+       "options": [
+        {
+         "ur": "بلاوجہ لکڑی نہ کاٹی جائے۔",
+         "en": "Wood should not be cut without a reason."
+        },
+        {
+         "ur": "لکڑی کی بجائے ایندھن کے دوسرے ذرائع استعمال کریں۔",
+         "en": "Use other sources of fuel instead of wood."
+        },
+        {
+         "ur": "جنگلات کو آگ لگنے سے بچائیں۔",
+         "en": "Save forests from catching fire."
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "آگ پورے جنگل کو جلا دیتی ہے، اس لیے جنگلات کو آگ لگنے سے بچائیں۔",
+        "en": "Fire can burn a whole forest, so save forests from catching fire."
+       },
+       "img": [
+        0.135,
+        0.461,
+        0.825,
+        0.685
+       ]
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "لکڑی کی بجائے گیس کا چولہا استعمال کرنے سے جنگل کو کیا فائدہ ہوتا ہے؟",
+        "en": "How does using a gas stove instead of wood help the forest?"
+       },
+       "options": [
+        {
+         "ur": "کھانا جلدی ٹھنڈا ہوتا ہے",
+         "en": "Food cools quickly"
+        },
+        {
+         "ur": "ایندھن کے لیے درخت نہیں کاٹنے پڑتے",
+         "en": "Trees do not have to be cut down for fuel"
+        },
+        {
+         "ur": "درخت زیادہ پانی پیتے ہیں",
+         "en": "Trees drink more water"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "جب ہم ایندھن کے دوسرے ذرائع استعمال کرتے ہیں تو جلانے کے لیے لکڑی نہیں کاٹنی پڑتی۔",
+        "en": "When we use other sources of fuel, wood does not have to be cut for burning."
+       }
+      },
+      {
+       "q": {
+        "ur": "جنگل میں سیر کے وقت آگ سے بچاؤ کے لیے کیا کرنا چاہیے؟",
+        "en": "On a trip to the forest, what should we do to prevent fire?"
+       },
+       "options": [
+        {
+         "ur": "جلتی ہوئی آگ چھوڑ کر آ جائیں",
+         "en": "Leave a fire burning and go"
+        },
+        {
+         "ur": "سوکھے پتّوں کو آگ لگائیں",
+         "en": "Set dry leaves on fire"
+        },
+        {
+         "ur": "آگ نہ جلائیں، اور جلائیں تو پوری طرح بجھا کر آئیں",
+         "en": "Do not light a fire; if you do, put it out fully before you leave"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "ذرا سی چنگاری پورے جنگل کو جلا سکتی ہے، اس لیے آگ پوری طرح بجھانا ضروری ہے۔",
+        "en": "A tiny spark can burn a whole forest, so a fire must be put out completely."
+       }
+      },
+      {
+       "q": {
+        "ur": "اگر ایک درخت کاٹنا بہت ضروری ہو تو کیا کرنا چاہیے؟",
+        "en": "If a tree really must be cut down, what should we do?"
+       },
+       "options": [
+        {
+         "ur": "اس کی جگہ نئے درخت لگائیں",
+         "en": "Plant new trees in its place"
+        },
+        {
+         "ur": "ساتھ والے درخت بھی کاٹ دیں",
+         "en": "Cut down the trees next to it too"
+        },
+        {
+         "ur": "کچھ نہ کریں",
+         "en": "Do nothing"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "درختوں کی کمی کو پورا کرنے کے لیے زیادہ سے زیادہ درخت لگانے چاہییں۔",
+        "en": "To make up for the loss of trees we should plant as many trees as possible."
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p069-a2",
+   "label": {
+    "ur": "سرگرمی",
+    "en": "Activity"
+   },
+   "orig": {
+    "ur": "گروپ میں پوسٹر بنا کر بتائیے کہ قدرتی وسائل کو ہم کس طرح محفوظ کر سکتے ہیں؟",
+    "en": "Make a poster in a group to tell how we can keep natural resources safe."
+   },
+   "prompt": {
+    "ur": "دوستوں کے ساتھ مل کر پانی اور جنگلات بچانے کا پوسٹر بنائیں۔",
+    "en": "With your friends, make a poster about saving water and forests."
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "وسائل محفوظ ہوتے ہیں",
+       "en": "Resources are saved",
+       "sym": "happy"
+      },
+      {
+       "ur": "وسائل ضائع ہوتے ہیں",
+       "en": "Resources are wasted",
+       "sym": "sad"
+      }
+     ],
+     "items": [
+      {
+       "ur": "درخت لگانا",
+       "en": "Planting trees",
+       "sym": "to plant",
+       "group": 0
+      },
+      {
+       "ur": "جنگل میں آگ لگانا",
+       "en": "Setting a forest on fire",
+       "sym": "fire",
+       "group": 1
+      },
+      {
+       "ur": "نل بند کرنا",
+       "en": "Turning off the tap",
+       "sym": "tap",
+       "group": 0
+      },
+      {
+       "ur": "بلاوجہ درخت کاٹنا",
+       "en": "Cutting down trees without a reason",
+       "sym": "axe",
+       "group": 1
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "do",
+     "steps": [
+      {
+       "ur": "تین چار بچوں کا گروپ بنائیں۔",
+       "en": "Make a group of three or four children."
+      },
+      {
+       "ur": "مل کر سوچیں: ہم پانی اور جنگلات کو کیسے بچا سکتے ہیں؟",
+       "en": "Think together: how can we save water and forests?"
+      },
+      {
+       "ur": "چارٹ پر تصویریں بنائیں یا چپکائیں، جیسے بند نل، نیا پودا، ہرا بھرا جنگل۔",
+       "en": "Draw or paste pictures on chart paper, such as a tap turned off, a new sapling or a green forest."
+      },
+      {
+       "ur": "اوپر بڑے حروف میں ایک نعرہ لکھیں۔",
+       "en": "Write a slogan in big letters at the top."
+      },
+      {
+       "ur": "اپنا پوسٹر جماعت کو دکھائیں اور بتائیں کہ وسائل کیسے محفوظ ہوتے ہیں۔",
+       "en": "Show your poster to the class and explain how resources are kept safe."
+      }
+     ],
+     "model": {
+      "ur": "نعرہ: ”پانی بچائیں، درخت لگائیں!“ طریقے: نل بند رکھیں، پانی احتیاط سے استعمال کریں، بلاوجہ لکڑی نہ کاٹیں، جنگلات کو آگ سے بچائیں اور زیادہ سے زیادہ درخت لگائیں۔",
+      "en": "Slogan: \"Save water, plant trees!\" Ways: keep the tap turned off, use water carefully, do not cut wood without a reason, save forests from fire and plant as many trees as possible."
+     },
+     "checklist": [
+      {
+       "ur": "ہمارے پوسٹر میں پانی بچانے کا طریقہ ہے۔",
+       "en": "Our poster shows a way to save water."
+      },
+      {
+       "ur": "ہمارے پوسٹر میں جنگل بچانے کا طریقہ ہے۔",
+       "en": "Our poster shows a way to save forests."
+      },
+      {
+       "ur": "گروپ کے ہر بچے نے کوئی نہ کوئی کام کیا۔",
+       "en": "Every child in the group did some part of the work."
+      },
+      {
+       "ur": "ہم نے پوسٹر جماعت کو دکھا کر سمجھایا۔",
+       "en": "We showed and explained the poster to the class."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "اپنے پوسٹر کے لیے اپنا ایک نیا نعرہ لکھیں۔",
+       "en": "Write a new slogan of your own for your poster."
+      },
+      {
+       "ur": "قدرتی وسائل محفوظ کرنے کے تین طریقے لکھیں۔",
+       "en": "Write three ways to keep natural resources safe."
+      },
+      {
+       "ur": "لکھیں: اس ہفتے آپ خود گھر میں کون سا ایک کام کریں گے؟",
+       "en": "Write: what one thing will you do yourself at home this week?"
+      }
+     ],
+     "model": {
+      "ur": "نعرہ: ”ہر بچہ ایک درخت، ہر قطرہ قیمتی!“ طریقے: (1) پانی ضائع نہ کریں۔ (2) بلاوجہ درخت نہ کاٹیں اور نئے درخت لگائیں۔ (3) جنگلات کو آگ سے بچائیں۔ میں اس ہفتے دانت صاف کرتے وقت نل بند رکھوں گا۔",
+      "en": "Slogan: \"One tree for every child, every drop is precious!\" Ways: (1) Do not waste water. (2) Do not cut down trees without a reason, and plant new ones. (3) Save forests from fire. This week I will keep the tap turned off while I brush my teeth."
+     }
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "تین تصویریں = جنگل بچانے کے تین طریقے: کم کاٹیں، لکڑی کی جگہ دوسرا ایندھن جلائیں، آگ سے بچائیں۔ انگلیوں پر گن کر یاد کریں۔",
+   "en": "Three pictures show three ways to save forests: cut fewer trees, burn another fuel instead of wood, and protect forests from fire. Count them on your fingers to remember."
+  },
+  {
+   "for": "vision",
+   "ur": "آگ والی تصویر بہت چمک دار ہے؛ اگر آنکھوں کو چبھے تو تصویر کی تفصیل سن لیں۔ پوسٹر میں ابھری ہوئی چیزیں لگائیں — اصلی پتّے، ٹہنیاں، روئی، دھاگا — تاکہ اسے چھو کر پڑھا جا سکے۔",
+   "en": "The fire picture is very bright; if it hurts your eyes, listen to its description instead. Stick raised things on the poster, such as real leaves, twigs, cotton wool and thread, so that it can be read by touch."
+  },
+  {
+   "for": "motor",
+   "ur": "اگر قلم یا قینچی پکڑنا مشکل ہو تو آپ گروپ کو خیالات اور نعرہ بتائیں، تصویریں چنیں، یا پوسٹر جماعت کے سامنے پیش کریں۔ یہ بھی برابر کا کام ہے۔",
+   "en": "If holding a pen or scissors is hard, you can give the group ideas and the slogan, choose the pictures, or present the poster to the class. That work counts just as much."
+  },
+  {
+   "for": "teacher",
+   "ur": "گروپ ملے جلے بنائیں اور ہر بچے کو اس کی طاقت کے مطابق کردار دیں (مصوّر، لکھنے والا، چپکانے والا، بتانے والا)۔ سماعت سے محروم بچوں کے لیے ہدایات تختے پر مرحلہ وار لکھیں یا اشاروں سے دکھائیں۔ آگ کی تصویر سے کوئی بچہ ڈر جائے تو اطمینان دلائیں۔",
+   "en": "Make mixed groups and give each child a role that fits their strengths (artist, writer, paster, presenter). For deaf children write the steps on the board or show them with signs. Reassure any child who is frightened by the fire picture."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "جنگل کو بچائیں",
+   "en": "Save the forest"
+  },
+  "image": {
+   "crop": [
+    0.534,
+    0.186,
+    0.865,
+    0.411
+   ],
+   "alt": {
+    "ur": "بہت سے درخت کاٹ دیے گئے ہیں۔",
+    "en": "Many trees have been cut down here."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Forests are very important.",
+    "words": [
+     {
+      "ur": "جنگل",
+      "sym": "forest"
+     },
+     {
+      "ur": "بہت",
+      "sym": "very"
+     },
+     {
+      "ur": "ضروری",
+      "sym": "important"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Forests",
+      "sym": "forest"
+     },
+     {
+      "en": "are",
+      "sym": null
+     },
+     {
+      "en": "very",
+      "sym": "very"
+     },
+     {
+      "en": "important.",
+      "sym": "important"
+     }
+    ]
+   },
+   {
+    "en": "Do not cut down trees.",
+    "words": [
+     {
+      "ur": "درخت",
+      "sym": "tree"
+     },
+     {
+      "ur": "نہ",
+      "sym": "no"
+     },
+     {
+      "ur": "کاٹیں۔",
+      "sym": "to cut"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Do not",
+      "sym": "no"
+     },
+     {
+      "en": "cut down",
+      "sym": "to cut"
+     },
+     {
+      "en": "trees.",
+      "sym": "tree"
+     }
+    ]
+   },
+   {
+    "en": "Save the forest from fire.",
+    "words": [
+     {
+      "ur": "جنگل",
+      "sym": "forest"
+     },
+     {
+      "ur": "کو",
+      "sym": null
+     },
+     {
+      "ur": "آگ",
+      "sym": "fire"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "بچائیں۔",
+      "sym": "to protect"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Save",
+      "sym": "to protect"
+     },
+     {
+      "en": "the",
+      "sym": null
+     },
+     {
+      "en": "forest",
+      "sym": "forest"
+     },
+     {
+      "en": "from",
+      "sym": null
+     },
+     {
+      "en": "fire.",
+      "sym": "fire"
+     }
+    ]
+   },
+   {
+    "en": "Cook food on a gas stove.",
+    "words": [
+     {
+      "ur": "کھانا",
+      "sym": "food"
+     },
+     {
+      "ur": "گیس کے چولہے",
+      "sym": "stove"
+     },
+     {
+      "ur": "پر",
+      "sym": null
+     },
+     {
+      "ur": "پکائیں۔",
+      "sym": "to cook"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Cook",
+      "sym": "to cook"
+     },
+     {
+      "en": "food",
+      "sym": "food"
+     },
+     {
+      "en": "on",
+      "sym": null
+     },
+     {
+      "en": "a",
+      "sym": null
+     },
+     {
+      "en": "gas stove.",
+      "sym": "stove"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "جنگل کو کس چیز سے بچانا ہے؟",
+       "en": "What must we save the forest from?"
+      },
+      "options": [
+       {
+        "ur": "بارش",
+        "en": "Rain",
+        "sym": "rain"
+       },
+       {
+        "ur": "آگ",
+        "en": "Fire",
+        "img": [
+         0.135,
+         0.461,
+         0.825,
+         0.685
+        ]
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "ہمیں جنگل کو آگ سے بچانا ہے۔ بارش تو درختوں کے لیے اچھی ہے۔",
+       "en": "We must save the forest from fire. Rain is good for trees."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

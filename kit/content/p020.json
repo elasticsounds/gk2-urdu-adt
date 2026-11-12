@@ -1,0 +1,544 @@
+{
+ "n": 20,
+ "printed": "16",
+ "chapter": 2,
+ "kind": "exercise",
+ "title": {
+  "ur": "مشق: دیہات اور شہر (سوال 4 اور 5)",
+  "en": "Exercise: Villages and cities (Questions 4 and 5)"
+ },
+ "blocks": [
+  {
+   "t": "activity",
+   "id": "p020-a1",
+   "label": {
+    "ur": "سوال نمبر 4",
+    "en": "Question 4"
+   },
+   "orig": {
+    "ur": "کوئی سی تین سہولیات لکھیں جو آپ کو شہر میں میسّر ہیں اور گاؤں میں نہیں۔",
+    "en": "Write any three facilities that you have in a city but not in a village."
+   },
+   "prompt": {
+    "ur": "ایسی تین سہولیات بتائیں جو شہر میں ملتی ہیں مگر گاؤں میں نہیں ملتیں۔",
+    "en": "Name three facilities that are found in the city but not in the village."
+   },
+   "levels": {
+    "easy": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "یہ سہولت شہر میں ملتی ہے، گاؤں میں نہیں۔ کون سی؟",
+        "en": "This facility is found in the city, not in the village. Which one is it?"
+       },
+       "options": [
+        {
+         "ur": "ائیرپورٹ",
+         "en": "Airport",
+         "sym": "airport"
+        },
+        {
+         "ur": "کنواں",
+         "en": "Well",
+         "sym": "well"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "ائیرپورٹ شہر میں ہوتا ہے۔ کنواں گاؤں میں ہوتا ہے۔",
+        "en": "An airport is in a city. A well is in a village."
+       }
+      },
+      {
+       "q": {
+        "ur": "شہر میں کیا ملتا ہے؟",
+        "en": "What do you find in the city?"
+       },
+       "options": [
+        {
+         "ur": "کھیت",
+         "en": "Field",
+         "sym": "field"
+        },
+        {
+         "ur": "یونیورسٹی",
+         "en": "University",
+         "sym": "university"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "یونیورسٹی شہر میں ہوتی ہے۔ کھیت گاؤں میں ہوتے ہیں۔",
+        "en": "A university is in a city. Fields are in a village."
+       }
+      },
+      {
+       "q": {
+        "ur": "شہر میں کیا ملتا ہے؟",
+        "en": "What do you find in the city?"
+       },
+       "options": [
+        {
+         "ur": "بڑی سڑکیں",
+         "en": "Big roads",
+         "sym": "motorway"
+        },
+        {
+         "ur": "کچّے گھر",
+         "en": "Mud houses",
+         "sym": "hut"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "بڑی سڑکیں شہر میں ہوتی ہیں۔",
+        "en": "Big roads are in the city."
+       }
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "صفحہ 12 اور 13 پر \"شہری زندگی\" کی تصویریں دوبارہ دیکھیں۔",
+       "en": "Look again at the \"City life\" pictures on pages 12 and 13."
+      },
+      {
+       "ur": "سوچیں: ان میں سے کون سی چیزیں گاؤں میں نہیں ہوتیں؟",
+       "en": "Think: which of these things are not found in a village?"
+      },
+      {
+       "ur": "ایسی تین سہولیات لکھیں۔",
+       "en": "Write three such facilities."
+      }
+     ],
+     "model": {
+      "ur": "1۔ یونیورسٹی  2۔ ائیرپورٹ  3۔ بڑی سڑکیں۔ (بڑے ہسپتال بھی درست جواب ہے، کیونکہ شہروں میں صحت اور تعلیم کی بہترین سہولیات ہوتی ہیں۔)",
+      "en": "1. University  2. Airport  3. Big roads. \"Big hospitals\" is also a correct answer, because cities have the best health and education facilities."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے تین سہولیات لکھیں۔",
+       "en": "I wrote three facilities."
+      },
+      {
+       "ur": "یہ تینوں شہر میں ملتی ہیں، گاؤں میں نہیں۔",
+       "en": "All three are found in the city, not in the village."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "شہر کی تین سہولیات لکھیں جو گاؤں میں نہیں ہوتیں۔",
+       "en": "Write three city facilities that villages do not have."
+      },
+      {
+       "ur": "ہر سہولت کے ساتھ لکھیں کہ وہ لوگوں کے کس کام آتی ہے۔",
+       "en": "Next to each facility, write how it helps people."
+      },
+      {
+       "ur": "ایک چیز بھی لکھیں جو گاؤں میں شہر سے بہتر ہے۔",
+       "en": "Also write one thing that is better in the village than in the city."
+      }
+     ],
+     "model": {
+      "ur": "یونیورسٹی: بڑی پڑھائی کے لیے۔ ائیرپورٹ: ہوائی جہاز کے سفر کے لیے۔ بڑا ہسپتال: اچھے علاج کے لیے۔ گاؤں میں ہوا خالص ہوتی ہے اور شور کم ہوتا ہے۔",
+      "en": "University: for higher studies. Airport: for travelling by aeroplane. Big hospital: for good treatment. In a village the air is pure and there is less noise."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے تین سہولیات اور ان کے فائدے لکھے۔",
+       "en": "I wrote three facilities and their uses."
+      },
+      {
+       "ur": "میں نے گاؤں کی ایک اچھی بات لکھی۔",
+       "en": "I wrote one good thing about the village."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "activity",
+   "id": "p020-a2",
+   "label": {
+    "ur": "سوال نمبر 5",
+    "en": "Question 5"
+   },
+   "orig": {
+    "ur": "آپ ایک گاؤں میں سب سے پہلے کون سی سہولت مہیّا کرنا چاہیں گے اور کیوں؟",
+    "en": "Which facility would you like to provide first in a village, and why?"
+   },
+   "prompt": {
+    "ur": "سوچیں کہ آپ ایک گاؤں کی مدد کر سکتے ہیں۔ آپ وہاں سب سے پہلے کیا بنائیں گے؟ کیوں؟",
+    "en": "Imagine you can help a village. What will you build there first? Why?"
+   },
+   "levels": {
+    "easy": {
+     "kind": "open",
+     "mode": "talk",
+     "steps": [
+      {
+       "ur": "ان میں سے ایک چنیں: سکول، ہسپتال، صاف پانی، سڑک۔",
+       "en": "Choose one of these: school, hospital, clean water, road."
+      },
+      {
+       "ur": "اس کا نام لیں، تصویر بنائیں یا اشارہ کریں۔",
+       "en": "Say its name, draw it or point to it."
+      },
+      {
+       "ur": "یہ جملہ پورا کریں: \"میں گاؤں میں ___ بناؤں گا / بناؤں گی۔\"",
+       "en": "Finish this sentence: \"I will build a ___ in the village.\""
+      }
+     ],
+     "model": {
+      "ur": "میں گاؤں میں ہسپتال بناؤں گا۔",
+      "en": "I will build a hospital in the village."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے ایک سہولت چنی۔",
+       "en": "I chose one facility."
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "یاد کریں: دیہات میں صحت اور تعلیم کی سہولیات کم ہوتی ہیں۔",
+       "en": "Remember: villages have fewer health and education facilities."
+      },
+      {
+       "ur": "ایک سہولت چنیں جو آپ سب سے پہلے دینا چاہیں گے۔",
+       "en": "Choose one facility that you would like to give first."
+      },
+      {
+       "ur": "اس کی وجہ لکھیں۔",
+       "en": "Write the reason."
+      }
+     ],
+     "model": {
+      "ur": "میں گاؤں میں سب سے پہلے ہسپتال بنانا چاہوں گا تاکہ بیمار لوگوں کا علاج گاؤں ہی میں ہو سکے اور انھیں دور شہر نہ جانا پڑے۔",
+      "en": "I would like to build a hospital in the village first, so that sick people can be treated in the village itself and do not have to go far away to the city."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے ایک سہولت لکھی۔",
+       "en": "I wrote one facility."
+      },
+      {
+       "ur": "میں نے وجہ لکھی۔",
+       "en": "I wrote the reason."
+      }
+     ]
+    },
+    "hard": {
+     "kind": "open",
+     "mode": "write",
+     "steps": [
+      {
+       "ur": "تین سہولیات سوچیں جن کی گاؤں کو ضرورت ہے۔",
+       "en": "Think of three facilities a village needs."
+      },
+      {
+       "ur": "انھیں ترتیب دیں: پہلے، دوسرے اور تیسرے نمبر پر کون سی؟",
+       "en": "Put them in order: which is first, second and third?"
+      },
+      {
+       "ur": "پہلے نمبر والی سہولت کی دو وجوہات لکھیں۔",
+       "en": "Write two reasons for the first one."
+      }
+     ],
+     "model": {
+      "ur": "پہلے صاف پانی، پھر ہسپتال، پھر بڑا سکول۔ صاف پانی سب سے پہلے، کیونکہ اس کے بغیر لوگ بیمار ہو جاتے ہیں اور ہر شخص کو روز پانی چاہیے۔",
+      "en": "First clean water, then a hospital, then a big school. Clean water comes first because without it people fall ill, and everyone needs water every day."
+     },
+     "checklist": [
+      {
+       "ur": "میں نے تین سہولیات ترتیب سے لکھیں۔",
+       "en": "I wrote three facilities in order."
+      },
+      {
+       "ur": "میں نے دو وجوہات لکھیں۔",
+       "en": "I wrote two reasons."
+      }
+     ]
+    }
+   }
+  },
+  {
+   "t": "teacher",
+   "ur": "بچوں کو تفصیل سے شہری اور دیہاتی زندگی کا فرق بتائیں (رہن سہن اور سہولیات)۔",
+   "en": "Explain to the children in detail how city life and village life are different (way of living and facilities)."
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "\"سہولت\" وہ چیز ہے جو ہماری زندگی آسان بناتی ہے، جیسے سکول، ہسپتال، سڑک، بجلی، صاف پانی۔ جواب ڈھونڈنے کے لیے باب کی تصویریں دوبارہ دیکھیں۔",
+   "en": "A \"facility\" is something that makes our life easier, like a school, a hospital, a road, electricity or clean water. To find the answers, look at the pictures in the chapter again."
+  },
+  {
+   "for": "motor",
+   "ur": "لکھنا مشکل ہو تو جواب بول کر بتائیں اور کوئی ساتھی یا استاد لکھ دے؛ یا سہولیات کے تصویری کارڈ چن کر لائنوں پر رکھیں۔",
+   "en": "If writing is hard, say the answers and let a partner or the teacher write them; or choose picture cards of facilities and place them on the lines."
+  },
+  {
+   "for": "cognitive",
+   "ur": "سوال 5 کے لیے صرف چار میں سے ایک چنیں: سکول، ہسپتال، صاف پانی یا سڑک۔",
+   "en": "For Question 5, just choose one of four: school, hospital, clean water or road."
+  },
+  {
+   "for": "teacher",
+   "ur": "سوال 5 رائے کا سوال ہے؛ ہر وہ جواب قبول کریں جس کے ساتھ بچہ کوئی وجہ دے۔ دیہات کو کم تر نہ دکھائیں: دیہات کی خوبیاں (خالص ہوا، خاموشی، کھلی جگہ) بھی یاد دلائیں۔",
+   "en": "Question 5 is an opinion question; accept every answer for which the child gives a reason. Do not show villages as less good: remind the children of the good things about villages too (pure air, quiet, open space)."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "شہر اور گاؤں کی سہولیات",
+   "en": "Facilities in the city and the village"
+  },
+  "image": null,
+  "sentences": [
+   {
+    "en": "Cities have big hospitals.",
+    "words": [
+     {
+      "ur": "شہر",
+      "sym": "city"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "بڑے",
+      "sym": "big"
+     },
+     {
+      "ur": "ہسپتال",
+      "sym": "hospital"
+     },
+     {
+      "ur": "ہوتے ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Cities",
+      "sym": "city"
+     },
+     {
+      "en": "have",
+      "sym": null
+     },
+     {
+      "en": "big",
+      "sym": "big"
+     },
+     {
+      "en": "hospitals.",
+      "sym": "hospital"
+     }
+    ]
+   },
+   {
+    "en": "Cities have a university.",
+    "words": [
+     {
+      "ur": "شہر",
+      "sym": "city"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "یونیورسٹی",
+      "sym": "university"
+     },
+     {
+      "ur": "ہوتی ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Cities",
+      "sym": "city"
+     },
+     {
+      "en": "have",
+      "sym": null
+     },
+     {
+      "en": "a",
+      "sym": null
+     },
+     {
+      "en": "university.",
+      "sym": "university"
+     }
+    ]
+   },
+   {
+    "en": "Villages have fewer facilities.",
+    "words": [
+     {
+      "ur": "دیہات",
+      "sym": "village"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "سہولیات",
+      "sym": "services"
+     },
+     {
+      "ur": "کم",
+      "sym": "few"
+     },
+     {
+      "ur": "ہوتی ہیں۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Villages",
+      "sym": "village"
+     },
+     {
+      "en": "have",
+      "sym": null
+     },
+     {
+      "en": "fewer",
+      "sym": "few"
+     },
+     {
+      "en": "facilities.",
+      "sym": "services"
+     }
+    ]
+   },
+   {
+    "en": "Every village needs a school.",
+    "words": [
+     {
+      "ur": "ہر",
+      "sym": "every"
+     },
+     {
+      "ur": "گاؤں",
+      "sym": "village"
+     },
+     {
+      "ur": "کو",
+      "sym": null
+     },
+     {
+      "ur": "سکول",
+      "sym": "school"
+     },
+     {
+      "ur": "چاہیے۔",
+      "sym": "to need"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Every",
+      "sym": "every"
+     },
+     {
+      "en": "village",
+      "sym": "village"
+     },
+     {
+      "en": "needs",
+      "sym": "to need"
+     },
+     {
+      "en": "a",
+      "sym": null
+     },
+     {
+      "en": "school.",
+      "sym": "school"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب چنیں۔",
+    "en": "Choose the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "یونیورسٹی کہاں ہوتی ہے؟",
+       "en": "Where do you find a university?"
+      },
+      "options": [
+       {
+        "ur": "دیہات",
+        "en": "Village",
+        "sym": "village"
+       },
+       {
+        "ur": "شہر",
+        "en": "City",
+        "sym": "city"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "یونیورسٹی شہر میں ہوتی ہے۔",
+       "en": "A university is in the city."
+      }
+     },
+     {
+      "q": {
+       "ur": "بیمار کا علاج کہاں ہوتا ہے؟",
+       "en": "Where is a sick person treated?"
+      },
+      "options": [
+       {
+        "ur": "ہسپتال",
+        "en": "Hospital",
+        "sym": "hospital"
+       },
+       {
+        "ur": "کھیت",
+        "en": "Field",
+        "sym": "field"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "بیمار کا علاج ہسپتال میں ہوتا ہے۔",
+       "en": "A sick person is treated in a hospital."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

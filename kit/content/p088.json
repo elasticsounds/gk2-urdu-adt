@@ -1,0 +1,529 @@
+{
+ "n": 88,
+ "printed": "84",
+ "chapter": 15,
+ "kind": "opener",
+ "title": {
+  "ur": "عفو و درگزر",
+  "en": "Forgiveness and forbearance"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "15۔ عفو و درگزر",
+   "en": "Chapter 15: Forgiveness and forbearance"
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.0,
+    0.11,
+    0.27,
+    0.51
+   ],
+   "alt": {
+    "ur": "ایک بڑی تتلی جس کے پَر سفید اور کالے ہیں اور اُن پر باریک لکیریں ہیں۔",
+    "en": "A large butterfly with white and black wings marked with fine lines."
+   }
+  },
+  {
+   "t": "h",
+   "ur": "حاصلاتِ تعلّم",
+   "en": "Learning outcomes"
+  },
+  {
+   "t": "p",
+   "ur": "اس باب کے اختتام پر آپ اس قابل ہو جائیں گے کہ:",
+   "en": "By the end of this chapter you will be able to:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "جان سکیں کہ اپنے قول و فعل سے دوسروں اور دوسروں کے قول و فعل سے خود کو تکلیف پہنچ سکتی ہے (جیسے جھوٹ بولنا، دوسروں کو دھکا دینا، تضحیک آمیز الفاظ کا استعمال وغیرہ)۔",
+     "en": "Know that our own words and actions can hurt others, and other people's words and actions can hurt us (such as telling lies, pushing others, using mocking words, etc.)."
+    },
+    {
+     "ur": "سمجھ سکیں کہ سیکھنے کے عمل میں غلطیوں کا ہونا ممکن ہے، اس پر شرمندہ ہونا یا کسی کا مذاق اُڑانا مناسب نہیں۔",
+     "en": "Understand that mistakes can happen while learning; it is not right to feel ashamed of this or to make fun of anyone."
+    },
+    {
+     "ur": "جان سکیں کہ دوسروں کا مذاق اڑانا، ذہنی دباؤ اور تکلیف کا سبب بن سکتا ہے۔",
+     "en": "Know that making fun of others can cause mental stress and pain."
+    },
+    {
+     "ur": "ان نکات کی شناخت کر سکیں جن سے دوسروں کی تکلیف دور ہو سکے (جیسا کہ معافی مانگنا، غلطی کا اعتراف کرنا، اُن کے لیے کچھ اچھا کرنا)۔",
+     "en": "Identify the things that can take away other people's hurt (such as saying sorry, admitting a mistake, doing something good for them)."
+    },
+    {
+     "ur": "شناخت کر سکیں کہ جب لوگ غلطی پر معافی مانگیں تو انھیں درگزر کر دینا چاہیے۔",
+     "en": "Recognise that when people say sorry for a mistake, we should forgive them."
+    }
+   ]
+  },
+  {
+   "t": "activity",
+   "id": "p088-a1",
+   "label": {
+    "ur": "آزمائیں",
+    "en": "Try it"
+   },
+   "orig": {
+    "ur": "جان سکیں کہ اپنے قول و فعل سے دوسروں … کو تکلیف پہنچ سکتی ہے … ان نکات کی شناخت کر سکیں جن سے دوسروں کی تکلیف دور ہو سکے۔",
+    "en": "Know that our words and actions can hurt others … identify the things that can take away other people's hurt."
+   },
+   "prompt": {
+    "ur": "ہر کام کو دیکھیں۔ کیا یہ کام دل دُکھاتا ہے یا دل خوش کرتا ہے؟ صحیح خانے میں رکھیں۔",
+    "en": "Look at each action. Does it hurt someone's heart or make it happy? Put it in the right box."
+   },
+   "levels": {
+    "easy": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "دل دُکھتا ہے",
+       "en": "It hurts"
+      },
+      {
+       "ur": "دل خوش ہوتا ہے",
+       "en": "It makes someone happy"
+      }
+     ],
+     "items": [
+      {
+       "ur": "دھکا دینا",
+       "en": "Pushing",
+       "sym": "to push",
+       "group": 0
+      },
+      {
+       "ur": "معافی مانگنا",
+       "en": "Saying sorry",
+       "sym": "sorry",
+       "group": 1
+      },
+      {
+       "ur": "مذاق اڑانا",
+       "en": "Making fun of others",
+       "sym": "to mock",
+       "group": 0
+      },
+      {
+       "ur": "مدد کرنا",
+       "en": "Helping",
+       "sym": "to help",
+       "group": 1
+      }
+     ]
+    },
+    "moderate": {
+     "kind": "sort",
+     "groups": [
+      {
+       "ur": "تکلیف دینے والے کام",
+       "en": "Actions that hurt"
+      },
+      {
+       "ur": "تکلیف دور کرنے والے کام",
+       "en": "Actions that take the hurt away"
+      }
+     ],
+     "items": [
+      {
+       "ur": "جھوٹ بولنا",
+       "en": "Telling lies",
+       "sym": "to lie",
+       "group": 0
+      },
+      {
+       "ur": "معافی مانگنا",
+       "en": "Saying sorry",
+       "sym": "sorry",
+       "group": 1
+      },
+      {
+       "ur": "دوسروں کو دھکا دینا",
+       "en": "Pushing others",
+       "sym": "to push",
+       "group": 0
+      },
+      {
+       "ur": "غلطی کا اعتراف کرنا",
+       "en": "Admitting a mistake",
+       "sym": "mistake",
+       "group": 1
+      },
+      {
+       "ur": "کسی کا مذاق اڑانا",
+       "en": "Making fun of someone",
+       "sym": "to mock",
+       "group": 0
+      },
+      {
+       "ur": "اُن کے لیے کچھ اچھا کرنا",
+       "en": "Doing something good for them",
+       "sym": "to help",
+       "group": 1
+      }
+     ]
+    },
+    "hard": {
+     "kind": "mcq",
+     "questions": [
+      {
+       "q": {
+        "ur": "علی سبق پڑھتے ہوئے ایک لفظ غلط پڑھ گیا۔ ہمیں کیا کرنا چاہیے؟",
+        "en": "Ali read a word wrongly while reading the lesson. What should we do?"
+       },
+       "options": [
+        {
+         "ur": "اُس پر ہنسنا چاہیے",
+         "en": "Laugh at him"
+        },
+        {
+         "ur": "اُس کی ہمت بڑھانی چاہیے، غلطی سیکھنے کا حصّہ ہے",
+         "en": "Encourage him — mistakes are part of learning"
+        },
+        {
+         "ur": "اُسے بُرے نام سے پکارنا چاہیے",
+         "en": "Call him a bad name"
+        }
+       ],
+       "answer": 1,
+       "fb": {
+        "ur": "سیکھتے ہوئے غلطی ہو سکتی ہے۔ مذاق اڑانے سے دل دُکھتا ہے، ہمت بڑھانے سے دوست سیکھتا ہے۔",
+        "en": "Mistakes can happen while learning. Making fun hurts; encouraging helps a friend learn."
+       }
+      },
+      {
+       "q": {
+        "ur": "آپ سے کھیلتے ہوئے دوست کو دھکا لگ گیا۔ اُس کی تکلیف دور کرنے کے لیے سب سے اچھا کام کیا ہے؟",
+        "en": "You bumped into your friend while playing. What is the best thing to do to take away the hurt?"
+       },
+       "options": [
+        {
+         "ur": "معافی مانگنا اور اُٹھنے میں مدد کرنا",
+         "en": "Say sorry and help them up"
+        },
+        {
+         "ur": "چپ چاپ بھاگ جانا",
+         "en": "Quietly run away"
+        },
+        {
+         "ur": "کہنا کہ یہ تمھاری غلطی تھی",
+         "en": "Tell them it was their own fault"
+        }
+       ],
+       "answer": 0,
+       "fb": {
+        "ur": "غلطی مان کر معافی مانگنے اور مدد کرنے سے دوسرے کی تکلیف کم ہوتی ہے۔",
+        "en": "Admitting the mistake, saying sorry and helping eases the other person's hurt."
+       }
+      },
+      {
+       "q": {
+        "ur": "کسی نے اپنی غلطی پر آپ سے معافی مانگی۔ آپ کو کیا کرنا چاہیے؟",
+        "en": "Someone said sorry to you for their mistake. What should you do?"
+       },
+       "options": [
+        {
+         "ur": "اُس سے بات کرنا چھوڑ دینا",
+         "en": "Stop talking to them"
+        },
+        {
+         "ur": "بدلہ لینا",
+         "en": "Take revenge"
+        },
+        {
+         "ur": "اُسے معاف کر دینا",
+         "en": "Forgive them"
+        }
+       ],
+       "answer": 2,
+       "fb": {
+        "ur": "جب کوئی معافی مانگے تو اُسے درگزر کر دینا چاہیے۔ اس سے دوستی قائم رہتی ہے۔",
+        "en": "When someone says sorry we should forgive them. This keeps the friendship going."
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "”عفو و درگزر“ کا مطلب ہے معاف کر دینا۔ یاد کریں: آپ نے آخری بار کب کسی سے ”معاف کیجیے“ کہا تھا؟",
+   "en": "“Forgiveness and forbearance” means forgiving someone and letting the matter go. Remember: when did you last say “sorry” to someone?"
+  },
+  {
+   "for": "hearing",
+   "ur": "”معافی“ اور ”معاف کرنا“ کے لیے ایک اشارہ طے کر لیں (مثلاً دل پر ہاتھ رکھنا) اور پورے باب میں وہی اشارہ استعمال کریں۔",
+   "en": "Agree on one sign for \"sorry\" and \"forgive\" (for example, a hand on the heart) and use the same sign throughout the chapter."
+  },
+  {
+   "for": "cognitive",
+   "ur": "پانچوں نکات ایک ساتھ نہ پڑھیں۔ صرف دو باتیں یاد رکھیں: کسی کا دل نہ دُکھائیں، اور معاف کر دیں۔",
+   "en": "Do not read all five points at once. Remember just two things: do not hurt anyone, and forgive."
+  },
+  {
+   "for": "teacher",
+   "ur": "مشکل الفاظ (قول و فعل، تضحیک آمیز، اعتراف، درگزر) آسان لفظوں اور چہرے کے تاثرات سے سمجھائیں۔ خوش اور اُداس چہرے کے کارڈ دکھا کر بچوں سے پوچھیں کہ کون سا کام کس چہرے سے ملتا ہے؛ بچے بول کر، اشارہ کر کے یا کارڈ اُٹھا کر جواب دے سکتے ہیں۔",
+   "en": "Explain the hard words (words and actions, mocking, admitting, forbearance) with simple words and facial expressions. Show happy and sad face cards and ask which action goes with which face; children may answer by speaking, pointing or holding up a card."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "معاف کرنا",
+   "en": "Forgiving"
+  },
+  "image": {
+   "crop": [
+    0.0,
+    0.11,
+    0.27,
+    0.51
+   ],
+   "alt": {
+    "ur": "سفید اور کالے پَروں والی ایک تتلی۔",
+    "en": "A butterfly with white and black wings."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Unkind words hurt our feelings.",
+    "words_en": [
+     {
+      "en": "Unkind",
+      "sym": "bad"
+     },
+     {
+      "en": "words",
+      "sym": "to talk"
+     },
+     {
+      "en": "hurt",
+      "sym": "sad"
+     },
+     {
+      "en": "our",
+      "sym": null
+     },
+     {
+      "en": "feelings.",
+      "sym": "heart"
+     }
+    ],
+    "words": [
+     {
+      "ur": "بُری",
+      "sym": "bad"
+     },
+     {
+      "ur": "باتیں",
+      "sym": "to talk"
+     },
+     {
+      "ur": "دل",
+      "sym": "heart"
+     },
+     {
+      "ur": "دُکھاتی",
+      "sym": "sad"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "Everyone makes mistakes.",
+    "words_en": [
+     {
+      "en": "Everyone",
+      "sym": "everybody"
+     },
+     {
+      "en": "makes",
+      "sym": null
+     },
+     {
+      "en": "mistakes.",
+      "sym": "mistake"
+     }
+    ],
+    "words": [
+     {
+      "ur": "غلطی",
+      "sym": "mistake"
+     },
+     {
+      "ur": "سب",
+      "sym": "everybody"
+     },
+     {
+      "ur": "سے",
+      "sym": null
+     },
+     {
+      "ur": "ہوتی",
+      "sym": null
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "We say sorry for a mistake.",
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "say sorry",
+      "sym": "sorry"
+     },
+     {
+      "en": "for",
+      "sym": null
+     },
+     {
+      "en": "a mistake.",
+      "sym": "mistake"
+     }
+    ],
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "غلطی",
+      "sym": "mistake"
+     },
+     {
+      "ur": "پر",
+      "sym": null
+     },
+     {
+      "ur": "معافی",
+      "sym": "sorry"
+     },
+     {
+      "ur": "مانگتے",
+      "sym": "to ask"
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ]
+   },
+   {
+    "en": "We forgive our friend.",
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "forgive",
+      "sym": "to forgive"
+     },
+     {
+      "en": "our friend.",
+      "sym": "friend"
+     }
+    ],
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "دوست",
+      "sym": "friend"
+     },
+     {
+      "ur": "کو",
+      "sym": null
+     },
+     {
+      "ur": "معاف",
+      "sym": "to forgive"
+     },
+     {
+      "ur": "کرتے",
+      "sym": null
+     },
+     {
+      "ur": "ہیں۔",
+      "sym": null
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب پر انگلی رکھیں۔",
+    "en": "Touch the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "غلطی ہو جائے تو ہم کیا کہتے ہیں؟",
+       "en": "What do we do when we make a mistake?"
+      },
+      "options": [
+       {
+        "ur": "معاف کیجیے",
+        "en": "Say sorry",
+        "sym": "sorry"
+       },
+       {
+        "ur": "ہنسنا",
+        "en": "Laugh",
+        "sym": "to laugh"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "غلطی ہو جائے تو ہم معافی مانگتے ہیں۔",
+       "en": "When we make a mistake, we say sorry."
+      }
+     },
+     {
+      "q": {
+       "ur": "کون سا کام اچھا ہے؟",
+       "en": "Which action is good?"
+      },
+      "options": [
+       {
+        "ur": "دھکا دینا",
+        "en": "Pushing",
+        "sym": "to push"
+       },
+       {
+        "ur": "معاف کرنا",
+        "en": "Forgiving",
+        "sym": "to forgive"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "معاف کرنا اچھا کام ہے۔ دھکا دینے سے چوٹ لگتی ہے۔",
+       "en": "Forgiving is a good action. Pushing hurts."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": true
+}

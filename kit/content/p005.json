@@ -1,0 +1,328 @@
+{
+ "n": 5,
+ "printed": "1",
+ "chapter": 1,
+ "kind": "opener",
+ "title": {
+  "ur": "باب 1: ہمارا وطن پاکستان",
+  "en": "Our homeland Pakistan"
+ },
+ "blocks": [
+  {
+   "t": "h",
+   "ur": "01 ہمارا وطن پاکستان",
+   "en": "Chapter 1: Our homeland Pakistan"
+  },
+  {
+   "t": "img",
+   "crop": [
+    0.02,
+    0.42,
+    0.365,
+    0.9
+   ],
+   "alt": {
+    "ur": "اسلام آباد کی فیصل مسجد کے اونچے نوکیلے مینار اور خیمے جیسی چھت، پیچھے بادلوں والا نیلا آسمان۔",
+    "en": "The tall pointed minarets and tent-shaped roof of the Faisal Mosque in Islamabad, against a cloudy blue sky."
+   }
+  },
+  {
+   "t": "h",
+   "ur": "حاصلاتِ تعلّم",
+   "en": "Learning outcomes"
+  },
+  {
+   "t": "p",
+   "ur": "اس باب کے اختتام پر آپ اس قابل ہو جائیں گے کہ:",
+   "en": "By the end of this chapter you will be able to:"
+  },
+  {
+   "t": "list",
+   "items": [
+    {
+     "ur": "پاکستان کے نقشے کو پہچان سکیں۔",
+     "en": "recognise the map of Pakistan."
+    },
+    {
+     "ur": "پاکستان کے صوبوں اور وفاقی علاقوں کا نام بتا سکیں۔",
+     "en": "name the provinces and federal areas of Pakistan."
+    },
+    {
+     "ur": "پاکستان کے چاروں صوبوں اور وفاقی علاقوں کی ثقافت کی عکاسی کر سکیں۔",
+     "en": "show the culture of the four provinces and the federal areas of Pakistan."
+    },
+    {
+     "ur": "قومی پرچم کی اہمیت بتا سکیں۔",
+     "en": "say why the national flag is important."
+    }
+   ]
+  }
+ ],
+ "hint": [
+  {
+   "for": "all",
+   "ur": "اس باب میں ہم اپنے ملک پاکستان کے بارے میں چار باتیں سیکھیں گے: نقشہ، صوبے، ثقافت (زبان، لباس، کھانا) اور پرچم۔ سوچیں: آپ کس صوبے یا علاقے میں رہتے ہیں؟",
+   "en": "In this chapter we learn four things about our country Pakistan: the map, the provinces, the culture (language, dress, food) and the flag. Think: which province or area do you live in?"
+  },
+  {
+   "for": "vision",
+   "ur": "پس منظر کی تصویر میں اسلام آباد کی فیصل مسجد ہے۔ اس کے چار اونچے مینار پنسل کی طرح نوکیلے ہیں۔ تصویر کی وضاحت سنیں۔",
+   "en": "The background picture shows the Faisal Mosque in Islamabad. Its four tall minarets are pointed like pencils. Listen to the picture description."
+  },
+  {
+   "for": "teacher",
+   "ur": "باب شروع کرنے سے پہلے کلاس میں اصلی پرچم اور نقشہ دکھائیں اور بچوں کو چھونے دیں۔ ہر بچے سے اس کے شہر یا گاؤں کا نام پوچھیں؛ بچہ بول کر، اشارے سے یا لکھ کر بتا سکتا ہے۔",
+   "en": "Before starting the chapter, show a real flag and a map in class and let the children touch them. Ask each child the name of their town or village; a child may say it, sign it or write it."
+  }
+ ],
+ "easy": {
+  "title": {
+   "ur": "ہمارا وطن پاکستان",
+   "en": "Our homeland Pakistan"
+  },
+  "image": {
+   "crop": [
+    0.02,
+    0.42,
+    0.365,
+    0.9
+   ],
+   "alt": {
+    "ur": "اسلام آباد کی فیصل مسجد کے اونچے مینار۔",
+    "en": "The tall minarets of the Faisal Mosque in Islamabad."
+   }
+  },
+  "sentences": [
+   {
+    "en": "Pakistan is our country.",
+    "words": [
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "ہمارا",
+      "sym": "our"
+     },
+     {
+      "ur": "ملک",
+      "sym": "country"
+     },
+     {
+      "ur": "ہے۔",
+      "sym": null
+     }
+    ],
+    "words_en": [
+     {
+      "en": "Pakistan",
+      "sym": "Pakistan"
+     },
+     {
+      "en": "is",
+      "sym": null
+     },
+     {
+      "en": "our",
+      "sym": "our"
+     },
+     {
+      "en": "country.",
+      "sym": "country"
+     }
+    ]
+   },
+   {
+    "en": "We live in Pakistan.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "میں",
+      "sym": null
+     },
+     {
+      "ur": "رہتے ہیں۔",
+      "sym": "to live"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "live",
+      "sym": "to live"
+     },
+     {
+      "en": "in",
+      "sym": null
+     },
+     {
+      "en": "Pakistan.",
+      "sym": "Pakistan"
+     }
+    ]
+   },
+   {
+    "en": "We will see the map of Pakistan.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "نقشہ",
+      "sym": "map"
+     },
+     {
+      "ur": "دیکھیں گے۔",
+      "sym": "to look"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "will see",
+      "sym": "to look"
+     },
+     {
+      "en": "the map",
+      "sym": "map"
+     },
+     {
+      "en": "of",
+      "sym": null
+     },
+     {
+      "en": "Pakistan.",
+      "sym": "Pakistan"
+     }
+    ]
+   },
+   {
+    "en": "We will see the flag of Pakistan.",
+    "words": [
+     {
+      "ur": "ہم",
+      "sym": "we"
+     },
+     {
+      "ur": "پاکستان",
+      "sym": "Pakistan"
+     },
+     {
+      "ur": "کا",
+      "sym": null
+     },
+     {
+      "ur": "پرچم",
+      "sym": "flag"
+     },
+     {
+      "ur": "دیکھیں گے۔",
+      "sym": "to look"
+     }
+    ],
+    "words_en": [
+     {
+      "en": "We",
+      "sym": "we"
+     },
+     {
+      "en": "will see",
+      "sym": "to look"
+     },
+     {
+      "en": "the flag",
+      "sym": "flag"
+     },
+     {
+      "en": "of",
+      "sym": null
+     },
+     {
+      "en": "Pakistan.",
+      "sym": "Pakistan"
+     }
+    ]
+   }
+  ],
+  "activity": {
+   "prompt": {
+    "ur": "صحیح جواب پر انگلی رکھیں۔",
+    "en": "Touch the right answer."
+   },
+   "task": {
+    "kind": "mcq",
+    "questions": [
+     {
+      "q": {
+       "ur": "ہمارے ملک کا نام کیا ہے؟",
+       "en": "What is the name of our country?"
+      },
+      "options": [
+       {
+        "ur": "پاکستان",
+        "en": "Pakistan",
+        "sym": "Pakistan"
+       },
+       {
+        "ur": "چاند",
+        "en": "The moon",
+        "sym": "moon"
+       }
+      ],
+      "answer": 0,
+      "fb": {
+       "ur": "شاباش! ہمارے ملک کا نام پاکستان ہے۔",
+       "en": "Well done! Our country's name is Pakistan."
+      }
+     },
+     {
+      "q": {
+       "ur": "اس باب میں ہم کیا دیکھیں گے؟",
+       "en": "What will we see in this chapter?"
+      },
+      "options": [
+       {
+        "ur": "کھلونے",
+        "en": "Toys",
+        "sym": "toy"
+       },
+       {
+        "ur": "پاکستان کا نقشہ اور پرچم",
+        "en": "The map and flag of Pakistan",
+        "sym": "map"
+       }
+      ],
+      "answer": 1,
+      "fb": {
+       "ur": "ہم اس باب میں پاکستان کا نقشہ اور پرچم دیکھیں گے۔",
+       "en": "In this chapter we will see the map and the flag of Pakistan."
+      }
+     }
+    ]
+   }
+  }
+ },
+ "print": false
+}
