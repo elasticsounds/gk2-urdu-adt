@@ -9,7 +9,8 @@ Everything used to make this Accessible Digital Textbook, kept here as a referen
 | `tools/SCHEMA.md` | The format of the content files. |
 | `tools/build.py` | Turns `content/` into the site's data, cropped pictures, symbols and audio. `--lang=en` builds the English edition, `--sym` fetches missing symbols, `--tts` generates missing audio. |
 | `tools/validate.py`, `tools/validate_en.py` | Check the content files. |
-| `tools/render.py`, `tools/wm_*.py` | Render PDF pages to images and remove watermarks. |
+| `tools/dewatermark.py` | General watermark remover: `python dewatermark.py book.pdf out_folder`. Learns a repeated grey watermark from all pages and subtracts it. Tested on this book only. |
+| `tools/render.py`, `tools/wm_*.py` | The original one-off page rendering and watermark code for this book. |
 | `tools/upscale.py` | Upscales cropped pictures through Replicate. `upscale-classify.json` records which model each picture used. |
 | `tools/ENGLISH.md` | Brief used for the English translation pass. |
 | `tools/compare*.py`, `tools/compare_template.html` | The upscaler comparison pages. |
@@ -30,7 +31,7 @@ To run them, copy `kit/content` and `kit/tools` up beside a checkout of the site
 
 ## Requirements
 
-- Python 3 with `pillow`, `pymupdf` and `edge-tts`.
+- Python 3 with `pillow`, `pymupdf`, `numpy`, `opencv-python` and `edge-tts`.
 - `REPLICATE_API_TOKEN` in the environment for upscaling.
 - Optional symbol-library keys in `tools/.keys.json` (`globalsymbols_key`, `opensymbols_secret`). That file is git-ignored; never commit it.
 
